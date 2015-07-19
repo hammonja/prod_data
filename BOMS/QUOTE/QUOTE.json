@@ -28,5 +28,11 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "13010"
+    },
+    {
+        "description": "IS8/SRS8 Screen Post [SHELF: DUNCAN]",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13015"
     }
 ]
