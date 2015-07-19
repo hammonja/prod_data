@@ -1,1 +1,0 @@
-Ø12.7 mm Universal Post Holder, Locking Thumbs L =75 mm
