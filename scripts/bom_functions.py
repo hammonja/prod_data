@@ -42,7 +42,7 @@ def get_sage_bom(bom_name):
 	    "FROM bomheaders , bomcomponents ",
 	    "WHERE ",
 	    "bomheaders.id = bomcomponents.headerid and ",
-	    "bomreference like '"+bom_name+"%' ", 
+	    "bomreference = '"+bom_name+"' ", 
 	    "order "
 	    "by bomreference"
 	))
@@ -64,8 +64,7 @@ def write_bom_files(boms):
 		with open(path+"readme.md", 'wb') as outfile:	
 			outfile.write("|stockcode|description|quantity|location|\n")
 			outfile.write("|---------|-----------|--------|--------|\n")
-			for item in boms[str(bom)]:
-				print item
+			for item in boms[str(bom)]:				
 				outfile.write("|"+item['stockcode'].encode("UTF-8")+\
 						"|"+item['description'].encode("UTF-8")+\
 						"|"+item['quantity'].encode("UTF-8")+\

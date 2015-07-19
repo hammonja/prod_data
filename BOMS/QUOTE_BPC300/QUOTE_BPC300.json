@@ -1,0 +1,110 @@
+[
+    {
+        "description": "Dell Desktop Computer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44393"
+    },
+    {
+        "description": "Bentham Photo-Chromic System Optics",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BPC300"
+    },
+    {
+        "description": "Silica lens based collimator for use with monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "COL_1_UV-VIS"
+    },
+    {
+        "description": "100W qh based light source, silica lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL1"
+    },
+    {
+        "description": "IL6 Single. Common Denominator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL6_BASE_SINGLE"
+    },
+    {
+        "description": "Deuterium for IL6",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL6_SOURCE_DEUT"
+    },
+    {
+        "description": "250W Constant Current Power Supply",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "PSU_605"
+    },
+    {
+        "description": "Deuterium Lamp Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_706"
+    },
+    {
+        "description": "215 Module",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_215"
+    },
+    {
+        "description": "Blade set for 218 chopper (2, 5, 10 & 30 slot)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_B"
+    },
+    {
+        "description": "Standard chopping head",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_H"
+    },
+    {
+        "description": "Chopper control module, standard and EI",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_M"
+    },
+    {
+        "description": "Full width 400 series bin.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_417"
+    },
+    {
+        "description": "Dual Channel DSP Lock-In Amplifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_496"
+    },
+    {
+        "description": "TMC300 Monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_0004"
+    },
+    {
+        "description": "UV-3717-4   Detector housing with watertight glued diffusor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UV-3717-4"
+    },
+    {
+        "description": "VL-3704-4 Detector housing with watertight glued diffuser",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "VL-3704-4"
+    },
+    {
+        "description": "1 Year Warranty",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "WARRANTY_1YR"
+    }
+]

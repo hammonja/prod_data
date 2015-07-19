@@ -26,11 +26,11 @@ def get_unequal_boms():
 def update_git_bom(bom):
 	for fname in os.listdir(path+'/'+bom):
 		r = requests.get('https://raw.githubusercontent.com/hammonja/prod_data/master/BOMS/'+bom+'/'+fname , verify=False)
-		with open(fname, 'w') as out:		
+		print path+'/'+bom+'/'+fname
+		with open(path+'/'+bom+'/'+fname, 'w') as out:		
 			out.write(r.text)
 	return
 	
-
 # get current boms from sage
 sage_boms = get_sage_boms()
 

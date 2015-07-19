@@ -1,0 +1,146 @@
+[
+    {
+        "description": "Bentham variant of TMS with filter wheel & exit sam",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "BENTHAM_TMS"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T324H0U25"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "252 filter wheel for TM300",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_252"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Dual Light Source 75WXe 100WQH",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "ILD_75E_QH"
+    },
+    {
+        "description": "PSU-605 for e2v (QH)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "E2V_605_QH"
+    },
+    {
+        "description": "PSU-605 for e2v (xenon)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "E2V_605_XE"
+    },
+    {
+        "description": "LUV105, 800mm long, IDR snout, 6mm dia to 15 x 1.85mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "FOP_UV_D6_800"
+    },
+    {
+        "description": "Benflect Integrating Sphere to include Si Monitor Detector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "E2V-IS2BF-MKII"
+    },
+    {
+        "description": "E2V Dual Light Source (Camera Down) Mk II",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "E2V-CAM-MKII"
+    },
+    {
+        "description": "Incomplete BOM / Contact R&D",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "PMC_IMAC_BIN-USB"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "PMC_IMAC_CARD"
+    },
+    {
+        "description": "eg Setting 605 for different current setting",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "REWORK_ELECTRONIC"
+    },
+    {
+        "description": "PSU-605 for e2v (QH)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "E2V_605_QH"
+    },
+    {
+        "description": "PSU-605 for e2v (xenon)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "E2V_605_XE"
+    },
+    {
+        "description": "P2000-2 Optometer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "P2000-2"
+    },
+    {
+        "description": "TAOSII E2V light source",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-TAOSII"
+    },
+    {
+        "description": "Incomplete BOM / Contact R&D",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_608_I_E2V"
+    },
+    {
+        "description": "Incomplete BOM / Contact R&D",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-TAOSII-MSD"
+    },
+    {
+        "description": "eg Setting 605 for different current setting",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "REWORK_ELECTRONIC"
+    },
+    {
+        "description": "Cables set for E2V TAOS II Systems",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-TAOSII-CAB-SET"
+    },
+    {
+        "description": "P2000-2 Optometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "P2000-2"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Dual Mode B-beta/C-gamma Goniophotometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BGS400"
+    },
+    {
+        "description": "ORM.  Sensitivity Ranges as 487",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ORM400"
+    },
+    {
+        "description": "Detector for DH400_VL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09026"
+    },
+    {
+        "description": "Zeiss Lens Holder Hubless Version main Support Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42100"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13010"
+    }
+]
