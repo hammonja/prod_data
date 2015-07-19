@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "BNC barrel connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10099"
+    },
+    {
+        "description": "White shrouded Plug",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10283"
+    },
+    {
+        "description": "Red M4insul spade terminal,0.5-1.5sq.mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10337"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 560mm overall length",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB16"
+    }
+]

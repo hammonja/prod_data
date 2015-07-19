@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Monitor detector (e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09115"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "BNC barrel connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10099"
+    },
+    {
+        "description": "E2V sphere detector fixing ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27198"
+    },
+    {
+        "description": "E2V TAOSII Sphere Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46367_P1"
+    },
+    {
+        "description": "IS75-BF Sphere Mount Ring Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46561_P1"
+    },
+    {
+        "description": "IS75-BF \u00d875mm Benflect Sphere (FI 19520)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46562"
+    },
+    {
+        "description": "IS75-BF Sphere Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46563"
+    },
+    {
+        "description": "IS75-BF Sphere Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46564"
+    }
+]

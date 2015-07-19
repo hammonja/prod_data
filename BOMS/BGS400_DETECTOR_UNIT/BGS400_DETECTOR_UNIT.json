@@ -1,0 +1,92 @@
+[
+    {
+        "description": "Bosch 45mm extrusion end cap (each)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19362"
+    },
+    {
+        "description": "Bosch 10mm groove M6 'T' nut (Each)",
+        "location": "",
+        "quantity": "9.00",
+        "stockcode": "19399"
+    },
+    {
+        "description": "S12x30 T50 self tap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19435"
+    },
+    {
+        "description": "45 x 45 2N LENGTH=1200mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46222"
+    },
+    {
+        "description": "45 X 45 2N L = 500mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46223"
+    },
+    {
+        "description": "BGS400 Orm Table",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46224"
+    },
+    {
+        "description": "BOSCH SEE DRAWING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46318"
+    },
+    {
+        "description": "45x45x45 Angle Bracket for 10mm slot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46319"
+    },
+    {
+        "description": "BGS400 Detector Holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46396"
+    },
+    {
+        "description": "BGS400 Aperture Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46397"
+    },
+    {
+        "description": "BSG400 Solid Aperture Cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46398"
+    },
+    {
+        "description": "BGS400 5mm Aperture",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46400"
+    },
+    {
+        "description": "BGS400 8.3mm Aperture",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46401"
+    },
+    {
+        "description": "BGS400 25mm Aperture",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46402"
+    },
+    {
+        "description": "BGS400 Foot Assembly",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "BGS400_FOOT"
+    }
+]

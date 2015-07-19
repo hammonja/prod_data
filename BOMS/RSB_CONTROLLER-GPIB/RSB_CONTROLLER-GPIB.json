@@ -1,0 +1,158 @@
+[
+    {
+        "description": "Fuse 315mA slow blow 20mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01003"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "Across capacitors",
+        "quantity": "2.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "Neon indicator RED 200-250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04040"
+    },
+    {
+        "description": "dc-dc, 10-30V in,  5V @ 600mA out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05024"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "Mains Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07050"
+    },
+    {
+        "description": "Actuator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07051"
+    },
+    {
+        "description": "Capacitor 4700 uF 35V",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08098"
+    },
+    {
+        "description": "Connector  64 way 2 rows",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10085"
+    },
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "Connector IEEE socket (3549-2000)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10108"
+    },
+    {
+        "description": "12 Way Chassis Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10161"
+    },
+    {
+        "description": "Mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10166"
+    },
+    {
+        "description": "Fuse holder panel mounting FPG2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10186"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "Connector Panels - Black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17365"
+    },
+    {
+        "description": "Transformer 60VA. 15Vac, 15Vac (was Farnell 9530436)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18058"
+    },
+    {
+        "description": "sales@L-com.com   (pack of 20)",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "19012"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "IP68 Cable gland (PG9)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19105"
+    },
+    {
+        "description": "22mm capacitor clip",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19142"
+    },
+    {
+        "description": "Mains cable - British plug connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23011"
+    },
+    {
+        "description": "RSB Power Supply Box (Material 27014P)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27014F"
+    },
+    {
+        "description": "RSB Power Supply Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27014P"
+    },
+    {
+        "description": "GP-IB to I2C interface",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_GPIB-I2C"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    }
+]

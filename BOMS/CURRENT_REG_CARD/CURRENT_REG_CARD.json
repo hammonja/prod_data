@@ -1,0 +1,86 @@
+[
+    {
+        "description": "1K, MRS25",
+        "location": "R3, 4, 7, 8",
+        "quantity": "4.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "R20, 26",
+        "quantity": "2.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "4M7 MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02099"
+    },
+    {
+        "description": "3K6 MRS25",
+        "location": "R22",
+        "quantity": "1.00",
+        "stockcode": "02127"
+    },
+    {
+        "description": "1K .5W Cermet PCB mounting",
+        "location": "R21",
+        "quantity": "1.00",
+        "stockcode": "03017"
+    },
+    {
+        "description": "78L12",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "05003"
+    },
+    {
+        "description": "OPA2251PA",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "06017"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, 4",
+        "quantity": "2.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C6",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 10nF Polyester 10% 63/100V",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08052"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "IC2, 3",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "pcb  \" BENTHAM INSTRUMENTS 605 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15036"
+    },
+    {
+        "description": "LT1019CN8-5#PBF-ND",
+        "location": "IC3",
+        "quantity": "1.00",
+        "stockcode": "20029"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "description": "DSA-DAR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45238"
+    },
+    {
+        "description": "Painting operation to produce 45238",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19841"
+    }
+]

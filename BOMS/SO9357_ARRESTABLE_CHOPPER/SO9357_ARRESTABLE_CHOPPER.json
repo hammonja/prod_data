@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "7 way Amphenol socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10034"
+    },
+    {
+        "description": "Socket chassis 4 way",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10234"
+    },
+    {
+        "description": "4 way cable connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10246"
+    },
+    {
+        "description": "Coupler holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17001"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "Motor with end cap and 150mm long leads",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18007"
+    },
+    {
+        "description": "Electro-magnet for arrestable chopper (was RS 346-069)",
+        "location": "Mod in house to drw 43702",
+        "quantity": "1.00",
+        "stockcode": "42540"
+    },
+    {
+        "description": "Internal arrestable chopper magnet mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43873"
+    },
+    {
+        "description": "Internal chopper arrester magnet adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43876"
+    },
+    {
+        "description": "Internal arrestable chopper mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43877"
+    },
+    {
+        "description": "5 slot disk for internal choppers (magnetic)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43977"
+    },
+    {
+        "description": "1.8m Long 7 Way Cable for Arrestable Choppers",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB24"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "description": "10K MRS25",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "68K, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02128"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "25 way D plug + 3 x 20A connections",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10210"
+    },
+    {
+        "description": "25 way D socket + 3 x 20A connections",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10211"
+    },
+    {
+        "description": "20A Straight plug Power 'D'",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10212"
+    },
+    {
+        "description": "Socket straight Power 'D' 20A",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10213"
+    },
+    {
+        "description": "CPS50 front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16052"
+    }
+]

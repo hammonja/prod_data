@@ -1,0 +1,92 @@
+[
+    {
+        "description": "10K MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "100K MRS25",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "DC-DC 5V to +/- 15V (TEM2-0522)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05041"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "2.5mm Panel Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10004"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "VERO - 01-0021 - VEROBOARD, PCB, 121.92MM X 101.6MM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15121"
+    },
+    {
+        "description": "S400_472_F PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15122"
+    },
+    {
+        "description": "Small round rubber feet (bag of 60)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19112"
+    },
+    {
+        "description": "Die Cast Box for 472_F",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19229_M1"
+    },
+    {
+        "description": "LF353N Dual Op-Amp DIP8",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "20043"
+    },
+    {
+        "description": "Wiring Of 472 Circuit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44386"
+    }
+]

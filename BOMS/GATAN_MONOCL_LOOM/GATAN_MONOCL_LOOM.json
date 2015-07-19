@@ -1,0 +1,26 @@
+[
+    {
+        "description": "1K, MRS25",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "Micro-switch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "07069"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    }
+]

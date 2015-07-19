@@ -1,0 +1,110 @@
+[
+    {
+        "description": "Silicon detector (FC320Si)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09106"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "SMA bulkhead socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10179"
+    },
+    {
+        "description": "SMA cable plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10202"
+    },
+    {
+        "description": "IS4 blank hemi-spheres",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13076"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "Painting of Ninewells sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19464"
+    },
+    {
+        "description": "BAE IS4 sphere base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41800"
+    },
+    {
+        "description": "BAE IS4 Laser retaining ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41801"
+    },
+    {
+        "description": "BAE IS4 sphere retaining ring 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41802"
+    },
+    {
+        "description": "BAE IS4 sphere retaining ring 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41803"
+    },
+    {
+        "description": "PHTH sphere baffle - painted (FOLD BEFORE PAINTING)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43068F"
+    },
+    {
+        "description": "PHTH sphere baffle un-painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43068P"
+    },
+    {
+        "description": "Ninewells sphere hemi-sphere machining",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43341"
+    },
+    {
+        "description": "Ninewells sphere hemi-sphere machining",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43342"
+    },
+    {
+        "description": "Ninewells sphere detector mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43343"
+    },
+    {
+        "description": "Ninewells sphere detector insulator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43344"
+    },
+    {
+        "description": "Light guide input receptacle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43345"
+    }
+]

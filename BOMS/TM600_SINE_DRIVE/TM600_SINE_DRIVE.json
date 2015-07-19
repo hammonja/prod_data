@@ -1,0 +1,332 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "M300 microswitch",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11001"
+    },
+    {
+        "description": "M4 Ball ended grub screw ( free issue 99022)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11250"
+    },
+    {
+        "description": "Gatan spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11280"
+    },
+    {
+        "description": "Compression Spring",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19003"
+    },
+    {
+        "description": "Igus bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19159"
+    },
+    {
+        "description": "Oilite bush",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19162"
+    },
+    {
+        "description": "Spring LC-024C-1-SS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19165"
+    },
+    {
+        "description": "M3 thumb nuts for IL10",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19172"
+    },
+    {
+        "description": "small 'E' clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19265"
+    },
+    {
+        "description": "'E' clip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19266"
+    },
+    {
+        "description": "TM600 sine drive coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19310"
+    },
+    {
+        "description": "Bearing Preload Spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19323"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "Bearing O/D 19mm, I/D 6mm, THK 6mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30153"
+    },
+    {
+        "description": "TMs300 Slit Bearing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30253"
+    },
+    {
+        "description": "TM600 Sine Drive Bearing Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60017"
+    },
+    {
+        "description": "TM600 Sine Drive Nut",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60018"
+    },
+    {
+        "description": "TM600 Double angular bearing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60020"
+    },
+    {
+        "description": "TM600 Sine bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60021"
+    },
+    {
+        "description": "TM600 Sine Drive Support Block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "60022"
+    },
+    {
+        "description": "TM600 Switch plate item 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60023"
+    },
+    {
+        "description": "TM600 Bearing Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "60024"
+    },
+    {
+        "description": "TM600 Motor Mount Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60025"
+    },
+    {
+        "description": "TM600 Sine Drive Friction Pad",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60026"
+    },
+    {
+        "description": "TM600 Sine Drive Yoke",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60027"
+    },
+    {
+        "description": "TM600 Sine Drive Cup",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "60028"
+    },
+    {
+        "description": "TM600 Sine Drive Glass Bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60029"
+    },
+    {
+        "description": "TM600 Sine Bar Drive Pressure Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60030"
+    },
+    {
+        "description": "TM600 Pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60031"
+    },
+    {
+        "description": "TM600 Sine Drive Saddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60033"
+    },
+    {
+        "description": "TM600 Sine Drive Tie Bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60035"
+    },
+    {
+        "description": "TM600 Micro Switch Plate 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60047"
+    },
+    {
+        "description": "TM600 Sine Drive Pressure Plate Shoulder Pin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "60057"
+    },
+    {
+        "description": "TM600 Sine Bar Spacer-Connection Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60142"
+    },
+    {
+        "description": "TM600 Sine Drive Lead Screw",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60144"
+    },
+    {
+        "description": "TM600 Sine Drive Main Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60145"
+    },
+    {
+        "description": "TM600 Sine Drive Grating Changer Support Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60146"
+    },
+    {
+        "description": "TM600 Sine Drive Grating Changer Bearing Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60147"
+    },
+    {
+        "description": "TM600 Sine Drive Motor to Turret Shaft Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60148"
+    },
+    {
+        "description": "TM600 Grating Upright Carrier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60149"
+    },
+    {
+        "description": "TM600 Grating Carrier Plate/Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60150"
+    },
+    {
+        "description": "TM600 Grating Locating Moving Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60151"
+    },
+    {
+        "description": "TM600 Grating Locating Main Fixed Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60152"
+    },
+    {
+        "description": "TM600 Grating Locating Moving Block Bearing Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60153"
+    },
+    {
+        "description": "TM600 Turret Clamp Rod",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60154"
+    },
+    {
+        "description": "TM600 Grating Locating Moving Block Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60155"
+    },
+    {
+        "description": "TM600 Grating Locator Bearing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60156"
+    },
+    {
+        "description": "TM600 Small Gear 12 Tooth, 1.0 Module",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60157"
+    },
+    {
+        "description": "TM600 Large Spur Gear 56 Tooth, 1.0 Module",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60158"
+    },
+    {
+        "description": "TM600 Large gear Adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60159"
+    },
+    {
+        "description": "TM600 Centre from Bearing for Sine Drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60160"
+    },
+    {
+        "description": "TM600 Grating Locating Unit Trigger Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60162"
+    }
+]

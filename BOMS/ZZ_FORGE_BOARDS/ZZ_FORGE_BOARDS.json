@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Led display board for Forge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ZZ_FORGE_DISPLAY-BOARD"
+    },
+    {
+        "description": "Led set up board for Forge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ZZ_FORGE_SET-UP-BOARD"
+    }
+]

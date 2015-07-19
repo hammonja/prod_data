@@ -1,0 +1,308 @@
+[
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "M4 Ball ended grub screw ( free issue 99022)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11250"
+    },
+    {
+        "description": "M3 Ball ended grub screw (99254 free issued)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11260"
+    },
+    {
+        "description": "Gatan spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11280"
+    },
+    {
+        "description": "AM 1.5 filter (quote 1006402001-1)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13936"
+    },
+    {
+        "description": "Spacer NP 8.0/25/C/M3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15021"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "EXLS Elipse Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17327"
+    },
+    {
+        "description": "EXLS Anode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17329"
+    },
+    {
+        "description": "EXLS Cathode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17330"
+    },
+    {
+        "description": "Fixed focus bar (make as matched pair with 17405)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17404"
+    },
+    {
+        "description": "Floating focus bar  (make as matched pair with 17404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17405"
+    },
+    {
+        "description": "Dowel 5mm x 35mm (99902, 1.5 lengths per 20)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17409"
+    },
+    {
+        "description": "EXLS Z Adjuster Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17673"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "TLS starter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18064"
+    },
+    {
+        "description": "Fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18080"
+    },
+    {
+        "description": "Elipsoidal reflector with AlMgF2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19124"
+    },
+    {
+        "description": "PLC-M3 self locking insert (Zygology Ltd)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19173"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "Mill flat on solenoid shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19482"
+    },
+    {
+        "description": "Hamamatsu Xe lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19589"
+    },
+    {
+        "description": "Reverse Jaw Plate for VSS & MVSS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41036"
+    },
+    {
+        "description": "Manual Focus Elliptical Source Slit Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41263"
+    },
+    {
+        "description": "UKAEA sphere connector bracket",
+        "location": "Issue B",
+        "quantity": "1.00",
+        "stockcode": "41614"
+    },
+    {
+        "description": "UKAEA sphere light source baffle plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41631"
+    },
+    {
+        "description": "UKAEA sphere fan baffle plate pillars (pack of 25)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "41674"
+    },
+    {
+        "description": "UKAEA sphere fibre clamp block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41675"
+    },
+    {
+        "description": "ULS300 top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42603"
+    },
+    {
+        "description": "ULS filter holder",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42605"
+    },
+    {
+        "description": "Filter holder knob (Note new Issue)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42607"
+    },
+    {
+        "description": "ULS filter slot cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42608"
+    },
+    {
+        "description": "Shutter slenoid for IL sun.  GDAY 025 X20 E03 12V 100%",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43267"
+    },
+    {
+        "description": "IL sun shutter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43269"
+    },
+    {
+        "description": "IL sun face plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43306"
+    },
+    {
+        "description": "IL sun shutter mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43309"
+    },
+    {
+        "description": "IL sun shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43310"
+    },
+    {
+        "description": "Multibranch fibre for bias source in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43316"
+    },
+    {
+        "description": "Magnet for EI sphere (box of 10)",
+        "location": "pick 4",
+        "quantity": "0.40",
+        "stockcode": "43663"
+    },
+    {
+        "description": "PV bias xe mount side panels",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43929"
+    },
+    {
+        "description": "PV bias xe AM1.5 plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43930"
+    },
+    {
+        "description": "PV bias xe base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43931"
+    },
+    {
+        "description": "PV bias xe source cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43932"
+    },
+    {
+        "description": "PV bias electronics sub plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43933"
+    },
+    {
+        "description": "PV bias xe source pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43934"
+    },
+    {
+        "description": "Lamp cable with shrouded at both ends (3m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB11"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
+    },
+    {
+        "description": "For use with TLS starter when used with 605",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INVERTER_BOARD_605"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_VSS"
+    }
+]

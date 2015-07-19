@@ -1,0 +1,164 @@
+[
+    {
+        "description": "10R MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02004"
+    },
+    {
+        "description": "100R MRS25",
+        "location": "R7",
+        "quantity": "1.00",
+        "stockcode": "02013"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R11",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "2k2 MRS25",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "02024"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R1, R3, R4",
+        "quantity": "3.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "820R, MRS25",
+        "location": "R8",
+        "quantity": "1.00",
+        "stockcode": "02092"
+    },
+    {
+        "description": "475k, MRS25",
+        "location": "R6, R9, R10, R12",
+        "quantity": "4.00",
+        "stockcode": "02102"
+    },
+    {
+        "description": "10K .75W Cermet PCB mounting",
+        "location": "pot",
+        "quantity": "1.00",
+        "stockcode": "03010"
+    },
+    {
+        "description": "Voltage reference for 218 (LM336BZ-5.0)",
+        "location": "D1",
+        "quantity": "1.00",
+        "stockcode": "04041"
+    },
+    {
+        "description": "Miniature toggle switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07004"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C2, C3, C6",
+        "quantity": "3.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 10uF 16V electrolytic mini",
+        "location": "C1",
+        "quantity": "1.00",
+        "stockcode": "08045"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C7, C8",
+        "quantity": "2.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 220uF 16V Electrolytic rad",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08054"
+    },
+    {
+        "description": "Capacitor 100pF",
+        "location": "C4, C9",
+        "quantity": "2.00",
+        "stockcode": "08062"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "PCB 275 (5 day train)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15037"
+    },
+    {
+        "description": "474 front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16038"
+    },
+    {
+        "description": "275 Mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17144"
+    },
+    {
+        "description": "275 Shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17145"
+    },
+    {
+        "description": "Beckman Bush",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19005"
+    },
+    {
+        "description": "IC LT1028CN8",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "20031"
+    },
+    {
+        "description": "ZTX651",
+        "location": "TR1, TR2",
+        "quantity": "2.00",
+        "stockcode": "20032"
+    },
+    {
+        "description": "IC LF351N",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "20033"
+    }
+]

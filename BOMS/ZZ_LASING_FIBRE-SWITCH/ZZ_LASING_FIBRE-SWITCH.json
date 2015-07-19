@@ -1,0 +1,278 @@
+[
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "PRO POWER - PV2 GROMMET PK 100 - GROMMET, 8MM, PK100",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10030"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "M300 microswitch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11001"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 Unislide with 1mm pitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11325"
+    },
+    {
+        "description": "Microswitch plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11349"
+    },
+    {
+        "description": "Fibre for input switch (iso 7501)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "12008"
+    },
+    {
+        "description": "Lens 25mm dia, 40mm fl, silica, pcx",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13008"
+    },
+    {
+        "description": "Coupler holder",
+        "location": "Mod to drawing 41574",
+        "quantity": "1.00",
+        "stockcode": "17001"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "218H connector box",
+        "location": "Mod to drawing 41586",
+        "quantity": "1.00",
+        "stockcode": "17009"
+    },
+    {
+        "description": "218B 5-slot blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17015"
+    },
+    {
+        "description": "Motor (black motor) (OBSOLETE)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18057"
+    },
+    {
+        "description": "Dowel Pin 1.5D x 5",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19167"
+    },
+    {
+        "description": "top bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19264"
+    },
+    {
+        "description": "Sealing ring (shaft seal) BSL CR 10x26x7 HMS4R",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19353"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "UMS motor plate spacers",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41297"
+    },
+    {
+        "description": "UMS motor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41298"
+    },
+    {
+        "description": "Lasing system fibre unit floor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41560"
+    },
+    {
+        "description": "Lasing system fibre unit input wall",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41561"
+    },
+    {
+        "description": "Lasing system fibre unit output wall",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41562"
+    },
+    {
+        "description": "Lasing system fibre unit side wall",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41563"
+    },
+    {
+        "description": "Lasing system fibre unit connector wall",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41564"
+    },
+    {
+        "description": "Lasing system fibre unit lid plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41565"
+    },
+    {
+        "description": "Lasing system fibre unit fibre mount block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41566"
+    },
+    {
+        "description": "Lasing system fibre unit fibre clamp",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "41567"
+    },
+    {
+        "description": "Lasing system fibre unit baffle arm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41568"
+    },
+    {
+        "description": "Lasing system fibre unit baffle plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41569"
+    },
+    {
+        "description": "Lasing system fibre unit mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41570"
+    },
+    {
+        "description": "Lasing system fibre unit mirror opto flag",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41571"
+    },
+    {
+        "description": "Lasing system fibre unit lans holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41572"
+    },
+    {
+        "description": "Lasing system fibre unit opto mount with slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41573"
+    },
+    {
+        "description": "Lasing system fibre unit seal clamp plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41575"
+    },
+    {
+        "description": "Lasing system fibre unit unislide pillars",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41576"
+    },
+    {
+        "description": "Lasing system fibre unit unislide bracket spacer block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41577"
+    },
+    {
+        "description": "Lasing system fibre unit chopper bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41578"
+    },
+    {
+        "description": "Lasing system fibre unit chopper mount bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41579"
+    },
+    {
+        "description": "Lasing system fibre unit support bracket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41580"
+    },
+    {
+        "description": "Lasing system fibre unit baffle arm pivot shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41587"
+    },
+    {
+        "description": "Lasing system fibre unit baffle slide pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41588"
+    },
+    {
+        "description": "Fixed Slit Plate (0.10mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FSP(0.1)"
+    }
+]

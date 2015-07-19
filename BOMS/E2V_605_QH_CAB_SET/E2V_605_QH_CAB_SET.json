@@ -1,0 +1,44 @@
+[
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10125"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "Blue shrouded plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10135"
+    },
+    {
+        "description": "Green shrouded plug (pack of 5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10222"
+    },
+    {
+        "description": "4 way plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10237"
+    },
+    {
+        "description": "E2V_605_QH_CAB_SET Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50030"
+    }
+]

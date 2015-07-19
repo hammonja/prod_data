@@ -1,0 +1,194 @@
+[
+    {
+        "description": "605 fan spacers",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19290"
+    },
+    {
+        "description": "Roll of 1000 25mm x 25mm sticky pads",
+        "location": "Pick 2 pads per ",
+        "quantity": "0.00",
+        "stockcode": "99_STICKY-PAD"
+    },
+    {
+        "description": "PCB pins (Oxley Kinky Pin)",
+        "location": "",
+        "quantity": "21.00",
+        "stockcode": "99008"
+    },
+    {
+        "description": "TO220 insulator",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99023"
+    },
+    {
+        "description": "0.2\" LED mounting bush",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99012"
+    },
+    {
+        "description": "TO-220 Insulating Bush (pack of 10)Manual adjust stock",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99024"
+    },
+    {
+        "description": "M2.5 x 8 pozi pan, zinc",
+        "location": "",
+        "quantity": "24.00",
+        "stockcode": "99021"
+    },
+    {
+        "description": "Crimp terminal for 07040 mains switch",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99029"
+    },
+    {
+        "description": "Crimp 0.25 inch",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99039"
+    },
+    {
+        "description": "M5 full nut, zinc",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "99109"
+    },
+    {
+        "description": "M2.5 Zinc Full Nuts",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99115"
+    },
+    {
+        "description": "M5 x 10, hexagon head set screw, zinc",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99120"
+    },
+    {
+        "description": "M5 x 20, pozi pan, zinc",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99126"
+    },
+    {
+        "description": "Piggy-back crimps",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99131"
+    },
+    {
+        "description": "M4 x 16, pozi-pan, zinc",
+        "location": "",
+        "quantity": "9.00",
+        "stockcode": "99143"
+    },
+    {
+        "description": "M2.5 internal shake-proof washer",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99144"
+    },
+    {
+        "description": "M3 x 16 Black Socket Cap Head Screw",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99161"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 x 8 Black Pozi Csk",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99189"
+    },
+    {
+        "description": "M3 Zinc Full Nuts",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "99260"
+    },
+    {
+        "description": "M3 internal shakeproof washer, zinc",
+        "location": "",
+        "quantity": "15.00",
+        "stockcode": "99263"
+    },
+    {
+        "description": "M3 x 10 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99264"
+    },
+    {
+        "description": "M3 Oversize Washer Zinc plated (O/D 9mm, Thk 0.8mm)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99273"
+    },
+    {
+        "description": "M4 Full Nut zinc",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "99401"
+    },
+    {
+        "description": "M4 internal shakeproof washer, zinc",
+        "location": "",
+        "quantity": "9.00",
+        "stockcode": "99404"
+    },
+    {
+        "description": "M5 x 50 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99505"
+    },
+    {
+        "description": "M4 x 12 pozi pan zinc",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99506"
+    },
+    {
+        "description": "M5 plain washer zinc",
+        "location": "",
+        "quantity": "18.00",
+        "stockcode": "99510"
+    },
+    {
+        "description": "M6/0BA Solder Tag hot-tinned brass (bag of 250)",
+        "location": "Kit 1 bag per kit of 25",
+        "quantity": "0.04",
+        "stockcode": "99755"
+    },
+    {
+        "description": "M4 Stainless Steel Plain Washer",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99451"
+    },
+    {
+        "description": "M3 x 6 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99271"
+    },
+    {
+        "description": "M3 x 8 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99278"
+    }
+]

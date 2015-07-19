@@ -1,0 +1,128 @@
+[
+    {
+        "description": "100K MRS25",
+        "location": "",
+        "quantity": "11.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "200K, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02048"
+    },
+    {
+        "description": "10M MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02076"
+    },
+    {
+        "description": "Capacitor 1nF, 300V, ceramic disc",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08038"
+    },
+    {
+        "description": "Capacitor 10nF, 300V AC, ceramic",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08039"
+    },
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "DH3 tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09016"
+    },
+    {
+        "description": "O ring BSL BS837N170-PK10",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09017"
+    },
+    {
+        "description": "Very large 'O' ring (each)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09018"
+    },
+    {
+        "description": "DH3 Spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "09019"
+    },
+    {
+        "description": "Connector BNC socket (Radial R141404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10065"
+    },
+    {
+        "description": "HV BNC socket (Radial)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10066"
+    },
+    {
+        "description": "socket black 2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10188"
+    },
+    {
+        "description": "Plug balck 2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10215"
+    },
+    {
+        "description": "Pillar M4 X 16 Female - Female (pack of 25)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15069"
+    },
+    {
+        "description": "DH3 Adapter plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17032"
+    },
+    {
+        "description": "DH3 connector plate (silk screened) FI  17046P",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17046F"
+    },
+    {
+        "description": "DH3 connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17046P"
+    },
+    {
+        "description": "DH3 Housing tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17054"
+    },
+    {
+        "description": "DH3 Inner plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17057"
+    },
+    {
+        "description": "DH3/DH3(Bi) mu-metal shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17093"
+    }
+]

@@ -1,0 +1,350 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "Neon indicator RED 200-250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04040"
+    },
+    {
+        "description": "Mains Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07050"
+    },
+    {
+        "description": "Actuator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07051"
+    },
+    {
+        "description": "Thermal cut out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07053"
+    },
+    {
+        "description": "Temperature Sens AD590KH",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "09056"
+    },
+    {
+        "description": "3 way chassis plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10094"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Connector IEEE socket (3549-2000)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10108"
+    },
+    {
+        "description": "9  Way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10141"
+    },
+    {
+        "description": "Dust cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10142"
+    },
+    {
+        "description": "IP68 3 way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10146"
+    },
+    {
+        "description": "IP68 Sealing cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10148"
+    },
+    {
+        "description": "BS4343 Mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10152"
+    },
+    {
+        "description": "BS4343 Mains inlet free socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10153"
+    },
+    {
+        "description": "Fuse holder panel mounting FPG2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10186"
+    },
+    {
+        "description": "Crimps",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10187"
+    },
+    {
+        "description": "Mains outlet socket black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10190"
+    },
+    {
+        "description": "Cable mains plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10209"
+    },
+    {
+        "description": "PCB PILLAR",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15024"
+    },
+    {
+        "description": "pcb  \" INTERNAL TEMP SENSOR \"",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15049"
+    },
+    {
+        "description": "Bentham Logo plate (silk screened)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16098"
+    },
+    {
+        "description": "Envirobox shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17345"
+    },
+    {
+        "description": "Shield socket mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17775"
+    },
+    {
+        "description": "Envirobox sensor mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17781"
+    },
+    {
+        "description": "IEEE connector box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17814F"
+    },
+    {
+        "description": "Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17814P"
+    },
+    {
+        "description": "sales@L-com.com   (pack of 20)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19012"
+    },
+    {
+        "description": "Grommet 6.4 Dia. cable hole",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19051"
+    },
+    {
+        "description": "Fastener self clinch M4",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "19086"
+    },
+    {
+        "description": "Do not re-order.  Use 19222",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19130"
+    },
+    {
+        "description": "Zarges Box 1200x800x510",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19205"
+    },
+    {
+        "description": "Bosch Extrusion 30mm, 4 Channel. 2800mm Length",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19279"
+    },
+    {
+        "description": "Bosch 30mm Extrusion Bracket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19281"
+    },
+    {
+        "description": "Bosch 3 way cube connectors (30m x 30mm)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19309"
+    },
+    {
+        "description": "Bosch extrusion 20mm, 4 channel. 3000mm length",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19338"
+    },
+    {
+        "description": "Bosch 3 Way Cube Connectors (20m x 20mm)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19339"
+    },
+    {
+        "description": "Bosch 20mm extrusion bracket",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "19344"
+    },
+    {
+        "description": "Bosch 20mm extrusion end cap (each)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19347"
+    },
+    {
+        "description": "Lasing temperature switch box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19354"
+    },
+    {
+        "description": "Wooden packing crate for ENVIROBOX_DTM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25024"
+    },
+    {
+        "description": "Envirobox fibre clamp for 13.6mm diameter sleeve",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "27345"
+    },
+    {
+        "description": "lasing system DTM300 frame back bottom support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41589"
+    },
+    {
+        "description": "lasing system DTM300 frame side to side support",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "41590"
+    },
+    {
+        "description": "lasing system DTM300 frame front bottom support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41591"
+    },
+    {
+        "description": "lasing system DTM300 frame front to rear support",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41592"
+    },
+    {
+        "description": "lasing system DTM300 frame top to bottom support",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41593"
+    },
+    {
+        "description": "Lasing electronics sub rack back top to bottom extrusion",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41594"
+    },
+    {
+        "description": "Lasing electronics sub rack front to rear extrusion",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "41595"
+    },
+    {
+        "description": "Lasing electronics sub rack side to side extrusion",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41596"
+    },
+    {
+        "description": "Lasing electronics sub rack front top to bottom extrusion",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41597"
+    },
+    {
+        "description": "Lasing system DTM300 envirobox insulation",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41598"
+    },
+    {
+        "description": "Lasing envirobox power inlet box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41599F"
+    },
+    {
+        "description": "Lasing envirobox power inlet box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41599P"
+    },
+    {
+        "description": "Lasing envirobox temp switch clamp plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41600"
+    },
+    {
+        "description": "Lasing envirobox temp switch box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41601"
+    },
+    {
+        "description": "Polyfoam Floorboard Super 1250x600x50mm (Cellecta)",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99801"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Connector grommet (Bag of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10071"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10125"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "Blue shrouded plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10135"
+    },
+    {
+        "description": "CL3 Chimney",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17087"
+    },
+    {
+        "description": "CL3 top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17088"
+    },
+    {
+        "description": "CL3 Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17090"
+    },
+    {
+        "description": "D2 Lamp PTFE sleeve",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17091"
+    },
+    {
+        "description": "CL3 Gap bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17101"
+    },
+    {
+        "description": "M3X10 Spacer",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19011"
+    },
+    {
+        "description": "Fastener self clinch M4",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19086"
+    },
+    {
+        "description": "Deuterium Lamp  M XD 5655-03",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27441"
+    },
+    {
+        "description": "D2 bulb mount clamp",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45199"
+    }
+]

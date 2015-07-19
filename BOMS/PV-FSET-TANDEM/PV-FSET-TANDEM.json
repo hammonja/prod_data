@@ -1,0 +1,32 @@
+[
+    {
+        "description": "RG 630 filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13599"
+    },
+    {
+        "description": "BG 23 filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13600"
+    },
+    {
+        "description": "ULS filter holder",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42605"
+    },
+    {
+        "description": "Filter holder knob (Note new Issue)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42607"
+    },
+    {
+        "description": "Hot mirror",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13597"
+    }
+]

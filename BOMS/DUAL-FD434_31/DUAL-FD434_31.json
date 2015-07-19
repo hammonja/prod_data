@@ -1,0 +1,14 @@
+[
+    {
+        "description": "FD43x common components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FD43X_COMMON_PARTS"
+    },
+    {
+        "description": "Cooled PBSE Detector for FD43x units",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FD43X_PBSE_TE"
+    }
+]

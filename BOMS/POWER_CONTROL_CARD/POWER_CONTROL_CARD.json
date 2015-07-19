@@ -1,0 +1,170 @@
+[
+    {
+        "description": "1K, MRS25",
+        "location": "R14, 15, 16",
+        "quantity": "3.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R6, 9, 10, 11, 13",
+        "quantity": "5.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "27K4 MRS25",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "02038"
+    },
+    {
+        "description": "100K MRS25",
+        "location": "R1,2,3",
+        "quantity": "3.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "300K MRS25",
+        "location": "R4",
+        "quantity": "1.00",
+        "stockcode": "02119"
+    },
+    {
+        "description": "10K .75W Cermet PCB mounting",
+        "location": "R12",
+        "quantity": "1.00",
+        "stockcode": "03010"
+    },
+    {
+        "description": "LED yellow right angle mount",
+        "location": "LED 2",
+        "quantity": "1.00",
+        "stockcode": "04026"
+    },
+    {
+        "description": "LED green right angle mount",
+        "location": "LED 3",
+        "quantity": "1.00",
+        "stockcode": "04027"
+    },
+    {
+        "description": "LED red right angle mount",
+        "location": "LED1",
+        "quantity": "1.00",
+        "stockcode": "04028"
+    },
+    {
+        "description": "12V, 1.3W zener (BZV85-C12)",
+        "location": "ZD1",
+        "quantity": "1.00",
+        "stockcode": "04054"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "U2",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "Relay",
+        "location": "RLY1",
+        "quantity": "1.00",
+        "stockcode": "07044"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1",
+        "quantity": "1.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 22pF ceramic plate",
+        "location": "C6, 7",
+        "quantity": "2.00",
+        "stockcode": "08047"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "C3",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "20MHz crystal",
+        "location": "Xtal 1",
+        "quantity": "1.00",
+        "stockcode": "08117"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "IC1, U1",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "connector 40-Way DIL socket",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "10057"
+    },
+    {
+        "description": "36 way jumper",
+        "location": "JP1",
+        "quantity": "1.00",
+        "stockcode": "10131"
+    },
+    {
+        "description": "Jumper",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10132"
+    },
+    {
+        "description": "Tyco 2 way header with catch",
+        "location": "PL2",
+        "quantity": "1.00",
+        "stockcode": "10299"
+    },
+    {
+        "description": "Tyco 3 way header with catch",
+        "location": "PL1, 3",
+        "quantity": "2.00",
+        "stockcode": "10300"
+    },
+    {
+        "description": "Pcb for voltage limit in Soma SSM (NB ISSUE 2)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15105"
+    },
+    {
+        "description": "Relay for xenon ignitor",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "18027"
+    },
+    {
+        "description": "PIC16F877A-I/P",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "20011"
+    },
+    {
+        "description": "LT1019CN82V5",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "20030"
+    },
+    {
+        "description": "LF353N Dual Op-Amp DIP8",
+        "location": "U1",
+        "quantity": "1.00",
+        "stockcode": "20043"
+    }
+]

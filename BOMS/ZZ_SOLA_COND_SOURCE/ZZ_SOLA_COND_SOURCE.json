@@ -1,0 +1,284 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Omron EE-SX1103",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04038"
+    },
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "252 Drive Cog (Berg GG33A28-32)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11020"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11071F"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11071P"
+    },
+    {
+        "description": "252 drive belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11145"
+    },
+    {
+        "description": "Shaft 0.25 x 1.25\" (Material 99904, 1 length per 20)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11174"
+    },
+    {
+        "description": "12V Solenoid.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11249"
+    },
+    {
+        "description": "SAM Support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11266"
+    },
+    {
+        "description": "Iris diaphragm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "13070"
+    },
+    {
+        "description": "Silica lens, dia 36 +0.0/-0.2mm, fl 63mm, pcx",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13121"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "218B 2-slot blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17014"
+    },
+    {
+        "description": "Dowel Pin 1.5D x 5",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19167"
+    },
+    {
+        "description": "pin 7mm x 3mm dia with flat",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27074"
+    },
+    {
+        "description": "252 filter wheel support plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30020"
+    },
+    {
+        "description": "252 bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30023"
+    },
+    {
+        "description": "Bore reducer, 5mm x 1/4 inch x 6.6mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30052"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "New 252 Spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30163"
+    },
+    {
+        "description": "New 252 Opto block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30164"
+    },
+    {
+        "description": "Sola system KG filter holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41348"
+    },
+    {
+        "description": "Sola system KG filter holder retaining ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41349"
+    },
+    {
+        "description": "Sola system conditioning beam source iris wheel support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41407"
+    },
+    {
+        "description": "Sola system conditioning beam source base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41408"
+    },
+    {
+        "description": "Sola system conditioning beam source iris wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41409"
+    },
+    {
+        "description": "Sola system conditioning beam source front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41410"
+    },
+    {
+        "description": "Sola system conditioning beam source connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41411"
+    },
+    {
+        "description": "Sola system conditioning beam source side plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41412"
+    },
+    {
+        "description": "Sola system conditioning beam source lid",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41413"
+    },
+    {
+        "description": "Sola system conditioning beam source back plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41414"
+    },
+    {
+        "description": "Sola system conditioning beam source lens tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41415"
+    },
+    {
+        "description": "Sola system IL7 front plate modification",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41416"
+    },
+    {
+        "description": "Sola system conditioning beam source opto pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41417"
+    },
+    {
+        "description": "Sola system conditioning beam source SAM spacer pillars",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41421"
+    },
+    {
+        "description": "Machining Operation to Produce 30020_M1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41422"
+    },
+    {
+        "description": "Sola system conditioning beam source iris lock ring",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "41423"
+    },
+    {
+        "description": "Sola system projector iris lock ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41424"
+    },
+    {
+        "description": "Sola system conditioning beam source fibre lock ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41425"
+    },
+    {
+        "description": "Sola system conditioning beam source lens retaining ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41426"
+    },
+    {
+        "description": "Sola system opto mount arm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41427"
+    },
+    {
+        "description": "Sola MG filter Holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42105"
+    },
+    {
+        "description": "Sola Fibre Hole Cover Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42107"
+    }
+]

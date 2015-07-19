@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Si photodiode. 2.4mm x 2.4mm. Quartz window",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09004"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "SMA bulkhead socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10179"
+    },
+    {
+        "description": "SMA cable plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10202"
+    },
+    {
+        "description": "O ring for 7mm Fibre Ferrule (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13116"
+    },
+    {
+        "description": "Monitor fibre/detector body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41796"
+    },
+    {
+        "description": "Monitor fibre/detector insulating ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41797"
+    },
+    {
+        "description": "Monitor fibre/detector SMA end cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41798"
+    }
+]

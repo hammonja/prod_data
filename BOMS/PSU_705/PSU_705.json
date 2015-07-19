@@ -1,0 +1,116 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "220R MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02015"
+    },
+    {
+        "description": "47K5 MRS25",
+        "location": "Connect in parallel across C1",
+        "quantity": "2.00",
+        "stockcode": "02041"
+    },
+    {
+        "description": "Green led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04001"
+    },
+    {
+        "description": "Red led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04002"
+    },
+    {
+        "description": "Diode led 0.2\" yellow",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04003"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Blue shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10136"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "Front panel for 705 (DO NOT RE-ORDER)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16046"
+    },
+    {
+        "description": "Rear panel for 705 (DO NOT RE-ORDER)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16047"
+    },
+    {
+        "description": "G-Stiffener short",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17013"
+    },
+    {
+        "description": "705 Base (DO NOT RE-ORDER)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17169"
+    },
+    {
+        "description": "705 Cover (DO NOT RE-ORDER)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17170"
+    },
+    {
+        "description": "C713B2/10 (DO NOT RE-ORDER)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19075"
+    }
+]

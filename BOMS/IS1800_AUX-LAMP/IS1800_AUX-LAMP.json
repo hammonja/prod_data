@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13035"
+    },
+    {
+        "description": "IS Auxilliary port baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13235_P1"
+    },
+    {
+        "description": "Auxilliary port baffle arm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13236_P1"
+    },
+    {
+        "description": "Auxilliary port baffle adaptor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13238_P1"
+    },
+    {
+        "description": "COVER AUX PORT IS1000",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13239"
+    },
+    {
+        "description": "250W Grit Blasted Quartz-Halogen Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17901"
+    }
+]

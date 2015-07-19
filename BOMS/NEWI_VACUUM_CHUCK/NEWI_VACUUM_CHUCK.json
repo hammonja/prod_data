@@ -1,0 +1,206 @@
+[
+    {
+        "description": "Temperature Sens AD590KH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09056"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Purge port pipe connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10119"
+    },
+    {
+        "description": "4 way, chassis mount plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10240"
+    },
+    {
+        "description": "SOCKET, 2MM, PANEL, RED, PK10",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "10313"
+    },
+    {
+        "description": "SOCKET, 2MM, PANEL, BLACK, PK10",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10314"
+    },
+    {
+        "description": " PLUG, D, T&D, 37WAY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10315"
+    },
+    {
+        "description": "HOOD, DIECAST, RAPID ASSEMBLY, 37WAY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10316"
+    },
+    {
+        "description": "SOCKET, D, T&D, 37WAY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10317"
+    },
+    {
+        "description": "PLUG, 2MM, RED, PK5",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10318"
+    },
+    {
+        "description": "PLUG, 2MM, BLACK, PK5",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10319"
+    },
+    {
+        "description": "Binding post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17168"
+    },
+    {
+        "description": "All over gold plating of 43485",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19505"
+    },
+    {
+        "description": "Gold plating of pins for Newi chuck",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19527"
+    },
+    {
+        "description": "BOX, ABS, IP65, GREY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19533"
+    },
+    {
+        "description": "Nylon hose clip",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19566"
+    },
+    {
+        "description": "Felt pad (pack of 4) (EAN 3206409 from B&Q)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19596"
+    },
+    {
+        "description": "Vacuum chuck vacuum nozzle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42704"
+    },
+    {
+        "description": "PV chuck pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43247"
+    },
+    {
+        "description": "Peltier for vacuum chuck.  CP1-127-045L-1-RTV",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43249"
+    },
+    {
+        "description": "Chuck table pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43253"
+    },
+    {
+        "description": "PV water block plug",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43286"
+    },
+    {
+        "description": "Vacuum chuck stopper",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "43289"
+    },
+    {
+        "description": "Vacuum hole covers",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "43315"
+    },
+    {
+        "description": "PV DH-Si cup",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43327"
+    },
+    {
+        "description": "ISSUE C DRAWING IS WRONG",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43485"
+    },
+    {
+        "description": "NEWI VC water chuck",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43486"
+    },
+    {
+        "description": "Gold plated spring for superstrate chuck",
+        "location": "",
+        "quantity": "80.00",
+        "stockcode": "43609"
+    },
+    {
+        "description": "Vacuum chuck pin",
+        "location": "",
+        "quantity": "60.00",
+        "stockcode": "43668"
+    },
+    {
+        "description": "Vacuum chuck spring tube",
+        "location": "",
+        "quantity": "60.00",
+        "stockcode": "43669"
+    },
+    {
+        "description": "NEWI PV chuck plate. Painted black powder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44273F"
+    },
+    {
+        "description": "NEWI PV chuck plate (un-painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44273P"
+    },
+    {
+        "description": "Sil Pad",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99038"
+    },
+    {
+        "description": "M3 Belleville Washer",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "99274"
+    }
+]

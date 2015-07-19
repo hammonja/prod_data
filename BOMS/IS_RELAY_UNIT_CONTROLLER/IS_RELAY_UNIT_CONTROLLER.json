@@ -1,0 +1,98 @@
+[
+    {
+        "description": "2K MRS25 MF",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02023"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "Green LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04053"
+    },
+    {
+        "description": "TRACOPOWER - TMH 0512D - CONVERTER, DC/DC, 2W, +/-12V/0.1A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05010"
+    },
+    {
+        "description": "PRO POWER - PV2 GROMMET PK 100 - GROMMET, 8MM, PK100",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10030"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 5 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10297"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "Small round rubber feet (bag of 60)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19112"
+    },
+    {
+        "description": "55mm X 80mm X 120mm ABS IP65 box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41816"
+    },
+    {
+        "description": "IS RELAY CONTROLLER BOX (material 41816P)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44239"
+    },
+    {
+        "description": "IS_RELAY_UNIT_CONTROLLER Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50032"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Power supply for Smokscreen colorimeter UK plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_SMOKESCREEN_UK"
+    }
+]

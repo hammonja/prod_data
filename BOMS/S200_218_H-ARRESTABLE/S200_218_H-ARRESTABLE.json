@@ -1,0 +1,104 @@
+[
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "PRO POWER - PV2 GROMMET PK 100 - GROMMET, 8MM, PK100",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10030"
+    },
+    {
+        "description": "7 way Amphenol socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10034"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Chopper mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12042"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "Coupler holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17001"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "218H connector box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17009"
+    },
+    {
+        "description": "Blade 2 slot mild steel version for EI",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17675"
+    },
+    {
+        "description": "Motor with end cap and 150mm long leads",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18007"
+    },
+    {
+        "description": "Arrestable chopper bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42539"
+    },
+    {
+        "description": "Electro-magnet for arrestable chopper (was RS 346-069)",
+        "location": "Mod in house to drw 43702",
+        "quantity": "1.00",
+        "stockcode": "42540"
+    },
+    {
+        "description": "12V relay for arrestable chopper",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42543"
+    },
+    {
+        "description": "1.8m Long 7 Way Cable for Arrestable Choppers",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB24"
+    }
+]

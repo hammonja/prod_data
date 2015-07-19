@@ -1,0 +1,446 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Cap 19mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10062"
+    },
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Lemo EGG.0B.305.CLL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10123"
+    },
+    {
+        "description": "M300 microswitch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11001"
+    },
+    {
+        "description": "M300 Optical float glass",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11002"
+    },
+    {
+        "description": "M300 Optical float follower",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11009"
+    },
+    {
+        "description": "M300 Optical float carrier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11012"
+    },
+    {
+        "description": "M300 Sine bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11022"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 Lead screw block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11037"
+    },
+    {
+        "description": "M300 Curved Mirror.  UV-AL coating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11038"
+    },
+    {
+        "description": "M300 0.25\" bearing R4AZZ",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11044"
+    },
+    {
+        "description": "M300 Index blanking plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11053"
+    },
+    {
+        "description": "M300 flexible coupler",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11057"
+    },
+    {
+        "description": "M300 Entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11077"
+    },
+    {
+        "description": "M300 Exit baffle",
+        "location": "Free issue to metalworker",
+        "quantity": "1.00",
+        "stockcode": "11081"
+    },
+    {
+        "description": "Fabricated M300 lid painted semi-gloss black / nextel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11120"
+    },
+    {
+        "description": "M300 Plain mirror mount",
+        "location": "Free issue to metalworker",
+        "quantity": "1.00",
+        "stockcode": "11121"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "M300 curved mirror mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11123"
+    },
+    {
+        "description": "M300 Mirror Retaining Block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11124"
+    },
+    {
+        "description": "M300 Grating mount base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11126"
+    },
+    {
+        "description": "M300 kinematic plate, painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11127F"
+    },
+    {
+        "description": "M300 kinematic plate, un-painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11127P"
+    },
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "M300 Cover plate - exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11132"
+    },
+    {
+        "description": "M300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11133"
+    },
+    {
+        "description": "M300 Mounting plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11134"
+    },
+    {
+        "description": "M300 BEARING SPACER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11136"
+    },
+    {
+        "description": "Grating head shaft (free issue 99904, 2 lengths per 20 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11193"
+    },
+    {
+        "description": "M300/DM150 Follower cup",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11194"
+    },
+    {
+        "description": "Opto wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11198"
+    },
+    {
+        "description": "Opto switch bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11199"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "Free issue to metalworker",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "Pin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11223"
+    },
+    {
+        "description": "Pressure plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11224"
+    },
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "M300 Lid gasket 3mm black S/A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11252"
+    },
+    {
+        "description": "252 Blanking plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11269"
+    },
+    {
+        "description": "1/4 to 1/8\" reducer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11272"
+    },
+    {
+        "description": "Shaft 0.25\" x 2.25\" (material 99904)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11319"
+    },
+    {
+        "description": "Turns counter for M300/DM150 with 1mm pitch lead screw",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11322"
+    },
+    {
+        "description": "M300 Unislide with 1mm pitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11325"
+    },
+    {
+        "description": "M300 Siko boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11340"
+    },
+    {
+        "description": "M300 Siko shaft ( FREE  ISSUE 99904, 2 lengths per 20 items)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11341"
+    },
+    {
+        "description": "M300 Siko bush",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11342"
+    },
+    {
+        "description": "Microswitch plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11349"
+    },
+    {
+        "description": "M300 SAM hole blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11350"
+    },
+    {
+        "description": "Bentham M300 connector panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16101"
+    },
+    {
+        "description": "Coupler holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17001"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "218B 5-slot blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17015"
+    },
+    {
+        "description": "M300 exit sam hole cover",
+        "location": "Free issue to metalworker",
+        "quantity": "1.00",
+        "stockcode": "17471"
+    },
+    {
+        "description": "Motor with end cap and 150mm long leads",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18007"
+    },
+    {
+        "description": "Stepper Motor 1.8 degrees",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18045"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": " ",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Female Screw Lock Assembly 13mm Long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19044"
+    },
+    {
+        "description": "'E' clip (040MS)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19104"
+    },
+    {
+        "description": "TM300 grating spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30007"
+    },
+    {
+        "description": "TMs300 blank slit position cover plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41021"
+    },
+    {
+        "description": "Soma M300 Chopper Support Block(Mod for 18007 motor)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42258"
+    },
+    {
+        "description": "Soma M300 Exit SAM Hole Cover (Free Issue 17471)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42259"
+    },
+    {
+        "description": "Soma M300 Exit Plain Mirror Mount (Free Issue 11121)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42260"
+    },
+    {
+        "description": "Soma M300 Exit Baffle (Free Issue 11081)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42261"
+    },
+    {
+        "description": "Soma Slit Top Hat Modification",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42269"
+    },
+    {
+        "description": "Gasket for use with blanking plate 11132",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45212"
+    },
+    {
+        "description": "M300 casting with internal chopper for Soma",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_SOMA_INT-218"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_VSS"
+    }
+]

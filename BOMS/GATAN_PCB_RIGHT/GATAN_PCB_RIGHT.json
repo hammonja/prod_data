@@ -1,0 +1,68 @@
+[
+    {
+        "description": "4k75 MRS25",
+        "location": "R1, 2",
+        "quantity": "2.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "Tyco 2 way header with catch",
+        "location": "Conn 8",
+        "quantity": "1.00",
+        "stockcode": "10299"
+    },
+    {
+        "description": "Tyco 4 way header with catch",
+        "location": "Conn 9, 10, 11",
+        "quantity": "3.00",
+        "stockcode": "10303"
+    },
+    {
+        "description": "Tyco 2 way RA header with catch",
+        "location": "Conn 5",
+        "quantity": "1.00",
+        "stockcode": "10305"
+    },
+    {
+        "description": "HEADER, RIGHT ANGLE, 0.1\", 4WAY",
+        "location": "Conn 2",
+        "quantity": "1.00",
+        "stockcode": "10324"
+    },
+    {
+        "description": "HEADER, RIGHT ANGLE, 0.1\", 3WAY",
+        "location": "Conn 3, 4",
+        "quantity": "2.00",
+        "stockcode": "10325"
+    },
+    {
+        "description": "PLUG, D, PCB, STRAIGHT, 37WAY",
+        "location": "Conn 1",
+        "quantity": "1.00",
+        "stockcode": "10326"
+    },
+    {
+        "description": "HEADER, RIGHT ANGLE, 0.1\", 6WAY",
+        "location": "Conn 6",
+        "quantity": "1.00",
+        "stockcode": "10327"
+    },
+    {
+        "description": "HEADER, RIGHT ANGLE, 0.1\", 7WAY",
+        "location": "Conn 7",
+        "quantity": "1.00",
+        "stockcode": "10328"
+    },
+    {
+        "description": "Pcb for right hand Gatan monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15106"
+    },
+    {
+        "description": "Lockpost for slidelock assembly",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19673"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Amphenol 5-way plugs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10039"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "Lemo EGG.0B.305.CLL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10123"
+    },
+    {
+        "description": "SMA cable plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10202"
+    },
+    {
+        "description": "SMA bulkhead jack (E2V 50mm OP-DI-MA sphere)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10271"
+    },
+    {
+        "description": "Lemo FGG.0B.305.CLAD31  (Connector (wire O/D 2.1 to 3.0mm))",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10277"
+    },
+    {
+        "description": "ARRI Detector Unit Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42051"
+    },
+    {
+        "description": "ARRI Detector Unit Body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42052"
+    },
+    {
+        "description": "ARRI Film Unit Detector Clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42053"
+    },
+    {
+        "description": "ARRI Detector Unit Connector Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42054"
+    },
+    {
+        "description": "ARRI Detector Unit 'O' ring (bag of 50)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42062"
+    },
+    {
+        "description": "UV silicon, 5mm dia, single stage te cooled from EOS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42063"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Ondrives DP4.0-8 (dowell 4mm x8mm)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19166"
+    },
+    {
+        "description": "QC Adapter Fixed Plate Sealing 'O' Ring (Bag of 50)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "40042"
+    },
+    {
+        "description": "Andor camera mount plate back",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42743"
+    },
+    {
+        "description": "Mod to VSS for use with slit / Andor mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42744"
+    },
+    {
+        "description": "Kinematic slit mount plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42745"
+    },
+    {
+        "description": "Andor camera mount side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42747"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "description": "2K 25 Turn PCB mounting",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03018"
+    },
+    {
+        "description": "SLD-70C1A FSM150Xe output signal optimiser detector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09125"
+    },
+    {
+        "description": "PRO POWER - PV2 GROMMET PK 100 - GROMMET, 8MM, PK100",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10030"
+    },
+    {
+        "description": "FSM150Xe output signal optimiser meter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18093"
+    },
+    {
+        "description": "0-100 scale for FSM150Xe meter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18094"
+    },
+    {
+        "description": "Box for FSM optimiser (machined)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19326F"
+    },
+    {
+        "description": "Box for FSM Optimiser",
+        "location": "Free issue to B&M",
+        "quantity": "1.00",
+        "stockcode": "19326P"
+    },
+    {
+        "description": "FSM150Xe output signal optimiser diode to fibre connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27346"
+    },
+    {
+        "description": "FSM150Xe Acrylic Rod (Made in House)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27383"
+    },
+    {
+        "description": "Clear Acrylic Rod 4.8 diameter. 3 foot long (see memo)",
+        "location": "",
+        "quantity": "0.20",
+        "stockcode": "99910"
+    }
+]

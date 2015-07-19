@@ -1,0 +1,74 @@
+[
+    {
+        "description": "DTR4 Au Exit Hemisphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13076_M3"
+    },
+    {
+        "description": "DTR4 Au Entrance Hemisphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13076_M4"
+    },
+    {
+        "description": "BAE IS4 sphere retaining ring 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41802"
+    },
+    {
+        "description": "BAE IS4 sphere retaining ring 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41803"
+    },
+    {
+        "description": "DTR4 Au Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46767"
+    },
+    {
+        "description": "DTR4 Au Entrance Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46768"
+    },
+    {
+        "description": "DTR4 Au Exit Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46769"
+    },
+    {
+        "description": "DTR4 Au Cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46770"
+    },
+    {
+        "description": "DTR4 Au Through Port",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46771"
+    },
+    {
+        "description": "DTR4 Au Sample Clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46772"
+    },
+    {
+        "description": "DTR4 Au Reflectance Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46773"
+    },
+    {
+        "description": "Water Jet finishing of DTR4 Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19868"
+    }
+]

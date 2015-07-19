@@ -1,0 +1,140 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,47R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02129"
+    },
+    {
+        "description": "Opto for Accent MVSS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04004"
+    },
+    {
+        "description": "Connector 9-way 'D' socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10098"
+    },
+    {
+        "description": "Circlip 6mm (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11314"
+    },
+    {
+        "description": "MVSS Optowheel 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11345"
+    },
+    {
+        "description": "MVSS Optowheel 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11346"
+    },
+    {
+        "description": "MVSS_GEARBOX_PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11360"
+    },
+    {
+        "description": "MVSS_GEARBOX (fi 19162 19163)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11361"
+    },
+    {
+        "description": "MVSS 2 Idler shaft  (free issue 99903, 2 lengths pe 20)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11362"
+    },
+    {
+        "description": "MVSS2 Riser",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11367"
+    },
+    {
+        "description": "MVSS PCB support (free issue 15038)",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "11388"
+    },
+    {
+        "description": "Surface mount 15071 (MVSS pcb)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15071"
+    },
+    {
+        "description": "In house modification of 30118 for MVSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17594"
+    },
+    {
+        "description": "9 way connector mounting block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17666"
+    },
+    {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19002"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "Accent MVSS spindle (free issue 99903, 1 lenght per 5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42731"
+    },
+    {
+        "description": "Accent MVSS thrust washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42732"
+    },
+    {
+        "description": "Accent MVSS spindle sleeve",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42734"
+    },
+    {
+        "description": "NOC special slit block 5",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46047"
+    },
+    {
+        "description": "Gear for use in MVSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MVSS_GEAR_1"
+    },
+    {
+        "description": "Gear for use in MVSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MVSS_GEAR_2"
+    },
+    {
+        "description": "Gear for use in MVSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MVSS_GEAR_3"
+    }
+]

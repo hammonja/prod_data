@@ -1,0 +1,104 @@
+[
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "Micrometer head Starrett 463ML",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11069"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "Thorlabs CL5 Breadboard clamp",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45185"
+    },
+    {
+        "description": "Calibration mic. mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45205"
+    },
+    {
+        "description": "Al bar, laser height guage",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46075"
+    },
+    {
+        "description": "laser target",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46076"
+    },
+    {
+        "description": "Stage Upright Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46080"
+    },
+    {
+        "description": "right angled bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46081"
+    },
+    {
+        "description": "Target Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46082"
+    },
+    {
+        "description": "Stage Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46083"
+    },
+    {
+        "description": "45 degree bloc bottom",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46084"
+    },
+    {
+        "description": "Top 45 degree block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46085"
+    },
+    {
+        "description": "mirror cover back plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46086"
+    },
+    {
+        "description": "Nylon Stop",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46089"
+    },
+    {
+        "description": "Nylon micrometer end",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46090"
+    }
+]

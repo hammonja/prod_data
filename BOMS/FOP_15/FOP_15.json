@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Glass fibre bundle 6mm diameter to 6mm diameter, 15m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12196"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "Ninewells split ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42966"
+    },
+    {
+        "description": "Mirror image fibre holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43636"
+    },
+    {
+        "description": "Mirror image exit optic",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43637"
+    }
+]

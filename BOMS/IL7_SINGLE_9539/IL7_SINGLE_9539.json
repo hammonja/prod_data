@@ -1,0 +1,218 @@
+[
+    {
+        "description": "Cap 19mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10062"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Silica lens, dia 36 +0.0/-0.2mm, fl 63mm, pcx",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13121"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "leadscrew Item 2",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17004"
+    },
+    {
+        "description": "leadscrew Item 4",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "17005"
+    },
+    {
+        "description": "IL1/IL6/IL7 lead screw item 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17030"
+    },
+    {
+        "description": "Leadscrew - Item 3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "17031"
+    },
+    {
+        "description": "IL6 Cover Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17075"
+    },
+    {
+        "description": "IL6 foot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17190"
+    },
+    {
+        "description": "IL6 INSULATOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17191"
+    },
+    {
+        "description": "IL6 CATHODE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17192"
+    },
+    {
+        "description": "IL6 Leadscrew item",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17194"
+    },
+    {
+        "description": "IL6 Fan plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17199"
+    },
+    {
+        "description": "IL6 Bottom Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17200"
+    },
+    {
+        "description": "IL6 Condenser tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17228"
+    },
+    {
+        "description": "IL6 Condenser ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17229"
+    },
+    {
+        "description": "Fan spacer in IL7",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "17469"
+    },
+    {
+        "description": "IL6/7 Side 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17601"
+    },
+    {
+        "description": "IL6/7 Side 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17602"
+    },
+    {
+        "description": "IL6/7 Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17603"
+    },
+    {
+        "description": "IL7 Back Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17605"
+    },
+    {
+        "description": "80mm fan finger guard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18044"
+    },
+    {
+        "description": "TLS starter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18064"
+    },
+    {
+        "description": "12V fan for CL6 etc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18112"
+    },
+    {
+        "description": "Spacer Painted",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19031_P1"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "Grommet 6.4 Dia. cable hole",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19051"
+    },
+    {
+        "description": "XBO 150W/CR OFR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19084"
+    },
+    {
+        "description": "Fastener self clinch M4",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19086"
+    },
+    {
+        "description": "4mm crimp ring terminal",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19092"
+    },
+    {
+        "description": "IL1, 6, 7 QC Snout",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43987"
+    },
+    {
+        "description": "IL7 starter cover box",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "44361"
+    },
+    {
+        "description": "For use with TLS starter when used with 605",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INVERTER_BOARD_605"
+    }
+]

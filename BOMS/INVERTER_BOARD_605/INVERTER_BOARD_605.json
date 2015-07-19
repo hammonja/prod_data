@@ -1,0 +1,92 @@
+[
+    {
+        "description": "4R7, 2.5W, WW",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02040"
+    },
+    {
+        "description": "1A 1000V Rectifier silicon",
+        "location": "D2, 3",
+        "quantity": "2.00",
+        "stockcode": "04006"
+    },
+    {
+        "description": "Zener diode 27V, 5W",
+        "location": "ZD1",
+        "quantity": "1.00",
+        "stockcode": "04017"
+    },
+    {
+        "description": "1N5404",
+        "location": "D4",
+        "quantity": "1.00",
+        "stockcode": "04018"
+    },
+    {
+        "description": "VISHAY  BZT03C82-TR  DIODE, ZENER, 82V, 3.25W",
+        "location": "ZD2",
+        "quantity": "1.00",
+        "stockcode": "04057"
+    },
+    {
+        "description": "5.1V Zener diode,1N5338B 5W",
+        "location": "In input leg of 12V reg, bar to pcb",
+        "quantity": "1.00",
+        "stockcode": "04055"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "U1",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "Relay",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07044"
+    },
+    {
+        "description": "1500uF, 160V",
+        "location": "C1",
+        "quantity": "1.00",
+        "stockcode": "08001"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "C3",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Pcb for new igniter (15 day)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15095"
+    },
+    {
+        "description": "Relay for xenon ignitor",
+        "location": "FIT AFTER CLEANING BOARD",
+        "quantity": "1.00",
+        "stockcode": "18027"
+    },
+    {
+        "description": "Inverter for xenon lamp starter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18101"
+    },
+    {
+        "description": "25.4mm capacitor clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19529"
+    }
+]

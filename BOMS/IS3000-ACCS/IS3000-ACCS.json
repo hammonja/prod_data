@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Painted part 13329",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45243_P1"
+    },
+    {
+        "description": "Painted part 45239",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45239_P1"
+    },
+    {
+        "description": "Painted Part 45240",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45240_P1"
+    },
+    {
+        "description": "Total spectral radiant flux with 250W qh lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_TSRF_250W"
+    },
+    {
+        "description": "Auxilliary lamp assembly for IS1800",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS1800_AUX-LAMP"
+    },
+    {
+        "description": "IS1800 Auxillary port mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13215"
+    }
+]

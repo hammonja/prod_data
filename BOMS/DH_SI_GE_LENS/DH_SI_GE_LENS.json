@@ -1,0 +1,56 @@
+[
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Lens, silica, pcx, f=50, dia=25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13448"
+    },
+    {
+        "description": "DH-Si-Ge housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43656"
+    },
+    {
+        "description": "DH-Si-Ge body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43657"
+    },
+    {
+        "description": "DH-Si-Ge lens spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43658"
+    },
+    {
+        "description": "DH-Si-Ge detector cup",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43659"
+    },
+    {
+        "description": "Silica, pvx, f=32, dia.=25.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43661"
+    },
+    {
+        "description": "5mm uv Si on 3mm Ge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43662"
+    }
+]

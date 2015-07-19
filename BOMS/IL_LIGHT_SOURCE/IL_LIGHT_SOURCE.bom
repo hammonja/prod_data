@@ -1,0 +1,5 @@
+IL_LIGHT_SOURCE,IL1,100W qh based light source, silica lens,,0,1.00,,,,,
+IL_LIGHT_SOURCE,PSU_605,250W Constant Current Power Supply,,1,1.00,,,,,
+IL_LIGHT_SOURCE,CERTIFICATE_ORIGIN,Certificate of Origin,,2,1.00,,,,,
+IL_LIGHT_SOURCE,23016,Mains cable, Australian plug,,3,1.00,,,,,
+IL_LIGHT_SOURCE,PACK&CARR,Packing and Carriage General Charge,,4,1.00,,,,,

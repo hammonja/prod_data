@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Dual Source Leg",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46502"
+    },
+    {
+        "description": "Dual Source Leg Nut",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46503"
+    },
+    {
+        "description": "Dual Source Studding",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46504"
+    }
+]

@@ -1,0 +1,5 @@
+BGS400,BGS400_BASE_STAGE,BGS400 Base Unit including stage,,0,1.00,,,,,
+BGS400,BGS400_DETECTOR_UNIT,BGS400 Detector Assembly,,1,1.00,,,,,
+BGS400,BGS400_DRIVE_UNIT,Incomplete BOM / Contact R&D,,2,1.00,,,,,
+BGS400,BGS400_LAMP_DRIVE_UNIT,BGS400 Lamp Drive Unit,,3,1.00,,,,,
+BGS400,BGS400_LAMP_SUPPORT,BGS400 Lamp Support Assembly,,4,1.00,,,,,

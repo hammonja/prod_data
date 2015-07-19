@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Calibration of Cecil sphere referance piece",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19609"
+    },
+    {
+        "description": "Cecil reflectance piece",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44085"
+    },
+    {
+        "description": "Cecil reference piece",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44086"
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "description": "10R MRS25",
+        "location": "R19",
+        "quantity": "1.00",
+        "stockcode": "02004"
+    },
+    {
+        "description": "330R MRS25",
+        "location": "R13",
+        "quantity": "1.00",
+        "stockcode": "02016"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R6",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R9,R10,R11,R12",
+        "quantity": "4.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "100K MRS25",
+        "location": "R22",
+        "quantity": "1.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "470R, MRS25",
+        "location": "R14,R15,R16,R17,R18,R20, R21",
+        "quantity": "7.00",
+        "stockcode": "02079"
+    },
+    {
+        "description": "511K MRS25",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "02091"
+    },
+    {
+        "description": "Capacitor 2n2 Polypropylene FKP2",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08043"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "CD,C8,C9,C10,C13",
+        "quantity": "11.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 10uF 16V electrolytic mini",
+        "location": "C1",
+        "quantity": "1.00",
+        "stockcode": "08045"
+    },
+    {
+        "description": "Capacitor 22pF ceramic plate",
+        "location": "C6 , C7",
+        "quantity": "2.00",
+        "stockcode": "08047"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 100pF",
+        "location": "C11,C12",
+        "quantity": "2.00",
+        "stockcode": "08062"
+    },
+    {
+        "description": "20MHz crystal",
+        "location": "XTAL1",
+        "quantity": "1.00",
+        "stockcode": "08117"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "14 Way DIL Socket Low Profile 0.3\"",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10054"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "",
+        "quantity": "9.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "connector 40-Way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10057"
+    },
+    {
+        "description": "Connector 26-Way boxed header",
+        "location": "PL1",
+        "quantity": "1.00",
+        "stockcode": "10080"
+    },
+    {
+        "description": "Connector 34 way header",
+        "location": "PL2",
+        "quantity": "1.00",
+        "stockcode": "10090"
+    },
+    {
+        "description": "Connector 24-Way DIL 0.3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10115"
+    },
+    {
+        "description": "Tyco 3 way header with catch",
+        "location": "I2C1, I2C2",
+        "quantity": "2.00",
+        "stockcode": "10300"
+    },
+    {
+        "description": "485_USB Issue 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15007"
+    },
+    {
+        "description": "PIC16F877A-I/P",
+        "location": "IC3,IC2 ( DO NOT FIT)",
+        "quantity": "2.00",
+        "stockcode": "20011"
+    },
+    {
+        "description": "VFC in 228A (AD652AQ) (alternative FEC  223-1177)",
+        "location": "IC8",
+        "quantity": "1.00",
+        "stockcode": "20025"
+    },
+    {
+        "description": "IC 74HC132",
+        "location": "IC20",
+        "quantity": "1.00",
+        "stockcode": "20047"
+    },
+    {
+        "description": "SN74HC193N",
+        "location": "IC17,IC18,IC19",
+        "quantity": "3.00",
+        "stockcode": "20050"
+    },
+    {
+        "description": "74HC4516",
+        "location": "IC9,IC10,IC11",
+        "quantity": "3.00",
+        "stockcode": "20052"
+    },
+    {
+        "description": "AD7245AANZ",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "20053"
+    },
+    {
+        "description": "Texas 8 bit binary counter  SN74LS590N",
+        "location": "IC4 , IC5",
+        "quantity": "2.00",
+        "stockcode": "21002"
+    },
+    {
+        "description": "74HC74 (Philips only)",
+        "location": "IC16, IC6",
+        "quantity": "2.00",
+        "stockcode": "21040"
+    }
+]

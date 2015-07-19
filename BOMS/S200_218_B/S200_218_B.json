@@ -1,0 +1,26 @@
+[
+    {
+        "description": "218B 2-slot blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17014"
+    },
+    {
+        "description": "218B 5-slot blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17015"
+    },
+    {
+        "description": "218B 10-slot blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17016"
+    },
+    {
+        "description": "218B 30-slot blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17017"
+    }
+]

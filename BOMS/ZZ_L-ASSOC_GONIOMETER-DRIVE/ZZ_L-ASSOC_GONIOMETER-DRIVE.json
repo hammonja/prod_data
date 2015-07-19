@@ -1,0 +1,248 @@
+[
+    {
+        "description": "Fuse 2.5A slow blow",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01005"
+    },
+    {
+        "description": "20K MRS25",
+        "location": "R1..R8",
+        "quantity": "8.00",
+        "stockcode": "02037"
+    },
+    {
+        "description": "M64W103KB40 - TRIMMER, POT, 10K",
+        "location": "R9",
+        "quantity": "1.00",
+        "stockcode": "03009"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Green LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04053"
+    },
+    {
+        "description": "dc-dc, 18-36V in,  5V @ 600mA out",
+        "location": "CONV1",
+        "quantity": "1.00",
+        "stockcode": "05007"
+    },
+    {
+        "description": "KBPC25005 bridge rectifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05013"
+    },
+    {
+        "description": "3 Amp stepping motor drive chip LMD18245T",
+        "location": "IC1 , IC2 , IC3 , IC4",
+        "quantity": "4.00",
+        "stockcode": "06018"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 2n2 Polypropylene FKP2",
+        "location": "C1,C2,C7,C8",
+        "quantity": "4.00",
+        "stockcode": "08043"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C11",
+        "quantity": "1.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 47000uF, 40V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08055"
+    },
+    {
+        "description": "Capacitor clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08056"
+    },
+    {
+        "description": "Capacitor 1uF 50V",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08058"
+    },
+    {
+        "description": "Capacitor 10uF, 63V",
+        "location": "C6",
+        "quantity": "1.00",
+        "stockcode": "08081"
+    },
+    {
+        "description": "Capacitor 470pF 1000V rad 5mm",
+        "location": "C3 ,C4 ,C9,C10",
+        "quantity": "4.00",
+        "stockcode": "08105"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "Connector 34 way header",
+        "location": "Conn1",
+        "quantity": "1.00",
+        "stockcode": "10090"
+    },
+    {
+        "description": "Connector 34 way header",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10090"
+    },
+    {
+        "description": "8 Pin Terminal Block",
+        "location": "Motor 1 , Motor 2",
+        "quantity": "2.00",
+        "stockcode": "10100"
+    },
+    {
+        "description": "Connector 34 way bump polarised",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10104"
+    },
+    {
+        "description": "9 Way cable plug",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10138"
+    },
+    {
+        "description": "9  Way chassis socket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10141"
+    },
+    {
+        "description": "8 Way Crimp Socket Housing  EHR-8",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10229"
+    },
+    {
+        "description": "3 way crimp socket housing  EHR-3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10230"
+    },
+    {
+        "description": "2 Way Crimp Socket Housing  EHR-2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10231"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "30mm M3 Pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15087"
+    },
+    {
+        "description": "3Amp Stepper Drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15094"
+    },
+    {
+        "description": "605 Rear panel bracket for bin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "16008"
+    },
+    {
+        "description": "605 Rear panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16009"
+    },
+    {
+        "description": "Mac bin front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16044"
+    },
+    {
+        "description": "605 Tray",
+        "location": "NEEDS MODIFICATION BEFORE FITTING",
+        "quantity": "1.00",
+        "stockcode": "17140"
+    },
+    {
+        "description": "Plate Transformer 605",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17581"
+    },
+    {
+        "description": "Un-machined 608 heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17607"
+    },
+    {
+        "description": "Fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18016"
+    },
+    {
+        "description": "Transformer 300VA. 25Vac, 25Vac.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18029"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "Schroff bin full width.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22015"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]

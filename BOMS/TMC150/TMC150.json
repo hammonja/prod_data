@@ -1,0 +1,98 @@
+[
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "DM15 curved mirror mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11166"
+    },
+    {
+        "description": "Spherical mirror 150mm focal length.  UV-AL coating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11167"
+    },
+    {
+        "description": "DM150 Curved mirror cover (NB Ally. NOT ACETAL )",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11226"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "Small round rubber feet (bag of 60)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19112"
+    },
+    {
+        "description": "MDC150 Bottom Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44118"
+    },
+    {
+        "description": "MDC150 Plain Mirror Mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44125"
+    },
+    {
+        "description": "Plain mirror, 30 x 16 x 3mm.  Al + overcoat, 200nm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44126"
+    },
+    {
+        "description": "MDC150 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44128"
+    },
+    {
+        "description": "MDC150 exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44129"
+    },
+    {
+        "description": "MDC150 pcb bracket LH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44130"
+    },
+    {
+        "description": "MDC150 pcb bracket RH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44131"
+    },
+    {
+        "description": "MDC150 grating stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44133"
+    },
+    {
+        "description": "TMc150 Loaded Motor Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC150_CARD"
+    },
+    {
+        "description": "TMc150 Turret",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC150_TURRET"
+    }
+]

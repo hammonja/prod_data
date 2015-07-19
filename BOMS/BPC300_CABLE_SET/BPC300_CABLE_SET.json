@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "25 way D plug + 3 x 20A connections",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10210"
+    },
+    {
+        "description": "25 way D socket + 3 x 20A connections",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10211"
+    },
+    {
+        "description": "20A Straight plug Power 'D'",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10212"
+    },
+    {
+        "description": "Socket straight Power 'D' 20A",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10213"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Connector 10 Way IDC",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10248"
+    },
+    {
+        "description": "10 way IDC",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10254"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "SparkFun L6470 Auto Driver Stepping Board",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18142"
+    },
+    {
+        "description": "LPM PCB Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46705"
+    },
+    {
+        "description": "Bulgin 12-way female connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46712"
+    },
+    {
+        "description": "Bulgin Socket Crimps",
+        "location": "",
+        "quantity": "24.00",
+        "stockcode": "46714"
+    },
+    {
+        "description": "LPM-CONTROL-BRDS Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50008"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]

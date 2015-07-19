@@ -1,0 +1,314 @@
+[
+    {
+        "description": "220R MRS25",
+        "location": "R24, R38",
+        "quantity": "2.00",
+        "stockcode": "02015"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R28, R30",
+        "quantity": "2.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "2K MRS25 MF",
+        "location": "R3, R5, R11, R29, R31",
+        "quantity": "5.00",
+        "stockcode": "02023"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R19, R32, R33, R37",
+        "quantity": "4.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "18K MRS25",
+        "location": "R4, R6",
+        "quantity": "2.00",
+        "stockcode": "02036"
+    },
+    {
+        "description": "20K MRS25",
+        "location": "R22, R23, R36",
+        "quantity": "3.00",
+        "stockcode": "02037"
+    },
+    {
+        "description": "100K MRS25",
+        "location": "R20, R34, R35",
+        "quantity": "3.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "1k1, MRS25",
+        "location": "R21",
+        "quantity": "1.00",
+        "stockcode": "02073"
+    },
+    {
+        "description": "2K7 MRS25",
+        "location": "R8, R10",
+        "quantity": "2.00",
+        "stockcode": "02074"
+    },
+    {
+        "description": "22K, MRS25",
+        "location": "R27",
+        "quantity": "1.00",
+        "stockcode": "02075"
+    },
+    {
+        "description": "10M MRS25",
+        "location": "R15, R25, R39",
+        "quantity": "3.00",
+        "stockcode": "02076"
+    },
+    {
+        "description": "9K1 MRS25",
+        "location": "R12",
+        "quantity": "1.00",
+        "stockcode": "02094"
+    },
+    {
+        "description": "3K9 MRS25",
+        "location": "R13",
+        "quantity": "1.00",
+        "stockcode": "02101"
+    },
+    {
+        "description": "475k, MRS25",
+        "location": "R1, R26",
+        "quantity": "2.00",
+        "stockcode": "02102"
+    },
+    {
+        "description": "180K MRS25",
+        "location": "R18",
+        "quantity": "1.00",
+        "stockcode": "02224"
+    },
+    {
+        "description": "22K Resnet x 4 Single res",
+        "location": "R14",
+        "quantity": "1.00",
+        "stockcode": "02225"
+    },
+    {
+        "description": "300R MRS25",
+        "location": "R7, R9",
+        "quantity": "2.00",
+        "stockcode": "02226"
+    },
+    {
+        "description": "20K .5W Cermet PCB mounting",
+        "location": "R16, R17",
+        "quantity": "2.00",
+        "stockcode": "03011"
+    },
+    {
+        "description": "1N4148",
+        "location": "D1, D2, D3, D4",
+        "quantity": "4.00",
+        "stockcode": "04007"
+    },
+    {
+        "description": "Capacitor 0.33uF 200V metalised",
+        "location": "C22, C23",
+        "quantity": "2.00",
+        "stockcode": "08025"
+    },
+    {
+        "description": "Capacitor 2n2 Polypropylene FKP2",
+        "location": "C13",
+        "quantity": "1.00",
+        "stockcode": "08043"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C2, C7, C8, C15, C16, C19, C20, C26, C27",
+        "quantity": "9.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 10uF 16V electrolytic mini",
+        "location": "C1, C9, C10",
+        "quantity": "3.00",
+        "stockcode": "08045"
+    },
+    {
+        "description": "Capacitor 4.7pF Ceramic Plate",
+        "location": "C14",
+        "quantity": "1.00",
+        "stockcode": "08049"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C24, C25",
+        "quantity": "2.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 680nF 63V",
+        "location": "C3",
+        "quantity": "1.00",
+        "stockcode": "08053"
+    },
+    {
+        "description": "Capacitor 1uF 50V",
+        "location": "C18",
+        "quantity": "1.00",
+        "stockcode": "08058"
+    },
+    {
+        "description": "Capacitor 1nF 100v boxed polyester",
+        "location": "C11",
+        "quantity": "1.00",
+        "stockcode": "08059"
+    },
+    {
+        "description": "Capacitor 6n8",
+        "location": "C12",
+        "quantity": "1.00",
+        "stockcode": "08068"
+    },
+    {
+        "description": "Capacitor 10pF 100V",
+        "location": "C17, C28",
+        "quantity": "2.00",
+        "stockcode": "08069"
+    },
+    {
+        "description": "TZ03 ceramic trimmer capacitor,  2.7-10pF",
+        "location": "C21",
+        "quantity": "1.00",
+        "stockcode": "08070"
+    },
+    {
+        "description": "Capacitor 22n",
+        "location": "C4",
+        "quantity": "1.00",
+        "stockcode": "08071"
+    },
+    {
+        "description": "Capacitor 68n",
+        "location": "C6",
+        "quantity": "1.00",
+        "stockcode": "08072"
+    },
+    {
+        "description": "Capacitor 220n",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08073"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "20 Way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10020"
+    },
+    {
+        "description": "14 Way DIL Socket Low Profile 0.3\"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10054"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "Connector 26-Way boxed header",
+        "location": "PL1",
+        "quantity": "1.00",
+        "stockcode": "10080"
+    },
+    {
+        "description": "pcb  \" 225 SIG Iss 3 \". Lead free HASL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15046"
+    },
+    {
+        "description": "IC LM393N",
+        "location": "IC8",
+        "quantity": "1.00",
+        "stockcode": "20026"
+    },
+    {
+        "description": "LF353N Dual Op-Amp DIP8",
+        "location": "IC17",
+        "quantity": "1.00",
+        "stockcode": "20043"
+    },
+    {
+        "description": "IC SD5000N  ST 9124",
+        "location": "IC16",
+        "quantity": "1.00",
+        "stockcode": "20054"
+    },
+    {
+        "description": "IC MM74HC4538N (was Farnell 1013952)",
+        "location": "IC14",
+        "quantity": "1.00",
+        "stockcode": "20055"
+    },
+    {
+        "description": "LT1012CN8",
+        "location": "IC10, IC11",
+        "quantity": "2.00",
+        "stockcode": "20056"
+    },
+    {
+        "description": "LT1057CN8#PBF",
+        "location": "IC12, IC13",
+        "quantity": "2.00",
+        "stockcode": "20057"
+    },
+    {
+        "description": "PALCE16V8Z-25PC programmed for BEN2251",
+        "location": "IC1 ",
+        "quantity": "1.00",
+        "stockcode": "21001-BEN2251"
+    },
+    {
+        "description": "PALCE16V8Z-25PC programmed for BEN2252",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "21001-BEN2252"
+    },
+    {
+        "description": "DG419DJ Anologue Switch SPDT",
+        "location": "IC18",
+        "quantity": "1.00",
+        "stockcode": "21037"
+    },
+    {
+        "description": "74HC74 (Philips only)",
+        "location": "IC15",
+        "quantity": "1.00",
+        "stockcode": "21040"
+    },
+    {
+        "description": "IC DG413DJ",
+        "location": "IC3, IC4, IC5, IC6, IC7, IC9",
+        "quantity": "6.00",
+        "stockcode": "21045"
+    }
+]

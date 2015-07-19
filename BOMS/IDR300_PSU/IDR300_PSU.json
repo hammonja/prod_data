@@ -1,0 +1,140 @@
+[
+    {
+        "description": "220R MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02015"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "3k92 MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02241"
+    },
+    {
+        "description": "LM317AHVT - IC, LDO VOLT REG, 57V, 1.5A, TO-220",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05012"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "TEN 5-2423 - CONVERTER, DC/DC, 5W, +/-15V  (200mA)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05034"
+    },
+    {
+        "description": "TEN 5-2411WI : DC/DC converter,9-36Vin,5Vo 1A,5W",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05049"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 1uF 50V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08058"
+    },
+    {
+        "description": "Capacitor 4700 uF 35V",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08098"
+    },
+    {
+        "description": "Connector miniature tag strips",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10070"
+    },
+    {
+        "description": "Connector  64 way 2 rows",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10085"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "Transformer 100VA. 15Vac, 15Vac (was Farnell 9530487)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18071"
+    },
+    {
+        "description": "22mm capacitor clip",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19142"
+    },
+    {
+        "description": "P clips (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19149"
+    },
+    {
+        "description": "Plate for IDR300_PSU",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43338"
+    },
+    {
+        "description": "TO220 insulator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99023"
+    },
+    {
+        "description": "TO-220 Insulating Bush (pack of 10)Manual adjust stock",
+        "location": "Trim for thickness of 05012",
+        "quantity": "1.00",
+        "stockcode": "99024"
+    },
+    {
+        "description": "6.3mm flag receptacle,0.75-2.3 sq.mm",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99199"
+    },
+    {
+        "description": "6.3mm flag receptacle Insulating sleeve",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99201"
+    },
+    {
+        "description": "IDR300_PSU Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50071"
+    }
+]

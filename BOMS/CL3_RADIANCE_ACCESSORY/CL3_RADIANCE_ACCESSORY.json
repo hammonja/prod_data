@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Dowel pin 3x8mm (hardened and ground)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19134"
+    },
+    {
+        "description": "CL3 radiance clamp and arm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45200"
+    },
+    {
+        "description": "CL3 radiance pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45202"
+    },
+    {
+        "description": "CL3 Radiance holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45203"
+    },
+    {
+        "description": "CL3 radiance plaque (FREE ISSUE 99026x0.25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45204"
+    },
+    {
+        "description": "FL250 porous PTFE moulded rod, OD 75mm, length 135mm",
+        "location": "",
+        "quantity": "0.25",
+        "stockcode": "99026"
+    }
+]

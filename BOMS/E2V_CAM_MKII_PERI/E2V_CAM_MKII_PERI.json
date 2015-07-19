@@ -1,0 +1,236 @@
+[
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10125"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "Blue shrouded plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10135"
+    },
+    {
+        "description": "Green shrouded plug (pack of 5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10222"
+    },
+    {
+        "description": "Thumb screw M3 x 8 DYED BLACK",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13066"
+    },
+    {
+        "description": "Fan guard - 1",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18040"
+    },
+    {
+        "description": "E2V filter holder",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18083"
+    },
+    {
+        "description": "fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18086"
+    },
+    {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19002"
+    },
+    {
+        "description": "dowel pin parallel mild steel (bag of 25)",
+        "location": "",
+        "quantity": "0.36",
+        "stockcode": "19006"
+    },
+    {
+        "description": "E2V shutter (12V version)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19248"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "kit 4",
+        "quantity": "0.02",
+        "stockcode": "19305"
+    },
+    {
+        "description": "Melles shutter controller",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19379"
+    },
+    {
+        "description": "Power supply for 19379",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19380"
+    },
+    {
+        "description": "E2V fan mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27095"
+    },
+    {
+        "description": "E2V shutter mount plate 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27129"
+    },
+    {
+        "description": "E2V shutter mount plate 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27190"
+    },
+    {
+        "description": "E2V Periscope Light Source Output Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27425"
+    },
+    {
+        "description": "E2V Sphere Clamp Upright",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27426"
+    },
+    {
+        "description": "E2V Sphere Clamp Upright Full Cross Member",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27427"
+    },
+    {
+        "description": "E2V Sphere Clamp Upright Short Cross Member",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27428"
+    },
+    {
+        "description": "E2V Periscope Version Sphere Support",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27437"
+    },
+    {
+        "description": "THORLABS 1.035-40 Retainin Ring",
+        "location": "",
+        "quantity": "30.00",
+        "stockcode": "44247"
+    },
+    {
+        "description": "1\" Tube Washer",
+        "location": "",
+        "quantity": "30.00",
+        "stockcode": "44254"
+    },
+    {
+        "description": "Teardrop Porthole Cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46010"
+    },
+    {
+        "description": "E2V Periscope Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46172"
+    },
+    {
+        "description": "E2V Periscope Source Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46220_M1"
+    },
+    {
+        "description": "E2V 100mm Sphere for Filterbased Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_100MM_SPHERE"
+    },
+    {
+        "description": "Connector Panel for E2V Fliter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_CONNECTOR_PANEL"
+    },
+    {
+        "description": "Double 10 Position Wheel for Filter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_DOUBLE_FILTER_WHEEL"
+    },
+    {
+        "description": "Periscope Sub Assembly for Filter Based Light Source",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_PERISCOPE_SUB"
+    },
+    {
+        "description": "Removable QH sub assembled for Filter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_QH_SUB"
+    },
+    {
+        "description": "Single 10 Position Wheel for Peri Filter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_SINGLE_FILTER_WHEEL_PERI"
+    },
+    {
+        "description": "SAM for E2V Filter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_SWING_MIRROR_SUB"
+    },
+    {
+        "description": "Xenon Ignitor Sub Assembly for Filter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_XE_IGNITOR"
+    },
+    {
+        "description": "Removable XE sub assembled for Filter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_XE_SUB"
+    },
+    {
+        "description": "Cable set for e2v light source",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ZZ_E2V_CAM_CABLES"
+    }
+]

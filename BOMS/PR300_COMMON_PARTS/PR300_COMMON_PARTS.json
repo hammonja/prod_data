@@ -1,0 +1,128 @@
+[
+    {
+        "description": "M300 Cover plate - exit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11132"
+    },
+    {
+        "description": "Connector port cover (blanking plate)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17390"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "TM300 grating spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30007"
+    },
+    {
+        "description": "TM Grating adjuster (Free issue 17254)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30008"
+    },
+    {
+        "description": "Accent Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30046"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30047"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "Hi-Tech grating stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42809"
+    },
+    {
+        "description": "Nanometrics grating mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43153"
+    },
+    {
+        "description": "Nanometrics clamp plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43154"
+    },
+    {
+        "description": "Nanometrics sam plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43155"
+    },
+    {
+        "description": "Gasket for use with blanking plate 11132",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45212"
+    },
+    {
+        "description": "Painted casting for Accent & Nanometrics",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_ACCENT"
+    },
+    {
+        "description": "Grating mount for PR300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PR300_GRATING_MOUNT"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "description": "Fuse 5A slow blow",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01008"
+    },
+    {
+        "description": "820R, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02092"
+    },
+    {
+        "description": "Rhopoint PBV 0R1 0.5% (H1T 82QQ)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02239"
+    },
+    {
+        "description": "100K pot",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03027"
+    },
+    {
+        "description": "Green led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04001"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "TEN 5-1223 - CONVERTER, DC/DC, 5W, +/-15V 200mA",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05033"
+    },
+    {
+        "description": "Big FET  STW45NM50",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "06013"
+    },
+    {
+        "description": "Miniature toggle switch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "07004"
+    },
+    {
+        "description": "Miniature toggle switch 2 pole 2 way DPDT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07007"
+    },
+    {
+        "description": "Knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07034"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 22,000uF electrolytic",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08100"
+    },
+    {
+        "description": "Vertical Mounting Clip for 30mm Capacitor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08114"
+    },
+    {
+        "description": "9 Way cable plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10138"
+    },
+    {
+        "description": "9  Way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10141"
+    },
+    {
+        "description": "Screw Terminal Block (Unit of use is 0.2)",
+        "location": "Kit 2 per ",
+        "quantity": "0.40",
+        "stockcode": "10194"
+    },
+    {
+        "description": "Cable mounted socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10241"
+    },
+    {
+        "description": "Purge connector for TM300",
+        "location": " ",
+        "quantity": "4.00",
+        "stockcode": "10286"
+    },
+    {
+        "description": "DC Power Connectors 4 PN PANEL MT POWER MINI DIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10355"
+    },
+    {
+        "description": "605 Rear panel bracket for bin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "16008"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "standard 80mm fan 12v",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18072"
+    },
+    {
+        "description": "82mm finger guard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18109"
+    },
+    {
+        "description": "XP POWER  AHM180PS24  ADAPTOR, AC-DC, MEDICAL, 24V, 7.5A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18144"
+    },
+    {
+        "description": "NHD-0420CW-AB3 4 lines x 20 character Blue OLED display",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18145"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Laing 10W DDC-Pump 12V DDC-1T",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19413"
+    },
+    {
+        "description": "Swiftech MCRES-Micro Rev2 Hi-Flo Reservoir (frozencpu.com)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19414"
+    },
+    {
+        "description": "Vacuum pump for vacuum chuck",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19415"
+    },
+    {
+        "description": "GTX M80        (dangerden.com)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19463"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "New shroff BIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22016"
+    },
+    {
+        "description": "Schroff Rail Type L-ST light, standard",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22020"
+    },
+    {
+        "description": "TM300 turret opto spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30303"
+    },
+    {
+        "description": "MkII silencer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40028"
+    },
+    {
+        "description": "VC connector nozzle",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42709"
+    },
+    {
+        "description": "VC-TE-20 baflle plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43349"
+    },
+    {
+        "description": "610 Bezel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46818"
+    },
+    {
+        "description": "VC-TE-30 Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46823"
+    },
+    {
+        "description": "VC-TE-30 Front Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46824"
+    },
+    {
+        "description": "VC-TE-30 Rear Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46825"
+    },
+    {
+        "description": "TO-220 Insulating Bush (pack of 10)Manual adjust stock",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99024"
+    },
+    {
+        "description": "6mm id, 1.5mm wall, platinum silicone (per metre)",
+        "location": "Kit 0.5m",
+        "quantity": "0.50",
+        "stockcode": "99116"
+    },
+    {
+        "description": "Loaded pcb for VC-TE-20",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "VC_TE_30-PCB"
+    },
+    {
+        "description": "Heatsink for use in VC_TE_20",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "VC_TE_HEATSINK"
+    }
+]

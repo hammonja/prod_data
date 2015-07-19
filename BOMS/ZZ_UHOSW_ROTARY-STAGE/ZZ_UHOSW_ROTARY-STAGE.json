@@ -1,0 +1,182 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04044"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "25 way 90 degree plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10261"
+    },
+    {
+        "description": "PCB NYLON SPACER 8mm DIA 12mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15032"
+    },
+    {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19002"
+    },
+    {
+        "description": "Thorlabs table for rotary stage",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19447"
+    },
+    {
+        "description": "Modification of 30293 for rotary table (use 2 x 19167)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19448"
+    },
+    {
+        "description": "TM300 worm shaft(1 off 600mm length 99907 per 9 off 30014)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30014"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "M4 x 10 flat ended grub, black.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30048"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "638/8 2Z   SKF or RHP",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30291"
+    },
+    {
+        "description": "Precision worm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30473"
+    },
+    {
+        "description": "Precision worm gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30474"
+    },
+    {
+        "description": "8mm turret opto flag top limit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41062"
+    },
+    {
+        "description": "Lasing rotary table angular contact bearing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41685"
+    },
+    {
+        "description": "Lasing rotary table turret top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41692"
+    },
+    {
+        "description": "Lasing rotary table turret middle support plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41695"
+    },
+    {
+        "description": "Modification of Thorlabs table (free issue table)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43075"
+    },
+    {
+        "description": "Turret motor side plate (rotary stage)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43076"
+    },
+    {
+        "description": "Turret side plate (rotary stage)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43077"
+    },
+    {
+        "description": "Rotary stage base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43078"
+    },
+    {
+        "description": "Rotary table post",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "43079"
+    },
+    {
+        "description": "Rotary stage yoke",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43080"
+    },
+    {
+        "description": "Rotary stage cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43081"
+    },
+    {
+        "description": "Rotary table top shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43082"
+    },
+    {
+        "description": "D6 rotary table mount bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43092"
+    }
+]

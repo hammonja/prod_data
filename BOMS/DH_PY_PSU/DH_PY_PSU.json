@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "Amphenol 5-way plugs",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10039"
+    },
+    {
+        "description": "DH-PY Power supply front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16003"
+    },
+    {
+        "description": "DH_PY_PSU Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50055"
+    }
+]

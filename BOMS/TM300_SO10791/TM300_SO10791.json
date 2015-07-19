@@ -1,0 +1,14 @@
+[
+    {
+        "description": "TM300 USB Monochromator COMMON COMPONENTS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_BASE"
+    },
+    {
+        "description": "Casting for SO 9357",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SO9357_CASTING"
+    }
+]

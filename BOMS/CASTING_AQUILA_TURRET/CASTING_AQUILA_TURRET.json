@@ -1,0 +1,20 @@
+[
+    {
+        "description": "M300 casting, 2 apertures blanked, no machining",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11119"
+    },
+    {
+        "description": "Painting of Aquila casting (as Accent)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19458"
+    },
+    {
+        "description": "M300 casting for Turret (material 11119)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42564"
+    }
+]

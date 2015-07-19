@@ -1,0 +1,50 @@
+[
+    {
+        "description": "220R MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02015"
+    },
+    {
+        "description": "3k92 MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02241"
+    },
+    {
+        "description": "LM317AHVT - IC, LDO VOLT REG, 57V, 1.5A, TO-220",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05012"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 1uF 50V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08058"
+    },
+    {
+        "description": "DM150 GRATING SHIM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11236"
+    },
+    {
+        "description": "TO-220 Insulating Bush (pack of 10)Manual adjust stock",
+        "location": "Trim for thickness of 05012",
+        "quantity": "1.00",
+        "stockcode": "99024"
+    },
+    {
+        "description": "TO220 insulator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99023"
+    }
+]

@@ -1,0 +1,260 @@
+[
+    {
+        "description": "Silicon detector (10mm x 10mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09006"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "Lamp Holder for 10W Lamp",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13063"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "20W Grit Blasted Quartz-Halogen Lamp",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17902"
+    },
+    {
+        "description": "PSU for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18130"
+    },
+    {
+        "description": "DM150 internal electronics 487 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42828"
+    },
+    {
+        "description": "http://www.uniblitz.com/ m    $385",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "44178"
+    },
+    {
+        "description": "9890 uniblitz shutter case",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "44179"
+    },
+    {
+        "description": "9890 uniblitz shutter coupling plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44180"
+    },
+    {
+        "description": "9890 uniblitz cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44181"
+    },
+    {
+        "description": "9890 MVSS front plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44182"
+    },
+    {
+        "description": "9890 shutter spacer blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44183"
+    },
+    {
+        "description": "9890 traco  \nTMS 0621",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44185"
+    },
+    {
+        "description": "9890 cover hatch plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44187"
+    },
+    {
+        "description": "9890 Front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44188"
+    },
+    {
+        "description": "9890 BACK PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44189"
+    },
+    {
+        "description": "9890  base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44190"
+    },
+    {
+        "description": "9890 aperture plates set (5 items per set)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44191"
+    },
+    {
+        "description": "9890 FRONT HALF SPHERE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44192"
+    },
+    {
+        "description": "9890 sphere back half",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44193"
+    },
+    {
+        "description": "9890 detector holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44194"
+    },
+    {
+        "description": "9890 filter block front plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44195"
+    },
+    {
+        "description": "9890 FILTER BLOCK LID",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44196"
+    },
+    {
+        "description": "9890 filter cover plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "44197"
+    },
+    {
+        "description": "9890 filter holder",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "44198"
+    },
+    {
+        "description": "9890 filter middle block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44199"
+    },
+    {
+        "description": "9890 Filter Block Back Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44200"
+    },
+    {
+        "description": "9890 light source adapter tube",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44201"
+    },
+    {
+        "description": "9890 Light Source heat sink",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44202"
+    },
+    {
+        "description": "9890 Light source body",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44203"
+    },
+    {
+        "description": "9890 bulb mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44204"
+    },
+    {
+        "description": "9890 split ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44205"
+    },
+    {
+        "description": "9890 COVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44206"
+    },
+    {
+        "description": "uniblitz fast shutter controller , www.uniblitz.com",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44211"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Detection electronics for MDE150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MDE150_487"
+    },
+    {
+        "description": "IMAC card for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD_TEL309"
+    },
+    {
+        "description": "Accent Motorised Slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_MVSS_ACCENT"
+    }
+]

@@ -1,0 +1,29 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|02021|1K, MRS25|1.00|R8|
+|02024|2k2 MRS25|1.00|R20|
+|02031|6K81  MRS25|1.00|R6|
+|02033|10K MRS25|2.00|R18, 19|
+|02041|47K5 MRS25|2.00|R9, 12|
+|02043|100K MRS25|1.00|R11|
+|02045|150K MRS25|2.00|R3, 14|
+|02119|300K MRS25|1.00|R10|
+|02124|15K8, MRS25|1.00|R4|
+|02125|19K6, MRS25|1.00|R13|
+|02229|402K, 0.25W, MF, 1%|1.00|R15|
+|02230|MRS25 866k|1.00|R1|
+|02231|475K MRS25|1.00|R16|
+|02232|137K,0.1%, RC55Y|1.00|R2|
+|02235|39K, MRS25|1.00|R7|
+|03008|1K .75W Cermet PCB mounting|1.00|R5|
+|03027|100K pot|1.00||
+|04010|Zener diode 500MW 5.1V|1.00|D1|
+|07033|ATE1D (CPS2)|1.00|SW1|
+|08044|Capacitor 100nF polyester 63/100V|5.00|C1, 2, 5, 6, 7|
+|08050|Capacitor 47uF 16V electrolytic|1.00|C8|
+|08059|Capacitor 1nF 100v boxed polyester|2.00|C3, 4|
+|10014|Connector 8 way DIL socket|3.00|IC1, 2, 3|
+|15050|pcb  " CPS2 Iss 2 "|1.00||
+|18019|Lascar DPM 125|1.00||
+|20034|TLC27L7CP|2.00|IC2, 3|
+|20058|REF01CP|1.00|IC1|

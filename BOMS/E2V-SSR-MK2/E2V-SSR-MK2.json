@@ -1,0 +1,26 @@
+[
+    {
+        "description": "SSR Frame",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-SSR-FRAME"
+    },
+    {
+        "description": "SSR Light Tight Optics Enclosure",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-SSR-OPTICS-CHAMBER"
+    },
+    {
+        "description": "SSR Sample Chamber",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-SSR-SAMPLE-CHAMBER"
+    },
+    {
+        "description": "E2V-SSR-CABLE-SET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-SSR-CABLE-SET"
+    }
+]

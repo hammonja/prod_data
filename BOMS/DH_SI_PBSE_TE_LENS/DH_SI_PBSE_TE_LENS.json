@@ -1,0 +1,146 @@
+[
+    {
+        "description": "1M, MRS25",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "1M, 1W",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02082"
+    },
+    {
+        "description": "75K, MRS25",
+        "location": "R4",
+        "quantity": "1.00",
+        "stockcode": "02120"
+    },
+    {
+        "description": "Capacitor 0.1uF, 160V, AC polyester",
+        "location": "C1",
+        "quantity": "1.00",
+        "stockcode": "08023"
+    },
+    {
+        "description": "Capacitor 0.47uF, 100V ceramic multi-layer",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08087"
+    },
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "DH-SiPbS-Te Body 1",
+        "location": "Free issue to metal-worker",
+        "quantity": "1.00",
+        "stockcode": "09023"
+    },
+    {
+        "description": "DH-SiPbS-Te Body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09024"
+    },
+    {
+        "description": "Body DH-Pbse-Te body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09070"
+    },
+    {
+        "description": "Si (2.4 x 2.4mm) over PbSe (1.8 x 1.8mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09152"
+    },
+    {
+        "description": "BNC earth tags for 10028",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10013"
+    },
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "PCB Te  (15 day)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15057"
+    },
+    {
+        "description": "Modification of 09070 for DH Si/PbS (extra BNC)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19593"
+    },
+    {
+        "description": "CaF2 lens for IL1, 25 dia, 25 f",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19640"
+    },
+    {
+        "description": "Mod. of 09023 for DH_SI_PBSE_TE_LENS (lens tube)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19687"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Front Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42524"
+    },
+    {
+        "description": "Modification of 09023",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43878"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB17"
+    },
+    {
+        "description": "HV-BNC to HV-BNC 1200mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB3"
+    },
+    {
+        "description": "Cable for chopper and cooled detectors (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB7"
+    },
+    {
+        "description": "Split ring for TGK filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "NA5155"
+    }
+]

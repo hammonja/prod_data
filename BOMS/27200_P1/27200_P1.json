@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Mount - D6 to CL6",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27200"
+    },
+    {
+        "description": "Painting Operation to Produce 27200_P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19862"
+    }
+]

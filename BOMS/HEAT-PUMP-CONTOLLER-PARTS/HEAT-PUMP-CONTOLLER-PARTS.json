@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Connector 9-way 'D' socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10098"
+    },
+    {
+        "description": "Connector 9 Way 'D' Metal Case",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10111"
+    },
+    {
+        "description": "Electronic temperature controller",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18135"
+    },
+    {
+        "description": "Electronic temperature sensor",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18136"
+    },
+    {
+        "description": "OI-TTL-CABLE for 18135 Temp Controller",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18137"
+    }
+]

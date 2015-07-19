@@ -1,0 +1,92 @@
+[
+    {
+        "description": "Micrometer head Starrett 463ML",
+        "location": "Free issue to metal worker",
+        "quantity": "1.00",
+        "stockcode": "11069"
+    },
+    {
+        "description": "Cover plate VSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17659"
+    },
+    {
+        "description": "Variable slit box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17660"
+    },
+    {
+        "description": "TMs300 Jaw Running Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17661"
+    },
+    {
+        "description": "TMs300 Jaw (handed pair)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17663"
+    },
+    {
+        "description": "TMs300 Jaw plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17664"
+    },
+    {
+        "description": "VSS Spring",
+        "location": "Free issue to metal worker",
+        "quantity": "4.00",
+        "stockcode": "19054"
+    },
+    {
+        "description": "MVSS Bearing",
+        "location": "Free issue to metal worker",
+        "quantity": "2.00",
+        "stockcode": "19116"
+    },
+    {
+        "description": "Dowel pin 3x8mm (hardened and ground)",
+        "location": "Free issue to metal worker",
+        "quantity": "2.00",
+        "stockcode": "19134"
+    },
+    {
+        "description": "Dowell pin 2x8mm",
+        "location": "Free issue to metal worker",
+        "quantity": "8.00",
+        "stockcode": "19245"
+    },
+    {
+        "description": "Modification of VSS for TGK monochromator(60093, 60079)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19425"
+    },
+    {
+        "description": "Fork for VSS (Slit block 1)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42727"
+    },
+    {
+        "description": "M2.5 x 6 Black Socket Head. Must be good quality socket.",
+        "location": "Free issue to metal worker",
+        "quantity": "4.00",
+        "stockcode": "99104"
+    },
+    {
+        "description": "M3 x 6 Black, csk, pozi",
+        "location": "Free issue to metal worker",
+        "quantity": "4.00",
+        "stockcode": "99179"
+    },
+    {
+        "description": "M3 x 3mm socket grub, cup, black",
+        "location": "Free issue to metal worker",
+        "quantity": "3.00",
+        "stockcode": "99191"
+    }
+]

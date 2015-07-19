@@ -1,0 +1,128 @@
+[
+    {
+        "description": "M64W103KB40 - TRIMMER, POT, 10K",
+        "location": "Display contrast mod as PSU_608",
+        "quantity": "1.00",
+        "stockcode": "03009"
+    },
+    {
+        "description": "510nm Source Led (was Farnell 1693790)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04045"
+    },
+    {
+        "description": "Button for push switch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "07003"
+    },
+    {
+        "description": "SPNO lugs for wires",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "07038"
+    },
+    {
+        "description": "Smokescreen detector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09102"
+    },
+    {
+        "description": "Power connector for SmokeScreen",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10312"
+    },
+    {
+        "description": "Spacer nylon Hex M3X11",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15011"
+    },
+    {
+        "description": "2X16 LCD green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18028"
+    },
+    {
+        "description": "PIC16F876A-I/SP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "20002"
+    },
+    {
+        "description": "Smokescreen Tube Cover Bottom",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27141"
+    },
+    {
+        "description": "Smokescreen Tube Cover Top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27142"
+    },
+    {
+        "description": "SmokeScreen CAA",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27396"
+    },
+    {
+        "description": "Sdetector / source light guide. Matl. 99910",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27398"
+    },
+    {
+        "description": "MkII Smoke Screen Box Bottom",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27401"
+    },
+    {
+        "description": "MkII Smoke Screen Box Lid (Machined)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27405F"
+    },
+    {
+        "description": "MkII Smoke Screen Box Lid",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27405P"
+    },
+    {
+        "description": "Q14444 (artwork charge \u00a344.98 on first order of iss. D)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27406"
+    },
+    {
+        "description": "2mm x M2.5 plastic spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99002"
+    },
+    {
+        "description": "M2.5 x 6 tritap (pack of 100)",
+        "location": "Pick 2 screws per unit",
+        "quantity": "0.02",
+        "stockcode": "99003"
+    },
+    {
+        "description": "Smokescreen electronics sub assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SMOKESCREEN_BRD"
+    },
+    {
+        "description": "Motor assembly for SmokeScreen Mk2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SMOKESCREEN_MOTOR-ASSY"
+    }
+]

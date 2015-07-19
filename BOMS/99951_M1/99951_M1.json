@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Machining Operation to Produce 99951_M1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46693"
+    },
+    {
+        "description": "M3 Studding 1m Lengths",
+        "location": "",
+        "quantity": "0.15",
+        "stockcode": "99951"
+    }
+]

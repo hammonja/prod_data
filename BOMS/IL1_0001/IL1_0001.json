@@ -1,0 +1,146 @@
+[
+    {
+        "description": "100W qh Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09101"
+    },
+    {
+        "description": "Black 4mm socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10002"
+    },
+    {
+        "description": "Red 4mm socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10003"
+    },
+    {
+        "description": "Connector lamp holders",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10042"
+    },
+    {
+        "description": "leadscrew Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17004"
+    },
+    {
+        "description": "leadscrew Item 4",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17005"
+    },
+    {
+        "description": "IL1 enclosure",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17019"
+    },
+    {
+        "description": "IL1/IL6/IL7 lead screw item 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17030"
+    },
+    {
+        "description": "Leadscrew - Item 3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17031"
+    },
+    {
+        "description": "IL1 Light shield",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17033"
+    },
+    {
+        "description": "IL1 Lens tube adaptor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17034"
+    },
+    {
+        "description": "IL1 Fan adaptor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17035"
+    },
+    {
+        "description": "Leadscrew - Item 5",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17036"
+    },
+    {
+        "description": "IL1 cover plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17085"
+    },
+    {
+        "description": "IL1 fan filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18009"
+    },
+    {
+        "description": "IL1 fan 230Vac (Aquila)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18068"
+    },
+    {
+        "description": "M3X10 Spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19011"
+    },
+    {
+        "description": "Spacer Painted",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19031_P1"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "8mm dome plug",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "19082"
+    },
+    {
+        "description": "Flying lead with IEC plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19103"
+    },
+    {
+        "description": "M3 thumb nuts for IL10",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19172"
+    },
+    {
+        "description": "IL1_0001 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50072"
+    },
+    {
+        "description": "Lamp cable shrouded to bunch pin (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB5"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "Fixed slit block MkII",
+        "location": "Free issue to metal worker",
+        "quantity": "1.00",
+        "stockcode": "11083"
+    },
+    {
+        "description": "Fixed slit block cover MkII (fi 19087, 2 per)",
+        "location": "Free issue to metal worker",
+        "quantity": "1.00",
+        "stockcode": "11084"
+    },
+    {
+        "description": "Fixed slit lid MkII",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11085"
+    },
+    {
+        "description": "Blank 150mm hemisphere",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13484"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Lamp 50W",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19250"
+    },
+    {
+        "description": "Baffle port for ULS6",
+        "location": "Assemble to sphere b4 painting",
+        "quantity": "1.00",
+        "stockcode": "42710"
+    },
+    {
+        "description": "ULS6 baffle post, painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42711F"
+    },
+    {
+        "description": "ULS6 baffle post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42711P"
+    },
+    {
+        "description": "ULS6 baffle, painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42712F"
+    },
+    {
+        "description": "ULS6 baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42712P"
+    },
+    {
+        "description": "Sphere for ULS6, painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42714F"
+    },
+    {
+        "description": "Sphere for ULS6",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42714P"
+    },
+    {
+        "description": "Entrance port for ULS6",
+        "location": "Assemble to sphere b4 painting",
+        "quantity": "1.00",
+        "stockcode": "42715"
+    },
+    {
+        "description": "Aperture box for ULS6 (mod of 11083)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42720"
+    },
+    {
+        "description": "Aperture box front for ULS6 (mod of 11084)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42721"
+    },
+    {
+        "description": "ULS6 base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42722"
+    },
+    {
+        "description": "Spacers for IL10 in ULS6",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42723"
+    },
+    {
+        "description": "Modification to 17993 for ULS6",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42724"
+    },
+    {
+        "description": "Enclosed version of IL10, glass lens",
+        "location": "Free issue base plate to metal worker",
+        "quantity": "1.00",
+        "stockcode": "IL10_ENCLOSED"
+    }
+]

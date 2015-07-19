@@ -1,0 +1,134 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "12 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10159"
+    },
+    {
+        "description": "12 Way Chassis Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10161"
+    },
+    {
+        "description": "RSB Shadowband Cruciform",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17367"
+    },
+    {
+        "description": "RSB Shadowband Diffuser Web",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17368"
+    },
+    {
+        "description": "RSB Shadowband Motor Web",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17369"
+    },
+    {
+        "description": "RSB Shadowband Motor Web Brace",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17370"
+    },
+    {
+        "description": "RSB Shadowband Lamp/Diffuser Support Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17371"
+    },
+    {
+        "description": "RSB Shadowband Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17373"
+    },
+    {
+        "description": "RSB Shadowband Sealing Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17374"
+    },
+    {
+        "description": "RSB Shadowband Turret datum Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17375"
+    },
+    {
+        "description": "RSB Shadowband Opto Switch Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17376"
+    },
+    {
+        "description": "RSB Shadowband",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17378"
+    },
+    {
+        "description": "RSB motor (free issue 30116)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17553"
+    },
+    {
+        "description": "RSB Machined box die cast box (Material 17554P)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17554F"
+    },
+    {
+        "description": "RSB Un-machined die cast box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17554P"
+    },
+    {
+        "description": "Heyco 003 0347 black (Nylon foot)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19004"
+    },
+    {
+        "description": "Calibrated mounted circular level with cross hair",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19096"
+    },
+    {
+        "description": "V Seal",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19143"
+    },
+    {
+        "description": "O' ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19144"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "FreeissuetoB&M",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    }
+]

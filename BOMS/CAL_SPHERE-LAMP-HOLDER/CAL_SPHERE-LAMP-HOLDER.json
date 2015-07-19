@@ -1,0 +1,44 @@
+[
+    {
+        "description": "20A Straight plug Power 'D'",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10212"
+    },
+    {
+        "description": "Socket straight Power 'D' 20A",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10213"
+    },
+    {
+        "description": "TLF/TSRF Adapter Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13320_P1"
+    },
+    {
+        "description": "Lampholder G6,35 with silicone lead 395mm long",
+        "location": "Use 13063 for 20W lamp",
+        "quantity": "1.00",
+        "stockcode": "13323"
+    },
+    {
+        "description": "TSRF Adapter Tube Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13338_P1"
+    },
+    {
+        "description": "Polypropylene Case 225 x 200 x 70 for CL2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25054"
+    },
+    {
+        "description": "Connector used in CAL_SPHERE-LAMP-HOLDER",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41099"
+    }
+]

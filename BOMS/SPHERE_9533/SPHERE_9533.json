@@ -1,0 +1,44 @@
+[
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 43976_P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19602"
+    },
+    {
+        "description": "9533 sphere bottom",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43972"
+    },
+    {
+        "description": "9533 sphere bottom (fi 0.5 off 99026)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43973"
+    },
+    {
+        "description": "9533 sphere baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43974"
+    },
+    {
+        "description": "9533 shpere top half (fi 1/3 off 99026)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43975"
+    },
+    {
+        "description": "9533 sphere lid",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43976"
+    },
+    {
+        "description": "FL250 porous PTFE moulded rod, OD 75mm, length 135mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99026"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "description": "Black 4mm socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10002"
+    },
+    {
+        "description": "Red 4mm socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10003"
+    },
+    {
+        "description": "Lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13035"
+    },
+    {
+        "description": "SRS12 Back HemiSphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13065_M1"
+    },
+    {
+        "description": "SRS12 Front HemiSphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13065_M2"
+    },
+    {
+        "description": "100W Grit Blasted Quartz-Halogen Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17903"
+    },
+    {
+        "description": "Spacer Painted",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19031_P1"
+    },
+    {
+        "description": "Bosch 20mm extrusion bracket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19344"
+    },
+    {
+        "description": "Bosch 6mm groove M4 'T' nut",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19346"
+    },
+    {
+        "description": "Bosch 20mm extrusion end cap (each)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19347"
+    },
+    {
+        "description": "M6 taptite screw",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19421"
+    },
+    {
+        "description": "GHz barium sulphate paint",
+        "location": "For free issue to painter",
+        "quantity": "0.50",
+        "stockcode": "19625"
+    },
+    {
+        "description": "Painting of SRS12",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19702"
+    },
+    {
+        "description": "ULS frame, 3842-517-173 x 275mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41611"
+    },
+    {
+        "description": "UKAEA sphere port plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41618"
+    },
+    {
+        "description": "UKAEA sphere exit port dust cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41632"
+    },
+    {
+        "description": "MkII ULS300 Sphere Support Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42111"
+    },
+    {
+        "description": "SRS12 Bosch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43114"
+    },
+    {
+        "description": "SRS12 lamp ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43116"
+    },
+    {
+        "description": "SRS12 lamp mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43117"
+    },
+    {
+        "description": "SRS12 Baffle Pillar",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "43118_P1"
+    },
+    {
+        "description": "SRS12 baffle painted PHP all over",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43119"
+    },
+    {
+        "description": "SRS12 Bosch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43120"
+    },
+    {
+        "description": "Sealing strip for integrating spheres",
+        "location": "Do not kit",
+        "quantity": "0.11",
+        "stockcode": "99100"
+    },
+    {
+        "description": "Lamp cable shrouded to bunch pin (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB5"
+    }
+]

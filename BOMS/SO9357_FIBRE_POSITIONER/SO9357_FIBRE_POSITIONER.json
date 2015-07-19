@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Compression Spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19003"
+    },
+    {
+        "description": "OZ Optics SMA Connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19403"
+    },
+    {
+        "description": "OZ Optics FC Connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19412"
+    },
+    {
+        "description": "9357 bare fibre chuck holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43910"
+    },
+    {
+        "description": "9357 bare fibre chuck collar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43911"
+    },
+    {
+        "description": "9357 fibre positioner",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43912"
+    },
+    {
+        "description": "9357 reverse slit adapter plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43913"
+    },
+    {
+        "description": "9357 fibre position slide bar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43914"
+    },
+    {
+        "description": "9357 fibre positioner sub plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43915"
+    },
+    {
+        "description": "9357 FC fibre chuck plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43916"
+    },
+    {
+        "description": "FC adaptor for 9357 fibre positioner (material Oz)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43917"
+    },
+    {
+        "description": "SMA adapter for 9357 fibre positioner (material Oz)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43918"
+    },
+    {
+        "description": "Machining Operation to Produce 19403_M1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43928"
+    }
+]

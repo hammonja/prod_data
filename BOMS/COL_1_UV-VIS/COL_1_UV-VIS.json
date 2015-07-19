@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Colimator 1 lens tube 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11212"
+    },
+    {
+        "description": "Colimator 1 lens tube 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11213"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "Lens, silica, pcx, f 160, dia 40, ar coated",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13067"
+    },
+    {
+        "description": "Colimator Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "COL_COMMON_PARTS"
+    }
+]

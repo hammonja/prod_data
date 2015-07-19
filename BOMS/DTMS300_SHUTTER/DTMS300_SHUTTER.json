@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Solenoid push type (24V) (was 120-420-620-720) Quote 8408",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19016"
+    },
+    {
+        "description": "Black 2.5mm x 100mm cable tie (bag of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19391"
+    },
+    {
+        "description": "TMs300 shutter mounting plt (C = NO CSK HOLES)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41350"
+    },
+    {
+        "description": "TMs300 spacer plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41351"
+    },
+    {
+        "description": "TMs300 shutter stop bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41352"
+    },
+    {
+        "description": "TMs300 shutter solenoid block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41353"
+    },
+    {
+        "description": "TMs300 shutter blade bush",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41354"
+    },
+    {
+        "description": "TMs300 shutter washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41355"
+    },
+    {
+        "description": "TMs300 shutter shutter blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41356"
+    },
+    {
+        "description": "TMs300 shutter actuator cap (FI 99852, 3 lengths per 50 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41357"
+    },
+    {
+        "description": "Shutter blade weight",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41358"
+    },
+    {
+        "description": "EI Shutter PEEK Pad",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41932"
+    },
+    {
+        "description": "Heat shrink for EI shutter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99006"
+    }
+]

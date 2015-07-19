@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Hot mirror",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13597"
+    },
+    {
+        "description": "KG1 filter  50 x 50 x 3mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13598"
+    },
+    {
+        "description": "RG 630 filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13599"
+    },
+    {
+        "description": "BG 23 filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13600"
+    },
+    {
+        "description": "ULS filter holder",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42605"
+    },
+    {
+        "description": "Filter holder knob (Note new Issue)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42607"
+    }
+]

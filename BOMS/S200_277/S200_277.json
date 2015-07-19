@@ -1,0 +1,386 @@
+[
+    {
+        "description": "100R MRS25",
+        "location": "Mod, see build instructions",
+        "quantity": "1.00",
+        "stockcode": "02013"
+    },
+    {
+        "description": "220R MRS25",
+        "location": "R12",
+        "quantity": "1.00",
+        "stockcode": "02015"
+    },
+    {
+        "description": "330R MRS25",
+        "location": "R1, 2, 3, 4,9",
+        "quantity": "5.00",
+        "stockcode": "02016"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R18",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R7, 21",
+        "quantity": "2.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "R20, 22, 23",
+        "quantity": "3.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "100m, metal film, 1%",
+        "location": "R13",
+        "quantity": "1.00",
+        "stockcode": "02058"
+    },
+    {
+        "description": "22K, MRS25",
+        "location": "R24, 25",
+        "quantity": "2.00",
+        "stockcode": "02075"
+    },
+    {
+        "description": "10M MRS25",
+        "location": "R15",
+        "quantity": "1.00",
+        "stockcode": "02076"
+    },
+    {
+        "description": "8K2, MRS25",
+        "location": "R16",
+        "quantity": "1.00",
+        "stockcode": "02085"
+    },
+    {
+        "description": "820R, MRS25",
+        "location": "R17",
+        "quantity": "1.00",
+        "stockcode": "02092"
+    },
+    {
+        "description": "82K,MRS25",
+        "location": "R27",
+        "quantity": "1.00",
+        "stockcode": "02093"
+    },
+    {
+        "description": "91K, MRS25",
+        "location": "R19",
+        "quantity": "1.00",
+        "stockcode": "02103"
+    },
+    {
+        "description": "15K, MRS25",
+        "location": "R26, 28",
+        "quantity": "2.00",
+        "stockcode": "02105"
+    },
+    {
+        "description": "100K Resnet x 7 SIL",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "02107"
+    },
+    {
+        "description": "Resnet - Beckman Insruments",
+        "location": "R8, 29",
+        "quantity": "2.00",
+        "stockcode": "02108"
+    },
+    {
+        "description": "1M1 MRS25",
+        "location": "R14",
+        "quantity": "1.00",
+        "stockcode": "02109"
+    },
+    {
+        "description": "220K Resnet x 7 SIL 4608X-101",
+        "location": "R6",
+        "quantity": "1.00",
+        "stockcode": "02220"
+    },
+    {
+        "description": "1N4148",
+        "location": "D11, 12",
+        "quantity": "2.00",
+        "stockcode": "04007"
+    },
+    {
+        "description": "LED yellow right angle mount",
+        "location": "D3, 4, 5, 6, 7, 8",
+        "quantity": "6.00",
+        "stockcode": "04026"
+    },
+    {
+        "description": "LED green right angle mount",
+        "location": "D1, 9, 10",
+        "quantity": "3.00",
+        "stockcode": "04027"
+    },
+    {
+        "description": "LED red right angle mount",
+        "location": "D2",
+        "quantity": "1.00",
+        "stockcode": "04028"
+    },
+    {
+        "description": "bit switch",
+        "location": "SW2",
+        "quantity": "1.00",
+        "stockcode": "07023"
+    },
+    {
+        "description": "DIL reed relay HE422C8350",
+        "location": "RL1",
+        "quantity": "1.00",
+        "stockcode": "07024"
+    },
+    {
+        "description": "16 position hex rotary switch",
+        "location": "SW1",
+        "quantity": "1.00",
+        "stockcode": "07025"
+    },
+    {
+        "description": "Gold contact sub-miniature",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07026"
+    },
+    {
+        "description": "15mm Knob without line 1/8\"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07027"
+    },
+    {
+        "description": "Cap unlined black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07028"
+    },
+    {
+        "description": "Relay  Hamlin HE3621A0510",
+        "location": "RL2, 3",
+        "quantity": "2.00",
+        "stockcode": "07042"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, 3, 4, 10",
+        "quantity": "4.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 220pF Ceramic Plate",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08048"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C11",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 27pF ceramic plate",
+        "location": "C6",
+        "quantity": "1.00",
+        "stockcode": "08057"
+    },
+    {
+        "description": "Capacitor 1uF 50V",
+        "location": "C7",
+        "quantity": "1.00",
+        "stockcode": "08058"
+    },
+    {
+        "description": "Capacitor 100pF",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08062"
+    },
+    {
+        "description": "Capacitor 2.2uF",
+        "location": "C8, 9",
+        "quantity": "2.00",
+        "stockcode": "08065"
+    },
+    {
+        "description": "Ceramic resonator 2MHz",
+        "location": "XL1",
+        "quantity": "1.00",
+        "stockcode": "08090"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "20 Way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10020"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "14 Way DIL Socket Low Profile 0.3\"",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "10054"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "connector 40-Way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10057"
+    },
+    {
+        "description": "Connector 26-Way boxed header",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10080"
+    },
+    {
+        "description": "Spacer nylon Hex M3X11",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15011"
+    },
+    {
+        "description": "pcb  \" 277 Iss 3 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15039"
+    },
+    {
+        "description": "277 front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16039"
+    },
+    {
+        "description": "277 Mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17153"
+    },
+    {
+        "description": "277 Shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17156"
+    },
+    {
+        "description": "AD549KH",
+        "location": "IC8",
+        "quantity": "1.00",
+        "stockcode": "20001"
+    },
+    {
+        "description": "TLE2061AC",
+        "location": "IC13",
+        "quantity": "1.00",
+        "stockcode": "20003"
+    },
+    {
+        "description": "IC LM393N",
+        "location": "IC14",
+        "quantity": "1.00",
+        "stockcode": "20026"
+    },
+    {
+        "description": "74hct14",
+        "location": "IC9, 11",
+        "quantity": "2.00",
+        "stockcode": "20027"
+    },
+    {
+        "description": "IC 74HC173N",
+        "location": "IC5",
+        "quantity": "1.00",
+        "stockcode": "20037"
+    },
+    {
+        "description": "IC 74HC238P or N",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "20038"
+    },
+    {
+        "description": "IC 74HC126",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "20039"
+    },
+    {
+        "description": "SN 74LS640 1N",
+        "location": "IC7",
+        "quantity": "1.00",
+        "stockcode": "20045"
+    },
+    {
+        "description": "7438N",
+        "location": "IC16",
+        "quantity": "1.00",
+        "stockcode": "20046"
+    },
+    {
+        "description": "IC PC74HC365P",
+        "location": "IC15",
+        "quantity": "1.00",
+        "stockcode": "20051"
+    },
+    {
+        "description": "IC 74HCOOP",
+        "location": "IC10",
+        "quantity": "1.00",
+        "stockcode": "20063"
+    },
+    {
+        "description": "CD4014BE",
+        "location": "IC3, 4",
+        "quantity": "2.00",
+        "stockcode": "21007"
+    },
+    {
+        "description": "HEF4738VP",
+        "location": "IC6",
+        "quantity": "1.00",
+        "stockcode": "21017"
+    },
+    {
+        "description": "DG409ACJ",
+        "location": "IC12",
+        "quantity": "1.00",
+        "stockcode": "21033"
+    }
+]

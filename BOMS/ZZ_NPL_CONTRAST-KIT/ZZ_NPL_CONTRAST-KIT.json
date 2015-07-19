@@ -1,0 +1,206 @@
+[
+    {
+        "description": "Black bunch pin plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10010"
+    },
+    {
+        "description": "Red bunch pin plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10011"
+    },
+    {
+        "description": "Connector lamp holders",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10042"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Red shrouded plug 90 degrees",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10242"
+    },
+    {
+        "description": "Black plug shielded 90 degree",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10243"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "IS4 blank hemi-spheres",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13076"
+    },
+    {
+        "description": "Aspheric glass lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13291"
+    },
+    {
+        "description": "IL10 lens barrel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17797"
+    },
+    {
+        "description": "bottom panel (IL10 enclosed)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17993"
+    },
+    {
+        "description": "Heat sink for various light sources (free issue 40020)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17994"
+    },
+    {
+        "description": "fan plate (IL10 enclosed)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17995"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "M3X10 Spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19011"
+    },
+    {
+        "description": "Lamp 50W",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19250"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "Heat sink",
+        "location": "DO NOT KIT",
+        "quantity": "1.00",
+        "stockcode": "40020"
+    },
+    {
+        "description": "NPL IL10-Enc-X Lamp Front Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42206"
+    },
+    {
+        "description": "NPL IL10-Enc-X Lamp Side Plate 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42207"
+    },
+    {
+        "description": "NPL IL10-Enc-X Lamp Side Plate 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42208"
+    },
+    {
+        "description": "NPL IL10-Enc-X Lamp Back Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42209"
+    },
+    {
+        "description": "NPL IL10-Enc-X Lamp Support Post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42210"
+    },
+    {
+        "description": "NPL-IS4-X Sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42211F"
+    },
+    {
+        "description": "NPL-IS4-X Sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42211P"
+    },
+    {
+        "description": "NPL-IS4-X Sphere 25mmPort Ring",
+        "location": "Attach to 42211 b4 painting",
+        "quantity": "1.00",
+        "stockcode": "42212"
+    },
+    {
+        "description": "NPL-IS4-X Sphere to Lamp Plate",
+        "location": "Attach to 42211 b4 painting",
+        "quantity": "1.00",
+        "stockcode": "42213"
+    },
+    {
+        "description": "NPL-IS4-X Sphere VL1101-1 Detector Holder",
+        "location": "Attach to 42211 b4 painting",
+        "quantity": "1.00",
+        "stockcode": "42214"
+    },
+    {
+        "description": "NPL-IS4-X Sphere 25mm Port Cover Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42215F"
+    },
+    {
+        "description": "NPL-IS4-X Sphere 25mm Port Cover Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42215P"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "description": "Fuse 2.5A slow blow",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01005"
+    },
+    {
+        "description": "Neon indicator RED 200-250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04040"
+    },
+    {
+        "description": "Mains Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07050"
+    },
+    {
+        "description": "Actuator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07051"
+    },
+    {
+        "description": "9 Way cable plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10138"
+    },
+    {
+        "description": "9  Way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10141"
+    },
+    {
+        "description": "9 Way IP67 'D' panel plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10162"
+    },
+    {
+        "description": "Fuse holder panel mounting FPG2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10186"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "NP 8.0/12.7/C/M2.5-M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15027"
+    },
+    {
+        "description": "CPSE Mk 4 Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17550_M1"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "IP68 Cable gland (PG9)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19105"
+    },
+    {
+        "description": "flexible metal conduit",
+        "location": "1.2m long cable",
+        "quantity": "0.25",
+        "stockcode": "19176"
+    },
+    {
+        "description": "flexibe conduit adapters",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19177"
+    },
+    {
+        "description": "European Mains Lead",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23014"
+    },
+    {
+        "description": "CPSE rs232 sub plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43952"
+    },
+    {
+        "description": "320W Single Output Internal Enclosed SMPSU",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45219"
+    },
+    {
+        "description": "CPS_E-MK4 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50016"
+    },
+    {
+        "description": "Heat Pump Controller Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "HEAT-PUMP-CONTOLLER-PARTS"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "7.1 BFS app",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43978"
+    },
+    {
+        "description": "5.1 BFS app",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43979"
+    },
+    {
+        "description": "3.6 BFS app",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43980"
+    },
+    {
+        "description": "3.1 BFS app",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43981"
+    },
+    {
+        "description": "1.3 BFS app",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43982"
+    }
+]

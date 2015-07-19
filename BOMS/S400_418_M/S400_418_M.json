@@ -1,0 +1,110 @@
+[
+    {
+        "description": "Pot 20K 2W .25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03007"
+    },
+    {
+        "description": "1A 1000V Rectifier silicon",
+        "location": "FIT TO BACK OF 7 WAY Amphenol ",
+        "quantity": "1.00",
+        "stockcode": "04006"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "Miniature toggle switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07004"
+    },
+    {
+        "description": "Small Cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07014"
+    },
+    {
+        "description": "Gold contact sub-miniature",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07026"
+    },
+    {
+        "description": "Knob small without line, 1/4\"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07036"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "7 way Amphenol socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10034"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x10",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15051"
+    },
+    {
+        "description": "418 M front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44277"
+    },
+    {
+        "description": "S400_418_M LCD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44282"
+    },
+    {
+        "description": "418 back panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44283"
+    },
+    {
+        "description": "418 POT CLAMP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44284"
+    },
+    {
+        "description": "418 LCD CLAMP PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44285"
+    },
+    {
+        "description": "Spacer for 418M lcd display (4mm long)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44340"
+    },
+    {
+        "description": "USB 418 board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_418_BOARD"
+    }
+]

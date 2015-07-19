@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Tyco 2 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10299"
+    },
+    {
+        "description": "Tyco 5 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10301"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "NA5154 Rev 4, FW control board (free issue by TGK)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15118"
+    }
+]

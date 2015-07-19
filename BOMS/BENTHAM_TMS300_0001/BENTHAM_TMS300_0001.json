@@ -1,0 +1,98 @@
+[
+    {
+        "description": "Bentham TMS common parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BENTHAM_TMS_COMMON_PARTS"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 6000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3015R6U0"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 3000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T303R3U0"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U25"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 3600nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS3600"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 6000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS6000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700_REDUCED"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TMS 8 position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_252_8"
+    },
+    {
+        "description": "Sam for TMS  based monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS300_SAM"
+    },
+    {
+        "description": "TMS300 slit assembly",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "TMS300_SLIT"
+    },
+    {
+        "description": "TMS300 Slit Common Parts",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "TMS300_SLIT_COMMON_PARTS"
+    },
+    {
+        "description": "TMS300 Slit Covers Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS300_SLIT_COVER"
+    }
+]

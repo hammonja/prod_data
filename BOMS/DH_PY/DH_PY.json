@@ -1,0 +1,116 @@
+[
+    {
+        "description": "330R MRS25",
+        "location": "R8",
+        "quantity": "1.00",
+        "stockcode": "02016"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R7",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "100K MRS25",
+        "location": "R4",
+        "quantity": "1.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "332K, 0.25W, MF, 1%",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02051"
+    },
+    {
+        "description": "22K, MRS25",
+        "location": "R6",
+        "quantity": "1.00",
+        "stockcode": "02075"
+    },
+    {
+        "description": "470R, MRS25",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "02079"
+    },
+    {
+        "description": "3K9 MRS25",
+        "location": "R1, R3",
+        "quantity": "2.00",
+        "stockcode": "02101"
+    },
+    {
+        "description": "1.3W 9.1V Zener diode",
+        "location": "D1",
+        "quantity": "1.00",
+        "stockcode": "04014"
+    },
+    {
+        "description": "BC184L (was RS 294-283)",
+        "location": "T2, T3",
+        "quantity": "2.00",
+        "stockcode": "06001"
+    },
+    {
+        "description": "BC214LC silicon PNP",
+        "location": "T1",
+        "quantity": "1.00",
+        "stockcode": "06002"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 10nF, 200V AC polyester",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08020"
+    },
+    {
+        "description": "Capacitor 100uF, 25V, electrolytic",
+        "location": "C4",
+        "quantity": "1.00",
+        "stockcode": "08034"
+    },
+    {
+        "description": "Capacitor 680N for use in DH-Py",
+        "location": "C1, C3",
+        "quantity": "2.00",
+        "stockcode": "08077"
+    },
+    {
+        "description": "DH_PY Housing Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09005_P1"
+    },
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "PCB DH-Py",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15019"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x10",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15051"
+    }
+]

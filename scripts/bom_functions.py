@@ -28,8 +28,7 @@ def get_sage_boms():
 	    "SELECT bomreference ,bomcomponents.stockcode ,bomcomponents.description ,quantity ,location ",
 	    "FROM bomheaders , bomcomponents ",
 	    "WHERE ",
-	    "bomheaders.id = bomcomponents.headerid and ",
-	    "bomreference like 'QUOTE%' ", 
+	    "bomheaders.id = bomcomponents.headerid ", 
 	    "order "
 	    "by bomreference"
 	))

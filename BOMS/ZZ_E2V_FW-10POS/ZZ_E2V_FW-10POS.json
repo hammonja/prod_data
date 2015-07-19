@@ -1,0 +1,86 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "Connector 9-way 'D' socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10098"
+    },
+    {
+        "description": "Connector 9 Way 'D' Metal Case",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10111"
+    },
+    {
+        "description": "M3 Ball ended Spring plunger (Bag of 10)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19400"
+    },
+    {
+        "description": "pin 7mm x 3mm dia with flat",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27074"
+    },
+    {
+        "description": "E2V filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27085"
+    },
+    {
+        "description": "E2V single filter wheelside 2 plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27098"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "E2V CCD211 Filter Wheel Access Hatch Cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41866"
+    },
+    {
+        "description": "E2V Stand Alone Filter Wheel Motor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42362"
+    },
+    {
+        "description": "E2V Stand Alone Filter Wheel Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42363"
+    },
+    {
+        "description": "E2V Stand Alone Filter Wheel Top Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42364"
+    },
+    {
+        "description": "NX0 'P' clip (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99806"
+    }
+]

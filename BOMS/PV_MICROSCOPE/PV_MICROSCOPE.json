@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Microscope",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19656"
+    },
+    {
+        "description": "Modification of 19656 microscope for PV_MICROSCOPE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44270"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Detector for DH_INSB_3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09008"
+    },
+    {
+        "description": "BNC barrel connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10099"
+    },
+    {
+        "description": "SAC system Dewer style detector support bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41514"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB17"
+    }
+]

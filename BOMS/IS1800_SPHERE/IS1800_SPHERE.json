@@ -1,0 +1,116 @@
+[
+    {
+        "description": "IS1800 Auxillary port mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13215"
+    },
+    {
+        "description": "IS1800 Detector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13329"
+    },
+    {
+        "description": "Thermocouple port",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "13337"
+    },
+    {
+        "description": "Opening Hemi Sphere (Frame free issued by Bentham)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13548"
+    },
+    {
+        "description": "Fixed Hemi Sphere (Frame free issued by Bentham)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13549"
+    },
+    {
+        "description": "Bosch 2 way cube connectors (30m x 30mm)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19313"
+    },
+    {
+        "description": "Bosch M4 for 8mm profile",
+        "location": "",
+        "quantity": "48.00",
+        "stockcode": "19372"
+    },
+    {
+        "description": "Bosch 30mm extrusion 45 degree angle block",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "19373"
+    },
+    {
+        "description": "Painting of hemispheres and parts for IS1800_SPHERE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19531"
+    },
+    {
+        "description": "GHz barium sulphate paint",
+        "location": "Free issue to painter",
+        "quantity": "6.00",
+        "stockcode": "19625"
+    },
+    {
+        "description": "In house machining of IS1800 spheres",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19631"
+    },
+    {
+        "description": "Bosch 30x30 x 745.2mm long",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "43673"
+    },
+    {
+        "description": "IS1800 frame cover plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43676"
+    },
+    {
+        "description": "Bosch 30x30 x  1871.4mm long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43682"
+    },
+    {
+        "description": "Bosch 30x30 x  642.8mm long",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43683"
+    },
+    {
+        "description": "Bosch 30x30 x  1308.3mm long",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43684"
+    },
+    {
+        "description": "IS1800 frame plate",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "43685"
+    },
+    {
+        "description": "IS1800 mounting cover plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43686"
+    },
+    {
+        "description": "M6 x 25 countersunk socket screw (bag of 100)",
+        "location": "Free issue 50 to Myona",
+        "quantity": "0.50",
+        "stockcode": "99558"
+    }
+]

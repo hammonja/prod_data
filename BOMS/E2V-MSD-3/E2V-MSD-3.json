@@ -1,0 +1,272 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "led",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R1, R2",
+        "quantity": "6.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "100R JI - RESISTOR, 10W 5% 100R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02278"
+    },
+    {
+        "description": "Green led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04001"
+    },
+    {
+        "description": "1A 1000V Rectifier silicon",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04006"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "L78S05CV +5V 2A TO220",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05019"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 10,000uF,16V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08082"
+    },
+    {
+        "description": "Capacitor 470uF 35V radial",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08104"
+    },
+    {
+        "description": "Capacitor 4700uF, 63V",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08113"
+    },
+    {
+        "description": "Vertical Mounting Clip for 30mm Capacitor",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08114"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "Connector  64 way 2 rows",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10085"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "Connector 25 way IDC socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10124"
+    },
+    {
+        "description": "Mains filter, Fused, Snap-Fit FN261",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10129"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "M3 x 10 nylon spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11047"
+    },
+    {
+        "description": "Mac bin front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16044"
+    },
+    {
+        "description": "25-WAY / IEEE BLANKING PLATE",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "16066"
+    },
+    {
+        "description": "Mac bin rear panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16073"
+    },
+    {
+        "description": "9 WAY BLANKING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16074"
+    },
+    {
+        "description": "MSD TRAY (2mm 6082)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17163"
+    },
+    {
+        "description": "Transformer 120VA. 9Vac, 14Vac, 30Vac",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18024"
+    },
+    {
+        "description": "UNC4-40 x 3mm,  pozi pan, zinc.",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "19094"
+    },
+    {
+        "description": "22mm capacitor clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19142"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "Rack Mounting Kit for New Schoff Bin 22016",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22010"
+    },
+    {
+        "description": "SCHROFF - 64560-074 - GUIDE RAIL, DIN, RED, 160MM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22011"
+    },
+    {
+        "description": "New shroff BIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22016"
+    },
+    {
+        "description": "Schroff Rail Type L-ST light, standard",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22020"
+    },
+    {
+        "description": "USB Support Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46533"
+    },
+    {
+        "description": "E2V-MSD-3 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50059"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Imac Card with E2V Mod",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD_E2V"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "description": "Cap 19mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10062"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "leadscrew Item 2",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17004"
+    },
+    {
+        "description": "leadscrew Item 4",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "17005"
+    },
+    {
+        "description": "IL1/IL6 Lens tube body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17020"
+    },
+    {
+        "description": "IL1/IL6/IL7 lead screw item 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17030"
+    },
+    {
+        "description": "Leadscrew - Item 3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "17031"
+    },
+    {
+        "description": "IL6 Cover Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17075"
+    },
+    {
+        "description": "IL6 foot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17190"
+    },
+    {
+        "description": "IL6 Leadscrew item",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17194"
+    },
+    {
+        "description": "IL6 Fan plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17199"
+    },
+    {
+        "description": "IL6 Bottom Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17200"
+    },
+    {
+        "description": "IL6/7 Side 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17601"
+    },
+    {
+        "description": "IL6/7 Side 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17602"
+    },
+    {
+        "description": "IL6/7 Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17603"
+    },
+    {
+        "description": "IL6 Back Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17604"
+    },
+    {
+        "description": "Spacer Painted",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19031_P1"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "Fastener self clinch M4",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19086"
+    }
+]

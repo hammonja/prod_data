@@ -1,0 +1,200 @@
+[
+    {
+        "description": "Green led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04001"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "L78S05CV +5V 2A TO220",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05019"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Relay Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07073"
+    },
+    {
+        "description": "DPDT mini plug-in relay,10A 12Vdc coil",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07074"
+    },
+    {
+        "description": "Capacitor 10,000uF,16V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08082"
+    },
+    {
+        "description": "Capacitor 4700uF, 63V",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08113"
+    },
+    {
+        "description": "Vertical Mounting Clip for 30mm Capacitor",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08114"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "Connector 9-way 'D' socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10098"
+    },
+    {
+        "description": "Mains filter, Fused, Snap-Fit FN261",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10129"
+    },
+    {
+        "description": "M3 x 10 nylon spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11047"
+    },
+    {
+        "description": "EVAL6472H current DPSIN board",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15120"
+    },
+    {
+        "description": "605 Rear panel bracket for bin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "16008"
+    },
+    {
+        "description": "Mac bin front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16044"
+    },
+    {
+        "description": "25-WAY / IEEE BLANKING PLATE",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "16066"
+    },
+    {
+        "description": "Mac bin rear panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16073"
+    },
+    {
+        "description": "417 Bin USB PCB support plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16123"
+    },
+    {
+        "description": "605 Resistor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17146"
+    },
+    {
+        "description": "MSD TRAY (2mm 6082)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17163"
+    },
+    {
+        "description": "Transformer 120VA. 9Vac, 14Vac, 30Vac",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18024"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Led holder 3mm see 99012",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19081"
+    },
+    {
+        "description": "22mm capacitor clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19142"
+    },
+    {
+        "description": "Schroff bin full width.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22015"
+    },
+    {
+        "description": "Goniophotometer BIN Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46376"
+    },
+    {
+        "description": "LED CLIP, 3MM, PK50",
+        "location": "",
+        "quantity": "0.02",
+        "stockcode": "99060"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]

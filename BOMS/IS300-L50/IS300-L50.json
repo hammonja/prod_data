@@ -1,0 +1,122 @@
+[
+    {
+        "description": "Hemi-sphere. 300mm Internal Dia. Blank - no machining",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13065"
+    },
+    {
+        "description": "Bosch 20mm extrusion bracket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19344"
+    },
+    {
+        "description": "Bosch 6mm groove M4 'T' nut",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19346"
+    },
+    {
+        "description": "Bosch 20mm extrusion end cap (each)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19347"
+    },
+    {
+        "description": "M6 taptite screw",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19421"
+    },
+    {
+        "description": "GHz barium sulphate paint",
+        "location": "For free issue to painter",
+        "quantity": "0.50",
+        "stockcode": "19625"
+    },
+    {
+        "description": "Painting of SRS12",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19702"
+    },
+    {
+        "description": "ULS frame, 3842-517-173 x 275mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41611"
+    },
+    {
+        "description": "MkII ULS300 Sphere Support Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42111"
+    },
+    {
+        "description": "SRS12 Bosch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43114"
+    },
+    {
+        "description": "SRS12 Baffle Pillar",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "43118_P1"
+    },
+    {
+        "description": "SRS12 baffle painted PHP all over",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43119"
+    },
+    {
+        "description": "SRS12 Bosch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43120"
+    },
+    {
+        "description": "IS fibre diffuser  ( PTFE NOT DELRIN )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44028"
+    },
+    {
+        "description": "IS300-L50 port ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44310"
+    },
+    {
+        "description": "Machining of hemisphere for IS300-L50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44311"
+    },
+    {
+        "description": "IS300-L50 port cover plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44312"
+    },
+    {
+        "description": "Machining of hemisphere for IS300-l50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44313"
+    },
+    {
+        "description": "IS300-L50 Detector Port",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44315"
+    },
+    {
+        "description": "Sealing strip for integrating spheres",
+        "location": "Do not kit",
+        "quantity": "0.11",
+        "stockcode": "99100"
+    }
+]

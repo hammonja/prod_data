@@ -1,0 +1,20 @@
+[
+    {
+        "description": "QH Spectral Irradiance Standard (Vertical, Enclosed)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_CL6-V"
+    },
+    {
+        "description": "Lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13035"
+    },
+    {
+        "description": "150W Grit Blasted Quartz-Halogen Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17905"
+    }
+]

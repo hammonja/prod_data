@@ -1,0 +1,230 @@
+[
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 Curved Mirror.  UV-AL coating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11038"
+    },
+    {
+        "description": "M300 Plain mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11121"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "M300 curved mirror mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11123"
+    },
+    {
+        "description": "M300 Mirror Retaining Block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11124"
+    },
+    {
+        "description": "M300 Cover plate - exit",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11132"
+    },
+    {
+        "description": "M300 Mounting plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11134"
+    },
+    {
+        "description": "M300 'D' socket connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11141"
+    },
+    {
+        "description": "M4 Ball ended grub screw ( free issue 99022)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11250"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "Circlip 4mm D1400-0040",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11313"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Female Screw Lock Assembly 13mm Long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19044"
+    },
+    {
+        "description": "Plain mirror 29 x 44 x 3mm thk.  UV-AL (send ULO a drawing)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30033"
+    },
+    {
+        "description": "Sam2 base (free issue 19132)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30034"
+    },
+    {
+        "description": "Sam3 top (free issue 19132)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30035"
+    },
+    {
+        "description": "SAM 2 Post",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30036"
+    },
+    {
+        "description": "SAM2 Shaft (free issue 99901, 1 length per 10)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30037"
+    },
+    {
+        "description": "Accent Sam Mirror Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30038_P1"
+    },
+    {
+        "description": "SAM2 mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30039"
+    },
+    {
+        "description": "Sam2 adjuster",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30041"
+    },
+    {
+        "description": "GDAY 035 X20 B21 (24V)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30043"
+    },
+    {
+        "description": "Timing belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30044"
+    },
+    {
+        "description": "Machined Timing Pulley",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30045_M1"
+    },
+    {
+        "description": "Accent Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30046"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30047"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "Gasket for use with blanking plate 11132",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "45212"
+    },
+    {
+        "description": "Connector board for Accent monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ACCENT_CONNECTOR-BOARD"
+    },
+    {
+        "description": "Painted casting for Accent & Nanometrics",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_ACCENT"
+    },
+    {
+        "description": "Accent Motorised Slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_MVSS_ACCENT"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET"
+    }
+]

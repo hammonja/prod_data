@@ -1,0 +1,38 @@
+[
+    {
+        "description": "IS1800 Detector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13329"
+    },
+    {
+        "description": "IS fibre diffuser  ( PTFE NOT DELRIN )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44028"
+    },
+    {
+        "description": "IS Detector/Fibre Port Temp Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44376"
+    },
+    {
+        "description": "IS Temp Port Foam GASKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44377"
+    },
+    {
+        "description": "Painted part 45239",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45239_P1"
+    },
+    {
+        "description": "IS 3000 Baffle Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45240"
+    }
+]

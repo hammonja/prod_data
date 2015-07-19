@@ -1,0 +1,110 @@
+[
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Connector 25 way IDC socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10124"
+    },
+    {
+        "description": "M300 microswitch",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11001"
+    },
+    {
+        "description": "T300X(100) spacer plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11011"
+    },
+    {
+        "description": "T300X END BLOCK B",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11013"
+    },
+    {
+        "description": "T300X END BLOCK A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11014"
+    },
+    {
+        "description": "T300X(100) LEADSCREW BLOCK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11040"
+    },
+    {
+        "description": "M3 inserts in slider (lead screw min. 5mm from end of track)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11042"
+    },
+    {
+        "description": "Coupling rigid 1/4\" bore x 3/4\" long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11220"
+    },
+    {
+        "description": "Microswitch plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11349"
+    },
+    {
+        "description": "Stepper Motor 1.8 degrees",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18045"
+    },
+    {
+        "description": "Female Screw Lock Assembly 13mm Long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19044"
+    },
+    {
+        "description": "Bore reducer, 5mm x 1/4 inch x 6.6mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30052"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "UMS motor plate spacers",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41297"
+    },
+    {
+        "description": "UMS motor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41298"
+    },
+    {
+        "description": "Uni slide up bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43046"
+    }
+]

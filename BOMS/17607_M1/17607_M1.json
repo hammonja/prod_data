@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Machining Operation To Produce 17607_M1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46434"
+    },
+    {
+        "description": "Un-machined 608 heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17607"
+    }
+]

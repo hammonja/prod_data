@@ -1,0 +1,380 @@
+[
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "12 Way Cable Plug",
+        "location": "For connection to CPSE",
+        "quantity": "1.00",
+        "stockcode": "10159"
+    },
+    {
+        "description": "12 Way Chassis Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10161"
+    },
+    {
+        "description": "SAMPLE SPRING LONG",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13113"
+    },
+    {
+        "description": "IS1800 Clamp plate 1",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13186"
+    },
+    {
+        "description": "IS1800 Clamp plate 2",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13187"
+    },
+    {
+        "description": "IS1800 Sphere Locator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13188"
+    },
+    {
+        "description": "IS 1800 Hinge Bush",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "13191"
+    },
+    {
+        "description": "OBSOLETED",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13299F"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13299P"
+    },
+    {
+        "description": "Bentham Logo plate (silk screened)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16098"
+    },
+    {
+        "description": "IS1800 MkII sphere clamps",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19207"
+    },
+    {
+        "description": "IS1800 MkII sphere handles",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19209"
+    },
+    {
+        "description": "Sealing Tape for 1m spheres (10mm [T] x 12mm [W] x 10m [L])",
+        "location": "",
+        "quantity": "0.60",
+        "stockcode": "19210"
+    },
+    {
+        "description": "IS1800 suspension hook",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19224"
+    },
+    {
+        "description": "Bosch 8mm groove M6 'T' nut",
+        "location": "",
+        "quantity": "29.00",
+        "stockcode": "19280"
+    },
+    {
+        "description": "Bosch 8mm groove M5 'T' nut",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19311"
+    },
+    {
+        "description": "Bosch M4 for 8mm profile",
+        "location": "",
+        "quantity": "64.00",
+        "stockcode": "19372"
+    },
+    {
+        "description": "Conduit Plastic Straight adapter 16mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19374"
+    },
+    {
+        "description": "M4 'T' nut for 10mm groove",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19377"
+    },
+    {
+        "description": "16mm Plastic Conduit (10m reel)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19393"
+    },
+    {
+        "description": "Bosch 10mm groove M6 'T' nut (Each)",
+        "location": "",
+        "quantity": "22.00",
+        "stockcode": "19399"
+    },
+    {
+        "description": "Magnet,neodymium,disk 9mm dia x 3mm,1.4kg pull (pack of 10)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19406"
+    },
+    {
+        "description": "Bosch part",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19567"
+    },
+    {
+        "description": "Distribution unit 4 way (www.cef.co.uk)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19575"
+    },
+    {
+        "description": "Slick Tape (ST-34, 915 x 19 x 1mm) www.axminster.co.uk",
+        "location": "",
+        "quantity": "0.25",
+        "stockcode": "19616"
+    },
+    {
+        "description": "Painting of lamp support parts for IS1800 (15 items)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19635"
+    },
+    {
+        "description": "Bearing O/D 19mm, I/D 6mm, THK 6mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30153"
+    },
+    {
+        "description": "Electronics AV IS1800 Baffle Plate (paint PHP all over)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42161"
+    },
+    {
+        "description": "4 way break out box (Material 41816P)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42202"
+    },
+    {
+        "description": "IS1800 hinge 1",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "43674"
+    },
+    {
+        "description": "IS1800 fixing block",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "43678"
+    },
+    {
+        "description": "IS1800 support bracket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43679"
+    },
+    {
+        "description": "IS1800 hinge moving block (2 items)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "43765"
+    },
+    {
+        "description": "IS1800 bottom fixing block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43806"
+    },
+    {
+        "description": "Inhouse modification of 10161",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44014"
+    },
+    {
+        "description": "IS1800 top adjust main bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44108"
+    },
+    {
+        "description": "Is1800 lock wedge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44112"
+    },
+    {
+        "description": "IS1800 top bracket side LH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44115"
+    },
+    {
+        "description": "IS1800 tommy bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44143"
+    },
+    {
+        "description": "Bosch extrusion see drawing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44144"
+    },
+    {
+        "description": "Bosch IS1800 top bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44145"
+    },
+    {
+        "description": "IS1800 top bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44147"
+    },
+    {
+        "description": "IS1800 top Bosch end cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44149"
+    },
+    {
+        "description": "10mm Groove Aluminium cover L=115",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44150"
+    },
+    {
+        "description": "10mm Groove Aluminium Cover L=859mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44151"
+    },
+    {
+        "description": "IS1800 Clamp Lock Bar [ SHELF : DUNCAN]",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44152"
+    },
+    {
+        "description": "IS1800 Clamp Lock Nut",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44153"
+    },
+    {
+        "description": "IS1800 top bracket angle block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44154"
+    },
+    {
+        "description": "IS1800 top adjustable bracket RH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44155"
+    },
+    {
+        "description": "Bosch extrusion see drawing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44156"
+    },
+    {
+        "description": "Bosch standard lamp adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44157"
+    },
+    {
+        "description": "IS1800 top mount connector block [SHELF : DUNCAN]",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44166"
+    },
+    {
+        "description": "IS1800 bottom mount cover (painted white)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44240F"
+    },
+    {
+        "description": "IS1800 bottom mount cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44240P"
+    },
+    {
+        "description": "21way chassis mount socket,7.5A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44287"
+    },
+    {
+        "description": "21 way multipole cable plug,7.5A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44288"
+    },
+    {
+        "description": "Sphere base baffle  (Painted PHP all over)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45141"
+    },
+    {
+        "description": "Al fill in strip for 45mm Bosch",
+        "location": "Kit 4 off 2m lengths",
+        "quantity": "4.00",
+        "stockcode": "99990"
+    },
+    {
+        "description": "connector panel including relay unit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS1800_CONNECTOR_PANEL"
+    },
+    {
+        "description": "Sphere sub-assembly for IS1800",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS1800_SPHERE"
+    },
+    {
+        "description": "Stand for IS1800",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS1800_STAND"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "description": "M300 Small 'O' ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11054"
+    },
+    {
+        "description": "IS4 blank hemi-spheres",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13076"
+    },
+    {
+        "description": "Proctor & Gamble IS4 sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41554F"
+    },
+    {
+        "description": "Proctor & Gamble IS4 sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41554P"
+    },
+    {
+        "description": "Proctor & Gamble IS4 sphere dovetail block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41555"
+    },
+    {
+        "description": "Proctor & Gamble IS4 sphere interface tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41556"
+    }
+]

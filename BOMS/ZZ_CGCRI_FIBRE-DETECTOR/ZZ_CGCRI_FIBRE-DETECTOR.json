@@ -1,0 +1,344 @@
+[
+    {
+        "description": "562R, .25W, MF, 1% LR1",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02018"
+    },
+    {
+        "description": "LED green right angle mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04027"
+    },
+    {
+        "description": "right angled rotary switch 4 + 1 footprint",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07067"
+    },
+    {
+        "description": "InGaAs detector 2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09040"
+    },
+    {
+        "description": "Silicon detector (FC320Si)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09106"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Connector BNC socket (Radial R141404)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10065"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "M4 Ball ended grub screw ( free issue 99022)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11250"
+    },
+    {
+        "description": "M300 Siko bush",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11342"
+    },
+    {
+        "description": "FC320 Pivot",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "12107"
+    },
+    {
+        "description": "FC320 clip",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "12109"
+    },
+    {
+        "description": "Right angle prism",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13292"
+    },
+    {
+        "description": "DFV side",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17420"
+    },
+    {
+        "description": "Lid changeover DFV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17421"
+    },
+    {
+        "description": "End large DFV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17422"
+    },
+    {
+        "description": "DFV small end",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17423"
+    },
+    {
+        "description": "DFV bulkhead",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17424"
+    },
+    {
+        "description": "DFV lever bush",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17427"
+    },
+    {
+        "description": "DFV prism holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17428"
+    },
+    {
+        "description": "DFV lever",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17429"
+    },
+    {
+        "description": "DFV shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17430"
+    },
+    {
+        "description": "Shutter LH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17431-1"
+    },
+    {
+        "description": "Shutter RH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17431-2"
+    },
+    {
+        "description": "DFH plinth",
+        "location": "Free issue to metalworker",
+        "quantity": "2.00",
+        "stockcode": "17432"
+    },
+    {
+        "description": "DFH lid-1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17433"
+    },
+    {
+        "description": "DFH lid-2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17434"
+    },
+    {
+        "description": "DFH base 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17435"
+    },
+    {
+        "description": "DFH base 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17436"
+    },
+    {
+        "description": "DFV base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17437"
+    },
+    {
+        "description": "DFH pivot",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "17438"
+    },
+    {
+        "description": "Amici prism",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17440"
+    },
+    {
+        "description": "M-5x",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17441"
+    },
+    {
+        "description": "Lid gasket (Sifam)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17599"
+    },
+    {
+        "description": "camera prism box side",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17906"
+    },
+    {
+        "description": "camera prism box top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17907"
+    },
+    {
+        "description": "camera prism box front",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17908"
+    },
+    {
+        "description": "camera prism box back",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17909"
+    },
+    {
+        "description": "Spacers used in camera fibre station",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17910"
+    },
+    {
+        "description": "Base of camera box in fibre staion",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17911"
+    },
+    {
+        "description": "Led holder for camera fibre station",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17912"
+    },
+    {
+        "description": "DFH plinth modification (free issue 17432)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17921"
+    },
+    {
+        "description": "XP POWER - AEL15US12 - PSU, DESKTOP 15W 12V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18015"
+    },
+    {
+        "description": "Stud M3x15 Stainless steel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19099"
+    },
+    {
+        "description": "'E' clip (040MS)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19104"
+    },
+    {
+        "description": "Bare fibre holder (Newport)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19106"
+    },
+    {
+        "description": "Extension spring S/S",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19107"
+    },
+    {
+        "description": "Small round rubber feet (bag of 60)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19112"
+    },
+    {
+        "description": "Washer crinkle M5 copper",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19157"
+    },
+    {
+        "description": "Compression spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19179"
+    },
+    {
+        "description": "camera",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19182"
+    },
+    {
+        "description": "Monitor for fibre detector station",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19183"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30047"
+    },
+    {
+        "description": "Spring used in fibre staion",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30136"
+    }
+]

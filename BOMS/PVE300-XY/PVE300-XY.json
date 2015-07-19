@@ -1,0 +1,38 @@
+[
+    {
+        "description": "PV system top plate Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43241_P1"
+    },
+    {
+        "description": "PV lamp panel for xy stage",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43939"
+    },
+    {
+        "description": "PV Bias Source Clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46113"
+    },
+    {
+        "description": "PV Bias Source Clamp Upright",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46114"
+    },
+    {
+        "description": "PV Fibre Holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46116"
+    },
+    {
+        "description": "PVE300- XY Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PVE300-XY_COMMON_PARTS"
+    }
+]

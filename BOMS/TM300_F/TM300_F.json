@@ -1,0 +1,200 @@
+[
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "Bag and show part number",
+        "quantity": "2.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 Curved Mirror.  UV-AL coating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11038"
+    },
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "Fixed slit block MkII",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11083"
+    },
+    {
+        "description": "Fixed slit block cover MkII (fi 19087, 2 per)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11084"
+    },
+    {
+        "description": "Fixed slit lid MkII",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11085"
+    },
+    {
+        "description": "M300 Plain mirror mount",
+        "location": "Bag and show part number",
+        "quantity": "2.00",
+        "stockcode": "11121"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "Bag and show part number",
+        "quantity": "2.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "M300 curved mirror mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11123"
+    },
+    {
+        "description": "M300 Mirror Retaining Block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11124"
+    },
+    {
+        "description": "M300 Cover plate - exit",
+        "location": "Bag and show part number",
+        "quantity": "2.00",
+        "stockcode": "11132"
+    },
+    {
+        "description": "M300 Mounting plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11134"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "Bag and show part number",
+        "quantity": "2.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "Bentham TM300 connector panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16104"
+    },
+    {
+        "description": "mains port cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17391"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Female Screw Lock Assembly 13mm Long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19044"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "Bag and show part number",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "TM300 sam blanking plate",
+        "location": "Bag and show part number",
+        "quantity": "1.00",
+        "stockcode": "30127"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "Bag and show part number",
+        "quantity": "1.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "Gasket for use with blanking plate 11132",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45212"
+    },
+    {
+        "description": "Standard TM300 casting in Bentham colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_TM300"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET"
+    }
+]

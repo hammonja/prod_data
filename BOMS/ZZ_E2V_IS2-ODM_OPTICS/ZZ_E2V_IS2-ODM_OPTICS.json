@@ -1,0 +1,110 @@
+[
+    {
+        "description": "Monitor detector (e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09115"
+    },
+    {
+        "description": "SMA bulkhead jack (E2V 50mm OP-DI-MA sphere)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10271"
+    },
+    {
+        "description": "Lens uv silica 25dia (+0, -0.1) x 50fl pcx",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13436"
+    },
+    {
+        "description": "E2V (Marconi) light source 4\" sphere lens rings",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "27102"
+    },
+    {
+        "description": "E2V sphere detector fixing ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27198"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere lens tube/plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41775"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere output plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41776"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41777"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41778"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere baffle plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41779"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41780P"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41780F"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere baffle legs",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "41781P"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere baffle legs",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "41781F"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41782"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere fibre/lens tube to Melles shutter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41783"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere Tie bars",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41784"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere SMA connector bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41785"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "30K, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02066"
+    },
+    {
+        "description": "6.8V Zener diode",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04012"
+    },
+    {
+        "description": "12V, 1.3W zener (BZV85-C12)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04054"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Blue shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10136"
+    },
+    {
+        "description": "PSD185 for new deuterium lamp psu",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15115"
+    },
+    {
+        "description": "FAN, 40X40X10MM, 12VDC, 7CFM, 27DBA",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18117"
+    },
+    {
+        "description": "Finger guard for 40mm fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18118"
+    },
+    {
+        "description": "XP power 100~200Vac 24Vdc 2.5A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18134"
+    },
+    {
+        "description": "TM300 turret opto spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30303"
+    },
+    {
+        "description": "418F OKW BOX (205 x 140 x 75)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44351"
+    },
+    {
+        "description": "418F PSU Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44352"
+    },
+    {
+        "description": "706 Front Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46184"
+    },
+    {
+        "description": "706 Back Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46185"
+    },
+    {
+        "description": "706 Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46377"
+    },
+    {
+        "description": "706 Power LED",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46379"
+    },
+    {
+        "description": "PSU_706 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50014"
+    },
+    {
+        "description": "M2.5 x 6 tritap (pack of 100)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99003"
+    }
+]

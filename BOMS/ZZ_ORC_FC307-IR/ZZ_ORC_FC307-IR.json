@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Fibre x,y,z stage",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12039"
+    },
+    {
+        "description": "FC307 Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12127"
+    },
+    {
+        "description": "Lens, calcium fluoride, bcx, dia 5.1mm +/- 0.1mm. f = 8mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13378"
+    },
+    {
+        "description": "UV-OBJ body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17657"
+    },
+    {
+        "description": "UV-OBJ lens holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17658"
+    }
+]

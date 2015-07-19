@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Silicon detector (10mm x 10mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09006"
+    },
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "DH-InGaAs Body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09039"
+    },
+    {
+        "description": "DH-Si Body 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09045"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    }
+]

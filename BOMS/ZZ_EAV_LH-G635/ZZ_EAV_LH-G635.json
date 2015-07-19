@@ -1,0 +1,44 @@
+[
+    {
+        "description": "20A Straight plug Power 'D'",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10212"
+    },
+    {
+        "description": "Lampholder G6,35 with silicone lead 395mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13323"
+    },
+    {
+        "description": "25mm Conduit Lock Nuts (Bag of 10)",
+        "location": "Assemble before painting",
+        "quantity": "1.00",
+        "stockcode": "19226"
+    },
+    {
+        "description": "BC22 to PG9 Adapter Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41812P"
+    },
+    {
+        "description": "BC22 to PG9 Adapter Ring",
+        "location": "Fully assemble before painting",
+        "quantity": "1.00",
+        "stockcode": "41812F"
+    },
+    {
+        "description": "Electronics AV IS1800 G6.35 to PG9 Extension Tube",
+        "location": "Assemble before painting",
+        "quantity": "1.00",
+        "stockcode": "42166"
+    },
+    {
+        "description": "ElectronicS AV IS1800 Lamp Holders End Block",
+        "location": "Assemble before painting",
+        "quantity": "1.00",
+        "stockcode": "42167"
+    }
+]

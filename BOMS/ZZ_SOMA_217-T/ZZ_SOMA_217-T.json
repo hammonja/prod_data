@@ -1,0 +1,110 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "Miniature toggle switch 2 pole 2 way DPDT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07007"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "Connector IEEE socket (3549-2000)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10108"
+    },
+    {
+        "description": "605 Rear panel bracket for bin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "16008"
+    },
+    {
+        "description": "Single Blank Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "16019"
+    },
+    {
+        "description": "217 BLANK FRONT PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16034"
+    },
+    {
+        "description": "Rear panel for narrow 200 series bin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16067"
+    },
+    {
+        "description": "3HP BLANKING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16068"
+    },
+    {
+        "description": "SINGLE WIDTH IEE PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16075"
+    },
+    {
+        "description": "Transformer for all 217 bins.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18066"
+    },
+    {
+        "description": "sales@L-com.com   (pack of 20)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19012"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "217T bin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22021"
+    },
+    {
+        "description": "Loaded pcb for 217 / 217T bin. All power requirements",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_217_CARD"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "Standoff, m/f, brass, metric, 4.5 hex dia, M2.5 thread, 12.0",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15043"
+    },
+    {
+        "description": "Hard Stop Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46706"
+    },
+    {
+        "description": "Nema 17 High Torque Stepper",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46708"
+    },
+    {
+        "description": "LPM Mirror Mount Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46710"
+    },
+    {
+        "description": "LPM Mirror Leg",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "46711"
+    },
+    {
+        "description": "Bulgin 12-way male connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46713"
+    },
+    {
+        "description": "Bulgin Pin Crimps",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "46715"
+    },
+    {
+        "description": "LPM Mirror Surround",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46722"
+    },
+    {
+        "description": "LPM Kinematic Mount Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46723"
+    },
+    {
+        "description": "ONDRIVES Dowel Pin \u00d81.5 x 8",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46724"
+    },
+    {
+        "description": "ONDRIVES Dowel Pin \u00d81.0 x 6",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46725"
+    },
+    {
+        "description": "THORLABS Fine Thread Bush",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "46726"
+    },
+    {
+        "description": "LPM Mirror",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46727"
+    },
+    {
+        "description": "ONDRIVES Extension Spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46729"
+    },
+    {
+        "description": "LPM Ball Ended Pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46730"
+    },
+    {
+        "description": "LPM Solenoid Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46732"
+    },
+    {
+        "description": "LPM Steel Stop",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46733"
+    },
+    {
+        "description": "SPDT-NO/NC Roller Lever Microswitch, 3 A@ 125 V ac",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46735"
+    },
+    {
+        "description": "LPM Solenoid",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46736"
+    },
+    {
+        "description": "THORLABS Fine Thread Grub",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "46737"
+    },
+    {
+        "description": "THORLABS Fine Thread Nut",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "46738"
+    },
+    {
+        "description": "LPM Mirror Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46776"
+    },
+    {
+        "description": "LPM-MIRROR Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50013"
+    },
+    {
+        "description": "LPM Mirror Senosr Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "LPM-MIRROR-BOARD"
+    }
+]

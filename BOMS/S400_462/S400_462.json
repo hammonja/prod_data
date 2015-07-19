@@ -1,0 +1,200 @@
+[
+    {
+        "description": "330R MRS25",
+        "location": "R21",
+        "quantity": "1.00",
+        "stockcode": "02016"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R17,R18,R20,R50",
+        "quantity": "4.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "R19",
+        "quantity": "1.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "10K Resnet, 0.8W total, 0.2W EA SIL 8-PIN, 4 isolated",
+        "location": "R1,R3",
+        "quantity": "2.00",
+        "stockcode": "02061"
+    },
+    {
+        "description": "10K RESNET SIP",
+        "location": "R32",
+        "quantity": "1.00",
+        "stockcode": "02089"
+    },
+    {
+        "description": "470R Resnet x 4 single res",
+        "location": "R2,R4,R34,R33",
+        "quantity": "4.00",
+        "stockcode": "02222"
+    },
+    {
+        "description": "1N4148",
+        "location": "D1..D20",
+        "quantity": "20.00",
+        "stockcode": "04007"
+    },
+    {
+        "description": "LED yellow right angle mount",
+        "location": "LED1.. LED8",
+        "quantity": "8.00",
+        "stockcode": "04026"
+    },
+    {
+        "description": "LED green right angle mount",
+        "location": "LED9",
+        "quantity": "1.00",
+        "stockcode": "04027"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "VREG",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "Relay",
+        "location": "RL1..RL8",
+        "quantity": "8.00",
+        "stockcode": "07044"
+    },
+    {
+        "description": "Push button",
+        "location": "SW1..SW4 , SWSel , SWRtl",
+        "quantity": "6.00",
+        "stockcode": "07045"
+    },
+    {
+        "description": "Capacitor 22pF ceramic plate",
+        "location": "C3,C4",
+        "quantity": "2.00",
+        "stockcode": "08047"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 10nF Polyester 10% 63/100V",
+        "location": "C1,C2",
+        "quantity": "2.00",
+        "stockcode": "08052"
+    },
+    {
+        "description": "Capacitor 10uF, 63V",
+        "location": "C6",
+        "quantity": "1.00",
+        "stockcode": "08081"
+    },
+    {
+        "description": "20MHz crystal",
+        "location": "XTAL1",
+        "quantity": "1.00",
+        "stockcode": "08117"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "IP1..IP4",
+        "quantity": "5.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "28-Way x 0.3\" DIL Socket",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "10053"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "IC4, IC5",
+        "quantity": "2.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "PL1..PL4 , TRIG",
+        "quantity": "5.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "36 way jumper",
+        "location": "JP1..JP8",
+        "quantity": "2.00",
+        "stockcode": "10131"
+    },
+    {
+        "description": "Jumper",
+        "location": "JP1..JP8",
+        "quantity": "12.00",
+        "stockcode": "10132"
+    },
+    {
+        "description": "Tyco 3 way header with catch",
+        "location": "I2C1 , I2C2 ",
+        "quantity": "2.00",
+        "stockcode": "10300"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "ADC1",
+        "quantity": "1.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "15092 462 pcb issue 1 (ISSUE 1 ON HOLD)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15092"
+    },
+    {
+        "description": "462 Front Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16131"
+    },
+    {
+        "description": "262 Mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17262"
+    },
+    {
+        "description": "262 Spacer (15072 trimmed to 21.3/21.5)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "17263"
+    },
+    {
+        "description": "PIC18F2420-I/SP",
+        "location": "IC1 DO NOT FIT",
+        "quantity": "1.00",
+        "stockcode": "20065"
+    },
+    {
+        "description": "CA3083 NPN 5-transistor array,DIP16",
+        "location": "IC4 ,IC5 ",
+        "quantity": "2.00",
+        "stockcode": "20066"
+    }
+]

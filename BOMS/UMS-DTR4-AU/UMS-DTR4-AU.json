@@ -1,0 +1,38 @@
+[
+    {
+        "description": "DTR4_AU_PARTS to be gold plated",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTR4_AU_PARTS"
+    },
+    {
+        "description": "IS4C FLANGE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13082"
+    },
+    {
+        "description": "DTR4 Au Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46777"
+    },
+    {
+        "description": "DTR4 Au Clamp Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46778"
+    },
+    {
+        "description": "Magnet for EI sphere (box of 10)",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "43663"
+    },
+    {
+        "description": "UMS-DTR4-AU Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50040"
+    }
+]

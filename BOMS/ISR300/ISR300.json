@@ -1,0 +1,254 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "NP 8.0/25.4/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15022"
+    },
+    {
+        "description": "M-F spacer, metal, M3 (Purchased in packs of 25)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15098"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "TMs300 'O' ring  (packs of 5)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19269"
+    },
+    {
+        "description": "TMs300 drive chain.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30233"
+    },
+    {
+        "description": "TMs300 motor slit sprocket, 5mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30234"
+    },
+    {
+        "description": "TMs300 slit sprocket, 4mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30252"
+    },
+    {
+        "description": "TMs300 Lid Gasket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30273"
+    },
+    {
+        "description": "DTMs300 Connector Blanking Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30334"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30337"
+    },
+    {
+        "description": "TMs300 baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41007"
+    },
+    {
+        "description": "TMS300 lid painted in EI beige / Nextel (order with 41009_1)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41009"
+    },
+    {
+        "description": "TMs300 Entrance Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41018"
+    },
+    {
+        "description": "TMs300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41019"
+    },
+    {
+        "description": "TMs300 blank slit position cover plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41021"
+    },
+    {
+        "description": "Baseplate for Bentham TMS300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41848"
+    },
+    {
+        "description": "Bentham TMS300 connector panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42749"
+    },
+    {
+        "description": "Base plate spacers for Bentham TMS300",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42751"
+    },
+    {
+        "description": "ISR300 electronics pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43336"
+    },
+    {
+        "description": "Linear supply for IDR300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR300_PSU"
+    },
+    {
+        "description": "IMAC card for Bentham TMS monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IMAC_CARD_BENTHAM_TMS"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Signal Processing Electronics for ISR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ISR_ELECTRONICS"
+    },
+    {
+        "description": "ISR300 housing in EI powder coat",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ISR300_HOUSING"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET"
+    },
+    {
+        "description": "Slit drive assembly for TMS monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_SLIT-DRIVE-ASSY"
+    },
+    {
+        "description": "Slit limit assembly for TMS type monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_SLIT-LIMIT-ASSY"
+    },
+    {
+        "description": "Sam for TMS  based monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS300_SAM"
+    },
+    {
+        "description": "TMS300 slit assembly",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "TMS300_SLIT"
+    },
+    {
+        "description": "TMS300 Slit Common Parts",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "TMS300_SLIT_COMMON_PARTS"
+    },
+    {
+        "description": "TMS300 Slit Covers Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS300_SLIT_COVER"
+    }
+]

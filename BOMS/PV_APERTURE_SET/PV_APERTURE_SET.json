@@ -1,0 +1,74 @@
+[
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "Fixed Slit Plate (0.74mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FSP(0.74)"
+    },
+    {
+        "description": "Fixed Slit Plate (1.85mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FSP(1.85)"
+    },
+    {
+        "description": "Fixed Slit Plate (3.70mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FSP(3.7)"
+    },
+    {
+        "description": "PV system aperture 0.74mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43445"
+    },
+    {
+        "description": "PV system aperture 1.85mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43446"
+    },
+    {
+        "description": "PV system aperture 3.7mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43448"
+    },
+    {
+        "description": "PV system aperture 4.2mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43450"
+    },
+    {
+        "description": "Aperture to give 1.5mm square image in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45144"
+    },
+    {
+        "description": "Aperture to give 1.5mm x 3mm image in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45145"
+    },
+    {
+        "description": "Aperture to give 1.5mm x 5mm image in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45146"
+    }
+]

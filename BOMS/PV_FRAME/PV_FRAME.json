@@ -1,0 +1,62 @@
+[
+    {
+        "description": "S12x30 T50 self tap",
+        "location": "",
+        "quantity": "32.00",
+        "stockcode": "19435"
+    },
+    {
+        "description": "45 x 90 Bosch (see drawing)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43419"
+    },
+    {
+        "description": "Dark foot plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43421"
+    },
+    {
+        "description": "45 x 90 Bosch (see drawing)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43433"
+    },
+    {
+        "description": "Bosch 45 x 90.  820mm long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43434"
+    },
+    {
+        "description": "Bosch 45 x 90.  510mm long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43435"
+    },
+    {
+        "description": "PV stand shelf",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43436"
+    },
+    {
+        "description": "TM600 Support Foot Studding (gah)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "60099"
+    },
+    {
+        "description": "TM600 Self Levelling Foot",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "60100"
+    },
+    {
+        "description": "TM600 Thumb Nut (pack of 5)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "60101"
+    }
+]

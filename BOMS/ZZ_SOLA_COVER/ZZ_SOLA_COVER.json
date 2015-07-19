@@ -1,0 +1,212 @@
+[
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Bosch extrusion 20mm, 4 channel. 3000mm length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19338"
+    },
+    {
+        "description": "Bosch 3 Way Cube Connectors (20m x 20mm)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19339"
+    },
+    {
+        "description": "Bosch extrusion 20mm, 2 channel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19340"
+    },
+    {
+        "description": "Bosch 2 Way Cube Connectors (20m x 20mm)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19343"
+    },
+    {
+        "description": "Bosch 6mm groove M4 'T' nut",
+        "location": "",
+        "quantity": "65.00",
+        "stockcode": "19346"
+    },
+    {
+        "description": "Sola system Bulkhead connector 1/8\" BSP",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19348"
+    },
+    {
+        "description": "Sola system on/off 1/4\" BSP tap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19349"
+    },
+    {
+        "description": "Sola system 1/8\" BSP straight stem conector",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19350"
+    },
+    {
+        "description": "Sola system 1/4\" BSP straight stem conector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19351"
+    },
+    {
+        "description": "Bosch 20mm profile metal hinge (pair)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19352"
+    },
+    {
+        "description": "Bosch door handle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19368"
+    },
+    {
+        "description": "Brass hose tail 1/4\" BSP, 3/8\" ID hose",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19392"
+    },
+    {
+        "description": "Sola System drainage tap mounting block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41347"
+    },
+    {
+        "description": "Sola system sample chamber back wall",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41369"
+    },
+    {
+        "description": "BOSCH 20X20 ; L = 740mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41399"
+    },
+    {
+        "description": "BOSCH 20X20 ; L = 340mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41400"
+    },
+    {
+        "description": "Sola System sample chamber top to bottom extrusion",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41401"
+    },
+    {
+        "description": "Sola System sample chamber front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41402"
+    },
+    {
+        "description": "Sola System sample chamber side 1 (input) plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41403"
+    },
+    {
+        "description": "Sola System sample chamber side 2 (output) plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41404"
+    },
+    {
+        "description": "Sola System sample chamber lid plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41405"
+    },
+    {
+        "description": "Sola system collimator sealing ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41428"
+    },
+    {
+        "description": "Sola system collimator sealing ring holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41429"
+    },
+    {
+        "description": "Sola system fibre selaing ring part now 19357",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41433"
+    },
+    {
+        "description": "Sola system firbe sealing ring holder",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41434"
+    },
+    {
+        "description": "Sola system fibre seal holder clamp washer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41528"
+    },
+    {
+        "description": "Sola system BNC/HV connector bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41529"
+    },
+    {
+        "description": "Sola system sample chamber 2 slot side to side extrusion",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41530"
+    },
+    {
+        "description": "Sola system sample chamber 2 slot front to rear extrusion",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41531"
+    },
+    {
+        "description": "Sola system BNC/HV connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41532"
+    },
+    {
+        "description": "Sola System Water Catchment Tray",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41909"
+    },
+    {
+        "description": "Sola Inspection Hole Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42016"
+    },
+    {
+        "description": "Sola Split FOP fibre Clamp Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42106"
+    }
+]

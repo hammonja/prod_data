@@ -1,0 +1,8 @@
+MSH150_0005,MSH150,MSH150 Common Components,,0,1.00,,,,,
+MSH150_0005,GA1-G1512R0U5,Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating,,1,1.00,,,,,
+MSH150_0005,SLIT_FSS_COMPONENTS,Fixed Slit Box, Back & Lid, No Slit Carries (Components).,,2,2.00,,,,,
+MSH150_0005,GA2-G1506R0U5,Grating Assembly with 600g/mm, 500nm Blazed Ruled Grating,,3,1.00,,,,,
+MSH150_0005,MSH150_252_IMPERIAL,MSH150 Filter Wheel (1 inch Diameter Filters),,4,1.00,,,,,
+MSH150_0005,SA-FSP(0.50),Fixed Slit Assembly with Slit Plate (0.50mm width aperture),,5,2.00,,,,,
+MSH150_0005,SA-FSP(1.00),Fixed Slit Assembly with Slit Plate (1.00mm width aperture),,6,2.00,,,,,
+MSH150_0005,SA-FSP(2.0),Fixed Slit Assembly with Slit Plate (2.0mm width aperture),,7,2.00,,,,,

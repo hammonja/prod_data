@@ -1,0 +1,32 @@
+[
+    {
+        "description": "TL (Macro) body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12152"
+    },
+    {
+        "description": "TL Macro lens tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12153"
+    },
+    {
+        "description": "TL Macro lens 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12154"
+    },
+    {
+        "description": "TL Macro lens 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12155"
+    },
+    {
+        "description": "Polypropylene Case 225 x 200 x 70 for CL2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25054"
+    }
+]

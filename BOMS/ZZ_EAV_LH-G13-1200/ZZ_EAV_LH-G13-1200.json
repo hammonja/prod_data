@@ -1,0 +1,56 @@
+[
+    {
+        "description": "20A Straight plug Power 'D'",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10212"
+    },
+    {
+        "description": "25mm Conduit Lock Nuts (Bag of 10)",
+        "location": "Assemble before painting",
+        "quantity": "2.00",
+        "stockcode": "19226"
+    },
+    {
+        "description": "ElectronicS AV IS1800 Lamp Holders End Block",
+        "location": "Assemble before painting",
+        "quantity": "1.00",
+        "stockcode": "42167"
+    },
+    {
+        "description": "Electronics AV IS1800 T8/T12 Extension Tube",
+        "location": "Assemble before painting",
+        "quantity": "1.00",
+        "stockcode": "42168"
+    },
+    {
+        "description": "Electronics AV IS1800 T8/T12 Connection Block",
+        "location": "Assemble before painting",
+        "quantity": "1.00",
+        "stockcode": "42169"
+    },
+    {
+        "description": "Electronics AV IS1800 T8/T12 1200mm Lamp support Tube",
+        "location": "Fully assemble before painting",
+        "quantity": "1.00",
+        "stockcode": "42170F"
+    },
+    {
+        "description": "Electronics AV IS1800 T8/T12 1200mm Lamp support Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42170P"
+    },
+    {
+        "description": "Electronics AV IS1800 T8/T12 Lamp Support Bracket",
+        "location": "Assemble before painting",
+        "quantity": "2.00",
+        "stockcode": "42172"
+    },
+    {
+        "description": "Electronics AV IS1800 T8/T12 Lamp Socket (was RS 561-937)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42173"
+    }
+]

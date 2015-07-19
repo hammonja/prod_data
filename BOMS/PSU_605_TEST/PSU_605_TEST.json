@@ -1,0 +1,152 @@
+[
+    {
+        "description": "10K 2W WW .25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03006"
+    },
+    {
+        "description": "Green led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04001"
+    },
+    {
+        "description": "Red led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04002"
+    },
+    {
+        "description": "Switch for key lock in 605",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07020"
+    },
+    {
+        "description": "Key lock for 605 (ALL THE SAME KEYS)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07022"
+    },
+    {
+        "description": "Safe HV socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10040"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "605/607 Turns counter (Vishay 15-2-31)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11318"
+    },
+    {
+        "description": "Spacer NP 8.0/25/C/M4",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15028"
+    },
+    {
+        "description": "PSU_610 Constant Current Power PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15124"
+    },
+    {
+        "description": "605 front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16005"
+    },
+    {
+        "description": "DPM for 217 (Lascar DPM 2000S)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18042"
+    },
+    {
+        "description": "605 fan spacers",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19290"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "New shroff BIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22016"
+    },
+    {
+        "description": "605 rear panel MK2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44389"
+    },
+    {
+        "description": "605 Tray MK2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44390"
+    },
+    {
+        "description": "320W Single Output Internal Enclosed SMPSU",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45219"
+    },
+    {
+        "description": "Crimp terminal for 07040 mains switch",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99029"
+    }
+]

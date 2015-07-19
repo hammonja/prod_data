@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Lens, silica, pcx, f=50, dia=25",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13448"
+    },
+    {
+        "description": "IL clamp chopper mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17596"
+    },
+    {
+        "description": "IL1, 6, 7 QC Snout",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43987"
+    },
+    {
+        "description": "Relay CaF2  75 Lens Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46382"
+    },
+    {
+        "description": "Split ring for TGK filter wheel",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "NA5155"
+    }
+]

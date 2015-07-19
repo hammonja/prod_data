@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Aperture to give 4mm x 2.5mm image in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45425"
+    },
+    {
+        "description": "Aperture to give 5mm x 5mm image in PV System",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45427"
+    },
+    {
+        "description": "Aperture to give 7mm x 7mm image in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45429"
+    },
+    {
+        "description": "DH_SI Diode Top Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45446"
+    },
+    {
+        "description": "DH_GE Diode Top PLate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45447"
+    },
+    {
+        "description": "Aperture Plate for Diodes 2mmx0.5mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45448"
+    },
+    {
+        "description": "Carrier for Fixed Slit Plates (Components)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_FIXED-CARRIER_COMPONENTS"
+    }
+]

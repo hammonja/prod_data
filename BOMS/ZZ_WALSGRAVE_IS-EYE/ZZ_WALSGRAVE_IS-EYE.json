@@ -1,0 +1,62 @@
+[
+    {
+        "description": "1mm dia x 5 long stainless pin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19161"
+    },
+    {
+        "description": "IS Eye Front Half (painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27358F"
+    },
+    {
+        "description": "IS Eye Front Half (unpainted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27358P"
+    },
+    {
+        "description": "IS Eye Body (painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27359F"
+    },
+    {
+        "description": "IS Eye Body (unpainted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27359P"
+    },
+    {
+        "description": "IS Eye (painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27360F"
+    },
+    {
+        "description": "IS Eye Baffle (unpainted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27360P"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30047"
+    },
+    {
+        "description": "IS-EYE to CL6 Adapter (painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41920F"
+    },
+    {
+        "description": "IS-EYE to CL6 adapter (un-painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41920P"
+    }
+]

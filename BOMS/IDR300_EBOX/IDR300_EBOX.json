@@ -1,0 +1,284 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "Neon indicator RED 200-250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04040"
+    },
+    {
+        "description": "Mains Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07050"
+    },
+    {
+        "description": "Actuator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07051"
+    },
+    {
+        "description": "T switch in series with Pelts. on E-box",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "07055"
+    },
+    {
+        "description": "Bulkhead 9 way socket (through hole)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10027"
+    },
+    {
+        "description": "3 way chassis plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10094"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Dust cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10142"
+    },
+    {
+        "description": "BS4343 Mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10152"
+    },
+    {
+        "description": "BS4343 Mains inlet free socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10153"
+    },
+    {
+        "description": "Fuse holder panel mounting FPG2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10186"
+    },
+    {
+        "description": "Crimps",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10187"
+    },
+    {
+        "description": "IP68 mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10292"
+    },
+    {
+        "description": "Sealing cap for mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10293"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "M3 x 8mm Spacer Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15083"
+    },
+    {
+        "description": "Bentham Logo plate (silk screened)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16098"
+    },
+    {
+        "description": "EnviroBox Power Inlet Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17777_M1"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "Grommet 6.4 Dia. cable hole",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19051"
+    },
+    {
+        "description": "Fastener self clinch M4",
+        "location": "",
+        "quantity": "14.00",
+        "stockcode": "19086"
+    },
+    {
+        "description": "flexibe conduit adapters",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19177"
+    },
+    {
+        "description": "Zarges Box 1200x800x510",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19205"
+    },
+    {
+        "description": "THP360X-300CA12-200-CA12/25 (no thermal switch)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19222"
+    },
+    {
+        "description": "Bosch 3 way cube connectors (30m x 30mm)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19309"
+    },
+    {
+        "description": "Bosch M4 for 8mm profile",
+        "location": "",
+        "quantity": "32.00",
+        "stockcode": "19372"
+    },
+    {
+        "description": "S8x25 self tap screw",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "19444"
+    },
+    {
+        "description": "Mains cable - British plug connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23011"
+    },
+    {
+        "description": "European Mains Lead",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23014"
+    },
+    {
+        "description": "Heat pump spacer plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40043"
+    },
+    {
+        "description": "Lille envirobox fibre inlet plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42767"
+    },
+    {
+        "description": "Mitaten ebox base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43350"
+    },
+    {
+        "description": "Mitaten ebox side",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43351"
+    },
+    {
+        "description": "Mitaten ebox short side",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43354"
+    },
+    {
+        "description": "Mitaten ebox top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43355"
+    },
+    {
+        "description": "Bosch part. 549mm Long 30 x 30 Sq",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43356"
+    },
+    {
+        "description": "Bosch part",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43357"
+    },
+    {
+        "description": "Corner plate for IDR ebox frame",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43358"
+    },
+    {
+        "description": "Mitaten ebox locator",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "43359"
+    },
+    {
+        "description": "Mitaten ebox clamp bar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43360"
+    },
+    {
+        "description": "Mitaten frame base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43361"
+    },
+    {
+        "description": "Bosch 30x30, 4 channel, 890mm long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43362"
+    },
+    {
+        "description": "Bosch 30x30, 4 channel, 489mm long",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43363"
+    },
+    {
+        "description": "Bosch 30x30, 4 channel, 213mm long",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43364"
+    },
+    {
+        "description": "1m standard USB cable",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USB_1M"
+    },
+    {
+        "description": "Mini usb cable 3m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USB_MINI_3M"
+    }
+]

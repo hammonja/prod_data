@@ -1,0 +1,470 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "100W qh Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09101"
+    },
+    {
+        "description": "Monitor detector (e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09115"
+    },
+    {
+        "description": "Black 4mm socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10002"
+    },
+    {
+        "description": "Red 4mm socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10003"
+    },
+    {
+        "description": "Black bunch pin plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10010"
+    },
+    {
+        "description": "Red bunch pin plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10011"
+    },
+    {
+        "description": "Crimp socket contact (pack of 100)",
+        "location": "Kit 2 per",
+        "quantity": "0.02",
+        "stockcode": "10025"
+    },
+    {
+        "description": "Connector lamp holders",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10042"
+    },
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "Connector Isolated BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10081"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "Blue shrouded plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10135"
+    },
+    {
+        "description": "Green shrouded plug (pack of 5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10222"
+    },
+    {
+        "description": "4 way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10236"
+    },
+    {
+        "description": "4 way plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10237"
+    },
+    {
+        "description": "4 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10238"
+    },
+    {
+        "description": "2.5mm panel socket (E2V)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10269"
+    },
+    {
+        "description": "Thumb screw M3 x 5 DYED BLACK",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "13051"
+    },
+    {
+        "description": "Lens uv silica 25dia (+0, -0.1) x 50fl pcx",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "13436"
+    },
+    {
+        "description": "leadscrew Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17004"
+    },
+    {
+        "description": "leadscrew Item 4",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17005"
+    },
+    {
+        "description": "IL1 enclosure",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17019"
+    },
+    {
+        "description": "IL1/IL6/IL7 lead screw item 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17030"
+    },
+    {
+        "description": "Leadscrew - Item 3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17031"
+    },
+    {
+        "description": "IL1 Light shield",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17033"
+    },
+    {
+        "description": "IL1 Lens tube adaptor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17034"
+    },
+    {
+        "description": "IL1 Fan adaptor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17035"
+    },
+    {
+        "description": "Leadscrew - Item 5",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17036"
+    },
+    {
+        "description": "IL1 cover plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17085"
+    },
+    {
+        "description": "Fan, 12V, 80mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18002"
+    },
+    {
+        "description": "80mm fan finger guard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18044"
+    },
+    {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19002"
+    },
+    {
+        "description": "M3X10 Spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19011"
+    },
+    {
+        "description": "Spacer Painted",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19031_P1"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "M3 thumb nuts for IL10",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19172"
+    },
+    {
+        "description": "E2V shutter (12V version)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19248"
+    },
+    {
+        "description": "Melles shutter controller",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19379"
+    },
+    {
+        "description": "Power supply for 19379",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19380"
+    },
+    {
+        "description": "M3 Ball ended Spring plunger (Bag of 10)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19400"
+    },
+    {
+        "description": "pin 7mm x 3mm dia with flat",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27074"
+    },
+    {
+        "description": "E2V filter wheel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27085"
+    },
+    {
+        "description": "E2V dual filter wheel front motor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27089"
+    },
+    {
+        "description": "E2V dual filter wheelside 2 plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27092"
+    },
+    {
+        "description": "E2V dual filter wheelbottom plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27093"
+    },
+    {
+        "description": "E2V dual filter wheel top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27094"
+    },
+    {
+        "description": "E2V (Marconi) light source 4\" sphere lens rings",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27102"
+    },
+    {
+        "description": "E2V connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27115"
+    },
+    {
+        "description": "E2V exit port cover & tube support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27128"
+    },
+    {
+        "description": "E2V shutter mount plate 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27129"
+    },
+    {
+        "description": "E2V shutter mount plate 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27190"
+    },
+    {
+        "description": "E2V thick lens ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27191"
+    },
+    {
+        "description": "E2V dual filter wheel output plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27197"
+    },
+    {
+        "description": "E2V sphere detector fixing ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27198"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41777"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere baffle plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41779"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41780F"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41780P"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere baffle legs",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "41781F"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere baffle legs",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "41781P"
+    },
+    {
+        "description": "E2V CCD211 Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41860"
+    },
+    {
+        "description": "E2V CCD211 Shutter Adapter Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41861"
+    },
+    {
+        "description": "E2V CCD211 IL1 Lens Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41862"
+    },
+    {
+        "description": "E2V CCD211 Sphere Support Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41863"
+    },
+    {
+        "description": "E2V CCD211 Sphere Tie Bars",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41864"
+    },
+    {
+        "description": "E2V CCD211 Sphere Support Post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41865"
+    },
+    {
+        "description": "E2V CCD211 Filter Wheel Access Hatch Cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41866"
+    },
+    {
+        "description": "E2V CCD211 Sphere Input Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41867"
+    },
+    {
+        "description": "E2V CCD211 Sphere Output Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41868"
+    },
+    {
+        "description": "E2V CCD211 Sphere Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41869"
+    },
+    {
+        "description": "E2V CCD211 50mm Sphere (13mm output port)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41870"
+    },
+    {
+        "description": "E2V CCD211 Lamp Lens Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41871"
+    },
+    {
+        "description": "NX0 'P' clip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99806"
+    }
+]

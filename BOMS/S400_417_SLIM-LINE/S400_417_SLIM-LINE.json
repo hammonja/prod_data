@@ -1,0 +1,206 @@
+[
+    {
+        "description": "Fuse 2.5A slow blow",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01005"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "Across capacitor",
+        "quantity": "1.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "LED red right angle mount",
+        "location": "From 5V rail",
+        "quantity": "1.00",
+        "stockcode": "04028"
+    },
+    {
+        "description": "dc-dc, 10-30V in,  5V @ 600mA out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05024"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "TEN 5-2423 - CONVERTER, DC/DC, 5W, +/-15V  (200mA)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05034"
+    },
+    {
+        "description": "Thermal cut out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07053"
+    },
+    {
+        "description": "Capacitor 4700 uF 35V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08098"
+    },
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Connector miniature tag strips",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10070"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Mains outlet socket black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10190"
+    },
+    {
+        "description": "Filtered mains inlet without voltage change-over",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10291"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "20mm M3 Pillar (pack of 25)",
+        "location": "Thermal cut-out mount",
+        "quantity": "2.00",
+        "stockcode": "15088"
+    },
+    {
+        "description": "25-WAY / IEEE BLANKING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16066"
+    },
+    {
+        "description": "9 WAY BLANKING PLATE",
+        "location": "Thermal cut-out mount",
+        "quantity": "1.00",
+        "stockcode": "16074"
+    },
+    {
+        "description": "Slimline bin rear panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16086"
+    },
+    {
+        "description": "Slim line bin base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16087"
+    },
+    {
+        "description": "Slimline bin front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16088"
+    },
+    {
+        "description": "267 Mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17188"
+    },
+    {
+        "description": "267 Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17189"
+    },
+    {
+        "description": "Transformer 60VA. 15Vac, 15Vac (was Farnell 9530436)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18058"
+    },
+    {
+        "description": "Beckman Bush",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19005"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "22mm capacitor clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19142"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "Slimline bin with rack mount ears",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22032"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "USB interface mount",
+        "quantity": "2.00",
+        "stockcode": "30337"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]

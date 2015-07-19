@@ -1,0 +1,38 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TMs300 turret motor side plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30283"
+    },
+    {
+        "description": "TM300_TURRET_MOTOR-PLATE Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50069"
+    }
+]

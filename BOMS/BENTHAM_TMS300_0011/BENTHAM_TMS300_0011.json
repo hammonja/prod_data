@@ -1,0 +1,116 @@
+[
+    {
+        "description": "100R JI - RESISTOR, 10W 5% 100R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02278"
+    },
+    {
+        "description": "Capacitor 470uF 35V radial",
+        "location": "part of shutter control",
+        "quantity": "2.00",
+        "stockcode": "08104"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "output for shutter",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Lemo, 8 way, chassis socket, green",
+        "location": "output for FW_ND_SINGLE",
+        "quantity": "1.00",
+        "stockcode": "10288"
+    },
+    {
+        "description": "Bentham TMS common parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BENTHAM_TMS_COMMON_PARTS"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T303R0U5"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 1800g/mm, 400nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T318R0U4"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "IMAC card for TEL309",
+        "location": "additional card for drive FW_ND_SINGLE",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD_TEL309"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TMS 6 position filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_252_6"
+    },
+    {
+        "description": "TMS external Sam Control",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_EXT_SAM"
+    },
+    {
+        "description": "TMS300 Sam Blanking Plugs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS300_SAM_BLANKING_PLUGS"
+    },
+    {
+        "description": "TMS300 slit assembly",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TMS300_SLIT"
+    },
+    {
+        "description": "TMS300 Slit Common Parts",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TMS300_SLIT_COMMON_PARTS"
+    },
+    {
+        "description": "TMS300 Slit Covers Parts",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TMS300_SLIT_COVER"
+    },
+    {
+        "description": "TMS300 Dummy Slit Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS300_SLIT_DUMMY"
+    }
+]

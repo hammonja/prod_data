@@ -1,0 +1,128 @@
+[
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "M3 Ball ended Spring plunger (Bag of 10)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19400"
+    },
+    {
+        "description": "E2V light source baffle plug (fi 10mm of 99026)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27104"
+    },
+    {
+        "description": "E2V sphere Exit Cladding",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27106"
+    },
+    {
+        "description": "E2V 90 degree port sphere cover box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27369"
+    },
+    {
+        "description": "E2V Periscope Light Source Output Tube",
+        "location": "free issue 41142",
+        "quantity": "1.00",
+        "stockcode": "27425"
+    },
+    {
+        "description": "E2V Sphere Clamp Upright",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27426"
+    },
+    {
+        "description": "E2V Sphere Clamp Upright Full Cross Member",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27427"
+    },
+    {
+        "description": "E2V Sphere Clamp Upright Short Cross Member",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27428"
+    },
+    {
+        "description": "E2V Periscope Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27429"
+    },
+    {
+        "description": "E2V Periscope Plate Wedge Mirror Block",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "27430"
+    },
+    {
+        "description": "E2V Periscope Cover Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27431"
+    },
+    {
+        "description": "E2V Periscope Mounting Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27432"
+    },
+    {
+        "description": "E2V Periscope Lens Mounting Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27433"
+    },
+    {
+        "description": "E2V Sphere Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27434"
+    },
+    {
+        "description": "E2V Periscope Bending Mirror",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "27435"
+    },
+    {
+        "description": "E2V Periscope Lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27436"
+    },
+    {
+        "description": "E2V Periscope Version Sphere Support",
+        "location": "free issue 27367",
+        "quantity": "4.00",
+        "stockcode": "27437"
+    },
+    {
+        "description": "E2V Periscope Single Filter Wheel Output Plate",
+        "location": "free issue 27195",
+        "quantity": "1.00",
+        "stockcode": "27438"
+    },
+    {
+        "description": "E2V Light Source Periscope Sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42238"
+    },
+    {
+        "description": "Painted baffle with legs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_SPHERE-BAFFLE"
+    }
+]

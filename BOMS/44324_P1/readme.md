@@ -1,0 +1,4 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|19763|Painting Operation to Produce 44324_P1|1.00||
+|44324|ITRi 50mm Sphere Entrance Plate [SHELF : DUNCAN]|1.00||

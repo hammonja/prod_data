@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Thumb screw M3 x 5 DYED BLACK",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "13051"
+    },
+    {
+        "description": "M4 stainless steel thumb screw.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19329"
+    },
+    {
+        "description": "Zeiss Lens Holder Gear Clamp pins",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42015"
+    },
+    {
+        "description": "Zeiss Lens Holder Top Mounting Block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42068"
+    },
+    {
+        "description": "Zeiss Lens Adjusting Knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42071"
+    },
+    {
+        "description": "Ziess Lens Holder Unit Belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42077"
+    },
+    {
+        "description": "Zeiss Lens Holder Hubless Gear",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42097"
+    },
+    {
+        "description": "Machining Operation to Produce 42097_M1",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42098"
+    },
+    {
+        "description": "Machining Operation to Produce 42097_M2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42099"
+    },
+    {
+        "description": "Zeiss Lens Holder Hubless Version main Support Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42100"
+    },
+    {
+        "description": "Zeiss Lens Holder Hubless Version Top Support plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42101"
+    },
+    {
+        "description": "Zeiss Lens Holder Hubless Driven Gear Axle",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42102"
+    },
+    {
+        "description": "Zeiss Lens Holder Hubless Driver Gear Axle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42103"
+    }
+]

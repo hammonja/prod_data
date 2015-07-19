@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Single Blank Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16019"
+    },
+    {
+        "description": "267 Mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17188"
+    },
+    {
+        "description": "DH3-Bi temp sensor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43968"
+    },
+    {
+        "description": "Modification of DH-3-Bi housing for temp. sensor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43969"
+    },
+    {
+        "description": "HV and temerature monitor board for enviroboxes",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "EBOX_MONITOR_BOARD"
+    }
+]

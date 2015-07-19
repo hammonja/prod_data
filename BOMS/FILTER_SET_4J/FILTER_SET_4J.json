@@ -1,0 +1,62 @@
+[
+    {
+        "description": "Hot mirror",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13597"
+    },
+    {
+        "description": "KG1 filter  50 x 50 x 3mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13598"
+    },
+    {
+        "description": "BG 23 filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13600"
+    },
+    {
+        "description": "Short-Pass Filter Cut-Off 465nm BG3 50 x 50mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13610"
+    },
+    {
+        "description": "Short-Pass Filter Cut-Off 538nm Hoya B-410 50 x 50mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13611"
+    },
+    {
+        "description": "Long-Pass Filter Cut-On 715nm RG715 50 x 50mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13612"
+    },
+    {
+        "description": "Long-Pass Filter Cut-On 1000nm RG1000 50 x 50 mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13613"
+    },
+    {
+        "description": "Bandpass Filter 335 - 610 nm BG40 2 x 2 inch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13614"
+    },
+    {
+        "description": "ULS filter holder",
+        "location": "",
+        "quantity": "9.00",
+        "stockcode": "42605"
+    },
+    {
+        "description": "Filter holder knob (Note new Issue)",
+        "location": "",
+        "quantity": "9.00",
+        "stockcode": "42607"
+    }
+]

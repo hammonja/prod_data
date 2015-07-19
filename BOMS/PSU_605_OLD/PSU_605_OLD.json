@@ -1,0 +1,380 @@
+[
+    {
+        "description": "Fuse 2.5A slow blow",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01005"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R 3, 4, 5, 6, 7, 8, 11, 12, 14, 17, 20",
+        "quantity": "11.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "2K MRS25 MF",
+        "location": "R23",
+        "quantity": "1.00",
+        "stockcode": "02023"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "R22, R26",
+        "quantity": "2.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "6K81  MRS25",
+        "location": "R19",
+        "quantity": "1.00",
+        "stockcode": "02031"
+    },
+    {
+        "description": "11K MRS25",
+        "location": "R16",
+        "quantity": "1.00",
+        "stockcode": "02034"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "R9, R10",
+        "quantity": "2.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "1k1, MRS25",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02073"
+    },
+    {
+        "description": "35K7, MRS25",
+        "location": "R25",
+        "quantity": "1.00",
+        "stockcode": "02098"
+    },
+    {
+        "description": "4M7 MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02099"
+    },
+    {
+        "description": "Rhopoint PBV 0R1 0.5% (H1T 82QQ)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02239"
+    },
+    {
+        "description": "10K 2W WW .25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03006"
+    },
+    {
+        "description": "20K .5W Cermet PCB mounting",
+        "location": "R13",
+        "quantity": "1.00",
+        "stockcode": "03011"
+    },
+    {
+        "description": "1K .5W Cermet PCB mounting",
+        "location": "R15",
+        "quantity": "1.00",
+        "stockcode": "03017"
+    },
+    {
+        "description": "5K 25 Turn PCB mounting",
+        "location": "R24",
+        "quantity": "1.00",
+        "stockcode": "03019"
+    },
+    {
+        "description": "200R 25 Turn PCB mounting",
+        "location": "R21, R18",
+        "quantity": "2.00",
+        "stockcode": "03021"
+    },
+    {
+        "description": "Green led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04001"
+    },
+    {
+        "description": "Red led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04002"
+    },
+    {
+        "description": "Diode 6.2V Zener 400mW",
+        "location": "D1",
+        "quantity": "1.00",
+        "stockcode": "04033"
+    },
+    {
+        "description": "78L12",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "05003"
+    },
+    {
+        "description": "KBPC25005 bridge rectifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05013"
+    },
+    {
+        "description": "Converter,dc-dc,3W,18-36Vdc I/P,12V,250mA O/P",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05036"
+    },
+    {
+        "description": "Big FET  STW45NM50",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "06013"
+    },
+    {
+        "description": "OPA2251PA",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "06017"
+    },
+    {
+        "description": "Switch for key lock in 605",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07020"
+    },
+    {
+        "description": "Key lock for 605 (ALL THE SAME KEYS)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07022"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "R32-C184: Thermal switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07056"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, C4",
+        "quantity": "2.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C6",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 10nF Polyester 10% 63/100V",
+        "location": "C2, C3",
+        "quantity": "2.00",
+        "stockcode": "08052"
+    },
+    {
+        "description": "Capacitor 47000uF, 40V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08055"
+    },
+    {
+        "description": "Capacitor clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08056"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "SIL socket 20 way",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10274"
+    },
+    {
+        "description": "605/607 Turns counter (Vishay 15-2-31)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11318"
+    },
+    {
+        "description": "Spacer NS 10-53",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15010"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "pcb  \" BENTHAM INSTRUMENTS 605 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15036"
+    },
+    {
+        "description": "605 front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16005"
+    },
+    {
+        "description": "605 Rear panel bracket for bin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "16008"
+    },
+    {
+        "description": "605 Rear panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16009"
+    },
+    {
+        "description": "Top 605 Heat Sink Machined(2 holes)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17024_M1"
+    },
+    {
+        "description": "Bottom 605 Heat Sink Machined(1 hole)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17024_M2"
+    },
+    {
+        "description": "605 Tray",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17140"
+    },
+    {
+        "description": "605 Resistor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17146"
+    },
+    {
+        "description": "605 Clamp",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17148"
+    },
+    {
+        "description": "Plate Transformer 605",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17581"
+    },
+    {
+        "description": "Fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18016"
+    },
+    {
+        "description": "Transformer 300VA. 25Vac, 25Vac.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18029"
+    },
+    {
+        "description": "DPM for 217 (Lascar DPM 2000S)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18042"
+    },
+    {
+        "description": "M5 panel insulator",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19171"
+    },
+    {
+        "description": "Assembly of 605 from kit supplied by Bentham",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19626"
+    },
+    {
+        "description": "LT1019CN82V5",
+        "location": "IC3",
+        "quantity": "1.00",
+        "stockcode": "20030"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "Schroff bin full width.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22015"
+    },
+    {
+        "description": "Fixings and connectors for 605 assembly.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FIXINGS_605"
+    }
+]

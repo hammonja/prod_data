@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Purge connector for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10286"
+    },
+    {
+        "description": "Neoprene washer Gatan",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "11386"
+    },
+    {
+        "description": "Tap casting for 10286, drill/tap 2 x M3 holes for base cover",
+        "location": "Find drill/tap kit for 10286 and put in kit",
+        "quantity": "1.00",
+        "stockcode": "19693"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    }
+]

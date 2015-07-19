@@ -1,0 +1,68 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "Bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19291"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TMs300 filter wheel bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30236"
+    },
+    {
+        "description": "TMs300 Filter Wheel Mounting Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30237"
+    },
+    {
+        "description": "TMs300 Filter Wheel Shaft (fi 99904, 1 length per 20 items)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30238"
+    },
+    {
+        "description": "Drive Chain for filter wheel in Bentham TMS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30240"
+    },
+    {
+        "description": "26 MT SPROCKET 5mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30243F"
+    },
+    {
+        "description": "26 MT SPROCKET 1/4 inch bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30243F2"
+    }
+]

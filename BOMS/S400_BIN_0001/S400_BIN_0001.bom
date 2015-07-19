@@ -1,0 +1,5 @@
+S400_BIN_0001,S200_215,215 Module,,0,1.00,,,,,
+S400_BIN_0001,S200_218_M,Chopper control module, standard and EI,,1,1.00,,,,,
+S400_BIN_0001,S400_417,Full width 400 series bin.,,2,1.00,,,,,
+S400_BIN_0001,S400_477,400 series ac current pre-amp,,3,1.00,,,,,
+S400_BIN_0001,S400_496,Dual Channel DSP Lock-In Amplifier,,4,1.00,,,,,

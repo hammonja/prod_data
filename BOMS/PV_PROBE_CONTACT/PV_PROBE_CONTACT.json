@@ -1,0 +1,62 @@
+[
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "Kit 1 per pair of probes",
+        "quantity": "0.50",
+        "stockcode": "10083"
+    },
+    {
+        "description": "Red M4insul spade terminal,0.5-1.5sq.mm",
+        "location": "Make 1 jumper lead per pair of probes",
+        "quantity": "2.00",
+        "stockcode": "10337"
+    },
+    {
+        "description": "Binding post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17168"
+    },
+    {
+        "description": "Modification of magnetic stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43252"
+    },
+    {
+        "description": "PV probe end (Issue D, angled hole for contact pin)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43323"
+    },
+    {
+        "description": "PV probe connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43324"
+    },
+    {
+        "description": "Rounded 2-part spring probe,2.54mm pitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43325-1"
+    },
+    {
+        "description": "Crimp receptacle for 2.54mm pitch probe",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43325-2"
+    },
+    {
+        "description": "Toolmix.com  Draper MB-LDFAB MAG BASE, FINE ADJUST. - 45277",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43326"
+    }
+]

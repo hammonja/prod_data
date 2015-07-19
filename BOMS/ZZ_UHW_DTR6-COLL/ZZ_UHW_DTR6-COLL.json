@@ -1,0 +1,56 @@
+[
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "Circular aperture 0.12mm Diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11240"
+    },
+    {
+        "description": "Circular aperture 0.35mm Diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11241"
+    },
+    {
+        "description": "Circular aperture 1.17mm diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11242"
+    },
+    {
+        "description": "Lens, silica, pcx, f 160, dia 40, ar coated",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13067"
+    },
+    {
+        "description": "University Hospital of Wales DTR6 Collimator Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42399"
+    },
+    {
+        "description": "University Hospital of Wales DTR6 Collimator Tube Lens Barre",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42400"
+    },
+    {
+        "description": "University Hospital of Wales Filter Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42401"
+    }
+]

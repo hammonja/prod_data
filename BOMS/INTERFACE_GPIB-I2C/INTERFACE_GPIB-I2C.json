@@ -1,0 +1,86 @@
+[
+    {
+        "description": "10K MRS25",
+        "location": "R23,22,21",
+        "quantity": "3.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C33",
+        "quantity": "1.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 22pF ceramic plate",
+        "location": "C32,31",
+        "quantity": "2.00",
+        "stockcode": "08047"
+    },
+    {
+        "description": "20MHz crystal",
+        "location": "XTAL",
+        "quantity": "1.00",
+        "stockcode": "08117"
+    },
+    {
+        "description": "20 Way DIL socket",
+        "location": "IC2, IC3",
+        "quantity": "2.00",
+        "stockcode": "10020"
+    },
+    {
+        "description": "28-Way x 0.3\" DIL Socket",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "10053"
+    },
+    {
+        "description": "Connector 26-Way boxed header",
+        "location": "PL1",
+        "quantity": "1.00",
+        "stockcode": "10080"
+    },
+    {
+        "description": "Tyco 2 way header with catch",
+        "location": "T1",
+        "quantity": "1.00",
+        "stockcode": "10299"
+    },
+    {
+        "description": "Tyco 3 way header with catch",
+        "location": "I2C1 , I2C2",
+        "quantity": "2.00",
+        "stockcode": "10300"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "T2",
+        "quantity": "1.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "IEEE/I2C PCB issue 4",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15079"
+    },
+    {
+        "description": "PIC16F876A-I/SP",
+        "location": "IC1  Mark with  DO NOT FIT",
+        "quantity": "1.00",
+        "stockcode": "20002"
+    },
+    {
+        "description": "IEEE line driver SN75160BN",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "20013"
+    },
+    {
+        "description": "IEEE line buffer SN75161BN",
+        "location": "IC3",
+        "quantity": "1.00",
+        "stockcode": "20014"
+    }
+]

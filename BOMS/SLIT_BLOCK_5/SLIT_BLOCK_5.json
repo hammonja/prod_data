@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Cover plate VSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17659"
+    },
+    {
+        "description": "Variable slit box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17660"
+    },
+    {
+        "description": "TMs300 Jaw Running Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17661"
+    },
+    {
+        "description": "TMs300 Jaw (handed pair)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17663"
+    },
+    {
+        "description": "TMs300 Jaw plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17664"
+    },
+    {
+        "description": "VSS Spring",
+        "location": "Free issue to Hamer",
+        "quantity": "4.00",
+        "stockcode": "19054"
+    },
+    {
+        "description": "MVSS Bearing",
+        "location": "Free issue to Hamer",
+        "quantity": "2.00",
+        "stockcode": "19116"
+    },
+    {
+        "description": "Dowel pin 3x8mm (hardened and ground)",
+        "location": "Free issue to Hamer",
+        "quantity": "2.00",
+        "stockcode": "19134"
+    },
+    {
+        "description": "Dowell pin 2x8mm",
+        "location": "Free issue to Hamer",
+        "quantity": "8.00",
+        "stockcode": "19245"
+    },
+    {
+        "description": "Slit fork, Accent MVSS (Slit block 5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42730"
+    },
+    {
+        "description": "M2.5 x 6 Black Socket Head. Must be good quality socket.",
+        "location": "Free issue to Hamer",
+        "quantity": "4.00",
+        "stockcode": "99104"
+    },
+    {
+        "description": "M3 x 6 Black, csk, pozi",
+        "location": "Free issue to Hamer",
+        "quantity": "4.00",
+        "stockcode": "99179"
+    },
+    {
+        "description": "M3 x 3mm socket grub, cup, black",
+        "location": "Free issue to Hamer",
+        "quantity": "2.00",
+        "stockcode": "99191"
+    }
+]

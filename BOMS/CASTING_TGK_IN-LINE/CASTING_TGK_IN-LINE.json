@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Painting operation to produce CASTING_TGK_IN-LINE",
+        "location": "Painting OP",
+        "quantity": "1.00",
+        "stockcode": "19837"
+    },
+    {
+        "description": "TGK IN-LINE Casting machined",
+        "location": "Issue to Paint shop",
+        "quantity": "1.00",
+        "stockcode": "11119_M2"
+    }
+]

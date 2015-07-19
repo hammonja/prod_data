@@ -1,0 +1,86 @@
+[
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "Silica lens, dia 36 +0.0/-0.2mm, fl 63mm, pcx",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13121"
+    },
+    {
+        "description": "IL6 Condenser ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17229"
+    },
+    {
+        "description": "Prism for horizontal beam",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19595"
+    },
+    {
+        "description": "PV system aperture 0.74mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43445"
+    },
+    {
+        "description": "PV system aperture 1.85mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43446"
+    },
+    {
+        "description": "PV system aperture 3.7mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43448"
+    },
+    {
+        "description": "9378 pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43941"
+    },
+    {
+        "description": "9378 foot",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43942"
+    },
+    {
+        "description": "9378 end plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43944"
+    },
+    {
+        "description": "9444 slit carrier tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43945"
+    },
+    {
+        "description": "9378 lens tube (NB Issue B)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43946"
+    },
+    {
+        "description": "9444 DH-Si adapter tube (NB Issue B)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43948"
+    }
+]

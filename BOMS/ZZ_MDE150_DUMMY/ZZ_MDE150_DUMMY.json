@@ -1,0 +1,50 @@
+[
+    {
+        "description": "LED green right angle mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04027"
+    },
+    {
+        "description": "Miniature toggle switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07004"
+    },
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "SMA bulkhead socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10179"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Dome plug 6.4mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19091"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "DM150 internal electronics bottom cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42829"
+    }
+]

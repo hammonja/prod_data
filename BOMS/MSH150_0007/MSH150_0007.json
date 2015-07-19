@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA1-G1512R0U5"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA2-G1506R1U25"
+    },
+    {
+        "description": "MSH150 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH150"
+    },
+    {
+        "description": "MSH150 Filter Wheel (1 inch Diameter Filters)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH150_252_IMPERIAL"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_VSS"
+    }
+]

@@ -1,0 +1,230 @@
+[
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "x, y, theta satge as per quote CJ61219A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11410"
+    },
+    {
+        "description": "NP 8.0/25.4/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15022"
+    },
+    {
+        "description": "Internal psu for TMS monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18033"
+    },
+    {
+        "description": "Cover for psu in TMS monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18034"
+    },
+    {
+        "description": "Connector kit for 18033",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18035"
+    },
+    {
+        "description": "DIP Heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19018"
+    },
+    {
+        "description": "Door catch",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19303"
+    },
+    {
+        "description": "Bosch M4 for 8mm profile",
+        "location": "",
+        "quantity": "40.00",
+        "stockcode": "19372"
+    },
+    {
+        "description": "Bosch handle 8/10mm Groove version",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19378"
+    },
+    {
+        "description": "S8x25 self tap screw",
+        "location": "",
+        "quantity": "24.00",
+        "stockcode": "19444"
+    },
+    {
+        "description": "Ring illuminator for e2v",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19456"
+    },
+    {
+        "description": "Stepper drive chip NJM#3771D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21050"
+    },
+    {
+        "description": "DAC Chip  NJU#39610D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21056"
+    },
+    {
+        "description": "Opto isolator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21057"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30337"
+    },
+    {
+        "description": "Lighting Association Chamber Cover Locating Plates",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42485"
+    },
+    {
+        "description": "Led gonio power box plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42842"
+    },
+    {
+        "description": "Led gonio power box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42844"
+    },
+    {
+        "description": "PBG51509 UltraLight Series  Breadboard - 750mmx750mmx25mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42992"
+    },
+    {
+        "description": "e2v stage cover bosch",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43015"
+    },
+    {
+        "description": "30x30bosch 670mm long",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43016"
+    },
+    {
+        "description": "30x30 bosch 645mm long",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "43017"
+    },
+    {
+        "description": "e2v wafer chuck",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43018"
+    },
+    {
+        "description": "e2v stage cover top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43019"
+    },
+    {
+        "description": "e2v stage cover door",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43021"
+    },
+    {
+        "description": "e2v stage cover back",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43022"
+    },
+    {
+        "description": "e2v stage cover side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43023"
+    },
+    {
+        "description": "e2v stage cover bosch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43024"
+    },
+    {
+        "description": "e2v stage cover bosch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43025"
+    },
+    {
+        "description": "e2v frame clamp",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "43026"
+    },
+    {
+        "description": "e2v stage cover side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43027"
+    },
+    {
+        "description": "e2v stage pillars",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "43063"
+    },
+    {
+        "description": "E2V port cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43137"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "IMAC card for TMS300 monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD_TMS"
+    }
+]

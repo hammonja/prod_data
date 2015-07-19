@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Bosch M4 for 8mm profile",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "19372"
+    },
+    {
+        "description": "S8x25 self tap screw",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19444"
+    },
+    {
+        "description": "Double Base Plate Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46677_M1"
+    },
+    {
+        "description": "BOSCH See Drawing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46684"
+    },
+    {
+        "description": "BOSCH 30x30 Length = 440mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46685"
+    },
+    {
+        "description": "Foot Plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46686"
+    }
+]

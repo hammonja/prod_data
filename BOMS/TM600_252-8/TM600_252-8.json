@@ -1,0 +1,92 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "252 Drive Cog (Berg GG33A28-32)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11020"
+    },
+    {
+        "description": "8 Position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11338_P1"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "Bore reducer, 5mm x 1/4 inch x 6.6mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30052"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "New 252 Spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30163"
+    },
+    {
+        "description": "TM600 Filter Wheel Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60106"
+    },
+    {
+        "description": "TM600 Filter Wheel Belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60108"
+    },
+    {
+        "description": "TM600 Filter Wheel Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60109"
+    },
+    {
+        "description": "TM600 Filter Wheel Opto Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60110"
+    },
+    {
+        "description": "10mm x 1/4\" x 3/8\" sleeve bearing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60120"
+    }
+]

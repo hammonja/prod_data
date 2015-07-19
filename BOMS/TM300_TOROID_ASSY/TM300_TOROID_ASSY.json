@@ -1,0 +1,38 @@
+[
+    {
+        "description": "M300 curved mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11123"
+    },
+    {
+        "description": "M300 Mirror Retaining Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11124"
+    },
+    {
+        "description": "M300 Mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11134"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "Mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11254"
+    },
+    {
+        "description": "Torroid for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11412"
+    }
+]

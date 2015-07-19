@@ -1,0 +1,20 @@
+[
+    {
+        "description": "TMC300 Base components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_BASE_PARTS"
+    },
+    {
+        "description": "TM300 casting lid painted and silk screened for LOT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124_LOT"
+    },
+    {
+        "description": "TMc300 USB connector panel (LOT)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44274"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "605 fan spacers",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19290"
+    },
+    {
+        "description": "Camspec (CS-AP)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41077_P1"
+    },
+    {
+        "description": "Camspec (CS-FP)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41079_P1"
+    },
+    {
+        "description": "Camspec sphere clamp plate (CS-SUE)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41080"
+    },
+    {
+        "description": "Camspec sphere sample holder slide (CS-SS)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41081"
+    },
+    {
+        "description": "Camspec OP-DI-MA sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41082"
+    },
+    {
+        "description": "Camspec sphere front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41083_P1"
+    },
+    {
+        "description": "Camspec sphere rear plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41084_P1"
+    },
+    {
+        "description": "Camspec sphere exit plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41085_P1"
+    },
+    {
+        "description": "Camspec sphere entrance plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41086_P1"
+    },
+    {
+        "description": "Camspec sphere top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41087_P1"
+    },
+    {
+        "description": "Camspec sphere base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41088"
+    },
+    {
+        "description": "Camspec sphere transmittance sample holder (CS-TH)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41089"
+    },
+    {
+        "description": "Camspec sphere cuvette holder (CS-CH)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41090"
+    },
+    {
+        "description": "Camspec Spring",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41092"
+    },
+    {
+        "description": "Camspec sphere clamp base (CS-SUE)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41095"
+    },
+    {
+        "description": "Camspec sphere clamp plate arm side 1 (CS-SUE)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41096"
+    },
+    {
+        "description": "Camspec sphere clamp plate arm side 2 (CS-SUE)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41097"
+    },
+    {
+        "description": "Camspec sphere clamp pivot pin (dia 4mm x 32mm) (CS-SUE)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41098"
+    }
+]

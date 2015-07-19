@@ -1,0 +1,212 @@
+[
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "InGaAs detector 2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09040"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Purge port pipe connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10119"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "Coupler holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17001"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "Nernst insulator",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "17166"
+    },
+    {
+        "description": "Binding post",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17168"
+    },
+    {
+        "description": "Blade 2 slot mild steel version for EI",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17675"
+    },
+    {
+        "description": "Motor with end cap and 150mm long leads",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18007"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "IR Glowers Nernst glowbar self-igniting 1/8 diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19073"
+    },
+    {
+        "description": "Heat sink",
+        "location": "DO NOT KIT",
+        "quantity": "1.00",
+        "stockcode": "40020"
+    },
+    {
+        "description": "WRC IL-Glowbar-Enclosed Box Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42350"
+    },
+    {
+        "description": "Dual light source plain side",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42351"
+    },
+    {
+        "description": "WRC IL-Glowbar-Enclosed Box Back",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42352"
+    },
+    {
+        "description": "WRC IL-Glowbar-Enclosed Box Front",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42353"
+    },
+    {
+        "description": "WRC IL-Glowbar-Enclosed Box Top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42354"
+    },
+    {
+        "description": "WRC IL-Glowbar-Enclosed Lamp Support Pillars",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42355"
+    },
+    {
+        "description": "WRC Lamp Heatsink (free issue 40020)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42359"
+    },
+    {
+        "description": "WRC Lamp Fan Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42360"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed Lamp Holder Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42375"
+    },
+    {
+        "description": "WRC Arrestable Chopper Mount Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42378"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed Monitor Detector Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42402"
+    },
+    {
+        "description": "Off Axis Elliptical Reflector Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42404"
+    },
+    {
+        "description": "WRC Large Off Axis Elliptical Reflector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42405"
+    },
+    {
+        "description": "WRC Detector Chamber Pillars",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42410"
+    },
+    {
+        "description": "WRC Light Source Pillar Studding",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42411"
+    },
+    {
+        "description": "Electro-magnet for arrestable chopper (was RS 346-069)",
+        "location": "Mod in house to drw 43702",
+        "quantity": "1.00",
+        "stockcode": "42540"
+    }
+]

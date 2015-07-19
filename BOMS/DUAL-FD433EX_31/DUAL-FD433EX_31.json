@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "FD43x common components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FD43X_COMMON_PARTS"
+    },
+    {
+        "description": "Cooled Extended InGaAs Detector for FD43x units",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FD43X_INGAAS_EX_TE"
+    }
+]

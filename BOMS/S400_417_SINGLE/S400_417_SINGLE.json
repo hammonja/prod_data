@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Fuse 315mA slow blow 20mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01003"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Uni-Bin front panel",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "16113"
+    },
+    {
+        "description": "Uni-Bin rear panel",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "16114"
+    },
+    {
+        "description": "Power supply for UNI_BIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18039"
+    },
+    {
+        "description": "Case for 215F",
+        "location": " Discard front and rear panels",
+        "quantity": "1.00",
+        "stockcode": "19216"
+    }
+]

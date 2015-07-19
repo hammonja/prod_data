@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "Connector 9 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10086"
+    },
+    {
+        "description": "Connector 9 Way 'D' Metal Case",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10111"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10125"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "Blue shrouded plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10135"
+    },
+    {
+        "description": "Green shrouded plug (pack of 5)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10222"
+    },
+    {
+        "description": "4 way plug",
+        "location": "One for fan cable of ILD light source, or re-stock",
+        "quantity": "3.00",
+        "stockcode": "10237"
+    },
+    {
+        "description": "Power connector for ORM psu",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18124"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "BLACK HEATSHRINK TUBE 12/4mm i/d",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99601"
+    }
+]

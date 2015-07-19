@@ -1,0 +1,194 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04044"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "25 way 90 degree plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10261"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "TM300 worm shaft(1 off 600mm length 99907 per 9 off 30014)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30014"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "M4 x 10 flat ended grub, black.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30048"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TM300 turret Post",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30121"
+    },
+    {
+        "description": "TM300 worm yoke.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30133"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "TMs300 turret bottom spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30282"
+    },
+    {
+        "description": "TMs300 Turret Flag",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30286"
+    },
+    {
+        "description": "638/8 2Z   SKF or RHP",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30291"
+    },
+    {
+        "description": "TM300 turret opto spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30303"
+    },
+    {
+        "description": "Precision worm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30473"
+    },
+    {
+        "description": "Precision worm gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30474"
+    },
+    {
+        "description": "8mm turret opto flag top limit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41062"
+    },
+    {
+        "description": "Lasing rotary table angular contact bearing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41685"
+    },
+    {
+        "description": "Lasing rotary table shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41686"
+    },
+    {
+        "description": "Lasing rotary table base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41687"
+    },
+    {
+        "description": "Lasing rotary table cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41688"
+    },
+    {
+        "description": "Lasing rotary table top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41689"
+    },
+    {
+        "description": "Lasing rotary table turret motor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41690"
+    },
+    {
+        "description": "Lasing rotary table turret side plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41691"
+    },
+    {
+        "description": "Lasing rotary table turret top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41692"
+    },
+    {
+        "description": "Lasing rotary table UVB detector mounting bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41693"
+    },
+    {
+        "description": "Lasing rotary table UVB setiing slide",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41694"
+    },
+    {
+        "description": "Lasing rotary table turret middle support plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41695"
+    },
+    {
+        "description": "Lasing optical table",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41696"
+    }
+]

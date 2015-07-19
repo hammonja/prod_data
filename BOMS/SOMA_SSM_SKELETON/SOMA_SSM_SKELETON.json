@@ -1,0 +1,194 @@
+[
+    {
+        "description": "HS25 Al house wirewound resistor,R5 25W",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02276"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "Big FET  STW45NM50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "06013"
+    },
+    {
+        "description": "Capacitor 10,000uF, 35V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08107"
+    },
+    {
+        "description": "Connector  64 way 2 rows",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10085"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x10",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15051"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "M-F spacer, metal, M3 (Purchased in packs of 25)",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "15098"
+    },
+    {
+        "description": "M3 x 15 metal spacer (pack of 50)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15100"
+    },
+    {
+        "description": "DC Axial Fan, 50 x 50 x 10.5mm, 11cfm, 1.44W, 12 V dc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18090"
+    },
+    {
+        "description": "Heatsink Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18099_M1"
+    },
+    {
+        "description": "Lamp psu for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18129"
+    },
+    {
+        "description": "PSU for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18130"
+    },
+    {
+        "description": "25.4mm capacitor clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19529"
+    },
+    {
+        "description": "Plastic thumb cap for M3 socket head screw",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19604"
+    },
+    {
+        "description": "TM300 turret opto spacer",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "30303"
+    },
+    {
+        "description": "Pillars for ZZ_SOMA_SSM_SKELETON",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42757"
+    },
+    {
+        "description": "Feet for ZZ_SOMA_SSM_SKELETON",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "42758"
+    },
+    {
+        "description": "S1110-Skeleton switch mode Power Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44095"
+    },
+    {
+        "description": "SSM voltage limit plastic shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44225"
+    },
+    {
+        "description": "SSM voltage limit shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44226"
+    },
+    {
+        "description": "SSM skeleton usb shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44227"
+    },
+    {
+        "description": "SSM USB plastic shield.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44228"
+    },
+    {
+        "description": "TO-220 Insulating Bush (pack of 10)Manual adjust stock",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99024"
+    },
+    {
+        "description": "M3 x 50 Zinc Socket Cap Head",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99190"
+    },
+    {
+        "description": "Current regulator card for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CURRENT_REG_CARD"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card ( 3 drives )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD_3"
+    },
+    {
+        "description": "Power control for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "POWER_CONTROL_CARD"
+    },
+    {
+        "description": "Optics deck for skeleton",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SSM_OPTICS_DECK_SOMA"
+    }
+]

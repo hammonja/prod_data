@@ -1,0 +1,32 @@
+[
+    {
+        "description": "'E' clip (pack of 100)",
+        "location": "Free issue to Hamer",
+        "quantity": "2.00",
+        "stockcode": "19266"
+    },
+    {
+        "description": "Assembly of slit shaft assy",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19689"
+    },
+    {
+        "description": "TMs300 slit shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30247"
+    },
+    {
+        "description": "TMs300 Slit Shaft Support",
+        "location": "Free issue to Hamer",
+        "quantity": "1.00",
+        "stockcode": "30248"
+    },
+    {
+        "description": "TMs300 Slit Bearing",
+        "location": "Free issue to hamer ",
+        "quantity": "2.00",
+        "stockcode": "30253"
+    }
+]

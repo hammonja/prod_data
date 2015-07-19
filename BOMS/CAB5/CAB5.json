@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Black bunch pin plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10010"
+    },
+    {
+        "description": "Red bunch pin plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10011"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10125"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "Assembly of black&red leads. 1.8m long. (CAB5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19632"
+    },
+    {
+        "description": "H30 rubber sleeve (pack of 500)",
+        "location": "11 per cable needed",
+        "quantity": "0.02",
+        "stockcode": "99015"
+    },
+    {
+        "description": "Black wire 1.5mm^2 (100m)",
+        "location": "",
+        "quantity": "0.02",
+        "stockcode": "99044"
+    },
+    {
+        "description": "Red wire 1.5mm^2 (100m)",
+        "location": "",
+        "quantity": "0.02",
+        "stockcode": "99045"
+    }
+]

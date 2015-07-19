@@ -1,0 +1,248 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "Unislide FF",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11209"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x10",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "15051"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "30mm M3 Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15087"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "TM600 bent mirror",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42324"
+    },
+    {
+        "description": "Concave mirror, 85mm x 115mm x 20mm thick blank.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60067"
+    },
+    {
+        "description": "TM600 Curved Mirror Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60070"
+    },
+    {
+        "description": "TM600 Toroidal Mirror Back Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60071"
+    },
+    {
+        "description": "TM600 Toroidal Mirror Clamp Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "60072"
+    },
+    {
+        "description": "TM600 Toroidal Mirror Clamp Side Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "60073"
+    },
+    {
+        "description": "TM600 Curved Mirror Mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "60076"
+    },
+    {
+        "description": "TM600 Rear Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60078"
+    },
+    {
+        "description": "TM600 Bottom Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60096"
+    },
+    {
+        "description": "TM600 Support Foot Studding (gah)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "60099"
+    },
+    {
+        "description": "TM600 Self Levelling Foot",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "60100"
+    },
+    {
+        "description": "TM600 Thumb Nut (pack of 5)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "60101"
+    },
+    {
+        "description": "TM600 Exit Port Blanking Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60121"
+    },
+    {
+        "description": "TM600 Lid Gasket (memo)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60122"
+    },
+    {
+        "description": "TM600 Input Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60124"
+    },
+    {
+        "description": "TM600 Output Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60125"
+    },
+    {
+        "description": "TM600 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60126"
+    },
+    {
+        "description": "Filter Wheel Hole Blanking Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60127"
+    },
+    {
+        "description": "M3 Belleville Washer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99274"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    },
+    {
+        "description": "PSU for TMc Monochromators with IMAC Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_C_PSU_IMAC"
+    },
+    {
+        "description": "Painted TM600 box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM600_HOUSING_F"
+    },
+    {
+        "description": "Unpainted TM600 box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM600_HOUSING_P"
+    },
+    {
+        "description": "Sine drive assmebly for tm600",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM600_SINE_DRIVE"
+    }
+]

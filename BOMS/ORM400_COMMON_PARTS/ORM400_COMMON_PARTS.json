@@ -1,0 +1,140 @@
+[
+    {
+        "description": "4K7 Bussed Resistor Network",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02132"
+    },
+    {
+        "description": "200R 25 Turn PCB mounting",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03021"
+    },
+    {
+        "description": "1A 1000V Rectifier silicon",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04006"
+    },
+    {
+        "description": "DC-DC 5V to +/- 15V (TEM2-0522)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05041"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "4X4 KEYPAD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07071"
+    },
+    {
+        "description": "2.5mm Panel Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10004"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "M3 x 18 Brass Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15017"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "608 Keypad PCB Issue 1 (15 day train)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15086"
+    },
+    {
+        "description": "2X16 LCD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18026"
+    },
+    {
+        "description": "OKW Motec Box with nickel paint EMC shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27408"
+    },
+    {
+        "description": "OMR400 Front Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27409"
+    },
+    {
+        "description": "OMR400 Rear Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27410"
+    },
+    {
+        "description": "ORM digital overlay.   Ref RB 06 1615",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27411"
+    },
+    {
+        "description": "ORM400 Mounting Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27421"
+    },
+    {
+        "description": "M2.5 x 6 tritap (pack of 100)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99003"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]

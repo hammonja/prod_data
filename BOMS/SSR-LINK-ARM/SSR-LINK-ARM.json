@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Pivot Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46583"
+    },
+    {
+        "description": "Flanged Oilite Bush",
+        "location": "Free Issue to Supplier of 46583",
+        "quantity": "2.00",
+        "stockcode": "46592"
+    },
+    {
+        "description": "Thrust Washer",
+        "location": "Free Issue to Supplier of 46583",
+        "quantity": "2.00",
+        "stockcode": "46593"
+    },
+    {
+        "description": "M10 Shoulder screw",
+        "location": "Free Issue to Supplier of 46583",
+        "quantity": "1.00",
+        "stockcode": "46591"
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "description": "Painting of various parts for EI Benflect sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19528"
+    },
+    {
+        "description": "TMs300 Slit Bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30253"
+    },
+    {
+        "description": "Edinburgh sphere bottom",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43638"
+    },
+    {
+        "description": "Edinburgh sphere sample post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43640"
+    },
+    {
+        "description": "Edinburgh sphere powder tray",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "43641"
+    },
+    {
+        "description": "Edinburgh sample post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43642"
+    },
+    {
+        "description": "Edinburgh sphere top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43643"
+    },
+    {
+        "description": "Lens PXF-25.4-33.1-UV (Melles quote # 17423)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43644"
+    },
+    {
+        "description": "Edinburg lens holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43645"
+    },
+    {
+        "description": "Edinburgh mirror change barrel [SHELF : DUNCAN]",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43646"
+    },
+    {
+        "description": "Edinburgh magnet collar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43647"
+    },
+    {
+        "description": "Edinburgh sphere mirror shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43648"
+    },
+    {
+        "description": "Edinburgh sphere knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43649"
+    },
+    {
+        "description": "Edinburgh Sphere baffle post [SHELF : DUNCAN]",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43650"
+    },
+    {
+        "description": "Edinburgh Benflect baffle (1 off  99026 per 10)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43651"
+    },
+    {
+        "description": "Edinburgh baffle pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43652"
+    },
+    {
+        "description": "Edinburgh sphere handle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43654"
+    },
+    {
+        "description": "Edinburgh sphere filter plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43655"
+    },
+    {
+        "description": "Magnet for EI sphere (box of 10)",
+        "location": "",
+        "quantity": "0.70",
+        "stockcode": "43663"
+    },
+    {
+        "description": "Edinburgh divert mirror",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43664"
+    },
+    {
+        "description": "Edinburgh sphere reflectance piece (fi 20mm of 99005)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43813"
+    },
+    {
+        "description": "Benflect sphere parts for EI sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "EI_SPHERE_BFLECT"
+    },
+    {
+        "description": "Split ring for TGK filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "NA5155"
+    }
+]

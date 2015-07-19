@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Stepping motor for FW in MDC150  (8425884 used for e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18132"
+    },
+    {
+        "description": "Bore reducer, 5mm x 1/4 inch x 6.6mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30052"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "MDC150 filter wheel motor bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44127"
+    },
+    {
+        "description": "MSH150 FilterWheel Micro-Switch Bracket.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44371"
+    }
+]

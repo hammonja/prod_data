@@ -1,0 +1,32 @@
+[
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "5mm dia room temperature Ge photodiode",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09029"
+    },
+    {
+        "description": "DH-InGaAs Body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09039"
+    },
+    {
+        "description": "Front plate for TO8 detectors",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "09046"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    }
+]

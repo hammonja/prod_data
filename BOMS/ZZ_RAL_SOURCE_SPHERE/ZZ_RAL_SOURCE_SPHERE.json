@@ -1,0 +1,128 @@
+[
+    {
+        "description": "Monitor detector (e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09115"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Lens uv silica 25dia (+0, -0.1) x 50fl pcx",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13436"
+    },
+    {
+        "description": "E2v sphere support",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27096"
+    },
+    {
+        "description": "Marconi light source 4\" sphere lens tube/plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27101"
+    },
+    {
+        "description": "E2V (Marconi) light source 4\" sphere lens rings",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27102"
+    },
+    {
+        "description": "E2V light source baffle plug (fi 10mm of 99026)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27104"
+    },
+    {
+        "description": "Marconi sphere baffle legs",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "27105"
+    },
+    {
+        "description": "E2V (Marconi) light source 4\" sphere tie bars (Memo)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27113"
+    },
+    {
+        "description": "E2V thick lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27191"
+    },
+    {
+        "description": "E2V sphere clamping straps",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27193"
+    },
+    {
+        "description": "E2V sphere detector fixing ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27198"
+    },
+    {
+        "description": "Marconi light source 4\" sphere with 25mm port",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27333"
+    },
+    {
+        "description": "Marconi light source 4\" sphere with 25mm port cladding plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27334"
+    },
+    {
+        "description": "E2V Sphere Clamp Upright Full Cross Member",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27427"
+    },
+    {
+        "description": "E2V HV connector mounting bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41239"
+    },
+    {
+        "description": "RAL sphere base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41541"
+    },
+    {
+        "description": "RAL sphere cladding",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41547"
+    },
+    {
+        "description": "RAL sphere /main body location bracket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41548"
+    },
+    {
+        "description": "RAL sphere unit location pin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41549"
+    },
+    {
+        "description": "RAL sphere support web",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41550"
+    }
+]

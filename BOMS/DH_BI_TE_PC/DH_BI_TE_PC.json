@@ -1,0 +1,176 @@
+[
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "9107WB photomultiplier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09044"
+    },
+    {
+        "description": "Temperature Sens AD590KH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09056"
+    },
+    {
+        "description": "C637CFN1 voltage divider for 9107WB tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09069"
+    },
+    {
+        "description": "AD6 Fast Amplifier/Discriminator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09131"
+    },
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Connector 15 way 'D' socket\"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10112"
+    },
+    {
+        "description": "Connector 15 Way 'D' Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10113"
+    },
+    {
+        "description": "Cable cover 15 way",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10171"
+    },
+    {
+        "description": "SMA bulkhead socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10179"
+    },
+    {
+        "description": "SMA cable plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10202"
+    },
+    {
+        "description": "M300 Small 'O' ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11054"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19002"
+    },
+    {
+        "description": "Peltier element. (2 SC 040-050127-63L-RTV).",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19169"
+    },
+    {
+        "description": "DH-00-Te housing (2 parts, matched)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40001"
+    },
+    {
+        "description": "Dh-00-Te Mounting plate removable side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40005"
+    },
+    {
+        "description": "UV silica/ quartz window dia. 25.8/25.85mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40009"
+    },
+    {
+        "description": "MkII heat sink/socket/fan plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40012"
+    },
+    {
+        "description": "Expanded Neoprene Gaskets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40016"
+    },
+    {
+        "description": "Heat sink gasket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40017"
+    },
+    {
+        "description": "NPL Cooled End Tube Housing (mod 40001)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42489"
+    },
+    {
+        "description": "NPL Cooled End Tube Housing Insulation",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42490"
+    },
+    {
+        "description": "NPL Cooled End Tube Detector Pillars",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42491"
+    },
+    {
+        "description": "NPL Cooled End Tube Cold Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42492"
+    },
+    {
+        "description": "NPL Cooled End Tube Support Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42493"
+    },
+    {
+        "description": "HV-BNC to HV-BNC 1200mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB3"
+    },
+    {
+        "description": "Heatsink for cooled housing (from 40011)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_TE_HEATSINK"
+    }
+]

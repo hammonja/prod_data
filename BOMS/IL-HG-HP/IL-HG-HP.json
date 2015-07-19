@@ -1,0 +1,80 @@
+[
+    {
+        "description": "DTMS power connector 3way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10012"
+    },
+    {
+        "description": "Connector PICO 9 lampholder/base (www.hificollective.co.uk)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10157"
+    },
+    {
+        "description": "BINDER - 09 0306 00 03 - SOCKET, FREE, 3WAY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10329"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "Mercury lamp used for monochromator calibration",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19629"
+    },
+    {
+        "description": "Lighting Start Unit Converteagear 1363 - see memo",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19634"
+    },
+    {
+        "description": "9890 split ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44205"
+    },
+    {
+        "description": "IL-HG-HP LENS ASSEMBLEY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44212"
+    },
+    {
+        "description": "IL-HG-HP Heat Sink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44213"
+    },
+    {
+        "description": "IL-HG-HP Main Body Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44214"
+    },
+    {
+        "description": "IL-HG-HP Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44215"
+    },
+    {
+        "description": "IL-HG-HP Connector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44216"
+    },
+    {
+        "description": "32 PS 25 Comar lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44217"
+    }
+]

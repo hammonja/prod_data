@@ -1,0 +1,14 @@
+[
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "Set to addr. 5904",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "Configure as 2 EI PLATEREADER TRIG drives.",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    }
+]

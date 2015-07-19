@@ -1,0 +1,26 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Opto wheel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11198"
+    },
+    {
+        "description": "Opto switch bracket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11199"
+    }
+]

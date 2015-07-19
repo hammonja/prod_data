@@ -1,0 +1,110 @@
+[
+    {
+        "description": "0.5mm x 16.0mm fixed slit plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41979"
+    },
+    {
+        "description": "0.625mm x 16.0mm fixed slit plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41980"
+    },
+    {
+        "description": "1.0mm x 20.0mm fixed slit plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41984"
+    },
+    {
+        "description": "2.0mm x 20.0mm fixed slit plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41985"
+    },
+    {
+        "description": "0.5mm x 8.0mm fixed slit plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41986"
+    },
+    {
+        "description": "0.625mm x 8.0mm fixed slit plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41987"
+    },
+    {
+        "description": "1.0mm x 8.0mm fixed slit plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41988"
+    },
+    {
+        "description": "1.0mm x 16.0mm fixed slit plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41989"
+    },
+    {
+        "description": "1.25mm x 8.0mm fixed slit plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41990"
+    },
+    {
+        "description": "1.25mm x 16.0mm fixed slit plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41991"
+    },
+    {
+        "description": "1.25mm x 20.0mm fixed slit plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41992"
+    },
+    {
+        "description": "2.0mm x 8.0mm fixed slit plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41993"
+    },
+    {
+        "description": "2.0mm x 16.0mm fixed slit plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41994"
+    },
+    {
+        "description": "2.5mm x 8.0mm fixed slit plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41995"
+    },
+    {
+        "description": "2.5mm x 16.0mm fixed slit plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41996"
+    },
+    {
+        "description": "2.5mm x 20.0mm fixed slit plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41997"
+    },
+    {
+        "description": "5.0mm x 20.0mm fixed slit plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41998"
+    },
+    {
+        "description": "6.25mm x 20.0mm fixed slit plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41999"
+    }
+]

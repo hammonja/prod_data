@@ -1,0 +1,164 @@
+[
+    {
+        "description": "Slow blow 10A fuse (5mm x 20mm)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01015"
+    },
+    {
+        "description": "Chassis LED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04039"
+    },
+    {
+        "description": "dc-dc, 10-30V in,  5V @ 600mA out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05024"
+    },
+    {
+        "description": "Miniature toggle switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07004"
+    },
+    {
+        "description": "Mains Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07050"
+    },
+    {
+        "description": "Actuator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07051"
+    },
+    {
+        "description": "9 Way cable plug",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10138"
+    },
+    {
+        "description": "9 way cable socket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10139"
+    },
+    {
+        "description": "9 way chassis plug",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10140"
+    },
+    {
+        "description": "9  Way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10141"
+    },
+    {
+        "description": "Dust cap",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10142"
+    },
+    {
+        "description": "Inline fuse holder",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10143"
+    },
+    {
+        "description": "9 Way IP67 'D' panel plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10162"
+    },
+    {
+        "description": "16 way cable plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10320"
+    },
+    {
+        "description": "16 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10321"
+    },
+    {
+        "description": "Conduit adapter for 12 way connectors",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10333"
+    },
+    {
+        "description": "Heat sink for CPS50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17175P"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17550P"
+    },
+    {
+        "description": "Temp sensor for CPS-E-MK3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18047"
+    },
+    {
+        "description": "PWM, PID Temperature controller",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18125"
+    },
+    {
+        "description": "flexible metal conduit",
+        "location": "4 x 0.9m cables & 1 x 1.2m cable",
+        "quantity": "1.00",
+        "stockcode": "19176"
+    },
+    {
+        "description": "flexibe conduit adapters",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "19177"
+    },
+    {
+        "description": "Battery charger/ psu for HPA theultimatefinish.co.uk",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19501"
+    },
+    {
+        "description": "HPA cpse box (Matl. 17550P)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43513"
+    },
+    {
+        "description": "Heat pump controller spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43848"
+    },
+    {
+        "description": "Heat pump heat sink block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43849"
+    },
+    {
+        "description": "HPA power supply cable hook",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43850"
+    }
+]

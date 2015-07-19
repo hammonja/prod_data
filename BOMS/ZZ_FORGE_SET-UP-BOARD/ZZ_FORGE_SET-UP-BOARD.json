@@ -1,0 +1,38 @@
+[
+    {
+        "description": "10R MRS25",
+        "location": "SR1 through SR50",
+        "quantity": "50.00",
+        "stockcode": "02004"
+    },
+    {
+        "description": "200R Pot 19mm (3/4\") 15 Turn (Forge led set-up board)",
+        "location": "",
+        "quantity": "50.00",
+        "stockcode": "03015"
+    },
+    {
+        "description": "Test Hook With Black Bead (Forge led set-up board)",
+        "location": "",
+        "quantity": "51.00",
+        "stockcode": "10021"
+    },
+    {
+        "description": "50 Way IDC PCB Plug (for Forge boards)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10022"
+    },
+    {
+        "description": "BI Led Set-Up Board Issue 2 (10 day) (memo)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15030"
+    },
+    {
+        "description": "50 Way IDC Cable Socket (for Forge boards)",
+        "location": "Ask Forge about cable length",
+        "quantity": "4.00",
+        "stockcode": "10026"
+    }
+]

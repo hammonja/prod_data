@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Bosch extrusion 20mm, 4 channel. 3000mm length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19338"
+    },
+    {
+        "description": "Bosch 20mm extrusion bracket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19344"
+    },
+    {
+        "description": "Bosch 6mm groove M4 'T' nut",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19346"
+    },
+    {
+        "description": "Bosch 20mm extrusion end cap (each)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19347"
+    },
+    {
+        "description": "Bosch Magnetic catch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19369"
+    },
+    {
+        "description": "Lasing 1000W system baffle plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41791"
+    },
+    {
+        "description": "Lasing 1000W system baffle foot extrusion",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41792"
+    },
+    {
+        "description": "Lasing 1000W system baffle plate upright support extrusion",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41793"
+    }
+]

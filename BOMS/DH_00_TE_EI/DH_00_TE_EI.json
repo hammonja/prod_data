@@ -1,0 +1,122 @@
+[
+    {
+        "description": "Temperature Sens AD590KH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09056"
+    },
+    {
+        "description": "Safe HV socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10040"
+    },
+    {
+        "description": "SMA bulkhead socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10179"
+    },
+    {
+        "description": "Ferrite bead for EI cooled housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18021"
+    },
+    {
+        "description": "Peltier element. (2 SC 040-050127-63L-RTV).",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19169"
+    },
+    {
+        "description": "TMs300 SAM pillars. M4 x 20.",
+        "location": " ",
+        "quantity": "3.00",
+        "stockcode": "30246"
+    },
+    {
+        "description": "DH-00-Te housing (2 parts, matched)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40001"
+    },
+    {
+        "description": "Insulation piece ( FREE ISSUE  0.5  SHEET  99801)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40003_BOTTOM"
+    },
+    {
+        "description": "Insulation piece (FREE  ISSUE  0.5  SHEET 99801)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40003_TOP"
+    },
+    {
+        "description": "Dh-00-Te Cold block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40007"
+    },
+    {
+        "description": "Mu metal shield (40010 Issue B)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40010"
+    },
+    {
+        "description": "Expanded Neoprene Gaskets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40016"
+    },
+    {
+        "description": "Heat sink gasket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40017"
+    },
+    {
+        "description": "Lens to EI drawing A3301/00102 issue A",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "40037"
+    },
+    {
+        "description": "Small 'O' ring 1\" od, 3/32\" cross section (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40038"
+    },
+    {
+        "description": "Coupling flange for EI cooled housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40039"
+    },
+    {
+        "description": "Loaded gating pcb for EI housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40040"
+    },
+    {
+        "description": "Cable for EI housing (2m long)(Drawing 23059_3)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_00_TE_EI_CABLE"
+    },
+    {
+        "description": "Fan assembly for DH_00_TE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_00_TE_FAN-ASSY"
+    },
+    {
+        "description": "Heatsink for cooled housing (from 40011)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_TE_HEATSINK"
+    }
+]

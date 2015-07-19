@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Fibre x,y,z stage",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12039"
+    },
+    {
+        "description": "FC306 FIBRE CHUCK (slotted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12053"
+    },
+    {
+        "description": "FC306 MICROSCOPE OBJECTIVE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12054"
+    },
+    {
+        "description": "Strain relief for bare fibre chuck",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12064"
+    },
+    {
+        "description": "FC307 Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12127"
+    }
+]

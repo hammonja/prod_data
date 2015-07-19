@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Tyco 2 way header with catch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10299"
+    },
+    {
+        "description": "Tyco 3 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10300"
+    },
+    {
+        "description": "Tyco 5 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10301"
+    },
+    {
+        "description": "Assembled USB PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15084_M1"
+    }
+]

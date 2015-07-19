@@ -1,0 +1,62 @@
+[
+    {
+        "description": "Red M4insul spade terminal,0.5-1.5sq.mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10337"
+    },
+    {
+        "description": "Lens, KRS5, 25mm diameter, 25mm focal length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13925"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x15",
+        "location": "Pairs screwed together",
+        "quantity": "8.00",
+        "stockcode": "15052"
+    },
+    {
+        "description": "IL1 Lens tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17021"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Hawk Eye Silicon Nirtride Glowbar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19076"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "IL8 Nernst Clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46752"
+    },
+    {
+        "description": "IL8 Nernst Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46753"
+    },
+    {
+        "description": "IL8 P.T.F.E. sleeve",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46754"
+    }
+]

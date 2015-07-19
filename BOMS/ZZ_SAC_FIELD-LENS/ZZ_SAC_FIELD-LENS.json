@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Thumb screw M3 x 8 DYED BLACK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13066"
+    },
+    {
+        "description": "Lens, KRS5, 25mm diameter, 25mm focal length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13925"
+    },
+    {
+        "description": "E2V (Marconi) light source 4\" sphere lens rings",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27102"
+    },
+    {
+        "description": "SAC Detector Extension Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41116"
+    },
+    {
+        "description": "SAC Lens Mounting Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41117"
+    },
+    {
+        "description": "SAC Curved Mirror Baffle Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41118"
+    }
+]

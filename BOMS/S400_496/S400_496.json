@@ -1,0 +1,86 @@
+[
+    {
+        "description": "LED Yellow HLMP 1401",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04031"
+    },
+    {
+        "description": "Switch, SPNO, Square, Black (D6C90F1LFS)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "07029"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "36 way jumper",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10131"
+    },
+    {
+        "description": "Nut, 1/2\" x 28UNEF",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10344"
+    },
+    {
+        "description": "BNC shorting Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10332"
+    },
+    {
+        "description": "2GB Micro SD Flash Memory Card (TS2GUSDC)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15116"
+    },
+    {
+        "description": "S400_496 LCD Screen (64128Q CC BC-3LP)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45196"
+    },
+    {
+        "description": "S400_496 OMAP Module Programmed",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46041_P1"
+    },
+    {
+        "description": "S400_496 Front Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46042"
+    },
+    {
+        "description": "S400_496 Main PCB (25 day)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46043"
+    },
+    {
+        "description": "S400_496 Front Panel PCB (25 day)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46044"
+    },
+    {
+        "description": "S400_496 Main PCB Shield (2 PARTS)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46045"
+    },
+    {
+        "description": "S400_496 Front Panel Ribbon Lead",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46046"
+    }
+]

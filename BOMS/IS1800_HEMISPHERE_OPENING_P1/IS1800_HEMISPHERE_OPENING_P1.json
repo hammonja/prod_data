@@ -1,0 +1,20 @@
+[
+    {
+        "description": "GHz barium sulphate paint",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19625"
+    },
+    {
+        "description": "Painting Operation to Produce IS1800_HEMISPHERE_OPENING_P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19741"
+    },
+    {
+        "description": "IS1800 Hemisphere Assembled as Opening Half [SHELF : DUNCAN]",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS1800_HEMISPHERE_OPENING"
+    }
+]

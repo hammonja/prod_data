@@ -1,0 +1,14 @@
+[
+    {
+        "description": "PV system top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43241"
+    },
+    {
+        "description": "Painting operation to produce 43241_P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19798"
+    }
+]

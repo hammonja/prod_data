@@ -1,0 +1,206 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "22R for PMC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02078"
+    },
+    {
+        "description": "Green led",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04001"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "dc-dc conv",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05038"
+    },
+    {
+        "description": "Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07008"
+    },
+    {
+        "description": "Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07009"
+    },
+    {
+        "description": "large cap, black with line to fit 21.5mm knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07013"
+    },
+    {
+        "description": "Knob large with line, 6mm shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07035"
+    },
+    {
+        "description": "Rotary switch 12 way 1 pole",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07039"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 4700uF, 63V",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08113"
+    },
+    {
+        "description": "Vertical Mounting Clip for 30mm Capacitor",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08114"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Connector 6 way",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10052"
+    },
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "Connector 16-way IDC DIL plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10106"
+    },
+    {
+        "description": "Connector IEEE socket (3549-2000)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10108"
+    },
+    {
+        "description": "Connector 25 way IDC socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10124"
+    },
+    {
+        "description": "Crimps for Molex 0.1\" pitch",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10176"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "Spacer NP 8.0/25/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15021"
+    },
+    {
+        "description": "PMC3B rear panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16029"
+    },
+    {
+        "description": "PMC3B front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16036"
+    },
+    {
+        "description": "G-Stiffener short",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17013"
+    },
+    {
+        "description": "PMC3B BASE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17026"
+    },
+    {
+        "description": "CPS2 Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17320"
+    },
+    {
+        "description": "Transformer 100VA. 18Vac, 18Vac (pot with RS 199-1395)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18091"
+    },
+    {
+        "description": "sales@L-com.com   (pack of 20)",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "19012"
+    },
+    {
+        "description": "Female Screw Lock Assembly 13mm Long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19044"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "EADS power supply plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27211"
+    },
+    {
+        "description": "Drive card for original L/R stepping motor drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_3B_CARD_DRIVE"
+    },
+    {
+        "description": "IEEE card for original L/R stepping motor drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_3B_CARD_IEEE"
+    }
+]

@@ -1,0 +1,320 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "Neon indicator RED 200-250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04040"
+    },
+    {
+        "description": "Mains Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07050"
+    },
+    {
+        "description": "Actuator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07051"
+    },
+    {
+        "description": "T switch in series with Pelts. on E-box",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "07055"
+    },
+    {
+        "description": "Bulkhead 9 way socket (through hole)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10027"
+    },
+    {
+        "description": "3 way chassis plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10094"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Dust cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10142"
+    },
+    {
+        "description": "IP68 3 way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10146"
+    },
+    {
+        "description": "IP68 Sealing cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10148"
+    },
+    {
+        "description": "BS4343 Mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10152"
+    },
+    {
+        "description": "BS4343 Mains inlet free socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10153"
+    },
+    {
+        "description": "Fuse holder panel mounting FPG2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10186"
+    },
+    {
+        "description": "Crimps",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10187"
+    },
+    {
+        "description": "Plug mains male right angle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10192"
+    },
+    {
+        "description": "IP68 mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10292"
+    },
+    {
+        "description": "Sealing cap for mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10293"
+    },
+    {
+        "description": "Fibre to slit interface",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12015"
+    },
+    {
+        "description": "'O'RING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12082"
+    },
+    {
+        "description": "FOP(UV) ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12092"
+    },
+    {
+        "description": "PCB PILLAR",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15024"
+    },
+    {
+        "description": "Bentham Logo plate (silk screened)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16098"
+    },
+    {
+        "description": "EnviroBox Power Inlet Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17777_M1"
+    },
+    {
+        "description": "DM150 envirobox insulation (set of 6 pieces)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17783"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "Grommet 6.4 Dia. cable hole",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19051"
+    },
+    {
+        "description": "Fastener self clinch M4",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "19086"
+    },
+    {
+        "description": "DM150 Zarges box for envirobox",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19127"
+    },
+    {
+        "description": "Cable gland PG13.5",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19128"
+    },
+    {
+        "description": "THP360X-300CA12-200-CA12/25 (no thermal switch)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19222"
+    },
+    {
+        "description": "Bosch 3 Way Cube Connectors (20m x 20mm)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19339"
+    },
+    {
+        "description": "Bosch 2 Way Cube Connectors (20m x 20mm)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19343"
+    },
+    {
+        "description": "Bosch 20mm extrusion bracket",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "19344"
+    },
+    {
+        "description": "Bosch 6mm groove M4 'T' nut",
+        "location": "",
+        "quantity": "24.00",
+        "stockcode": "19346"
+    },
+    {
+        "description": "European Mains Lead",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "23014"
+    },
+    {
+        "description": "Wooden Packing Crate for   ENVIROBOX_DM150_USB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25018"
+    },
+    {
+        "description": "509.5mm Bosch Extrusion 3842-517-173 (DM150 Frame)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27412"
+    },
+    {
+        "description": "492mm Bosch Extrusion 3842-517-173 (DM150 Frame)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27413"
+    },
+    {
+        "description": "331mm Bosch Extrusion 3842-517-173 (DM150 Frame)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27414"
+    },
+    {
+        "description": "308.5mm Bosch Extrusion 3842-517-173 (DM150 Frame)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27415"
+    },
+    {
+        "description": "222mm Bosch Extrusion 3842-517-173 (DM150 Frame)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27416"
+    },
+    {
+        "description": "133.5mm Bosch Extrusion 3842-517-173 (DM150 Frame)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "27417"
+    },
+    {
+        "description": "DM150 Platform",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27418"
+    },
+    {
+        "description": "DM150 Envirobox Frame Bottom Support Plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27419"
+    },
+    {
+        "description": "DM150 Envirobox Frame Top Support Plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27420"
+    },
+    {
+        "description": "Heat pump spacer plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40043"
+    },
+    {
+        "description": "Lille envirobox fibre inlet plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42767"
+    },
+    {
+        "description": "Polyfoam Floorboard Super 1250x600x50mm (Cellecta)",
+        "location": "Free issue to John Donavon",
+        "quantity": "5.00",
+        "stockcode": "99801"
+    },
+    {
+        "description": "1m standard USB cable",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB_USB_1M"
+    },
+    {
+        "description": "Mini usb cable 3m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USB_MINI_3M"
+    },
+    {
+        "description": "PWM controller for envirobox heat pump",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CPS_E-MK3"
+    },
+    {
+        "description": "ADVENT USB 2.0 4-Port Powered Hub",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "USB_HUB"
+    }
+]

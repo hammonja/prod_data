@@ -1,0 +1,128 @@
+[
+    {
+        "description": "1K, MRS25",
+        "location": "R6 on USB board",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "511K MRS25",
+        "location": "R5 on USB board",
+        "quantity": "1.00",
+        "stockcode": "02091"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 2n2 Polypropylene FKP2",
+        "location": "C5 on USB board",
+        "quantity": "1.00",
+        "stockcode": "08043"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "USB board & REF board",
+        "quantity": "2.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "Connector 26-Way boxed header",
+        "location": "PL3 USB board",
+        "quantity": "1.00",
+        "stockcode": "10080"
+    },
+    {
+        "description": "Connector 26-way boxed header right",
+        "location": "REF board",
+        "quantity": "1.00",
+        "stockcode": "10089"
+    },
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "485_USB Issue 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15007"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "pcb  \" 225 REF Iss 3 \". Lead free HASL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15045"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x10",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "15051"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x15",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15052"
+    },
+    {
+        "description": "PCB 225 spacer M3x20",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15053"
+    },
+    {
+        "description": "Double Blank Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16018"
+    },
+    {
+        "description": "225 mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16059"
+    },
+    {
+        "description": "225 Screen plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16060"
+    },
+    {
+        "description": "VFC in 228A (AD652AQ) (alternative FEC  223-1177)",
+        "location": "IC8 on USB board",
+        "quantity": "1.00",
+        "stockcode": "20025"
+    },
+    {
+        "description": "IC DG408DJ",
+        "location": "IC20 on REF board",
+        "quantity": "1.00",
+        "stockcode": "21036"
+    },
+    {
+        "description": "PIC18F4480-I/P",
+        "location": "IC2 on USB board of 485",
+        "quantity": "1.00",
+        "stockcode": "21055"
+    },
+    {
+        "description": "Base lock-in for S400_495_P",
+        "location": "Do not connect up to other unit (Chris)",
+        "quantity": "1.00",
+        "stockcode": "S400_495_BASE"
+    }
+]

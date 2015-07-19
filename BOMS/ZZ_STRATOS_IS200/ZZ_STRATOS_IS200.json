@@ -1,0 +1,116 @@
+[
+    {
+        "description": "InGaAs detector 2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09040"
+    },
+    {
+        "description": "IS8 Blank Hemisphere [SHELF: HAMER]",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13096"
+    },
+    {
+        "description": "Bosch 2 Way Cube Connectors (20m x 20mm)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19343"
+    },
+    {
+        "description": "Bosch 20mm extrusion bracket",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19344"
+    },
+    {
+        "description": "Bosch 6mm groove M4 'T' nut",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19346"
+    },
+    {
+        "description": "Bosch 20mm extrusion end cap (each)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19347"
+    },
+    {
+        "description": "Stratos Sphere Cable Gland",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42424"
+    },
+    {
+        "description": "Stratos Sphere InGaAs Detector Head",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42425"
+    },
+    {
+        "description": "Stratos Sphere InGaAs Detector Head Connector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42426"
+    },
+    {
+        "description": "Stratos Sphere Detector Head Mounting Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42427"
+    },
+    {
+        "description": "Stratos Sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42428F"
+    },
+    {
+        "description": "Stratos Sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42428P"
+    },
+    {
+        "description": "Stratos Sphere Frame Front to Rear Long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42429"
+    },
+    {
+        "description": "Stratos Sphere Frame Front to Rear Short",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42430"
+    },
+    {
+        "description": "Stratos Sphere Frame Side to Side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42431"
+    },
+    {
+        "description": "Stratos Sphere Frame Upright Long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42432"
+    },
+    {
+        "description": "Stratos Sphere Frame Upright Short",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42433"
+    },
+    {
+        "description": "Stratos Sphere Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42434"
+    },
+    {
+        "description": "Stratos Sphere Support Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42435"
+    }
+]

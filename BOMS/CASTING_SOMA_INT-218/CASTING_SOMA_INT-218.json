@@ -1,0 +1,26 @@
+[
+    {
+        "description": "M300 casting, 2 apertures blanked, no machining",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11119"
+    },
+    {
+        "description": "M300 casting in Bentham colour",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11119_BENTHAM"
+    },
+    {
+        "description": "Machining of casting for standard M300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11119P"
+    },
+    {
+        "description": "Soma M300 Casting Modification for Internal Chopper",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42257"
+    }
+]

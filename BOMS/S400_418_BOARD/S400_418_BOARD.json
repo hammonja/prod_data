@@ -1,0 +1,200 @@
+[
+    {
+        "description": "2R2 MRS25",
+        "location": "R6",
+        "quantity": "1.00",
+        "stockcode": "02002"
+    },
+    {
+        "description": "100R MRS25",
+        "location": "R7",
+        "quantity": "1.00",
+        "stockcode": "02013"
+    },
+    {
+        "description": "330R MRS25",
+        "location": "R3",
+        "quantity": "1.00",
+        "stockcode": "02016"
+    },
+    {
+        "description": "680R .25W MF, 1% LR1",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02019"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R12, R14, R15, R16",
+        "quantity": "4.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "R11",
+        "quantity": "1.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R9,R10,R19,R30",
+        "quantity": "4.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "20K MRS25",
+        "location": "R18",
+        "quantity": "1.00",
+        "stockcode": "02037"
+    },
+    {
+        "description": "33K2 MRS25",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "02039"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "R1,R17",
+        "quantity": "2.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "470R, MRS25",
+        "location": "R27",
+        "quantity": "1.00",
+        "stockcode": "02079"
+    },
+    {
+        "description": "20K .5W Cermet PCB mounting",
+        "location": "R13,R28",
+        "quantity": "2.00",
+        "stockcode": "03011"
+    },
+    {
+        "description": "5K 25 Turn PCB mounting",
+        "location": "R8",
+        "quantity": "1.00",
+        "stockcode": "03019"
+    },
+    {
+        "description": "Voltage reference for 218 (LM336BZ-5.0)",
+        "location": "D2",
+        "quantity": "1.00",
+        "stockcode": "04041"
+    },
+    {
+        "description": "XP POWER - IL2405S - DC/DC CONVERTER, 2W 5V",
+        "location": "DC1",
+        "quantity": "1.00",
+        "stockcode": "05014"
+    },
+    {
+        "description": "BC 184 (was Farnell 1017657)",
+        "location": "Q1,Q3,Q6",
+        "quantity": "3.00",
+        "stockcode": "06005"
+    },
+    {
+        "description": "TIP110",
+        "location": "Q2",
+        "quantity": "1.00",
+        "stockcode": "06007"
+    },
+    {
+        "description": "LM358N",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "06016"
+    },
+    {
+        "description": "Relay",
+        "location": "RL1,RL2",
+        "quantity": "2.00",
+        "stockcode": "07044"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "FIT TO REAR OF BOARD ",
+        "quantity": "2.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1,C2,C4,C7,C11",
+        "quantity": "5.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 22pF ceramic plate",
+        "location": "C9,C10",
+        "quantity": "2.00",
+        "stockcode": "08047"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C8",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 470uF 35V radial",
+        "location": "C3",
+        "quantity": "1.00",
+        "stockcode": "08104"
+    },
+    {
+        "description": "20MHz crystal",
+        "location": "XSTL1",
+        "quantity": "1.00",
+        "stockcode": "08117"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "IC1,IC5,IC6",
+        "quantity": "3.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "28-Way x 0.3\" DIL Socket",
+        "location": "IC3",
+        "quantity": "1.00",
+        "stockcode": "10053"
+    },
+    {
+        "description": "Tyco 3 way header with catch",
+        "location": "CONN5, CONN6",
+        "quantity": "2.00",
+        "stockcode": "10300"
+    },
+    {
+        "description": "418 pcb ISSUE 5",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "15099"
+    },
+    {
+        "description": "218 Heat sink",
+        "location": "Q2",
+        "quantity": "1.00",
+        "stockcode": "17037"
+    },
+    {
+        "description": "MAX541, 16 bit dac (MAX541BCPA)",
+        "location": "IC6",
+        "quantity": "1.00",
+        "stockcode": "20010"
+    },
+    {
+        "description": "PIC18F2550-1/SP",
+        "location": "IC3, Do not fit - send with the board to test",
+        "quantity": "1.00",
+        "stockcode": "20015"
+    },
+    {
+        "description": "LT1019CN8-5#PBF-ND",
+        "location": "IC5",
+        "quantity": "1.00",
+        "stockcode": "20029"
+    }
+]

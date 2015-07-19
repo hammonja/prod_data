@@ -1,0 +1,248 @@
+[
+    {
+        "description": "Purge port pipe connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10119"
+    },
+    {
+        "description": "Black Shrouded Socket Cut Down (4mm)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10127_M1"
+    },
+    {
+        "description": "Red Shrouded Socket Cut Down (4mm)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10128_M1"
+    },
+    {
+        "description": "BNC bulkhead connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10197"
+    },
+    {
+        "description": "Vacuum chuck vacuum nozzle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10286_M1"
+    },
+    {
+        "description": "DM150 carrying handle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11164"
+    },
+    {
+        "description": "Oxygen Sensor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18140"
+    },
+    {
+        "description": "IS1800 MkII sphere handles",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19209"
+    },
+    {
+        "description": "'O' ring",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19327"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "UKAEA sphere fan baffle plate pillars (pack of 25)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "41674"
+    },
+    {
+        "description": "VC connector nozzle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42709"
+    },
+    {
+        "description": "PBG51509 UltraLight Series  Breadboard - 750mmx750mmx25mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42992"
+    },
+    {
+        "description": "e2v wafer chuck",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43018"
+    },
+    {
+        "description": "E2V port cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43137"
+    },
+    {
+        "description": "BGS400 Locking Knob ( pack of 5 )",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46356"
+    },
+    {
+        "description": "SSR Sample Chamber Welded Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46531"
+    },
+    {
+        "description": "Stages Hex Foot",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46534"
+    },
+    {
+        "description": "Doubler Decker Leg",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "46535"
+    },
+    {
+        "description": "Aerotech X(250mm)-Y(250mm)-Theta Stages with TTACC plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46536"
+    },
+    {
+        "description": "SSR O-ring (8mm diameter cord, 3m length) www.polymax.co.uk",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46537"
+    },
+    {
+        "description": "SSR Door Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46538_P1"
+    },
+    {
+        "description": "203 x 203 Breadboard MACHINED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46539_M1"
+    },
+    {
+        "description": "SSR Observation Window Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46541"
+    },
+    {
+        "description": "SSR Observation Window",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46542"
+    },
+    {
+        "description": "M6 x 50  Grub Screw",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46545"
+    },
+    {
+        "description": "SSR Hinge Spacer",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "46546"
+    },
+    {
+        "description": "SSR Gasket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46547"
+    },
+    {
+        "description": "Chuck Bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46555"
+    },
+    {
+        "description": "Hinge.  (S1804.AC0100)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "46556"
+    },
+    {
+        "description": "Chuck Pin",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "46557"
+    },
+    {
+        "description": "SSR Chamber Compression Clamp",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46558"
+    },
+    {
+        "description": "FIxture Point",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46560"
+    },
+    {
+        "description": "Gas Spring 2off M8 Ball Ends www.strutsdirect.co.uk",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46565"
+    },
+    {
+        "description": "Wiring Loop",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46573"
+    },
+    {
+        "description": "M4 x 35 Studding",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46574"
+    },
+    {
+        "description": "Strut Mount Block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46575"
+    },
+    {
+        "description": "Gas Strut Lower Mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46576"
+    },
+    {
+        "description": "M6 x 16 cap head black",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "99552"
+    },
+    {
+        "description": "Electronics for SSR sample chamber",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-SSR-ELECTRONICS-BOX"
+    },
+    {
+        "description": "QE Detector Arm for SSR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SSR-QE-DETECTOR-ARM"
+    }
+]

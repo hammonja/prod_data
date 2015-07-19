@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Ultra low 25 way cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10323"
+    },
+    {
+        "description": "PRO115-05mm-200-NOTT-5v-nc-nm Fitted Stepping 19587",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19584"
+    },
+    {
+        "description": "PRO115-05mm-250-TTM-5v-nc-nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19585"
+    },
+    {
+        "description": "LTD-Stepper-NEMA23",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19587"
+    },
+    {
+        "description": "CDT XY Top Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45413"
+    }
+]

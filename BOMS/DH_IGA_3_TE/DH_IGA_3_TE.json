@@ -1,0 +1,74 @@
+[
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "InGaAs, 3mm diameter, 2 stage cooled (EOS)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09014"
+    },
+    {
+        "description": "DH-SiPbS-Te Body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09024"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "Amphenol 5-way plugs",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10039"
+    },
+    {
+        "description": "Rear lens tube - Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12012"
+    },
+    {
+        "description": "Aspheric glass lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13291"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Front Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42524"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Back Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42525"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Connector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42526"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Detector Mount Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42527"
+    }
+]

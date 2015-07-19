@@ -1,0 +1,80 @@
+[
+    {
+        "description": "M4 helicoil insert 1.5D",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19021"
+    },
+    {
+        "description": "Paintig of TMS302_X_HOUSING (RAL 9016 / Nextel)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19680"
+    },
+    {
+        "description": "DTMs300 Front L/H Outer Wall",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30322"
+    },
+    {
+        "description": "DTMs300 Front R/H Outer Wall",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30323"
+    },
+    {
+        "description": "TMs300 Back panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41001"
+    },
+    {
+        "description": "TMs300 Right Hand Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41002"
+    },
+    {
+        "description": "TMs300 left hand panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41003"
+    },
+    {
+        "description": "TMs300 apex connection bracket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41011"
+    },
+    {
+        "description": "TMs300 r/h back corner (make up to 200 off with 13,14 &15)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41012"
+    },
+    {
+        "description": "TMs300 l/h back corner (make up to 200 off with 12,14 &15)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41013"
+    },
+    {
+        "description": "TMs300 r/h front corner (make up to 200 off with 12,13 &15)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41014"
+    },
+    {
+        "description": "TMs300 l/h front corner (make up to 200 off with 12,13 &14)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41015"
+    },
+    {
+        "description": "Floor plate for TMS302_X_HOUSING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44210"
+    }
+]

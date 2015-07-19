@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Painting to produce CASTING_TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19494"
+    },
+    {
+        "description": "TM300 box casting, machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123P"
+    },
+    {
+        "description": "9375 first casting mod (free issue 30123P)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43872"
+    }
+]

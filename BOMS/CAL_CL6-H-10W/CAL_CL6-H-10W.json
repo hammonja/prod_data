@@ -1,0 +1,20 @@
+[
+    {
+        "description": "QH Spectral Irradiance Standard (Horizontal, Enclosed)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_CL6-H"
+    },
+    {
+        "description": "Lamp Holder for 10W Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13063"
+    },
+    {
+        "description": "10W Grit Blasted Quartz-Halogen Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17900"
+    }
+]

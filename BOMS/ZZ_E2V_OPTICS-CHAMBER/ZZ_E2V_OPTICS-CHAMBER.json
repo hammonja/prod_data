@@ -1,0 +1,362 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "BNC bulkhead connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10197"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "252 Drive Cog (Berg GG33A28-32)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11020"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "252 6-Position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11071_P1"
+    },
+    {
+        "description": "252 drive belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11145"
+    },
+    {
+        "description": "Shaft 0.25 x 1.25\" (Material 99904, 1 length per 20)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11174"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "e2v beamsplitter, polkadot 50.8 x 50.8mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13574"
+    },
+    {
+        "description": "NP 8.0/25.4/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15022"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "e2v filter wheel bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19336"
+    },
+    {
+        "description": "Painting e2v optics chamber & lid (memo)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19436"
+    },
+    {
+        "description": "252 filter wheel support plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30020"
+    },
+    {
+        "description": "Bore reducer, 5mm x 1/4 inch x 6.6mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30052"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "New 252 Spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30163"
+    },
+    {
+        "description": "New 252 Opto block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30164"
+    },
+    {
+        "description": "TMs300 r/h front corner (make up to 200 off with 12,13 &15)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41014"
+    },
+    {
+        "description": "TMs300 l/h front corner (make up to 200 off with 12,13 &14)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41015"
+    },
+    {
+        "description": "24V proportional solenoid including spring",
+        "location": "For sam in TM300",
+        "quantity": "1.00",
+        "stockcode": "42876"
+    },
+    {
+        "description": "50x50 plain mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42884"
+    },
+    {
+        "description": "50x50 plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42885"
+    },
+    {
+        "description": "50x50x3mm plain mirror (to 295nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42888"
+    },
+    {
+        "description": "Camera for e2v system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42917"
+    },
+    {
+        "description": "e2v mirror",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42968"
+    },
+    {
+        "description": "e2v optics deck",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42973"
+    },
+    {
+        "description": "e2v optics chamber lh plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42974"
+    },
+    {
+        "description": "e2v optics chamber end plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42975"
+    },
+    {
+        "description": "e2v optics chamber end plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42975-2"
+    },
+    {
+        "description": "e2v optics chamber lid",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42976"
+    },
+    {
+        "description": "e2v mirror bending back plate (DO NOT RE-ORDER)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42979"
+    },
+    {
+        "description": "e2v filter wheel bracket (mod of 30020)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42980"
+    },
+    {
+        "description": "e2v optics chamber side plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42981"
+    },
+    {
+        "description": "e2v beam splitter mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42982"
+    },
+    {
+        "description": "e2v optics mount block",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "42987"
+    },
+    {
+        "description": "e2v optics chamber lid post",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42988"
+    },
+    {
+        "description": "e2v wafer system base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42989"
+    },
+    {
+        "description": "e2v IL75Xe foot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42990"
+    },
+    {
+        "description": "Unislide (2\") for e2v optics",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43020"
+    },
+    {
+        "description": "e2v mirror bending side",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43029"
+    },
+    {
+        "description": "e2v mirror clamp plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43030"
+    },
+    {
+        "description": "e2v curved mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43031"
+    },
+    {
+        "description": "e2v detector mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43032"
+    },
+    {
+        "description": "e2v detector baffle tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43033"
+    },
+    {
+        "description": "e2v detector baffle small",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43034"
+    },
+    {
+        "description": "e2v baffle plate big",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43035"
+    },
+    {
+        "description": "e2v this mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43038"
+    },
+    {
+        "description": "e2v camera mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43039"
+    },
+    {
+        "description": "e2v camera lens tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43040"
+    },
+    {
+        "description": "e2v camera optic mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43041"
+    },
+    {
+        "description": "e2v camera lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43042"
+    },
+    {
+        "description": "e2v camera split ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43043"
+    },
+    {
+        "description": "e2v camera mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43045"
+    },
+    {
+        "description": "E2V aperture holder",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43136"
+    },
+    {
+        "description": "Standard DH-Si.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_SI"
+    },
+    {
+        "description": "IMAC card for TMS300 monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD_TMS"
+    }
+]

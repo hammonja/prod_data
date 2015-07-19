@@ -1,0 +1,68 @@
+[
+    {
+        "description": "Smoke Screen Cog Bearing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19255"
+    },
+    {
+        "description": "MkII Smoke Screen Bottom Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27390"
+    },
+    {
+        "description": "MkII Smoke Screen Top Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27391"
+    },
+    {
+        "description": "MkII Smoke Screen Large Pulley",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27392"
+    },
+    {
+        "description": "MkII Smoke Screen Small Pulley",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27393"
+    },
+    {
+        "description": "MkII Smoke Screen Large Pulley Clamp Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27394"
+    },
+    {
+        "description": "MkII Smoke Screen Motor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27395"
+    },
+    {
+        "description": "MkII Smoke Screen Test Tube 'O' Ring (bag of 50)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27397"
+    },
+    {
+        "description": "MkII Smoke Screen Motor Spacer Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27399"
+    },
+    {
+        "description": "MkII Smoke Screen Pulley 'O' Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27400"
+    },
+    {
+        "description": "M2.5 x 6 tritap (pack of 100)",
+        "location": "Pick 2 screws per unit",
+        "quantity": "0.02",
+        "stockcode": "99003"
+    }
+]

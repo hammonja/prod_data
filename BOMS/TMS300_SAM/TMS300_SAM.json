@@ -1,0 +1,38 @@
+[
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "GDAY 035 X20 B21 (24V)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30043"
+    },
+    {
+        "description": "TMs300 SAM mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30244"
+    },
+    {
+        "description": "TMs300 SAM pillars. M4 x 20.",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30246"
+    },
+    {
+        "description": "TMs300 SAM support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30297"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "PRO POWER - PV2 GROMMET PK 100 - GROMMET, 8MM, PK100",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10030"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "Amphenol 5-way plugs",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10039"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "Coupler holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17001"
+    },
+    {
+        "description": "218H connector box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17009"
+    },
+    {
+        "description": "Motor with end cap and 150mm long leads",
+        "location": "Send to Maxon with order for gearbox",
+        "quantity": "1.00",
+        "stockcode": "18007"
+    },
+    {
+        "description": "53:1 gearbox for use with free issue motor 18007",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18037"
+    },
+    {
+        "description": "Selex chopper bracket for 14 to 1 gearbox",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41855"
+    },
+    {
+        "description": "Selex Chopper Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41856"
+    }
+]

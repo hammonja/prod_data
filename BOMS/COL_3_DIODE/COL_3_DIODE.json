@@ -1,0 +1,104 @@
+[
+    {
+        "description": "DH-SiPbS-Te Body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09024"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "Amphenol 5-way plugs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10039"
+    },
+    {
+        "description": "UV silicon, 5mm dia, single stage te cooled from EOS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42063"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Back Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42525"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Connector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42526"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Detector Mount Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42527"
+    },
+    {
+        "description": "Collimator Diode Mounting Plate Back",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45361"
+    },
+    {
+        "description": "Collimator Diode Mounting Plate Front",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45362"
+    },
+    {
+        "description": "Collimator Diode Mounting Plate Left",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45363"
+    },
+    {
+        "description": "Collimator Diode Mounting Plate Right",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45364"
+    },
+    {
+        "description": "Collimator Diode Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45365"
+    },
+    {
+        "description": "Collimator Diode Beam Splitter Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45366"
+    },
+    {
+        "description": "Beam Splitter ND0.1 12.7DIA 1.0THICK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45381"
+    },
+    {
+        "description": "COL_3_DIODE 2mm Spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45390"
+    },
+    {
+        "description": "COL_3_DIODE Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50031"
+    }
+]

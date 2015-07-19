@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Purge connector for TM300",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10286"
+    },
+    {
+        "description": "DTM300 in Line Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30110"
+    },
+    {
+        "description": "DTMC300 Purged Base Cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46409"
+    },
+    {
+        "description": "MSHD300 Purged Base Gasket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46407"
+    }
+]

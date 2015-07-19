@@ -1,0 +1,26 @@
+[
+    {
+        "description": "2 way top entry header  B2B-EH-A (LF) (SN)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10001"
+    },
+    {
+        "description": "3 Way top entry header   B3B-EH-A (LF) (SN)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10008"
+    },
+    {
+        "description": "8 way connector  B8B-EH-A (LF) (SN)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10262"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "description": "large cap, black with line to fit 21.5mm knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07013"
+    },
+    {
+        "description": "Large knob, black with line to fit 1/4\" spindle S211 250BK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07018"
+    },
+    {
+        "description": "R32-C184: Thermal switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07056"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Tension Spring 0.25\" Diameter x 2.5\" Long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11165"
+    },
+    {
+        "description": "M300 Unislide with 1mm pitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11325"
+    },
+    {
+        "description": "Lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13035"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "Fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18080"
+    },
+    {
+        "description": "Lamp 250W HLX 64657",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19060"
+    },
+    {
+        "description": "Elipsoidal reflector with AlMgF2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19124"
+    },
+    {
+        "description": "M3 plastic thumb nut with brass thread insert",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19330"
+    },
+    {
+        "description": "manual focus elliptical light source ellipse holder plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41333"
+    },
+    {
+        "description": "manual focus elliptical light source lamp holder bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41334"
+    },
+    {
+        "description": "manual focus elliptical light source unislide mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41335"
+    },
+    {
+        "description": "UKAEA sphere connector bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41614"
+    },
+    {
+        "description": "UKAEA sphere lamp cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41615"
+    },
+    {
+        "description": "UKAEA sphere lamp plateform",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41616"
+    },
+    {
+        "description": "UKAEA sphere slit mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41617"
+    },
+    {
+        "description": "UKAEA Iris",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41622"
+    },
+    {
+        "description": "UKAEA sphere unislide extension shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41623"
+    },
+    {
+        "description": "UKAEA temperature switch mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41625"
+    },
+    {
+        "description": "UKAEA sphere Iris clamps",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41626"
+    },
+    {
+        "description": "UKAEA sphere light source baffle plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41631"
+    },
+    {
+        "description": "UKAEA sphere ellipse plate clamp plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41633"
+    },
+    {
+        "description": "UKAEA sphere Hot mirror support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41636"
+    },
+    {
+        "description": "UKAEA sphere Hot mirror",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41637"
+    },
+    {
+        "description": "UKAEA sphere Hot mirror support clamp plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41638"
+    },
+    {
+        "description": "UKAEA sphere long pass filter support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41671"
+    },
+    {
+        "description": "UKAEA sphere long pass filter support clamp plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41672"
+    },
+    {
+        "description": "UKAEA sphere long pass filter support plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41673"
+    },
+    {
+        "description": "UKAEA sphere fan baffle plate pillars (pack of 25)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41674"
+    },
+    {
+        "description": "UKAEA sphere fibre clamp block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41675"
+    },
+    {
+        "description": "UKAEA sphere Iris armextension shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41676"
+    },
+    {
+        "description": "UKAEA sphere Long pass filter plate location pins",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41677"
+    }
+]

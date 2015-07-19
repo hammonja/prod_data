@@ -1,0 +1,242 @@
+[
+    {
+        "description": "R32-C184: Thermal switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07056"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10125"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Extension tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11290"
+    },
+    {
+        "description": "Extension shaft (free issue 35mm per of 99907)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11291"
+    },
+    {
+        "description": "8 way fibre for ULS300.  All branches equal length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12165"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "Fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18080"
+    },
+    {
+        "description": "Lamp 150W 24V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19056"
+    },
+    {
+        "description": "Dome plug 6.4mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19091"
+    },
+    {
+        "description": "Time Elapsed",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19119"
+    },
+    {
+        "description": "Elipsoidal reflector with AlMgF2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19124"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "M3 plastic thumb nut with brass thread insert",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19330"
+    },
+    {
+        "description": "Drilling of 43307 for fit to ULS300 frame (drawing 43782)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19536"
+    },
+    {
+        "description": "Cutting hole for time elapsed meter in 43311 (43783)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19537"
+    },
+    {
+        "description": "Reverse Jaw Plate for VSS & MVSS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41036"
+    },
+    {
+        "description": "Ceramic Lamp Holder Disc (Matl.  RS248-4725)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41261"
+    },
+    {
+        "description": "Manual Focus Elliptical Source Lamp holder Pins",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41262"
+    },
+    {
+        "description": "Manual Focus Elliptical Source Slit Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41263"
+    },
+    {
+        "description": "UKAEA sphere connector bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41614"
+    },
+    {
+        "description": "UKAEA sphere light source baffle plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41631"
+    },
+    {
+        "description": "UKAEA sphere fan baffle plate pillars (pack of 25)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "41674"
+    },
+    {
+        "description": "UKAEA sphere fibre clamp block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41675"
+    },
+    {
+        "description": "ULS300 top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42603"
+    },
+    {
+        "description": "ULS filter holder",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42605"
+    },
+    {
+        "description": "ULS filter slot cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42608"
+    },
+    {
+        "description": "IL sun QH mount 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43265"
+    },
+    {
+        "description": "IL sun QH mount 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43266"
+    },
+    {
+        "description": "IL sun face plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43306"
+    },
+    {
+        "description": "IL sun base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43307"
+    },
+    {
+        "description": "IL sun ellipse plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43308"
+    },
+    {
+        "description": "IL sun shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43310"
+    },
+    {
+        "description": "IL sun cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43311"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_VSS"
+    }
+]

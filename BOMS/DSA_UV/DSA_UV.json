@@ -1,0 +1,104 @@
+[
+    {
+        "description": "DSA body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12117"
+    },
+    {
+        "description": "DSA fibre end",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12118"
+    },
+    {
+        "description": "DSA spacer tube and baffle set painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12119F"
+    },
+    {
+        "description": "DSA spacer tube set (2 items)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12119P"
+    },
+    {
+        "description": "DSA baffle set (2 items)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12120"
+    },
+    {
+        "description": "DSA lens tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12121"
+    },
+    {
+        "description": "DSA shoulder ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12122"
+    },
+    {
+        "description": "DSA lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12123"
+    },
+    {
+        "description": "DSA lens ring clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12124"
+    },
+    {
+        "description": "Lens, pcx, f=115mm, dia 19mm +0, -0.1mm, silica, (min 280nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13575"
+    },
+    {
+        "description": "Window, dia 20mm +0, -0.1,  1mm thick, silica (min 280nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13576"
+    },
+    {
+        "description": "Acetal ring to hold dome on DSA",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13577"
+    },
+    {
+        "description": "Polypropylene Case 225 x 200 x 70 for CL2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25054"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30047"
+    },
+    {
+        "description": "Quartz dome 1 inch diameter (Polished all over)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41707"
+    },
+    {
+        "description": "Clamp for DWD DSA",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42684"
+    },
+    {
+        "description": "O ring for DSA (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99030"
+    }
+]

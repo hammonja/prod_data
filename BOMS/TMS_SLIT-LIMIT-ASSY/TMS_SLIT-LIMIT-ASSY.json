@@ -1,0 +1,32 @@
+[
+    {
+        "description": "TM300 worm yoke.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30133"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "TMs300 slit limit switch/yoke nut",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30261"
+    },
+    {
+        "description": "TMs300 slit limit switch/yoke shaft.  Not from studding.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30262"
+    },
+    {
+        "description": "Limit Switch Yoke Bearing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41024"
+    }
+]

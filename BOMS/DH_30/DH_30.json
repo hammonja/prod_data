@@ -1,0 +1,62 @@
+[
+    {
+        "description": "75K, MRS25",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "02120"
+    },
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "DH1/DH2 Shell (New box)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09013"
+    },
+    {
+        "description": "DH1/DH2 Flange (New box)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09021"
+    },
+    {
+        "description": "DH_00 connector box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09022"
+    },
+    {
+        "description": "Magnetic shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09067"
+    },
+    {
+        "description": "Multi-alkali side window pmt (R928)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09068"
+    },
+    {
+        "description": "Connector B11A socket 11-PIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10016"
+    },
+    {
+        "description": "Connector BNC socket (Radial R141404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10065"
+    },
+    {
+        "description": "HV BNC socket (Radial)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10066"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Monitor detector (e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09115"
+    },
+    {
+        "description": "FL250 porous PTFE moulded rod OD 143mm, length 102mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19520"
+    },
+    {
+        "description": "E2V light source baffle plug (fi 10mm of 99026)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27104"
+    },
+    {
+        "description": "E2V sphere Exit Cladding",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27106"
+    },
+    {
+        "description": "E2V (Marconi) light source 4\" sphere tie bars (Memo)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27113"
+    },
+    {
+        "description": "E2V sphere detector fixing ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27198"
+    },
+    {
+        "description": "E2V Sphere Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27434"
+    },
+    {
+        "description": "E2V Light Source Periscope Sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42238"
+    },
+    {
+        "description": "E2V 100mm sphere baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46221_P1"
+    }
+]

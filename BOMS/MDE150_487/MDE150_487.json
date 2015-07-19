@@ -1,0 +1,284 @@
+[
+    {
+        "description": "220R MRS25",
+        "location": "R22, R45",
+        "quantity": "2.00",
+        "stockcode": "02015"
+    },
+    {
+        "description": "330R MRS25",
+        "location": "R12,13,15,16.",
+        "quantity": "4.00",
+        "stockcode": "02016"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R34,R6",
+        "quantity": "2.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R9,10,11,14,40 41,42,43,44",
+        "quantity": "9.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "100K MRS25",
+        "location": "R31",
+        "quantity": "1.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "100m, metal film, 1%",
+        "location": "R25",
+        "quantity": "1.00",
+        "stockcode": "02058"
+    },
+    {
+        "description": "2K, 0.1%",
+        "location": "R39",
+        "quantity": "1.00",
+        "stockcode": "02064"
+    },
+    {
+        "description": "10K .25W MF0.1%",
+        "location": "R27",
+        "quantity": "1.00",
+        "stockcode": "02065"
+    },
+    {
+        "description": "18K, 0.25W, MF, 0.1%",
+        "location": "R38",
+        "quantity": "1.00",
+        "stockcode": "02069"
+    },
+    {
+        "description": "22K, MRS25",
+        "location": "R19,R36",
+        "quantity": "2.00",
+        "stockcode": "02075"
+    },
+    {
+        "description": "10M MRS25",
+        "location": "R24,32",
+        "quantity": "2.00",
+        "stockcode": "02076"
+    },
+    {
+        "description": "511K MRS25",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "02091"
+    },
+    {
+        "description": "91K, MRS25",
+        "location": "R18",
+        "quantity": "1.00",
+        "stockcode": "02103"
+    },
+    {
+        "description": "910K,MRS25",
+        "location": "R30",
+        "quantity": "1.00",
+        "stockcode": "02104"
+    },
+    {
+        "description": "15K, MRS25",
+        "location": "R17",
+        "quantity": "1.00",
+        "stockcode": "02105"
+    },
+    {
+        "description": "1M1 MRS25",
+        "location": "R26",
+        "quantity": "1.00",
+        "stockcode": "02109"
+    },
+    {
+        "description": "5K6, MRS25",
+        "location": "R28",
+        "quantity": "1.00",
+        "stockcode": "02113"
+    },
+    {
+        "description": "1g ohm resistor",
+        "location": "R23",
+        "quantity": "1.00",
+        "stockcode": "02244"
+    },
+    {
+        "description": "84K5 MRS25",
+        "location": "R29",
+        "quantity": "1.00",
+        "stockcode": "02245"
+    },
+    {
+        "description": "Relay  Hamlin HE3621A0510",
+        "location": "RL2,  RL3",
+        "quantity": "2.00",
+        "stockcode": "07042"
+    },
+    {
+        "description": "Relay",
+        "location": "RL1",
+        "quantity": "1.00",
+        "stockcode": "07044"
+    },
+    {
+        "description": "267 relay",
+        "location": "RL4",
+        "quantity": "1.00",
+        "stockcode": "07070"
+    },
+    {
+        "description": "Capacitor 2n2 Polypropylene FKP2",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08043"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "CD , C10",
+        "quantity": "8.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 22pF ceramic plate",
+        "location": "C6 , C7",
+        "quantity": "2.00",
+        "stockcode": "08047"
+    },
+    {
+        "description": "Capacitor 10nF Polyester 10% 63/100V",
+        "location": "C11",
+        "quantity": "1.00",
+        "stockcode": "08052"
+    },
+    {
+        "description": "Capacitor 1uF 50V",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08058"
+    },
+    {
+        "description": "Capacitor 1nF 100v boxed polyester",
+        "location": "C12",
+        "quantity": "1.00",
+        "stockcode": "08059"
+    },
+    {
+        "description": "Capacitor 100pF",
+        "location": "C9,13",
+        "quantity": "2.00",
+        "stockcode": "08062"
+    },
+    {
+        "description": "Capacitor 5.6pF, ceramic plate",
+        "location": "C8",
+        "quantity": "1.00",
+        "stockcode": "08084"
+    },
+    {
+        "description": "20MHz crystal",
+        "location": "XTAL",
+        "quantity": "1.00",
+        "stockcode": "08117"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "TC9,11",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "28-Way x 0.3\" DIL Socket",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "10053"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "IC3,4,5,6,8",
+        "quantity": "5.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "connector 40-Way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10057"
+    },
+    {
+        "description": "16 way boxed header",
+        "location": "conn1",
+        "quantity": "1.00",
+        "stockcode": "10101"
+    },
+    {
+        "description": "Tyco 3 way header with catch",
+        "location": "I2C1 , I2C2",
+        "quantity": "2.00",
+        "stockcode": "10300"
+    },
+    {
+        "description": "15004 487 PCB issue 4",
+        "location": "ISSUE 4 board ",
+        "quantity": "1.00",
+        "stockcode": "15004"
+    },
+    {
+        "description": "AD549KH",
+        "location": "IC10",
+        "quantity": "1.00",
+        "stockcode": "20001"
+    },
+    {
+        "description": "PIC16F876A-I/SP",
+        "location": "IC1 (do not fit, to be programmed)",
+        "quantity": "1.00",
+        "stockcode": "20002"
+    },
+    {
+        "description": "TLE2061AC",
+        "location": "IC11",
+        "quantity": "1.00",
+        "stockcode": "20003"
+    },
+    {
+        "description": "TLC372CP",
+        "location": "IC9",
+        "quantity": "1.00",
+        "stockcode": "20004"
+    },
+    {
+        "description": "PIC16F877A-I/P",
+        "location": "IC2 (do not fit, to be programmed)",
+        "quantity": "1.00",
+        "stockcode": "20011"
+    },
+    {
+        "description": "VFC in 228A (AD652AQ) (alternative FEC  223-1177)",
+        "location": "IC8",
+        "quantity": "1.00",
+        "stockcode": "20025"
+    },
+    {
+        "description": "Texas 8 bit binary counter  SN74LS590N",
+        "location": "IC3,IC4",
+        "quantity": "2.00",
+        "stockcode": "21002"
+    },
+    {
+        "description": "DG409ACJ",
+        "location": "IC5",
+        "quantity": "1.00",
+        "stockcode": "21033"
+    },
+    {
+        "description": "IC DG413DJ",
+        "location": "IC6",
+        "quantity": "1.00",
+        "stockcode": "21045"
+    }
+]

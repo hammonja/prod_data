@@ -1,0 +1,20 @@
+[
+    {
+        "description": "QH Spectral Irradiance Standard (Enclosed)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_CL6"
+    },
+    {
+        "description": "CL6 mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17287"
+    },
+    {
+        "description": "Shaft 5mm DIA x 12mm S/S",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "17295"
+    }
+]

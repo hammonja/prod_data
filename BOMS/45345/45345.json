@@ -1,0 +1,38 @@
+[
+    {
+        "description": "IS2000 ES27 Screw Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45341"
+    },
+    {
+        "description": "IS2000 ES27 Central Insulator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45342"
+    },
+    {
+        "description": "IS2000 E27 Central Core",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45343"
+    },
+    {
+        "description": "IS2000 ES27 Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45344"
+    },
+    {
+        "description": "IS2000 ES27 Top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45349"
+    },
+    {
+        "description": "M3 Solder Tag (box of 100)",
+        "location": "",
+        "quantity": "0.02",
+        "stockcode": "99750"
+    }
+]

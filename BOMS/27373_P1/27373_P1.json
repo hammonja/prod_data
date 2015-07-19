@@ -1,0 +1,14 @@
+[
+    {
+        "description": "CL7 BODY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27373"
+    },
+    {
+        "description": "Painting Operation to Produce 27373_P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19796"
+    }
+]

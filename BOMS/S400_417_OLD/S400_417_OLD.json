@@ -1,0 +1,170 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "On rotary switch",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "Mod to dpm",
+        "quantity": "1.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "Mod to dpm",
+        "quantity": "1.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "Small Cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07014"
+    },
+    {
+        "description": "Rotary switch 12 way 1 pole",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07039"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Small black knob 6mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07041"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "Housing 10 Way 0.1\" Pitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10175"
+    },
+    {
+        "description": "Crimps for Molex 0.1\" pitch",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "10176"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "SIL socket 20 way",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10274"
+    },
+    {
+        "description": "M3 x 10 nylon spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11047"
+    },
+    {
+        "description": "417 Bin Front Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16002"
+    },
+    {
+        "description": "605 Rear panel bracket for bin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "16008"
+    },
+    {
+        "description": "217 Rear panel for Schroff bin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16063"
+    },
+    {
+        "description": "417 Bin USB PCB support plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16123"
+    },
+    {
+        "description": "DPM for 217 (Lascar DPM 2000S)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18042"
+    },
+    {
+        "description": "Transformer for all 217 bins.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18066"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "Schroff bin full width.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22015"
+    },
+    {
+        "description": "Mod of end plate for 417 bin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23054_2"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Loaded pcb for 217 / 217T bin. All power requirements",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_217_CARD"
+    }
+]

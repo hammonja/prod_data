@@ -1,0 +1,344 @@
+[
+    {
+        "description": "Thermal fuse",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01013"
+    },
+    {
+        "description": "100K MRS25",
+        "location": " ",
+        "quantity": "11.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "200K, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02048"
+    },
+    {
+        "description": "10M MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02076"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 1nF, 300V, ceramic disc",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08038"
+    },
+    {
+        "description": "Capacitor 10nF, 300V AC, ceramic",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08039"
+    },
+    {
+        "description": "DH3 Spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "09019"
+    },
+    {
+        "description": "DH3(BI) Tube holders",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09020"
+    },
+    {
+        "description": "Temperature Sens AD590KH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09056"
+    },
+    {
+        "description": "Connector BNC socket (Radial R141404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10065"
+    },
+    {
+        "description": "HV BNC socket (Radial)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10066"
+    },
+    {
+        "description": "Crimp",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10183"
+    },
+    {
+        "description": "socket black 2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10188"
+    },
+    {
+        "description": "25 way D socket + 3 x 20A connections",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10211"
+    },
+    {
+        "description": "Socket straight Power 'D' 20A",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10213"
+    },
+    {
+        "description": "Plug balck 2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10215"
+    },
+    {
+        "description": "M300 Small 'O' ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11054"
+    },
+    {
+        "description": "Spacer NP 8.0/25/C/M4",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15028"
+    },
+    {
+        "description": "DH3/DH3(Bi) mu-metal shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17093"
+    },
+    {
+        "description": "DH-50-Te fan plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17962"
+    },
+    {
+        "description": "DH-50-Te top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17963"
+    },
+    {
+        "description": "DH-50-Te Fan spacer ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17964"
+    },
+    {
+        "description": "O ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17966"
+    },
+    {
+        "description": "DH-50-Te rear tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17967"
+    },
+    {
+        "description": "DH-50-Te front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17969"
+    },
+    {
+        "description": "DH-50-Te cold tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17970"
+    },
+    {
+        "description": "DH-50-Te front tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17971"
+    },
+    {
+        "description": "DH-50-Te cold block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17972"
+    },
+    {
+        "description": "DH-50-Te side cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17973"
+    },
+    {
+        "description": "DH-50-Te bottom cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17974"
+    },
+    {
+        "description": "DH-50 connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17975F"
+    },
+    {
+        "description": "DH-50 connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17975P"
+    },
+    {
+        "description": "DH-50-Te front insulation piece",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17976"
+    },
+    {
+        "description": "DH-50-Te rear insulation piece",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17977"
+    },
+    {
+        "description": "DH-50-Te rear plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17978"
+    },
+    {
+        "description": "DH-50-Te insulation packing piece",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17979"
+    },
+    {
+        "description": "DH-50-Te insulation block",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "17980"
+    },
+    {
+        "description": "DH-50-Te cold block insulation",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17981"
+    },
+    {
+        "description": "DH-50-Te temperature fuse clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17997"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "Fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18080"
+    },
+    {
+        "description": "Compression Spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19003"
+    },
+    {
+        "description": "dowel pin parallel mild steel (bag of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19006"
+    },
+    {
+        "description": "Female Screw Lock Assembly 13mm Long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19044"
+    },
+    {
+        "description": "DH-50 Peltier element (2 SC 085-065-127-70L-RTV)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19237"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "Heat sink for DH50-Te Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19332_M1"
+    },
+    {
+        "description": "Quick Change Fixed Mounting Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40004"
+    },
+    {
+        "description": "Dh-00-Te Mounting plate removable side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40005"
+    },
+    {
+        "description": "Quick Change Mounting Plate Wedge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40006"
+    },
+    {
+        "description": "UV silica/ quartz window dia. 25.8/25.85mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40009"
+    },
+    {
+        "description": "QC Adapter Fixed Plate Sealing 'O' Ring (Bag of 50)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40042"
+    },
+    {
+        "description": "\u00d812.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46761"
+    },
+    {
+        "description": "\u00d812.7mm Post Holder, Hex-Locking Thbscrew, L=50 mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46781"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB17"
+    },
+    {
+        "description": "HV-BNC to HV-BNC 1200mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB3"
+    }
+]

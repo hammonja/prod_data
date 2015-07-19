@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Lens, pcx, 25dia, 100fl, silica",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13025"
+    },
+    {
+        "description": "E2V (Marconi) light source 4\" sphere lens rings",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27102"
+    },
+    {
+        "description": "Lens barrel to couple FOP-UV into sphere of GE phosphor sys",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42831"
+    }
+]

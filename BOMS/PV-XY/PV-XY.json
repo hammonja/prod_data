@@ -1,0 +1,20 @@
+[
+    {
+        "description": "PV XY Stage Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46112"
+    },
+    {
+        "description": "PMC3B for IMAC card with USB for PV-XY stage control",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_3B_IMAC_USB_PV"
+    },
+    {
+        "description": "PV-XY Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV-XY-COMMON-PARTS"
+    }
+]

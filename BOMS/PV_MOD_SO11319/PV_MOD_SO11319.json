@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Modified PVE300 Base Plate for PV-XY-MAN options",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43246_M1"
+    },
+    {
+        "description": "Scale for PSL profiler(2 scales, one for each side)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46117"
+    },
+    {
+        "description": "PV XY Ruler Base",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46466"
+    },
+    {
+        "description": "PV Manual XY Rule L = 270mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46467"
+    },
+    {
+        "description": "PV Manual XY Ruke L = 350mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46468"
+    },
+    {
+        "description": "PV Manual XY Chuck Pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46469"
+    },
+    {
+        "description": "Modification of 43248 for SO 11319",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46470"
+    }
+]

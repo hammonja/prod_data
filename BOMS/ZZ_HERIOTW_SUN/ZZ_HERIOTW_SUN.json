@@ -1,0 +1,188 @@
+[
+    {
+        "description": "R32-C184: Thermal switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07056"
+    },
+    {
+        "description": "100W qh Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09101"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10125"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "M300 Unislide.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11271"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "Elipsoidal reflector with AlMgF2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19124"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "Heat sink",
+        "location": "DO NOT KIT",
+        "quantity": "1.00",
+        "stockcode": "40020"
+    },
+    {
+        "description": "Ceramic Lamp Holder Disc (Matl.  RS248-4725)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41261"
+    },
+    {
+        "description": "Manual Focus Elliptical Source Lamp holder Pins",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41262"
+    },
+    {
+        "description": "manual focus elliptical light source ellipse holder plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41333"
+    },
+    {
+        "description": "manual focus elliptical light source lamp holder bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41334"
+    },
+    {
+        "description": "manual focus elliptical light source unislide mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41335"
+    },
+    {
+        "description": "UKAEA sphere connector bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41614"
+    },
+    {
+        "description": "UKAEA sphere light source baffle plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41631"
+    },
+    {
+        "description": "UKAEA sphere fan baffle plate pillars (pack of 25)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41674"
+    },
+    {
+        "description": "UKAEA sphere fibre clamp block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41675"
+    },
+    {
+        "description": "ULS300 (Uniform Luminance Source) Light Source Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41873"
+    },
+    {
+        "description": "ULS machined heat sink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42602"
+    },
+    {
+        "description": "Fibre block for ZZ_HERIOTW_SUN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42678"
+    },
+    {
+        "description": "Front plate for ZZ_HERIOTW_SUN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42688"
+    },
+    {
+        "description": "Base plate for ZZ_HERIOTW_sun",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42689"
+    },
+    {
+        "description": "Filter hole cover for ZZ_HERIOTW_SUN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42700"
+    },
+    {
+        "description": "6 branch fibre for ZZ_HERIOTW_SUN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42702"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_VSS"
+    }
+]

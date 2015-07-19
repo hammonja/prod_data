@@ -1,0 +1,110 @@
+[
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Female Screw Lock Assembly 13mm Long",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19044"
+    },
+    {
+        "description": "E2V shutter (12V version)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19248"
+    },
+    {
+        "description": "E2V exit port cover & tube support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27128"
+    },
+    {
+        "description": "E2V shutter mount plate 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27129"
+    },
+    {
+        "description": "E2V shutter mount plate 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27190"
+    },
+    {
+        "description": "E2V CCD211 Shutter Adapter Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41861"
+    },
+    {
+        "description": "THORLABS 1.035-40 Retainin Ring",
+        "location": "",
+        "quantity": "20.00",
+        "stockcode": "44247"
+    },
+    {
+        "description": "1\" Tube Washer",
+        "location": "",
+        "quantity": "20.00",
+        "stockcode": "44254"
+    },
+    {
+        "description": "E2V TAOSII CONNECTOR BLOCK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46364"
+    },
+    {
+        "description": "E2V TAOSII BASE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46375"
+    },
+    {
+        "description": "TAOSII Connector Panel Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46471"
+    },
+    {
+        "description": "E2V-TAOSII-75MM-SPHERE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-TAOSII-75MM-SPHERE"
+    },
+    {
+        "description": "E2V-TAOSII-DOUBLE-FW",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-TAOSII-DOUBLE-FW"
+    },
+    {
+        "description": "IL1 Source For E2V-TAOSII light source",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-TAOSII-IL1"
+    },
+    {
+        "description": "E2V-TAOSII-SINGLE-ND-FWHEEL ( excludes ND wheel )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-TAOSII-SINGLE-ND-FW"
+    }
+]

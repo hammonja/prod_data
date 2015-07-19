@@ -1,0 +1,254 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "dc-dc, 10-30V in,  5V @ 600mA out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05024"
+    },
+    {
+        "description": "NMOS photodiode array",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09132"
+    },
+    {
+        "description": "11-0106205-10  DZA-S3901-4  1M/D04",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09133"
+    },
+    {
+        "description": "11-0106107-51 FEE-1M/NMOS-D1 EMB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09134"
+    },
+    {
+        "description": "11-0106014-00 PD-USB01V1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09135"
+    },
+    {
+        "description": "11-1501004-14 CAB-NMOS 1M Set",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09136"
+    },
+    {
+        "description": "11-1501009-00 CAB-USB PS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09137"
+    },
+    {
+        "description": "11-1501007-00 CAB-USB 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09138"
+    },
+    {
+        "description": "11-2010022-00 SDACQ32MP Programmer interface",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09139"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Socket chassis 4 way",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10234"
+    },
+    {
+        "description": "4 way cable connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10246"
+    },
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "M3 Ball ended grub screw (99254 free issued)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11260"
+    },
+    {
+        "description": "Spacer nylon Hex M3X11",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15011"
+    },
+    {
+        "description": "Coupler holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17001"
+    },
+    {
+        "description": "AstraNet FPGA board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42532"
+    },
+    {
+        "description": "SU512LDB-1.7T1-0500   512 element InGaAs array",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42533"
+    },
+    {
+        "description": "Carrier pcb",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42534"
+    },
+    {
+        "description": "Harness from FPGA board to carrier pcb",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42535"
+    },
+    {
+        "description": "InGaAs array mount block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42628"
+    },
+    {
+        "description": "InGaAs heat sink block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42629"
+    },
+    {
+        "description": "Silicon pda enclosure front",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42630"
+    },
+    {
+        "description": "InGaAs camera cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42648"
+    },
+    {
+        "description": "Modification of 30123 for DWD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42649"
+    },
+    {
+        "description": "Double shaft motor (35mm) (memo)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42651"
+    },
+    {
+        "description": "Camera mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42652"
+    },
+    {
+        "description": "Paddle for motorised",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42653"
+    },
+    {
+        "description": "TEC5 camera cross plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42654"
+    },
+    {
+        "description": "TEC5 camera internal block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42655"
+    },
+    {
+        "description": "TEC5 camera slide bar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42656"
+    },
+    {
+        "description": "Plunger bar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42657"
+    },
+    {
+        "description": "TEC5 camera cross bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42658"
+    },
+    {
+        "description": "TEC5 camera adjuster bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42659"
+    },
+    {
+        "description": "TEC5 camera back plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42660"
+    },
+    {
+        "description": "TEC5 camera cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42661"
+    },
+    {
+        "description": "TEC5 camera adjust support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42662"
+    },
+    {
+        "description": "Diverter mirror for DWD system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42685"
+    },
+    {
+        "description": "InGaAs camera spacer (DWD)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42725"
+    }
+]

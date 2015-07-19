@@ -1,0 +1,224 @@
+[
+    {
+        "description": "1K, MRS25",
+        "location": "R9",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "R7",
+        "quantity": "1.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "100K MRS25",
+        "location": "R8",
+        "quantity": "1.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "R6",
+        "quantity": "1.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "470R, MRS25",
+        "location": "R1, R2, R3",
+        "quantity": "3.00",
+        "stockcode": "02079"
+    },
+    {
+        "description": "100K Resnet x 7 SIL",
+        "location": "R4, R5",
+        "quantity": "2.00",
+        "stockcode": "02107"
+    },
+    {
+        "description": "100R POT",
+        "location": "R10",
+        "quantity": "1.00",
+        "stockcode": "03024"
+    },
+    {
+        "description": "200R POT",
+        "location": "R11",
+        "quantity": "1.00",
+        "stockcode": "03025"
+    },
+    {
+        "description": "BZX79C3V9",
+        "location": "D23",
+        "quantity": "1.00",
+        "stockcode": "04029"
+    },
+    {
+        "description": "LED Red HLMP 1301",
+        "location": "D15, D16",
+        "quantity": "2.00",
+        "stockcode": "04030"
+    },
+    {
+        "description": "LED Yellow HLMP 1401",
+        "location": "D1-D14, D17-D22",
+        "quantity": "20.00",
+        "stockcode": "04031"
+    },
+    {
+        "description": "Cap unlined black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07028"
+    },
+    {
+        "description": "Switch, SPNO, Square, Black (D6C90F1LFS)",
+        "location": "SW1-SW8",
+        "quantity": "8.00",
+        "stockcode": "07029"
+    },
+    {
+        "description": "Rotary pulse generator",
+        "location": "OE1",
+        "quantity": "1.00",
+        "stockcode": "07030"
+    },
+    {
+        "description": "Knob small without line, 1/4\"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07036"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, C2, C3, C4",
+        "quantity": "4.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "14 Way DIL Socket Low Profile 0.3\"",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "10054"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "IC1, IC3",
+        "quantity": "2.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "Connector 34 Way Transistion",
+        "location": "PL1",
+        "quantity": "1.00",
+        "stockcode": "10088"
+    },
+    {
+        "description": "Connector 34 way bump polarised",
+        "location": "PL1 other end",
+        "quantity": "1.00",
+        "stockcode": "10104"
+    },
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "pcb  \" 225FP Iss2 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15044"
+    },
+    {
+        "description": "PCB LED pillars",
+        "location": "All leds",
+        "quantity": "22.00",
+        "stockcode": "15048"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x10",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "15051"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x15",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15052"
+    },
+    {
+        "description": "PCB 225 spacer M3x20",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15053"
+    },
+    {
+        "description": "485 Front Panel (Unpainted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16017"
+    },
+    {
+        "description": "225 mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16059"
+    },
+    {
+        "description": "225 Screen plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16060"
+    },
+    {
+        "description": "Lascar DPM 125",
+        "location": "DPM1",
+        "quantity": "1.00",
+        "stockcode": "18019"
+    },
+    {
+        "description": "IC 74HC132",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "20047"
+    },
+    {
+        "description": "IC M74HC138B1N",
+        "location": "IC1, IC3",
+        "quantity": "2.00",
+        "stockcode": "20048"
+    },
+    {
+        "description": "Reference channel card for 225",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_225_CARD_REF"
+    },
+    {
+        "description": "Signal card for 225",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_225_CARD_SIG"
+    },
+    {
+        "description": "USB card for 485",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_485_CARD_USB"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "Stepping motor for FW in MDC150  (8425884 used for e2v)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18132"
+    },
+    {
+        "description": "Large Gear for ND Wheel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19486_M2"
+    },
+    {
+        "description": "Machined Timing Pulley",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30045_M2"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "TMs300 Slit Bearing",
+        "location": "Free issued to metal worker",
+        "quantity": "4.00",
+        "stockcode": "30253"
+    },
+    {
+        "description": "Belt for TEL309",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43392"
+    },
+    {
+        "description": "Continuously variable ND filter ND 0-2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44234"
+    },
+    {
+        "description": "9990 Filter Main Body  ( Free Issue 2 x 30253 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44241"
+    },
+    {
+        "description": "Circular  ND Filter, UV SILCA 100mm 0-1OD NEWPORT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44243"
+    },
+    {
+        "description": "9990 Filter Top Plate ( Free Issue 2 x 30253 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44244"
+    },
+    {
+        "description": "9990 FILTER Holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44246"
+    },
+    {
+        "description": "THORLABS 1.035-40 Retainin Ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44247"
+    },
+    {
+        "description": "9990 ND Filter Shaft ( FREE ISSUE 99903 )",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44248"
+    },
+    {
+        "description": "9990 FIlter Spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44249"
+    },
+    {
+        "description": "8mm to 6mm reducer for 9990 Filter",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44250"
+    },
+    {
+        "description": "9990 Filter Spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44251"
+    },
+    {
+        "description": "9990 Filter Spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44252"
+    },
+    {
+        "description": "9990 ND Filter Spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44253"
+    },
+    {
+        "description": "Dual ND  FWHEEL LIMIT BUMP",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44257"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "description": "IDR300 Spectroradiometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR300_0001"
+    },
+    {
+        "description": "End window uncooled housing with S20 pmt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_3_S20"
+    },
+    {
+        "description": "Standard DH-Si.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_SI"
+    },
+    {
+        "description": "3mm InGaAs with optics",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_IGA_3_LENS"
+    },
+    {
+        "description": "End-on diffuser (200nm - 1100nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D7"
+    },
+    {
+        "description": "Mount - D6 & D7 to CL6",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "DIFF_D6_DAR"
+    },
+    {
+        "description": "2m long, luv105, 4mm dia to 10mm x 1.25mm (IDR snout)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12189"
+    },
+    {
+        "description": "S009 Telescope.  Inc. slit mount for IDR fibres.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TEL309"
+    },
+    {
+        "description": "QH Spectral Irradiance Standard (Horizontal, Enclosed)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_CL6-H"
+    },
+    {
+        "description": "250W Constant Current Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_605"
+    },
+    {
+        "description": "Deuterium based irradiance standard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_CL7"
+    },
+    {
+        "description": "Deuterium Lamp Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_706"
+    },
+    {
+        "description": "Luminance standard, 300mm sphere.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_SRS12"
+    },
+    {
+        "description": "DIN class A photopic detector, lux cal.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH400_VL"
+    },
+    {
+        "description": "Profiling camera for PSL system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSL_PROFILER"
+    },
+    {
+        "description": "Cooled lead sulphide",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_PBS_TE"
+    },
+    {
+        "description": "D8 with bi-directional slit mount & FOP-UV adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D8_SLIT-FIBRE"
+    },
+    {
+        "description": "Coupling between D8 and CL6",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D8_DAR"
+    },
+    {
+        "description": "Full width 400 series bin.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_417"
+    },
+    {
+        "description": "400 series ac current pre-amp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_477"
+    },
+    {
+        "description": "Dual Channel DSP Lock-In Amplifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_496"
+    },
+    {
+        "description": "Chopper control module, standard and EI",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_M"
+    },
+    {
+        "description": "Standard chopping head",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_H"
+    },
+    {
+        "description": "Blade set for 218 chopper (2, 5, 10 & 30 slot)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_B"
+    },
+    {
+        "description": "Modular version of CPS1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CPS_1_M"
+    },
+    {
+        "description": "Fibre slit relay with CaF2 lenses",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "RELAY_CAF2"
+    },
+    {
+        "description": "USB cable 2m long",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "CAB-USB"
+    },
+    {
+        "description": "Diffuser Body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27016"
+    }
+]

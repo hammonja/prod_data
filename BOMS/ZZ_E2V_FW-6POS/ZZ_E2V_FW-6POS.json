@@ -1,0 +1,110 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "90 degree 9 way connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10257"
+    },
+    {
+        "description": "252 Drive Cog (Berg GG33A28-32)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11020"
+    },
+    {
+        "description": "252 6-Position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11071_P1"
+    },
+    {
+        "description": "252 drive belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11145"
+    },
+    {
+        "description": "Shaft 0.25 x 1.25\" (Material 99904, 1 length per 20)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11174"
+    },
+    {
+        "description": "M3 x 8mm Spacer Pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15083"
+    },
+    {
+        "description": "252 bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30023"
+    },
+    {
+        "description": "Bore reducer, 5mm x 1/4 inch x 6.6mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30052"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "New 252 Opto block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30164"
+    },
+    {
+        "description": "Enclosed 252 Motor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41943"
+    },
+    {
+        "description": "Enclosed 252 top/bottom plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41944"
+    },
+    {
+        "description": "Enclosed 252 side plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41945"
+    },
+    {
+        "description": "Enclosed 252 spacer ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41946"
+    },
+    {
+        "description": "Enclosed 252 end plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41947"
+    }
+]

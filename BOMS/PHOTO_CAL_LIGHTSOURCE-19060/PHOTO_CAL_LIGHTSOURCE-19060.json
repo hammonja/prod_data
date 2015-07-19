@@ -1,0 +1,284 @@
+[
+    {
+        "description": "1A 1000V Rectifier silicon",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04006"
+    },
+    {
+        "description": "3.3V, 800mA, linear regulator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05047"
+    },
+    {
+        "description": "Miniature toggle switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07004"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Green laser pointer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09153"
+    },
+    {
+        "description": "PRO POWER - PV2 GROMMET PK 100 - GROMMET, 8MM, PK100",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10030"
+    },
+    {
+        "description": "12 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10159"
+    },
+    {
+        "description": "12 Way Chassis Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10161"
+    },
+    {
+        "description": "Gatan spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11280"
+    },
+    {
+        "description": "Comar 100-PQ-50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12207"
+    },
+    {
+        "description": "Lamp holder",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "13035"
+    },
+    {
+        "description": "ND filter, 50mm sq, ND1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13460"
+    },
+    {
+        "description": "ND filter, 50mm sq, ND2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13550"
+    },
+    {
+        "description": "ND filter, 50mm sq, ND3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13551"
+    },
+    {
+        "description": "Hoya 52mm HMC 81B screw in filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13589"
+    },
+    {
+        "description": "Hoya 52mm HMC 81C screw in filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13590"
+    },
+    {
+        "description": "ND 0.2 filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13594"
+    },
+    {
+        "description": "ND 0.3 filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13595"
+    },
+    {
+        "description": "ND 0.03 50mm Filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13615"
+    },
+    {
+        "description": "ND 0.8 50mm Filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13616"
+    },
+    {
+        "description": "ND 1.5 50mm Filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13617"
+    },
+    {
+        "description": "Bentham Logo plate (silk screened)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16098"
+    },
+    {
+        "description": "250W Grit Blasted Quartz-Halogen Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17901"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "E2V filter holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18083"
+    },
+    {
+        "description": "plastic ball knob (16mm dia. M4)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19271"
+    },
+    {
+        "description": "Photometer Test Unit Exterior Lamp Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41100"
+    },
+    {
+        "description": "Photometer Test Unit Lamp Body Extrusion(free issue 41101P)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41101F"
+    },
+    {
+        "description": "Photometer Test Unit Lamp Body Extrusion",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41101P"
+    },
+    {
+        "description": "Photometer Test Unit Lamp Support",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41102"
+    },
+    {
+        "description": "Photometer Test Unit Filter Receptacle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41104"
+    },
+    {
+        "description": "Photometer Test Unit Filter Holder",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "41105"
+    },
+    {
+        "description": "Photometer Test Unit Baffle Legs",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "41106"
+    },
+    {
+        "description": "Photometer Test Unit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41107"
+    },
+    {
+        "description": "Photometer Test Unit Lamp Holder Support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41111"
+    },
+    {
+        "description": "Photometer Test Unit Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41112"
+    },
+    {
+        "description": "Photometer Test Unit Filter Receptacle Pillars",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "41113"
+    },
+    {
+        "description": "Photometer Test Unit Lamp Back Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41114"
+    },
+    {
+        "description": "Photometer Test Unit Height Gauge Shouldered Screw",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41115"
+    },
+    {
+        "description": "Magnet for EI sphere (box of 10)",
+        "location": "",
+        "quantity": "0.20",
+        "stockcode": "43663"
+    },
+    {
+        "description": "RS illuminance lens holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45166"
+    },
+    {
+        "description": "RS lamp baffle support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45170"
+    },
+    {
+        "description": "RS lamp baffle support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45171"
+    },
+    {
+        "description": "RS alignment paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45172"
+    },
+    {
+        "description": "RS lens retainer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45173"
+    }
+]

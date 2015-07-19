@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Fuse 315mA slow blow 20mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01003"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "7805 + 5V 1A TO220",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05001"
+    },
+    {
+        "description": "WO4 bridge rectifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05011"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 2,200uF 35V DC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08109"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Uni-Bin front panel",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "16113"
+    },
+    {
+        "description": "Uni-Bin rear panel",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "16114"
+    },
+    {
+        "description": "Transformer 18VA, 9Vac, 9Vac",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18074"
+    },
+    {
+        "description": "Display for 215F Lascar DPM1AS-BL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18075"
+    },
+    {
+        "description": "Case for 215F",
+        "location": " Discard front and rear panels",
+        "quantity": "1.00",
+        "stockcode": "19216"
+    }
+]

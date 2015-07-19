@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Thin cable BNC to BNC cable, 120mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB12"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 150mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB13"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 180mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB14"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB17"
+    }
+]

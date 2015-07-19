@@ -1,0 +1,14 @@
+[
+    {
+        "description": "DMC150 Casting Modified For Sam At Exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11146_M1"
+    },
+    {
+        "description": "Painting Operation to Produce CASTING_DMC150_SAM-EXIT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19806"
+    }
+]

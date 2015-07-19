@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Detector for DH400_R02",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09159"
+    },
+    {
+        "description": "Inverting of Gigahertz Detector for DH400 Detectors",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19546"
+    },
+    {
+        "description": "Calibration Check for DH400 Detectors",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19547"
+    }
+]

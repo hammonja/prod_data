@@ -1,0 +1,188 @@
+[
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "7 way Amphenol plug",
+        "location": "Discard 7 way connector",
+        "quantity": "1.00",
+        "stockcode": "10035"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "M300 microswitch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11001"
+    },
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "Fixed slit lid MkII",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11085"
+    },
+    {
+        "description": "M300 Unislide with 1mm pitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11325"
+    },
+    {
+        "description": "Microswitch plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11349"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "218B 5-slot blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17015"
+    },
+    {
+        "description": "Motor with end cap and 150mm long leads",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18007"
+    },
+    {
+        "description": "studs M4 x 15 (Chemical Black Plating)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19087"
+    },
+    {
+        "description": "5mm to 1/8\" bore reducer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19306"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "UMS motor plate spacers",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41297"
+    },
+    {
+        "description": "UMS motor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41298"
+    },
+    {
+        "description": "Lasing system fibre unit unislide pillars",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41576"
+    },
+    {
+        "description": "Lasing system fibre unit unislide bracket spacer block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41577"
+    },
+    {
+        "description": "Lasing system fibre unit chopper mount bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41579"
+    },
+    {
+        "description": "Chopper slit back plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43192"
+    },
+    {
+        "description": "Chopper slit stage plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43193"
+    },
+    {
+        "description": "Chopper slit main plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43218"
+    },
+    {
+        "description": "Chopper slit mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43219"
+    },
+    {
+        "description": "Chopper slit cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43220"
+    },
+    {
+        "description": "Chopper slit motor bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43226"
+    },
+    {
+        "description": "Chopper slit opto clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43227"
+    },
+    {
+        "description": "Cable for chopper and cooled detectors (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB7"
+    }
+]

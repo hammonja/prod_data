@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Silicon detector (10mm x 10mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09006"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30047"
+    },
+    {
+        "description": "O-ring 11.6x2.4N70",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45242"
+    },
+    {
+        "description": "M6 Grub Screw Acetal Tip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46570"
+    },
+    {
+        "description": "4mm Diameter x 16 Dowel Pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46572"
+    },
+    {
+        "description": "Location Collar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46578"
+    },
+    {
+        "description": "M6 Spring Plunger",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46579"
+    },
+    {
+        "description": "Detector Cup",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46586"
+    },
+    {
+        "description": "DH Si Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46587"
+    },
+    {
+        "description": "DH Si Bottom Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46588"
+    },
+    {
+        "description": "Detector Post Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46595"
+    },
+    {
+        "description": "SSR Arm Joint",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SSR-ARM-JOINT"
+    },
+    {
+        "description": "SSR Link Arm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SSR-LINK-ARM"
+    }
+]

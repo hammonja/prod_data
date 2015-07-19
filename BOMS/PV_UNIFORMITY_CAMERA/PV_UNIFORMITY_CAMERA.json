@@ -1,0 +1,26 @@
+[
+    {
+        "description": "TM300 turret opto spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30303"
+    },
+    {
+        "description": "PV camera tester camera plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46012"
+    },
+    {
+        "description": "PV camera tester  pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46014"
+    },
+    {
+        "description": "PV camera tester base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46015"
+    }
+]

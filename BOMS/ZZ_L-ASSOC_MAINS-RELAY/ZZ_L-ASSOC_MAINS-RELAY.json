@@ -1,0 +1,92 @@
+[
+    {
+        "description": "Fuse 2.5A slow blow",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01005"
+    },
+    {
+        "description": "47R, 2.2W, WW, SC, 1%",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02009"
+    },
+    {
+        "description": "1A 1000V Rectifier silicon",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04006"
+    },
+    {
+        "description": "Neon indicator RED 200-250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04040"
+    },
+    {
+        "description": "TIP110",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "06007"
+    },
+    {
+        "description": "24V,  650Ohm relay",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07072"
+    },
+    {
+        "description": "Relay Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07073"
+    },
+    {
+        "description": "IEC Insulating Boot Type 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10005"
+    },
+    {
+        "description": "IEC insulating Boot Type 4",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10006"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Mains outlet socket black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10190"
+    },
+    {
+        "description": "Cable mains plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10209"
+    },
+    {
+        "description": "8 Way Crimp Socket Housing  EHR-8",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10229"
+    },
+    {
+        "description": "400 series relay panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16011"
+    }
+]

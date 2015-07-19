@@ -1,0 +1,230 @@
+[
+    {
+        "description": "Purge port pipe connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10119"
+    },
+    {
+        "description": "DM150 carrying handle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11164"
+    },
+    {
+        "description": "Gatan spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11280"
+    },
+    {
+        "description": "M4 clinch nut insert",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19055"
+    },
+    {
+        "description": "FSM150Xe Iris",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19320"
+    },
+    {
+        "description": "Bearing O/D 19mm, I/D 6mm, THK 6mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30153"
+    },
+    {
+        "description": "Magnet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41553"
+    },
+    {
+        "description": "Lasing 1000W chamber optical rail",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41758"
+    },
+    {
+        "description": "Lasing 1000W chamber optical rail carrier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41769"
+    },
+    {
+        "description": "WRC Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42343"
+    },
+    {
+        "description": "WRC Base Plate Front to Rear Extrusion",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "42344"
+    },
+    {
+        "description": "WRC Base Plate Side to Side Extrusion",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42345"
+    },
+    {
+        "description": "WRC Heat Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42346"
+    },
+    {
+        "description": "WRC Detector Chamber Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42380"
+    },
+    {
+        "description": "WRC Detector Chamber Back",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42381"
+    },
+    {
+        "description": "WRC Detector Chamber Side 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42382"
+    },
+    {
+        "description": "WRC Detector Chamber Side 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42383"
+    },
+    {
+        "description": "WRC Detector Chamber Front",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42384"
+    },
+    {
+        "description": "WRC Detector Chamber Snout Front",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42385"
+    },
+    {
+        "description": "WRC Detector Chamber Snout Side",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42386"
+    },
+    {
+        "description": "WRC Detector Chamber Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42387"
+    },
+    {
+        "description": "WRC Detector Chamber Lid",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42388"
+    },
+    {
+        "description": "WRC Diverting Mirror Change Over Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42389"
+    },
+    {
+        "description": "WRC Diverting Mirror Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42390"
+    },
+    {
+        "description": "WRC Diverting Mirror Bearing Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42391"
+    },
+    {
+        "description": "WRC Diverting Concave Mirror",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42392"
+    },
+    {
+        "description": "Plane mirror, 40x40x3mm, gold coated",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42393"
+    },
+    {
+        "description": "WRC Diverting Mirror Bracket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42394"
+    },
+    {
+        "description": "WRC Diverting Mirror Change Over Knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42395"
+    },
+    {
+        "description": "WRC Diverting Mirror Swing Over Arm Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42396"
+    },
+    {
+        "description": "WRC Exit 252-Mirror Mount Plate for Monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42397"
+    },
+    {
+        "description": "WRC Exit 252 Monochromator Casting Modification",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42398"
+    },
+    {
+        "description": "WRC Detector Chamber Connector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42407"
+    },
+    {
+        "description": "WRC Monochromator Spacers",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "42408"
+    },
+    {
+        "description": "WRC Detector Chamber Mirror Pillars",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42409"
+    },
+    {
+        "description": "WRC Detector Chamber Pillars",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42410"
+    },
+    {
+        "description": "WRC DH-Py Detector Head Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42413"
+    },
+    {
+        "description": "WRC Kipp & Zonen Radiometer Support Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42415"
+    }
+]

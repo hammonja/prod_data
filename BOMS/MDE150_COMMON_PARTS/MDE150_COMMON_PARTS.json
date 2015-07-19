@@ -1,0 +1,104 @@
+[
+    {
+        "description": "5K 25 Turn PCB mounting",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03019"
+    },
+    {
+        "description": "TEN 5-2423 - CONVERTER, DC/DC, 5W, +/-15V  (200mA)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05034"
+    },
+    {
+        "description": "BNC earth tags for 10028",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10013"
+    },
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Blue shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10136"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Shrouded socket green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10223"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Spacer NS 06-M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15013"
+    },
+    {
+        "description": "M-F spacer, metal, M3 (Purchased in packs of 25)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15098"
+    },
+    {
+        "description": "Beckman Bush",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19005"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "DM150 internal electronics 487 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42828"
+    },
+    {
+        "description": "DM150 internal electronics bottom cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42829"
+    },
+    {
+        "description": "High voltage supply board for MDE150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MDE150_215"
+    },
+    {
+        "description": "Detection electronics for MDE150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MDE150_487"
+    }
+]

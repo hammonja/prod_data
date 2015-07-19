@@ -1,0 +1,50 @@
+[
+    {
+        "description": "MSH150 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH150"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA1-G1512R0U5"
+    },
+    {
+        "description": "Fixed Slit Box, Back & Lid, No Slit Carries (Components).",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_FSS_COMPONENTS"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA2-G1506R0U5"
+    },
+    {
+        "description": "MSH150 Filter Wheel (1 inch Diameter Filters)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH150_252_IMPERIAL"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.50mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(0.50)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.00mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(1.00)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (2.0mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(2.0)"
+    }
+]

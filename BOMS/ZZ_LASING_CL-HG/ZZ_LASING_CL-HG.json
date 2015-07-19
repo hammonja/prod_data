@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Fuse 315mA slow blow 20mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01003"
+    },
+    {
+        "description": "Neon indicator RED 200-250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04040"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "CL-Hg light source bottom plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17928F"
+    },
+    {
+        "description": "CL-Hg light source bottom plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17928P"
+    },
+    {
+        "description": "CL-Hg light source box top cover (ANODISING ONLY)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17931F"
+    },
+    {
+        "description": "CL-Hg light source box top cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17931P"
+    },
+    {
+        "description": "Low Presssure Hg Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19100"
+    },
+    {
+        "description": "E27 Lampholder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19102"
+    },
+    {
+        "description": "heat sink box screws",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19261"
+    },
+    {
+        "description": "Lasing CL-Hg-Lasing light source body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41738F"
+    },
+    {
+        "description": "Lasing CL-Hg-Lasing light source body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41738P"
+    },
+    {
+        "description": "Lasing CL-Hg-Lasing body thread insert ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41739"
+    }
+]

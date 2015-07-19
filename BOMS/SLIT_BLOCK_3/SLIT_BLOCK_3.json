@@ -1,0 +1,68 @@
+[
+    {
+        "description": "TMs300 Jaw Running Shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17661"
+    },
+    {
+        "description": "VSS Spring",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19054"
+    },
+    {
+        "description": "MVSS Bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19116"
+    },
+    {
+        "description": "Dowel pin 3x8mm (hardened and ground)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19134"
+    },
+    {
+        "description": "Dowell pin 2x8mm",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19245"
+    },
+    {
+        "description": "TM600 High Precision Slit Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60079"
+    },
+    {
+        "description": "TM600 High Precision Slit Jaw Block (Pair - 1 left, 1 right)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60091"
+    },
+    {
+        "description": "TM600 High Precision Slit Jaw Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "60092"
+    },
+    {
+        "description": "TM600 High Precision Slit Body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60093"
+    },
+    {
+        "description": "TM600 High Precision Slit Spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "60123"
+    },
+    {
+        "description": "TM600 High precision slit fork VSS-Fine",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60163"
+    }
+]

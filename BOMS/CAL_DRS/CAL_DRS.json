@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Thumb screw M3 x 12 DYED BLACK",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13095"
+    },
+    {
+        "description": "Polypropylene Case 225 x 200 x 70 for CL2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25054"
+    },
+    {
+        "description": "DRS-Cal standard holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27378"
+    },
+    {
+        "description": "DRS-Cal reflectance standard (Free issue 50mm 99026)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27379"
+    },
+    {
+        "description": "DRS-Cal standard cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27380"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "description": "DIP Heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19018"
+    },
+    {
+        "description": "PIC16F876A-I/SP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "20002"
+    },
+    {
+        "description": "Stepper drive chip NJM#3771D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21050"
+    },
+    {
+        "description": "DAC Chip  NJU#39610D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21056"
+    },
+    {
+        "description": "Opto isolator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21057"
+    }
+]

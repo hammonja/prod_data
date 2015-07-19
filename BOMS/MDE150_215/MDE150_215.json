@@ -1,0 +1,164 @@
+[
+    {
+        "description": "0R68, 2.5W",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "02011"
+    },
+    {
+        "description": "825R MRS25",
+        "location": "R10",
+        "quantity": "1.00",
+        "stockcode": "02020"
+    },
+    {
+        "description": "6K81  MRS25",
+        "location": "R13",
+        "quantity": "1.00",
+        "stockcode": "02031"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R3, R4, R9",
+        "quantity": "3.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "27K4 MRS25",
+        "location": "R7",
+        "quantity": "1.00",
+        "stockcode": "02038"
+    },
+    {
+        "description": "100K MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "10M MRS25",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02076"
+    },
+    {
+        "description": "10K .75W Cermet PCB mounting",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03010"
+    },
+    {
+        "description": "1A 1000V Rectifier silicon",
+        "location": "D1, D2, D3, D4",
+        "quantity": "4.00",
+        "stockcode": "04006"
+    },
+    {
+        "description": "1N4148",
+        "location": "D5, D7",
+        "quantity": "2.00",
+        "stockcode": "04007"
+    },
+    {
+        "description": "Zener Diode BZX79C2V7",
+        "location": "ZD2",
+        "quantity": "1.00",
+        "stockcode": "04009"
+    },
+    {
+        "description": "6.8V Zener diode",
+        "location": "ZD3",
+        "quantity": "1.00",
+        "stockcode": "04012"
+    },
+    {
+        "description": "Zener Diode BZX79C15",
+        "location": "ZD1",
+        "quantity": "1.00",
+        "stockcode": "04016"
+    },
+    {
+        "description": "LED green right angle mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04027"
+    },
+    {
+        "description": "TIP31A silicon NPN transistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "06003"
+    },
+    {
+        "description": "Miniature toggle switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07004"
+    },
+    {
+        "description": "Capacitor 1nF, 40V",
+        "location": "C13",
+        "quantity": "1.00",
+        "stockcode": "08010"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "C10, C12, C14, C16",
+        "quantity": "4.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 10uF 25V Electrolytic axial",
+        "location": "C9, C11, C15",
+        "quantity": "3.00",
+        "stockcode": "08032"
+    },
+    {
+        "description": "Capacitor 10nF, 2kV disc. Use 2 in par. for 215",
+        "location": "C1, C2, C3, C4, C5, C6, C7, C8",
+        "quantity": "16.00",
+        "stockcode": "08036"
+    },
+    {
+        "description": "14 Way DIL Socket Low Profile 0.3\"",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10054"
+    },
+    {
+        "description": "pcb  \" BENTHAM 215 rev D \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15009"
+    },
+    {
+        "description": "PE6189 (pulse transformer)",
+        "location": "T1",
+        "quantity": "1.00",
+        "stockcode": "18022"
+    },
+    {
+        "description": "Heat sink",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19020"
+    },
+    {
+        "description": "2N3053",
+        "location": "Q1, Q2",
+        "quantity": "2.00",
+        "stockcode": "20009"
+    },
+    {
+        "description": "IC LM723CN",
+        "location": "N1",
+        "quantity": "1.00",
+        "stockcode": "20016"
+    },
+    {
+        "description": "IC CD4047BCN",
+        "location": "N2",
+        "quantity": "1.00",
+        "stockcode": "21010"
+    }
+]

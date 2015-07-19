@@ -1,0 +1,134 @@
+[
+    {
+        "description": "Dual Light Source 75WXe 100WQH Arrestable Optical Chopper",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ILD_75E_QH_CHOP_ARREST"
+    },
+    {
+        "description": "250W Constant Current Power Supply",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "PSU_605"
+    },
+    {
+        "description": "TMC300 PV monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_PV_0001"
+    },
+    {
+        "description": "PV Bias light source, 50W QH lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV-BIAS-QH"
+    },
+    {
+        "description": "PV enclosure, relay optics, bias source & mono mounts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PVE300"
+    },
+    {
+        "description": "PV vacuum chuck, 20x20cm, temperature controlled",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV-VC20T"
+    },
+    {
+        "description": "Full width 400 series bin.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_417"
+    },
+    {
+        "description": "Control unit for arrestable choppers",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_M_ARREST"
+    },
+    {
+        "description": "Transformer front end for photocell measurement",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_474"
+    },
+    {
+        "description": "Pre-amplifier for transformer front end",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_474_PREAMP"
+    },
+    {
+        "description": "Programmable current pre-amplifier/ AtoD module",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_497"
+    },
+    {
+        "description": "Dual Channel DSP Lock-In Amplifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_496"
+    },
+    {
+        "description": "Standard DH-Si.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_SI"
+    },
+    {
+        "description": "Ref/trx (IQE) option inc DTR6 sphere and accessories",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV-RT-OPTION"
+    },
+    {
+        "description": "Room temperature Si/InGaAs sandwich (single output)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_SI_IGA"
+    },
+    {
+        "description": "5mm dia room temperature Ge photodiode",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_GE_5"
+    },
+    {
+        "description": "PV super/substrate chuck, 6x6cm, no temp  control",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV-SS6"
+    },
+    {
+        "description": "Micro positioner contact probe for use with PV-SS chucks",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "PV-SS-MCP"
+    },
+    {
+        "description": "Mounting adapter for PV-SS-MCP with PV-VC2xT chucks",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV-VC-MNT-MCP"
+    },
+    {
+        "description": "3m USB cable",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USB_3M"
+    },
+    {
+        "description": "USB cable 2m long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB-USB"
+    },
+    {
+        "description": "Standard contact probe for use with PV-VC2xT chucks",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "PV-VC-CP"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Chopper mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12042"
+    },
+    {
+        "description": "CaF2 lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43860"
+    },
+    {
+        "description": "BISA entrance relay optic tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43861"
+    },
+    {
+        "description": "BISA entrance optic split ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43862"
+    }
+]

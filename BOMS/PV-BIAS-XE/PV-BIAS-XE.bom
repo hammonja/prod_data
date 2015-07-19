@@ -1,0 +1,4 @@
+PV-BIAS-XE,43316,Multibranch fibre for bias source in PV system,,0,1.00,,,,,
+PV-BIAS-XE,43932,PV bias xe source cover,,1,1.00,,,,,
+PV-BIAS-XE,PV-BIAS-XE-BASE,PV-BIAS-XE Base Components,,2,1.00,,,,,
+PV-BIAS-XE,SLIT_VSS,Standard micrometer operated variable slit,,3,1.00,,,,,

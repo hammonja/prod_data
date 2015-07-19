@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Ellipsoidal Mirror E50, AF coated (enhanced UV)",
+        "location": "",
+        "quantity": "0.16",
+        "stockcode": "45300"
+    },
+    {
+        "description": "Ellipsoid Mount Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45312"
+    },
+    {
+        "description": "Machining Operation to produce 45300_M1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45346"
+    }
+]

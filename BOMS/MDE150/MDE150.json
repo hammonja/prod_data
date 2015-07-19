@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "MDE150 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50048"
+    },
+    {
+        "description": "MDE150 Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MDE150_COMMON_PARTS"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "description": "Blue shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10136"
+    },
+    {
+        "description": "Silica lens, dia 36 +0.0/-0.2mm, fl 63mm, pcx",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13121"
+    },
+    {
+        "description": "IL6 Condenser tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17228"
+    },
+    {
+        "description": "IL6 Condenser ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17229"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Deuterium Lamp  M XD 5655-03",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27441"
+    },
+    {
+        "description": "Cable for CL7 (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB10"
+    },
+    {
+        "description": "1L6/250W Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17212"
+    },
+    {
+        "description": "D2 Lamp PTFE sleeve",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17091"
+    },
+    {
+        "description": "D2 bulb mount clamp",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45199"
+    }
+]

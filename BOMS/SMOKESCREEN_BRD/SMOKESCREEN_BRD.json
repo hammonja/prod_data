@@ -1,0 +1,92 @@
+[
+    {
+        "description": "100R MRS25",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02013"
+    },
+    {
+        "description": "220R MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02015"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R4, 5",
+        "quantity": "2.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "4R7, 2.5W, WW",
+        "location": "R6",
+        "quantity": "1.00",
+        "stockcode": "02040"
+    },
+    {
+        "description": "100M thick film",
+        "location": "R3",
+        "quantity": "1.00",
+        "stockcode": "02223"
+    },
+    {
+        "description": "DC-DC 5V to +/- 15V (TEM2-0522)",
+        "location": "CONV1",
+        "quantity": "1.00",
+        "stockcode": "05041"
+    },
+    {
+        "description": "Relay",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "07044"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C2, 3, D",
+        "quantity": "3.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 22pF ceramic plate",
+        "location": "C4, 5",
+        "quantity": "2.00",
+        "stockcode": "08047"
+    },
+    {
+        "description": "Capacitor 1nF 100v boxed polyester",
+        "location": "C1",
+        "quantity": "1.00",
+        "stockcode": "08059"
+    },
+    {
+        "description": "Capacitor 3300uF, 16V DC",
+        "location": "C6",
+        "quantity": "1.00",
+        "stockcode": "08102"
+    },
+    {
+        "description": "20MHz crystal",
+        "location": "XTAL",
+        "quantity": "1.00",
+        "stockcode": "08117"
+    },
+    {
+        "description": "28-Way x 0.3\" DIL Socket",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "10053"
+    },
+    {
+        "description": "SMOKESCREEN 15082 ISSUE 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15082"
+    },
+    {
+        "description": "AD795JRZ",
+        "location": "U1",
+        "quantity": "1.00",
+        "stockcode": "20036"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "description": "45 DEGREE SOLENOID",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11335"
+    },
+    {
+        "description": "Large solenoid clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27043"
+    },
+    {
+        "description": "SAM mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27107"
+    },
+    {
+        "description": "E2V solenoid mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27127"
+    },
+    {
+        "description": "Plain mirror 29 x 44 x 3mm thk.  UV-AL (send ULO a drawing)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30033"
+    },
+    {
+        "description": "SAM2 mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30039"
+    },
+    {
+        "description": "Solenoid Pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46006"
+    },
+    {
+        "description": "Swing Mirror Sub plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46007"
+    }
+]

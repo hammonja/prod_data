@@ -1,0 +1,128 @@
+[
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "dc-dc, 18-36V in,  5V @ 600mA out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05007"
+    },
+    {
+        "description": "S009 telescope power connector (KPJX-4S-S)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10308"
+    },
+    {
+        "description": "M300 microswitch",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11001"
+    },
+    {
+        "description": "M3 inserts in slider (lead screw min. 5mm from end of track)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11042"
+    },
+    {
+        "description": "Microswitch plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11349"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "S009 Telescope External  Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18111"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "Bore reducer, 5mm x 1/4 inch x 6.6mm long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30052"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TEL309 motor bracket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43373"
+    },
+    {
+        "description": "TEL309 unslide pillars",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43374"
+    },
+    {
+        "description": "TEL309 front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43402"
+    },
+    {
+        "description": "TEL309 base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43403"
+    },
+    {
+        "description": "Power connector stop",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43405"
+    },
+    {
+        "description": "TEL309 back plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43406"
+    },
+    {
+        "description": "Stage plate for XY mapper",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46101"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "IMAC card for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD_TEL309"
+    }
+]

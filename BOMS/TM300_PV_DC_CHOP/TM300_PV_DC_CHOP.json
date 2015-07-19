@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Lemo, 8 way, chassis socket, green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10288"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "DIP Heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19018"
+    },
+    {
+        "description": "Stepper drive chip NJM#3771D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21050"
+    },
+    {
+        "description": "DAC Chip  NJU#39610D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21056"
+    },
+    {
+        "description": "Opto isolator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21057"
+    }
+]

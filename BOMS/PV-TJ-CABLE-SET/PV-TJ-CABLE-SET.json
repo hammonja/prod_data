@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10125"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "White shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10283"
+    },
+    {
+        "description": "Red M4insul spade terminal,0.5-1.5sq.mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10337"
+    },
+    {
+        "description": "PV-TJ-CABLE-SET Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50064"
+    }
+]

@@ -1,0 +1,8 @@
+ZZ_HERIOTW_SYSTEM,12015,Fibre to slit interface,,0,1.00,,,,,
+ZZ_HERIOTW_SYSTEM,12082,'O'RING,,1,1.00,,,,,
+ZZ_HERIOTW_SYSTEM,12092,FOP(UV) ring,,2,1.00,,,,,
+ZZ_HERIOTW_SYSTEM,12178,1.5m, LUV, bifurcated fibre for monitor detector,,3,1.00,,,,,
+ZZ_HERIOTW_SYSTEM,DH_SI_MONITOR,Standard Si monitor detector (un-cooled),,4,1.00,,,,,
+ZZ_HERIOTW_SYSTEM,ZZ_HERIOTW_FRAME,Enclosure for Herriot Watt system (SO8296),,5,1.00,,,,,
+ZZ_HERIOTW_SYSTEM,ZZ_HERIOTW_OPTICS,Optics for SO 8296,,6,1.00,,,,,
+ZZ_HERIOTW_SYSTEM,ZZ_HERIOTW_SUN,Light source for sun source in SO 8296,,7,1.00,,,,,

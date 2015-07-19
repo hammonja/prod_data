@@ -1,0 +1,176 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "8 Way Crimp Socket Housing  EHR-8",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10229"
+    },
+    {
+        "description": "3 way crimp socket housing  EHR-3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10230"
+    },
+    {
+        "description": "2 Way Crimp Socket Housing  EHR-2",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10231"
+    },
+    {
+        "description": "8 way connector  B8B-EH-A (LF) (SN)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10262"
+    },
+    {
+        "description": "Purge connector for TM300",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10286"
+    },
+    {
+        "description": "Blank for 8 position filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11021"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "Shaft 0.25 x 1.25\" (Material 99904, 1 length per 20)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11174"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11338F"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11338P"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "DIP Heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19018"
+    },
+    {
+        "description": "PIC16F876A-I/SP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "20002"
+    },
+    {
+        "description": "Stepper drive chip NJM#3771D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21050"
+    },
+    {
+        "description": "DAC Chip  NJU#39610D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21056"
+    },
+    {
+        "description": "Opto isolator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21057"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    },
+    {
+        "description": "PSU for TMc Monochromators with IMAC Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_C_PSU_IMAC"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET"
+    }
+]

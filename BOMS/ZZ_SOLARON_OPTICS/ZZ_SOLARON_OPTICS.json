@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Fibre to slit interface",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12015"
+    },
+    {
+        "description": "FOP(UV) ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12092"
+    },
+    {
+        "description": "2m, LUV, bifurcated fibre for monitor detector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12174"
+    },
+    {
+        "description": "Silica lens, dia 36 +0.0/-0.2mm, fl 63mm, pcx",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13121"
+    },
+    {
+        "description": "30mm, 4 channel Bosch, 300mm long (Solaron)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17133"
+    },
+    {
+        "description": "Optical post 13mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17134"
+    },
+    {
+        "description": "Post holder foot",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17135"
+    },
+    {
+        "description": "Post holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17136"
+    },
+    {
+        "description": "Solaron telescope",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17137"
+    },
+    {
+        "description": "IL6 Condenser tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17228"
+    },
+    {
+        "description": "IL6 Condenser ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17229"
+    },
+    {
+        "description": "Bosch 8mm groove M6 'T' nut",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19280"
+    },
+    {
+        "description": "Bosch 30mm Extrusion Bracket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19281"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30047"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "description": "SAMPLE SPRING LONG",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "13113"
+    },
+    {
+        "description": "FSM150Xe adjuster spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19345"
+    },
+    {
+        "description": "Painting of 44318, semi gloss black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19695"
+    },
+    {
+        "description": "PV Subtrate clamp pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44306"
+    },
+    {
+        "description": "PV Substrate Probe Tip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44307"
+    },
+    {
+        "description": "PV Substrate chuck thumb wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44308"
+    },
+    {
+        "description": "165 x 165 PV Substrate chuck top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44318"
+    },
+    {
+        "description": "165x165 PV Substrate chuck side",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44319"
+    },
+    {
+        "description": "165 x 165 PV Substrate chuck cross brace",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44320"
+    },
+    {
+        "description": "165 x 165 PV subtrate chuck app plate 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44321"
+    },
+    {
+        "description": "165 x 165 PV subtrate chuck app plate 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44332"
+    },
+    {
+        "description": "PV XY SS Chuck Brace",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46128"
+    },
+    {
+        "description": "PV SS Chuck reference post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46154"
+    }
+]

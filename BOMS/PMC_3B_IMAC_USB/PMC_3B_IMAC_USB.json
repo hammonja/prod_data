@@ -1,0 +1,182 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "R1, R2",
+        "quantity": "2.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "dc-dc, 10-30V in,  5V @ 600mA out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05024"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "Regulator",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "Regulator",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 4700 uF 35V",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08098"
+    },
+    {
+        "description": "Connector  64 way 2 rows",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10085"
+    },
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "Connector 25 way IDC socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10124"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Spacer NS 06-M3",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "15013"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "PMC-MAC Front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16093"
+    },
+    {
+        "description": "PMC-3B-IMAC-USB Rear Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16127"
+    },
+    {
+        "description": "G-Stiffener short",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17013"
+    },
+    {
+        "description": "CPS2 Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17320"
+    },
+    {
+        "description": "Transformer 60VA. 15Vac, 15Vac (was Farnell 9530436)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18058"
+    },
+    {
+        "description": "22mm capacitor clip",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19142"
+    },
+    {
+        "description": "PMC-MAC base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27329"
+    },
+    {
+        "description": "PMC-MAC power/mac card plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27330"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30337"
+    },
+    {
+        "description": "15 way blanking panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43408"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    }
+]

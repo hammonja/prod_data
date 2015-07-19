@@ -1,0 +1,32 @@
+[
+    {
+        "description": "TM300 worm shaft(1 off 600mm length 99907 per 9 off 30014)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30014"
+    },
+    {
+        "description": "TM300 worm yoke.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30133"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "Anti-backlash worm (written off)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30215"
+    },
+    {
+        "description": "Rubber Damper For TM300 Turret (O/D 15, I/D3.5, Thk 5.5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30300"
+    }
+]

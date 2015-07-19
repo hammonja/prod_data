@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Painting of PV_CASTING, standard Bentham colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19480"
+    },
+    {
+        "description": "Machining Operation to Produce 30123_M1 SAM at Entrance (FI)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30004"
+    },
+    {
+        "description": "TM300 box casting, machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123P"
+    },
+    {
+        "description": "Casting modification for PV system( fi 30123P)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43370"
+    }
+]

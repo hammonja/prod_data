@@ -1,0 +1,5 @@
+TMC300_PV_0006,TMC300_PV_BASE,TMC300 Base PV monochromator,,0,1.00,,,,,
+TMC300_PV_0006,GA-T312R0U5,Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating,,1,1.00,,,,,
+TMC300_PV_0006,OS400,Order Sorting Filter for Insertion at 400nm,,2,1.00,,,,,
+TMC300_PV_0006,OS700,Order Sorting Filter for Insertion at 700nm,,3,1.00,,,,,
+TMC300_PV_0006,TM300_PV_DC_CHOP,TM300_PV to ILD-HF-LF-CHOP Connector,,4,1.00,,,,,

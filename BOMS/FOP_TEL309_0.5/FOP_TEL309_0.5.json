@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Fibre for TEL309 telescope (with IDR snout)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12191"
+    },
+    {
+        "description": "Fop IDR common parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FOP_IDR_COMMON_PARTS"
+    }
+]

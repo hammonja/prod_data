@@ -1,0 +1,218 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04044"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "25 way 90 degree plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10261"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "SAMPLE SPRING SHORT",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13114"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "TM300 worm shaft(1 off 600mm length 99907 per 9 off 30014)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30014"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "M4 x 10 flat ended grub, black.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30048"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TM300 turret Post",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30121"
+    },
+    {
+        "description": "TM300 worm yoke.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30133"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "TMs300 turret side pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30279"
+    },
+    {
+        "description": "TMs300 turret middle support plate (free issue  30291)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30280"
+    },
+    {
+        "description": "TMs300 turret bottom spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30282"
+    },
+    {
+        "description": "TMs300 Turret Flag",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30286"
+    },
+    {
+        "description": "638/8 2Z   SKF or RHP",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30291"
+    },
+    {
+        "description": "Precision worm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30473"
+    },
+    {
+        "description": "Precision worm gear",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30474"
+    },
+    {
+        "description": "imperial college 8mm turret bottom plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41059"
+    },
+    {
+        "description": "8mm turret opto flag top limit",
+        "location": "Can be made from 30286",
+        "quantity": "2.00",
+        "stockcode": "41062"
+    },
+    {
+        "description": "SAC goniometer bottom turret base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41449"
+    },
+    {
+        "description": "SAC goniometer bottom turret 8mm shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41451"
+    },
+    {
+        "description": "SAC goniometer top turret 8mm shaft & boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41456"
+    },
+    {
+        "description": "SAC goniometer bottom turret 5mm shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41457"
+    },
+    {
+        "description": "SAC goniometer sample holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41459"
+    },
+    {
+        "description": "SAC goniometer cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41469"
+    },
+    {
+        "description": "SAC goniometer bottom turret motor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41473"
+    },
+    {
+        "description": "SAC goniometer top turret motor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41474"
+    },
+    {
+        "description": "SAC goniometer middle support plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41479"
+    },
+    {
+        "description": "SAC goniometer detector platform",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41480"
+    },
+    {
+        "description": "SAC goniometer plain mirror bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41481"
+    },
+    {
+        "description": "SAC goniometer detector support bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41482"
+    }
+]

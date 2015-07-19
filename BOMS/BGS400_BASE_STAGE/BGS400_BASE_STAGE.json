@@ -1,0 +1,152 @@
+[
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "Bosch 45mm extrusion 45 degree angle block",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19359"
+    },
+    {
+        "description": "Bosch 45/90 extrusion bracket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19361"
+    },
+    {
+        "description": "Bosch 10mm groove M6 'T' nut (Each)",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "19399"
+    },
+    {
+        "description": "S12x30 T50 self tap",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19435"
+    },
+    {
+        "description": "End cap for 45 x 90 Bosch",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19549"
+    },
+    {
+        "description": "TP+ 010 MA 220:1 Gear head",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44383"
+    },
+    {
+        "description": "ESLTD-34HSX108",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44384"
+    },
+    {
+        "description": "45 X 90 BOSCH SEE DRAWING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46229"
+    },
+    {
+        "description": "BGS400 Top Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46300"
+    },
+    {
+        "description": "45 X 90 BOSCH SEE DRAWING",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46301"
+    },
+    {
+        "description": "45 X 90 BOSCH SEE DRAWING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46317"
+    },
+    {
+        "description": "BGS400 Leg Pin",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46320"
+    },
+    {
+        "description": "45x90L Length=2000mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46335"
+    },
+    {
+        "description": "BGS400 Rail Support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46336"
+    },
+    {
+        "description": "\u00d812mm RAIL BAR L = 2000mm (BOSCH 3 842 993 968)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46347"
+    },
+    {
+        "description": "BGS400 CLIP IN RAIL L = 2000mm (BOSCH 3 842 992 440)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46348"
+    },
+    {
+        "description": "M4 'T' Bolt for 10mm Bosch profile",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46353"
+    },
+    {
+        "description": "BGS400 OPTO Flag ( M4)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46359"
+    },
+    {
+        "description": "M8 Flange Nut for Bosch",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46361"
+    },
+    {
+        "description": "BGS400 Acetal Stop",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46391"
+    },
+    {
+        "description": "BGS400 End Stop",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46399"
+    },
+    {
+        "description": "Al fill in strip for 45mm Bosch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99990"
+    },
+    {
+        "description": "BGS400 Foot Assembly",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "BGS400_FOOT"
+    }
+]

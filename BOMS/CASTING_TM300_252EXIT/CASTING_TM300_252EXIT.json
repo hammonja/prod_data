@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Casting for TM300 with 252 at exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123_M3"
+    },
+    {
+        "description": "Painting to produce CASTING_TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19494"
+    }
+]

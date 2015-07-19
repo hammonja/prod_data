@@ -1,0 +1,92 @@
+[
+    {
+        "description": "100K MRS25",
+        "location": "R4",
+        "quantity": "1.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "1M, 1W",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02082"
+    },
+    {
+        "description": "Capacitor 0.1uF, 160V, AC polyester",
+        "location": "C1",
+        "quantity": "1.00",
+        "stockcode": "08023"
+    },
+    {
+        "description": "Capacitor 0.47uF, 100V ceramic multi-layer",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08087"
+    },
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "DH-SiPbS-Te Body 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09023"
+    },
+    {
+        "description": "DH-SiPbS-Te Body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09024"
+    },
+    {
+        "description": "DH-PbS-Te detector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09031"
+    },
+    {
+        "description": "Body DH-Pbse-Te body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09070"
+    },
+    {
+        "description": "BNC earth tags for 10028",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10013"
+    },
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "PCB Te  (15 day)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15057"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Lens, pcx, dia. 25.4mm, f=76.2mm, silica (Hi-Tech ref 2058)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19431"
+    },
+    {
+        "description": "Lens, pcx, dia. 25.4mm, f=304.8mm, silica (Hi-Tech ref 2059)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19432"
+    },
+    {
+        "description": "OPTICS_TGK_IN-LINE Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50020"
+    },
+    {
+        "description": "Lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "NA5604A"
+    },
+    {
+        "description": "Lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "NA5604B"
+    },
+    {
+        "description": "Lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "NA5604C"
+    },
+    {
+        "description": "Lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "NA5604D"
+    },
+    {
+        "description": "Lens tube adaptor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "NA6303"
+    }
+]

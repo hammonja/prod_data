@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Connector 15 Way 'D' Plug",
+        "location": "CABLE 2m LONG",
+        "quantity": "2.00",
+        "stockcode": "10113"
+    },
+    {
+        "description": "Cable cover 15 way",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10171"
+    },
+    {
+        "description": "Assembly of  DH_00_TE_EI_CABLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19633"
+    },
+    {
+        "description": "8 core screened cable,7x0.2mm 100m",
+        "location": "",
+        "quantity": "0.02",
+        "stockcode": "99063"
+    }
+]

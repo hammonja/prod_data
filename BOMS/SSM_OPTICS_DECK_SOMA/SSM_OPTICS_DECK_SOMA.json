@@ -1,0 +1,446 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "Tension Spring 0.25\" Diameter x 2.5\" Long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11165"
+    },
+    {
+        "description": "M4 Ball ended grub screw ( free issue 99022)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11250"
+    },
+    {
+        "description": "M3 Ball ended grub screw (99254 free issued)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11260"
+    },
+    {
+        "description": "KG5, 25mm dia. +0, -0.1mm. 1mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13927"
+    },
+    {
+        "description": "OG530, 25mm dia. +0, -0.1mm. 1mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13928"
+    },
+    {
+        "description": "RG1000, 25mm dia. +0, -0.1mm. 1mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13929"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 1mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13930"
+    },
+    {
+        "description": "Spacer NP 8.0/25/C/M3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15021"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "Coupler holder",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17001"
+    },
+    {
+        "description": "EXLS Foot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17324"
+    },
+    {
+        "description": "EXLS Elipse Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17327"
+    },
+    {
+        "description": "EXLS Anode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17329"
+    },
+    {
+        "description": "EXLS Cathode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17330"
+    },
+    {
+        "description": "FSM150 input baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17338"
+    },
+    {
+        "description": "Side Panels MK2 EXLS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17403"
+    },
+    {
+        "description": "Fixed focus bar (make as matched pair with 17405)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17404"
+    },
+    {
+        "description": "Floating focus bar  (make as matched pair with 17404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17405"
+    },
+    {
+        "description": "Dowel 5mm x 35mm (99902, 1.5 lengths per 20)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17409"
+    },
+    {
+        "description": "EXLS Z Adjuster Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17673"
+    },
+    {
+        "description": "TLS starter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18064"
+    },
+    {
+        "description": "BISONIC - BP601012M-W - FAN, ULTRASLIM, 60MM, 12VDC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18131"
+    },
+    {
+        "description": "Ellipsoidal Reflector Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19124_M1"
+    },
+    {
+        "description": "PLC-M3 self locking insert (Zygology Ltd)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19173"
+    },
+    {
+        "description": "'E' clip (pack of 100)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19266"
+    },
+    {
+        "description": "FSM150Xe adjuster spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19345"
+    },
+    {
+        "description": "Hamamatsu Xe lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19589"
+    },
+    {
+        "description": "TM300 worm shaft(1 off 600mm length 99907 per 9 off 30014)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30014"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "26 MT SPROCKET 5mm bore Machined",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30243_M2"
+    },
+    {
+        "description": "26 MT SPROCKET 5mm bore",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30243F"
+    },
+    {
+        "description": "TMs300 Slit Bearing",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30253"
+    },
+    {
+        "description": "Precision worm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30473"
+    },
+    {
+        "description": "Precision worm gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30474"
+    },
+    {
+        "description": "TMs300 slit drive opto bracket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41020"
+    },
+    {
+        "description": "SSMXe150 Filter Wheel Front Plate (Short Belt)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42283"
+    },
+    {
+        "description": "SSMXe150 Filter Wheel Shaft Short Belt",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42284"
+    },
+    {
+        "description": "SSMXe150 Filter Wheel Slit Body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42285"
+    },
+    {
+        "description": "SSMXe150 Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42286"
+    },
+    {
+        "description": "SSMXe150 Filter Wheel Belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42287"
+    },
+    {
+        "description": "Bearing for SSM grating shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42579"
+    },
+    {
+        "description": "SSM grating shaft mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42580"
+    },
+    {
+        "description": "SSM grating shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42581"
+    },
+    {
+        "description": "SSM grating shaft mount clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42582"
+    },
+    {
+        "description": "Paddle for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42669"
+    },
+    {
+        "description": "New baffle box for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42682"
+    },
+    {
+        "description": "Pillars for ZZ_SOMA_SSM_SKELETON",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42757"
+    },
+    {
+        "description": "Shutter Solenoid Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43267_M1"
+    },
+    {
+        "description": "SSM intensity control wheel front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43328"
+    },
+    {
+        "description": "SSM motor side plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43329"
+    },
+    {
+        "description": "SSM worm yoke",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43330"
+    },
+    {
+        "description": "Anodising of 43331P",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43331F"
+    },
+    {
+        "description": "SSM intensity control wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43331P"
+    },
+    {
+        "description": "SSM intensity control slit block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43332"
+    },
+    {
+        "description": "Belt for SSM intensity control",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43333"
+    },
+    {
+        "description": "Optics deck base plate for SSM (worm&wheel)",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "43334"
+    },
+    {
+        "description": "S1110 shutter clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43631"
+    },
+    {
+        "description": "Solenoid shutter blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43632"
+    },
+    {
+        "description": "SSM Grating Plate Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43692_P1"
+    },
+    {
+        "description": "SSM grating mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43693"
+    },
+    {
+        "description": "SSM light box cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43943"
+    },
+    {
+        "description": "Grating for FSM",
+        "location": "Grating stock",
+        "quantity": "1.00",
+        "stockcode": "FSM12H0U39"
+    },
+    {
+        "description": "Fixed Slit Plate (2.00mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "FSP(2.0)"
+    },
+    {
+        "description": "For use with TLS starter when used in SSM etc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INVERTER_BOARD_SSM"
+    }
+]

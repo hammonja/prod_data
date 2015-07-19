@@ -1,0 +1,62 @@
+[
+    {
+        "description": "Exit Lens Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46021"
+    },
+    {
+        "description": "Exit Tube Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46022"
+    },
+    {
+        "description": "Underplate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46023"
+    },
+    {
+        "description": "Top Manifold Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46024"
+    },
+    {
+        "description": "Window Cap",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46025"
+    },
+    {
+        "description": "50mm Lens Carrier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46026"
+    },
+    {
+        "description": "M10 Threaded Bar",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "46027"
+    },
+    {
+        "description": "caf381lens160",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46028"
+    },
+    {
+        "description": "caf50lens100",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46029"
+    },
+    {
+        "description": "50mm Lens Retainer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46034"
+    }
+]

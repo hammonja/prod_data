@@ -1,0 +1,110 @@
+[
+    {
+        "description": "Monitor detector (e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09115"
+    },
+    {
+        "description": "SMA bulkhead socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10179"
+    },
+    {
+        "description": "Opdima block",
+        "location": "",
+        "quantity": "0.50",
+        "stockcode": "19454"
+    },
+    {
+        "description": "E2V light source baffle plug (fi 10mm of 99026)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27104"
+    },
+    {
+        "description": "E2V sphere detector fixing ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27198"
+    },
+    {
+        "description": "E2V Periscope Bending Mirror",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27435"
+    },
+    {
+        "description": "E2V Periscope Lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27436"
+    },
+    {
+        "description": "e2v sphere tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43049"
+    },
+    {
+        "description": "e2v sphere entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43054"
+    },
+    {
+        "description": "e2v sphere top side",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43055"
+    },
+    {
+        "description": "e2v sphere top top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43056"
+    },
+    {
+        "description": "e2v sphere top back",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43057"
+    },
+    {
+        "description": "e2v wedge mirror block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43071"
+    },
+    {
+        "description": "e2v lens mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43073"
+    },
+    {
+        "description": "e2v tube sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43335"
+    },
+    {
+        "description": "e2v sphere tube top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43346"
+    },
+    {
+        "description": "e2v tube sphere connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43347"
+    },
+    {
+        "description": "Painted baffle with legs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_SPHERE-BAFFLE"
+    }
+]

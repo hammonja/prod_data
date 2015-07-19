@@ -1,0 +1,122 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,100R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02258"
+    },
+    {
+        "description": "10K MRS16T",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02259"
+    },
+    {
+        "description": "Omron EE-SX1103",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04038"
+    },
+    {
+        "description": "Connector 15 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10113"
+    },
+    {
+        "description": "Connector 15 way 'D' cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10114"
+    },
+    {
+        "description": "SAGEM FILTER WHEEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17202"
+    },
+    {
+        "description": "SAGEM MOTOR PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17203"
+    },
+    {
+        "description": "SAGEM PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17204"
+    },
+    {
+        "description": "SAGEM SPACER",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "17205"
+    },
+    {
+        "description": "Sagem opto bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17396"
+    },
+    {
+        "description": "Motor for EADS filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18092F"
+    },
+    {
+        "description": "Motor for EADS filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18092P"
+    },
+    {
+        "description": "Ondrives DP4.0-8 (dowell 4mm x8mm)",
+        "location": "Free issue to B&M",
+        "quantity": "2.00",
+        "stockcode": "19166"
+    },
+    {
+        "description": "pin 7mm x 3mm dia with flat",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27074"
+    },
+    {
+        "description": "M1.6 x 5 csk ss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99001"
+    },
+    {
+        "description": "M1.6 nut, SS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99032"
+    },
+    {
+        "description": "M3 Plain Washer Stainless Steel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99232"
+    },
+    {
+        "description": "M3 x 16 Csk Stainless Steel, pozi",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "99238"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Button Head",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99250"
+    },
+    {
+        "description": "M4 x 10 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99454"
+    }
+]

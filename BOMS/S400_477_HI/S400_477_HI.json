@@ -1,0 +1,308 @@
+[
+    {
+        "description": "220R MRS25",
+        "location": "R22",
+        "quantity": "1.00",
+        "stockcode": "02015"
+    },
+    {
+        "description": "330R MRS25",
+        "location": " (R1,2,3,4,5 FP)",
+        "quantity": "5.00",
+        "stockcode": "02016"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R34",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R9,10,11,14,40 41,42,43,44",
+        "quantity": "9.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "30K, MRS25",
+        "location": "R34 top board",
+        "quantity": "1.00",
+        "stockcode": "02066"
+    },
+    {
+        "description": "22K, MRS25",
+        "location": "R48,R51,R35 top board",
+        "quantity": "3.00",
+        "stockcode": "02075"
+    },
+    {
+        "description": "22R for PMC",
+        "location": "R29",
+        "quantity": "1.00",
+        "stockcode": "02078"
+    },
+    {
+        "description": "82K,MRS25",
+        "location": "R49",
+        "quantity": "1.00",
+        "stockcode": "02093"
+    },
+    {
+        "description": "15K, MRS25",
+        "location": "R47,R50",
+        "quantity": "2.00",
+        "stockcode": "02105"
+    },
+    {
+        "description": "1M1 MRS25",
+        "location": "R46",
+        "quantity": "1.00",
+        "stockcode": "02109"
+    },
+    {
+        "description": "249K MRS25",
+        "location": "R23",
+        "quantity": "1.00",
+        "stockcode": "02265"
+    },
+    {
+        "description": "2K49 MRS25",
+        "location": "R24, 32",
+        "quantity": "2.00",
+        "stockcode": "02266"
+    },
+    {
+        "description": "24K9 MRS25",
+        "location": "R25",
+        "quantity": "1.00",
+        "stockcode": "02267"
+    },
+    {
+        "description": "274R MRS25",
+        "location": "R26",
+        "quantity": "1.00",
+        "stockcode": "02268"
+    },
+    {
+        "description": "2R7 2.5W",
+        "location": "R27",
+        "quantity": "1.00",
+        "stockcode": "02269"
+    },
+    {
+        "description": "1R5 2.5W",
+        "location": "R28",
+        "quantity": "1.00",
+        "stockcode": "02270"
+    },
+    {
+        "description": "220R 6W",
+        "location": "R30",
+        "quantity": "1.00",
+        "stockcode": "02271"
+    },
+    {
+        "description": "24R9 MRS25",
+        "location": "R31",
+        "quantity": "1.00",
+        "stockcode": "02272"
+    },
+    {
+        "description": "LED Red HLMP 1301",
+        "location": "(D2) FP",
+        "quantity": "1.00",
+        "stockcode": "04030"
+    },
+    {
+        "description": "LED Yellow HLMP 1401",
+        "location": "(D3, D4, D5, D6, D7, D8)",
+        "quantity": "6.00",
+        "stockcode": "04031"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "(D1, D9, D10)",
+        "quantity": "3.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "OPA2544T",
+        "location": "IC10",
+        "quantity": "1.00",
+        "stockcode": "06019"
+    },
+    {
+        "description": "SPNO pins for pcb",
+        "location": "(SW1, SW2, SW3, SW4)",
+        "quantity": "4.00",
+        "stockcode": "07006"
+    },
+    {
+        "description": "Relay  Hamlin HE3621A0510",
+        "location": "RL2,  RL3",
+        "quantity": "2.00",
+        "stockcode": "07042"
+    },
+    {
+        "description": "Relay",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "07044"
+    },
+    {
+        "description": "267 relay",
+        "location": "RL4",
+        "quantity": "1.00",
+        "stockcode": "07070"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "CD ",
+        "quantity": "2.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 22pF ceramic plate",
+        "location": "C6 , C7",
+        "quantity": "2.00",
+        "stockcode": "08047"
+    },
+    {
+        "description": "Capacitor 1uF 50V",
+        "location": "C14",
+        "quantity": "1.00",
+        "stockcode": "08058"
+    },
+    {
+        "description": "Capacitor 220n",
+        "location": "(C1, 2, 3 FP)",
+        "quantity": "3.00",
+        "stockcode": "08073"
+    },
+    {
+        "description": "20MHz crystal",
+        "location": "XTAL",
+        "quantity": "1.00",
+        "stockcode": "08117"
+    },
+    {
+        "description": "16 way bump polarised socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10007"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "28-Way x 0.3\" DIL Socket",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "10053"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "IC5",
+        "quantity": "1.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "16 way boxed header",
+        "location": "conn1",
+        "quantity": "1.00",
+        "stockcode": "10101"
+    },
+    {
+        "description": "16 Way IDC PCB Mounting",
+        "location": "(PL1 FP)",
+        "quantity": "1.00",
+        "stockcode": "10120"
+    },
+    {
+        "description": "Tyco 3 way header with catch",
+        "location": "I2C1 , I2C2",
+        "quantity": "2.00",
+        "stockcode": "10300"
+    },
+    {
+        "description": "15004 issue 5 board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15033"
+    },
+    {
+        "description": "PCB 225 spacer M3x20",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15053"
+    },
+    {
+        "description": "pcb  \" 267 FP \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15056"
+    },
+    {
+        "description": "477 Front Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16012"
+    },
+    {
+        "description": "267 Mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17188"
+    },
+    {
+        "description": "267 Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17189"
+    },
+    {
+        "description": "PIC16F876A-I/SP",
+        "location": "IC1 (do not fit, to be programmed)",
+        "quantity": "1.00",
+        "stockcode": "20002"
+    },
+    {
+        "description": "TLE2061AC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "20003"
+    },
+    {
+        "description": "TLC372CP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "20004"
+    },
+    {
+        "description": "DG409ACJ",
+        "location": "IC5",
+        "quantity": "1.00",
+        "stockcode": "21033"
+    },
+    {
+        "description": "Modification to 417 to use 477-HI",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ZZ_417_477-HI_PSU-MOD"
+    }
+]

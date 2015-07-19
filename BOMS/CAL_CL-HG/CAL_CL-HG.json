@@ -1,0 +1,62 @@
+[
+    {
+        "description": "Hg-Cal PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17280"
+    },
+    {
+        "description": "Hg-Cal TUBE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17281"
+    },
+    {
+        "description": "Hg-Cal LAMP END",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17282"
+    },
+    {
+        "description": "Hg-Cal END",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17283"
+    },
+    {
+        "description": "Hg-Cal PILLAR",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17284"
+    },
+    {
+        "description": "Sleeved Grommets (bag of 50)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19019"
+    },
+    {
+        "description": "Low Presssure Hg Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19100"
+    },
+    {
+        "description": "P clip 6.4mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19101"
+    },
+    {
+        "description": "E27 Lampholder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19102"
+    },
+    {
+        "description": "Flying lead with IEC plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19103"
+    }
+]

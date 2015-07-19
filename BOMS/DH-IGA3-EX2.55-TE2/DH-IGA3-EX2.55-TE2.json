@@ -1,0 +1,56 @@
+[
+    {
+        "description": "InGaAs PIN Photodiode 2.55um 2 stage TE TO-8 package",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09155"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Connector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42526"
+    },
+    {
+        "description": "NPL cooled InGaAs body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45179"
+    },
+    {
+        "description": "NPL Cooled InGaAs retainer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45181"
+    },
+    {
+        "description": "NPL InGaAs Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45182"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB17"
+    },
+    {
+        "description": "Cable for chopper and cooled detectors (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB7"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Schrader Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42093"
+    },
+    {
+        "description": "Schrader Base Plate Long Extrusion",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42094"
+    },
+    {
+        "description": "Schrader Base Plate Short Extrusion",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42095"
+    }
+]

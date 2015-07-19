@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Fixed slit block MkII",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11083"
+    },
+    {
+        "description": "Fixed slit lid MkII",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11085"
+    },
+    {
+        "description": "Lens retaining ring",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11215"
+    },
+    {
+        "description": "Fixed Slit Assembly with Circular Aperture (0.12mm Diameter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FA(0.12)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Circular Aperture (0.35mm Diameter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FA(0.35)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Circular Aperture (1.17mm Diameter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FA(1.17)"
+    },
+    {
+        "description": "Iris Diaphragm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13068"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "Split ring for TGK filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "NA5155"
+    }
+]

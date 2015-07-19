@@ -1,0 +1,4 @@
+INTERFACE_USB-I2C,10299,Tyco 2 way header with catch,,0,2.00,,,,,
+INTERFACE_USB-I2C,10300,Tyco 3 way header with catch,,1,1.00,,,,,
+INTERFACE_USB-I2C,10301,Tyco 5 way header with catch,,2,1.00,,,,,
+INTERFACE_USB-I2C,15084_M1,Assembled USB PCB,,3,1.00,,,,,

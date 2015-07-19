@@ -1,0 +1,38 @@
+[
+    {
+        "description": "UV silicon / InGaAs sandwich, 5mm on 3mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09147"
+    },
+    {
+        "description": "PRO POWER - PV2 GROMMET PK 100 - GROMMET, 8MM, PK100",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10030"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "BNC barrel connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10099"
+    },
+    {
+        "description": "Edinburgh BAM detector mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44038"
+    },
+    {
+        "description": "BAM detector lid",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44168"
+    }
+]

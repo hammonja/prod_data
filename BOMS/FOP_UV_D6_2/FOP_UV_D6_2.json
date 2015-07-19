@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Fibre to slit interface",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12015"
+    },
+    {
+        "description": "'O'RING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12082"
+    },
+    {
+        "description": "FOP(UV) ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12092"
+    },
+    {
+        "description": "Thumb screw M3 x 12 DYED BLACK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13095"
+    },
+    {
+        "description": "UV fibre 180nm to > 1350nm , 2m long 6mm to 10.5x2.5mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45216"
+    }
+]

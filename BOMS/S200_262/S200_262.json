@@ -1,0 +1,296 @@
+[
+    {
+        "description": "1M, MRS25",
+        "location": "R6",
+        "quantity": "1.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "100K, 0.25W, MF, 0.1%",
+        "location": "R4",
+        "quantity": "1.00",
+        "stockcode": "02072"
+    },
+    {
+        "description": "100K Resnet x 7 SIL",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02107"
+    },
+    {
+        "description": "Resnet - Beckman Insruments",
+        "location": "R5, 7",
+        "quantity": "2.00",
+        "stockcode": "02108"
+    },
+    {
+        "description": "220K Resnet x 7 SIL 4608X-101",
+        "location": "R3",
+        "quantity": "1.00",
+        "stockcode": "02220"
+    },
+    {
+        "description": "7 x 330R",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02246"
+    },
+    {
+        "description": "1N4148",
+        "location": "D10 to 27 inclusive",
+        "quantity": "18.00",
+        "stockcode": "04007"
+    },
+    {
+        "description": "LED yellow right angle mount",
+        "location": "D1, 2, 3, 4, 6, 7, 8, 9",
+        "quantity": "8.00",
+        "stockcode": "04026"
+    },
+    {
+        "description": "LED green right angle mount",
+        "location": "D5",
+        "quantity": "1.00",
+        "stockcode": "04027"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "3V version of 07044 for 262",
+        "location": "RL1, 2, 3, 4, 5, 6, 7, 8",
+        "quantity": "8.00",
+        "stockcode": "07002"
+    },
+    {
+        "description": "bit switch",
+        "location": "SW7",
+        "quantity": "1.00",
+        "stockcode": "07023"
+    },
+    {
+        "description": "Push button",
+        "location": "SW1, 2, 3, 4, 5, 6",
+        "quantity": "6.00",
+        "stockcode": "07045"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "Regulator  mod",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, 3, 6  C9 to 18 inclusive",
+        "quantity": "13.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 220pF Ceramic Plate",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08048"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C19",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "Regulator  mod",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 27pF ceramic plate",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08057"
+    },
+    {
+        "description": "Capacitor 100pF",
+        "location": "C4",
+        "quantity": "1.00",
+        "stockcode": "08062"
+    },
+    {
+        "description": "Capacitor 2.2uF",
+        "location": "C7, 8",
+        "quantity": "2.00",
+        "stockcode": "08065"
+    },
+    {
+        "description": "Ceramic resonator 2MHz",
+        "location": "XTAL1",
+        "quantity": "1.00",
+        "stockcode": "08090"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "IC9",
+        "quantity": "1.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "20 Way DIL socket",
+        "location": "IC4, 14",
+        "quantity": "2.00",
+        "stockcode": "10020"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "14 Way DIL Socket Low Profile 0.3\"",
+        "location": "IC6, 7, 8, 11, 12, 15",
+        "quantity": "6.00",
+        "stockcode": "10054"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "IC1, 2, 5, 10",
+        "quantity": "4.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "connector 40-Way DIL socket",
+        "location": "IC3",
+        "quantity": "1.00",
+        "stockcode": "10057"
+    },
+    {
+        "description": "Connector 26-Way boxed header",
+        "location": "PL1",
+        "quantity": "1.00",
+        "stockcode": "10080"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Connector 24-Way DIL 0.3",
+        "location": "IC13",
+        "quantity": "1.00",
+        "stockcode": "10115"
+    },
+    {
+        "description": "36 way jumper",
+        "location": "J1, 2, 3, 4, 5, 6",
+        "quantity": "1.00",
+        "stockcode": "10131"
+    },
+    {
+        "description": "Jumper",
+        "location": "J1, 2, 3, 4, 5, 6",
+        "quantity": "10.00",
+        "stockcode": "10132"
+    },
+    {
+        "description": "pcb  \" 262 ISS 2 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15060"
+    },
+    {
+        "description": "462 Front Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16131"
+    },
+    {
+        "description": "262 Mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17262"
+    },
+    {
+        "description": "262 Spacer (15072 trimmed to 21.3/21.5)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "17263"
+    },
+    {
+        "description": "PALC22V10-25PC",
+        "location": "IC13",
+        "quantity": "1.00",
+        "stockcode": "20007"
+    },
+    {
+        "description": "74hct14",
+        "location": "IC6, 8",
+        "quantity": "2.00",
+        "stockcode": "20027"
+    },
+    {
+        "description": "IC 74HC238P or N",
+        "location": "IC5",
+        "quantity": "1.00",
+        "stockcode": "20038"
+    },
+    {
+        "description": "SN 74LS640 1N",
+        "location": "IC4",
+        "quantity": "1.00",
+        "stockcode": "20045"
+    },
+    {
+        "description": "7438N",
+        "location": "IC15",
+        "quantity": "1.00",
+        "stockcode": "20046"
+    },
+    {
+        "description": "IC 74HC132",
+        "location": "IC7",
+        "quantity": "1.00",
+        "stockcode": "20047"
+    },
+    {
+        "description": "SN74HC193N",
+        "location": "IC10",
+        "quantity": "1.00",
+        "stockcode": "20050"
+    },
+    {
+        "description": "CD4014BE",
+        "location": "IC1, 2",
+        "quantity": "2.00",
+        "stockcode": "21007"
+    },
+    {
+        "description": "HEF4738VP",
+        "location": "IC3",
+        "quantity": "1.00",
+        "stockcode": "21017"
+    },
+    {
+        "description": "74HC74 (Philips only)",
+        "location": "IC11, 12",
+        "quantity": "2.00",
+        "stockcode": "21040"
+    },
+    {
+        "description": "8 way buffer",
+        "location": "IC14",
+        "quantity": "1.00",
+        "stockcode": "21052"
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "DTMS power connector 3way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10012"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "IP68 mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10292"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "BINDER - 09 0306 00 03 - SOCKET, FREE, 3WAY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10329"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "252 6-Position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11071_P1"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "BG38, 25mm dia x 3mm (upper tolerance on diameter 25.1mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13603"
+    },
+    {
+        "description": "Fused silica (200nm), 25mm dia x 3mm (max. 25.1mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13605"
+    },
+    {
+        "description": "OG590, 25mm dia x 3mm (upper tolerance on diameter 25.1mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13606"
+    },
+    {
+        "description": "Spacer NS 06-M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15013"
+    },
+    {
+        "description": "M-F spacer, metal, M3 (Purchased in packs of 25)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15098"
+    },
+    {
+        "description": "Pcb for slit limit assy",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15108"
+    },
+    {
+        "description": "Pcb for motor sensor in TMS slit drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15109"
+    },
+    {
+        "description": "Ferrite bead for EI cooled housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18021"
+    },
+    {
+        "description": "SparkFun L6470 Auto Driver Stepping Board",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "18142"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "TMs300 'O' ring  (packs of 5)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19269"
+    },
+    {
+        "description": "Bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19291"
+    },
+    {
+        "description": "GDAY 035 X20 B21 (24V)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30043"
+    },
+    {
+        "description": "M4 x 10 flat ended grub, black.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30048"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TMs300 motor slit sprocket, 5mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30234"
+    },
+    {
+        "description": "TMs300 Filter Wheel Mounting Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30237"
+    },
+    {
+        "description": "TMs300 Filter Wheel Shaft (fi 99904, 1 length per 20 items)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30238"
+    },
+    {
+        "description": "26 MT SPROCKET 5mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30243F"
+    },
+    {
+        "description": "26 MT SPROCKET 1/4 inch bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30243F2"
+    },
+    {
+        "description": "TMs300 SAM pillars. M4 x 20.",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30246"
+    },
+    {
+        "description": "TMs300 slit sprocket, 4mm bore",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30252"
+    },
+    {
+        "description": "TMs300 SAM support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30297"
+    },
+    {
+        "description": "TMs300 slit drive opto bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41020"
+    },
+    {
+        "description": "Leybold Slit Plate",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "44177"
+    },
+    {
+        "description": "Leybold filterwheel bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45078"
+    },
+    {
+        "description": "Belt for Leybold monochromator filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45079"
+    },
+    {
+        "description": "Leybold Slit drive belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45081"
+    },
+    {
+        "description": "Leybold OEM baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45082"
+    },
+    {
+        "description": "Leybold SAM Mirror Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45083"
+    },
+    {
+        "description": "Leybold OEM base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45085"
+    },
+    {
+        "description": "Modified Leybold baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45106"
+    },
+    {
+        "description": "Leybold entrance bafflle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45107"
+    },
+    {
+        "description": "Leybold Connector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45151"
+    },
+    {
+        "description": "DSPIN Mounting Plate Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45254"
+    },
+    {
+        "description": "In-house modifiied 30281",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46050"
+    },
+    {
+        "description": "Leybold Limit Switch/yoke Mounting Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46103"
+    },
+    {
+        "description": "1m standard USB cable",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USB_1M"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1900nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U9"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 300nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U3"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Finished housing for Leybold monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "LEYBOLD_HOUSING"
+    },
+    {
+        "description": "Front fixing reverse jaw MVSS variant for leybold",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "LEYBOLD_SLIT_ASSY"
+    },
+    {
+        "description": "LOM190 Collimating Mirror with Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "LOM190_COLLIMATING_MIRROR"
+    },
+    {
+        "description": "Parts for LOM190 Focussing Mirror with Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "LOM190_FOCUSSING_MIRROR_PARTS"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1100"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1700"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET"
+    },
+    {
+        "description": "Slit limit assembly for TMS type monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_SLIT-LIMIT-ASSY"
+    }
+]

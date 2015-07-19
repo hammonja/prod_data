@@ -1,0 +1,74 @@
+[
+    {
+        "description": "DSA body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12117"
+    },
+    {
+        "description": "DSA fibre end",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12118"
+    },
+    {
+        "description": "DSA spacer tube set (2 items)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12119P"
+    },
+    {
+        "description": "DSA 2 degree baffle - rear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45236"
+    },
+    {
+        "description": "DSA shoulder ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12122"
+    },
+    {
+        "description": "DSA 2 degree baffle - front",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45237"
+    },
+    {
+        "description": "Polypropylene Case 225 x 200 x 70 for CL2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25054"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30047"
+    },
+    {
+        "description": "O ring for DSA (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99030"
+    },
+    {
+        "description": "DWD DSA MOUNT",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "45232"
+    },
+    {
+        "description": "DSA Window Holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45233"
+    },
+    {
+        "description": "Window, dia 20mm +0, -0.1,  1mm thick, silica (min 280nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13576"
+    }
+]

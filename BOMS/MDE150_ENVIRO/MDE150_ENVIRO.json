@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Temperature Sens AD590KH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09056"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "EBOX_MONITOR pcb ( needs up issue to version 2 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15096"
+    },
+    {
+        "description": "M-F spacer, metal, M3 (Purchased in packs of 25)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15098"
+    },
+    {
+        "description": "MDE150_ENVIROBOX Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50054"
+    },
+    {
+        "description": "MDE150 Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MDE150_COMMON_PARTS"
+    }
+]

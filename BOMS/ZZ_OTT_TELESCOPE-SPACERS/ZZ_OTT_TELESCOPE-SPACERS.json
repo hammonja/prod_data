@@ -1,0 +1,38 @@
+[
+    {
+        "description": "TEL 301 front Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41929"
+    },
+    {
+        "description": "125mm Extension Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41935"
+    },
+    {
+        "description": "100mm Extension Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41936"
+    },
+    {
+        "description": "TEL 301 Threaded Adapter Modificarion",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42155F"
+    },
+    {
+        "description": "TEL 301 Threaded Adapter Modificarion",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42155P"
+    },
+    {
+        "description": "Thread Adapter",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42158"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "USB cable 2m long",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "CAB-USB"
+    },
+    {
+        "description": "Mini usb cable 3m long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB_USB_MINI_3M"
+    },
+    {
+        "description": "Mains cable - British plug connector",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "23011"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 560mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB16"
+    }
+]

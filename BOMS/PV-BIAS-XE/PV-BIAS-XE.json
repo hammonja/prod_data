@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Multibranch fibre for bias source in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43316"
+    },
+    {
+        "description": "PV bias xe source cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43932"
+    },
+    {
+        "description": "PV-BIAS-XE Base Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV-BIAS-XE-BASE"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_VSS"
+    }
+]

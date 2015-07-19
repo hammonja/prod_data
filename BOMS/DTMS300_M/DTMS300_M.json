@@ -1,0 +1,332 @@
+[
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "DTMS power connector 3way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10012"
+    },
+    {
+        "description": "3 way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10094"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "M300 Plain mirror mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11121"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "M300 curved mirror mount",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11123"
+    },
+    {
+        "description": "M300 Mirror Retaining Block",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11124"
+    },
+    {
+        "description": "M300 Mounting plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11134"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "O ring. Pack of 100 (book in to make total qty delivered)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11292"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "Ferrite bead for EI cooled housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18021"
+    },
+    {
+        "description": "USB cable ferrite",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18102"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "M300 Curved Mirror.  AL coating (350-600nm)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19699"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  AL coating (350-600nm)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19703"
+    },
+    {
+        "description": "GDAY 035 X20 B21 (24V)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30043"
+    },
+    {
+        "description": "TMs300 motor slit sprocket, 5mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30234"
+    },
+    {
+        "description": "TMs300 SAM mirror mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30244"
+    },
+    {
+        "description": "TMs300 SAM pillars. M4 x 20.",
+        "location": " ",
+        "quantity": "6.00",
+        "stockcode": "30246"
+    },
+    {
+        "description": "TMs300 slit body cover",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30251"
+    },
+    {
+        "description": "TMs300 slit sprocket, 4mm bore",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "30252"
+    },
+    {
+        "description": "TMs300 slit blanking plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30270"
+    },
+    {
+        "description": "TMs300 SAM support",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30297"
+    },
+    {
+        "description": "DTMs300 Base Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30331"
+    },
+    {
+        "description": "DTMs300 Connector Blanking Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30334"
+    },
+    {
+        "description": "DTMs300 Centre Baffle Aperture Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30335"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30337"
+    },
+    {
+        "description": "DTMs300 Drive Belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30338"
+    },
+    {
+        "description": "1st Half Exit Baffle (Order with 30340)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30339"
+    },
+    {
+        "description": "DTMs300 2nd Half Entrance Baffle (Order with 30339)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30340"
+    },
+    {
+        "description": "DTMs300 Lid Gasket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30341"
+    },
+    {
+        "description": "DTMs300 Connector Plate R/H Exitation",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30343"
+    },
+    {
+        "description": "Alternative slit blanking plate for TMS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30472"
+    },
+    {
+        "description": "TMs300 baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41007"
+    },
+    {
+        "description": "TMs300 Entrance Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41018"
+    },
+    {
+        "description": "TMs300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41019"
+    },
+    {
+        "description": "TMs300 blank slit position cover plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41021"
+    },
+    {
+        "description": "TMs300 slit support cover plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41023"
+    },
+    {
+        "description": "Gasket for use with blanking plate 30270",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45213"
+    },
+    {
+        "description": "Gasket for use with blanking plate 30472",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45214"
+    },
+    {
+        "description": "Slit drive assembly for DTMS monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTMS_SLIT_DRIVE"
+    },
+    {
+        "description": "DTMS300 housing in Edinburgh beige / Nextel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTMS300_HOUSING_B"
+    },
+    {
+        "description": "Faraday cage for usb board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FARADAY_CAGE"
+    },
+    {
+        "description": "All drives populated, 1 turret, 2 turret & 3 slits",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IMAC_CARD_DTMS"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 400nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U4"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET"
+    },
+    {
+        "description": "Slit limit assembly for TMS type monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_SLIT-LIMIT-ASSY"
+    },
+    {
+        "description": "TMS300 shutter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS300_SHUTTER"
+    },
+    {
+        "description": "TMS300 slit assembly",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TMS300_SLIT"
+    }
+]

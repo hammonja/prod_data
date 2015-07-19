@@ -1,0 +1,32 @@
+[
+    {
+        "description": "CaF2 lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42924"
+    },
+    {
+        "description": "Amfax entrance optic (3  ITEMS)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42925"
+    },
+    {
+        "description": "Amfax lens split ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42926"
+    },
+    {
+        "description": "Off axis parabolic reflector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42930"
+    },
+    {
+        "description": "Amfax entr optic end cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42931"
+    }
+]

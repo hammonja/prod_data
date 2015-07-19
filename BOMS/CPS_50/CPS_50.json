@@ -1,0 +1,308 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "0R1, 25W",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02005"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R8",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "2k2 MRS25",
+        "location": "R20",
+        "quantity": "1.00",
+        "stockcode": "02024"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R6, 18, 19 and 2 for chassis",
+        "quantity": "5.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "47K5 MRS25",
+        "location": "R9, 12",
+        "quantity": "2.00",
+        "stockcode": "02041"
+    },
+    {
+        "description": "100K MRS25",
+        "location": "R11",
+        "quantity": "1.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "150K MRS25",
+        "location": "R3, 14",
+        "quantity": "2.00",
+        "stockcode": "02045"
+    },
+    {
+        "description": "300K MRS25",
+        "location": "R10",
+        "quantity": "1.00",
+        "stockcode": "02119"
+    },
+    {
+        "description": "15K8, MRS25",
+        "location": "R4",
+        "quantity": "1.00",
+        "stockcode": "02124"
+    },
+    {
+        "description": "19K6, MRS25",
+        "location": "R13",
+        "quantity": "1.00",
+        "stockcode": "02125"
+    },
+    {
+        "description": "68K, MRS25",
+        "location": "R7",
+        "quantity": "1.00",
+        "stockcode": "02128"
+    },
+    {
+        "description": "402K, 0.25W, MF, 1%",
+        "location": "R15",
+        "quantity": "1.00",
+        "stockcode": "02229"
+    },
+    {
+        "description": "MRS25 866k",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02230"
+    },
+    {
+        "description": "475K MRS25",
+        "location": "R16",
+        "quantity": "1.00",
+        "stockcode": "02231"
+    },
+    {
+        "description": "137K,0.1%, RC55Y",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02232"
+    },
+    {
+        "description": "1K .75W Cermet PCB mounting",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "03008"
+    },
+    {
+        "description": "100K pot",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03027"
+    },
+    {
+        "description": "Zener diode 500MW 5.1V",
+        "location": "D1",
+        "quantity": "1.00",
+        "stockcode": "04010"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "KBPC25005 bridge rectifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05013"
+    },
+    {
+        "description": "Big FET  STW45NM50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "06013"
+    },
+    {
+        "description": "ATE1D (CPS2)",
+        "location": "SW1",
+        "quantity": "1.00",
+        "stockcode": "07033"
+    },
+    {
+        "description": "Knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07034"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, 2, 5, 6, 7",
+        "quantity": "5.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C8",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "Mod to regulator",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 47000uF, 40V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08055"
+    },
+    {
+        "description": "Capacitor 1nF 100v boxed polyester",
+        "location": "C3, 4",
+        "quantity": "2.00",
+        "stockcode": "08059"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "IC1, 2, 3",
+        "quantity": "3.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "25 way D plug + 3 x 20A connections",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10210"
+    },
+    {
+        "description": "25 way D socket + 3 x 20A connections",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10211"
+    },
+    {
+        "description": "20A Straight plug Power 'D'",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10212"
+    },
+    {
+        "description": "Socket straight Power 'D' 20A",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10213"
+    },
+    {
+        "description": "25 way black cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10214"
+    },
+    {
+        "description": "pcb  \" CPS2 Iss 2 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15050"
+    },
+    {
+        "description": "CPS50 front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16052"
+    },
+    {
+        "description": "CPS-50 REAR PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16053"
+    },
+    {
+        "description": "G-Stiffener short",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17013"
+    },
+    {
+        "description": "PMC3B BASE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17026"
+    },
+    {
+        "description": "Heat sink for CPS50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17175F"
+    },
+    {
+        "description": "Heat sink for CPS50",
+        "location": "",
+        "quantity": "0.50",
+        "stockcode": "17175P"
+    },
+    {
+        "description": "CPS2 Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17320"
+    },
+    {
+        "description": "Lascar DPM 125",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18019"
+    },
+    {
+        "description": "Transformer 160VA. 12Vac, 12Vac",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18081"
+    },
+    {
+        "description": "TLC27L7CP",
+        "location": "IC2, 3",
+        "quantity": "2.00",
+        "stockcode": "20034"
+    },
+    {
+        "description": "REF01CP",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "20058"
+    }
+]

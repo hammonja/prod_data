@@ -1,0 +1,44 @@
+[
+    {
+        "description": "FOVL Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46757"
+    },
+    {
+        "description": "FOVL Aperture Pairs Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46758_P1"
+    },
+    {
+        "description": "\u00d812.7 mm Universal Post Holder, Locking Thumbs L =75 mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46762"
+    },
+    {
+        "description": "Diff D7 Fovl  Bentham Logo sticker",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46780_M1"
+    },
+    {
+        "description": "Adapter with External M6 x 1.0 Threads and External M4 x 0.7",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46815"
+    },
+    {
+        "description": "\u00d812.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 100 mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46816"
+    },
+    {
+        "description": "FOVL Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50049"
+    }
+]

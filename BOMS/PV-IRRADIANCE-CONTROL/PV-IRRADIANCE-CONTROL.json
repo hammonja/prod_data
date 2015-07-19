@@ -1,0 +1,188 @@
+[
+    {
+        "description": "Connector 15 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10113"
+    },
+    {
+        "description": "Cable cover 15 way",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10171"
+    },
+    {
+        "description": "Lemo, 8 way, chassis socket, green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10288"
+    },
+    {
+        "description": "Lemo, 8 way, cable plug, green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10289"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "TEL309 Large Gear Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19486_M1"
+    },
+    {
+        "description": "Stripbush, 838mm x 17.4mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19878"
+    },
+    {
+        "description": "Machined Timing Pulley",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30045_M2"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TMs300 Slit Bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30253"
+    },
+    {
+        "description": "Belt for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43392"
+    },
+    {
+        "description": "Continuously variable ND filter ND 0-2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44234"
+    },
+    {
+        "description": "8mm to 6mm reducer for 9990 Filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44250"
+    },
+    {
+        "description": "Dual ND  FWHEEL LIMIT BUMP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44257"
+    },
+    {
+        "description": "MSH150 FilterWheel Micro-Switch Bracket.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44371"
+    },
+    {
+        "description": "CDT IR Exit Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45437"
+    },
+    {
+        "description": "CDT IR Ent Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45440"
+    },
+    {
+        "description": "PV IR Control Slit Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45441"
+    },
+    {
+        "description": "PV JUNCTION PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45443"
+    },
+    {
+        "description": "CDT IR Control Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45444"
+    },
+    {
+        "description": "TAOSII ND Timing Belt Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46431"
+    },
+    {
+        "description": "PV IR Control Leg",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46794"
+    },
+    {
+        "description": "CDT Slit Spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46795"
+    },
+    {
+        "description": "CDT IR Control Spacer Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46796"
+    },
+    {
+        "description": "ND Wheel Spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46797"
+    },
+    {
+        "description": "CDT ND FW Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46798"
+    },
+    {
+        "description": "CDT ND Cover Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46799"
+    },
+    {
+        "description": "Cover Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46800"
+    },
+    {
+        "description": "Cover Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46817"
+    },
+    {
+        "description": "PV-IRRADIANCE-CONTROL Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50065"
+    }
+]

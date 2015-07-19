@@ -1,0 +1,14 @@
+[
+    {
+        "description": "PIC18F4550-I/PT",
+        "location": "Free issue to Newbury",
+        "quantity": "1.00",
+        "stockcode": "20012"
+    },
+    {
+        "description": "USB to I2C interface to make 15084_M1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15084"
+    }
+]

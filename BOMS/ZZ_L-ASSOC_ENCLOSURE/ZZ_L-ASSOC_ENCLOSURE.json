@@ -1,0 +1,392 @@
+[
+    {
+        "description": "Large plane mirror for Lighting Association (350x350x6mm)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11408"
+    },
+    {
+        "description": "Bosch 8mm groove M6 'T' nut",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "19280"
+    },
+    {
+        "description": "Bosch 30mm Extrusion Bracket",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "19281"
+    },
+    {
+        "description": "Door catch",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "19303"
+    },
+    {
+        "description": "Bosch 3 way cube connectors (30m x 30mm)",
+        "location": "",
+        "quantity": "28.00",
+        "stockcode": "19309"
+    },
+    {
+        "description": "Bosch 2 way cube connectors (30m x 30mm)",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "19313"
+    },
+    {
+        "description": "Bosch M4 for 8mm profile",
+        "location": "",
+        "quantity": "141.00",
+        "stockcode": "19372"
+    },
+    {
+        "description": "Bosch 30mm extrusion 45 degree angle block",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19373"
+    },
+    {
+        "description": "Bosch handle 8/10mm Groove version",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19378"
+    },
+    {
+        "description": "T-end Connector for 30mm Extrusion",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "19405"
+    },
+    {
+        "description": "Lighting Associating Gimble Lid",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42436"
+    },
+    {
+        "description": "Lighting Associating Gimble Side Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42437"
+    },
+    {
+        "description": "Lighting Associating Gimble End Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42438"
+    },
+    {
+        "description": "Lighting Associating Extrusion length 1160mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42439"
+    },
+    {
+        "description": "Lighting Associating Gimble Side to Side Extrusion",
+        "location": "",
+        "quantity": "9.00",
+        "stockcode": "42440"
+    },
+    {
+        "description": "Lighting Associating Gimble Upright Extrusion",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "42441"
+    },
+    {
+        "description": "Lighting Associating Gimble Front to Rear Extrusion Seal",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42442"
+    },
+    {
+        "description": "Lighting Associating Gimble Side to Side Extrusion Seal",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "42443"
+    },
+    {
+        "description": "Lighting Associating Gimble Upright Extrusion Seal",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "42444"
+    },
+    {
+        "description": "Lighting Association Main Chamber Cover Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42445"
+    },
+    {
+        "description": "Lighting Association Main Chamber Cover Side to Side Extrusi",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42446"
+    },
+    {
+        "description": "Lighting Association Main Chamber Cover Upright Extrusion",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42447"
+    },
+    {
+        "description": "Lighting Assoc Main Chambr Cover Side to Side Extrusion Seal",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42448"
+    },
+    {
+        "description": "Lighting Association Main Chamber Cover Upright Extru Seal",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42449"
+    },
+    {
+        "description": "Lighting Association Main Chamber Side Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42450"
+    },
+    {
+        "description": "Lighting Association Main Chamber Internal Exit Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42451"
+    },
+    {
+        "description": "Lighting Association Main Chamber Rear Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42452"
+    },
+    {
+        "description": "Lighting Association Main Chamber Floor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42453"
+    },
+    {
+        "description": "Lighting Association Main Chamber Top Baffle Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42454"
+    },
+    {
+        "description": "Lighting Association Main Chamber Middle Baffle Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42455"
+    },
+    {
+        "description": "Lighting Association Main Chamber Bottom Baffle Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42456"
+    },
+    {
+        "description": "Lighting Association Small Chamber Top Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42457"
+    },
+    {
+        "description": "Lighting Association Small Chamber Top Baffle Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42458"
+    },
+    {
+        "description": "Lighting Association Small Chamber Middle Baffle Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42459"
+    },
+    {
+        "description": "Lighting Association Small Chamber Bottom Baffle Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42460"
+    },
+    {
+        "description": "Lighting Association Small Chamber Rear Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42461"
+    },
+    {
+        "description": "Lighting Association Main Chamber Upright Extrusion",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42462"
+    },
+    {
+        "description": "Lighting Association Main Chamber Upright Extrusion Seal",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "42463"
+    },
+    {
+        "description": "Lighting Association Short Main Chamber Upright Extrusion",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42464"
+    },
+    {
+        "description": "Lighting Association Short Main Chamber Upright Extru Seal",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42465"
+    },
+    {
+        "description": "Lighting Association Main Chamber Side Plate Exit Side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42466"
+    },
+    {
+        "description": "Lighting Association Baffle Front to Rear Support Extrusion",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "42467"
+    },
+    {
+        "description": "Lighting Association Baffle Front to Rear Supt Extru Seal",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "42468"
+    },
+    {
+        "description": "Lighting Association Baffle Side to Side Support Extrusion",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42469"
+    },
+    {
+        "description": "Lighting Association Baffle Side to Side Support Extru Seal",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42470"
+    },
+    {
+        "description": "Lighting Association Main Chamber Long Front to Rear Extru",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42471"
+    },
+    {
+        "description": "Lighting Association Main Chamber Lg Front to Rear Extr Seal",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "42472"
+    },
+    {
+        "description": "Lighting Association Main Chamber Side to Side Support Extru",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42473"
+    },
+    {
+        "description": "Lighting Association Main Chmbr Side to Side Supt Extru Seal",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "42474"
+    },
+    {
+        "description": "Lighting Association Main Chamber Short Front to Rear Extrus",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "42476"
+    },
+    {
+        "description": "Lighting Association Main Chamber Front to Rear Extrus Seal",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "42477"
+    },
+    {
+        "description": "Lighting Association Corner Support Block",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42478"
+    },
+    {
+        "description": "Lighting Association Centre Support Block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42479"
+    },
+    {
+        "description": "Lighting Association Corner Baffle Plates",
+        "location": "",
+        "quantity": "24.00",
+        "stockcode": "42480"
+    },
+    {
+        "description": "Lighting Associating Long Side to Side Sealing Extrusion",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42482"
+    },
+    {
+        "description": "Lighting Associating Short Side to Side Sealing Extrusion",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42483"
+    },
+    {
+        "description": "Lighting Associating Detector Mounting Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42484"
+    },
+    {
+        "description": "Lighting Association Chamber Cover Locating Plates",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "42485"
+    },
+    {
+        "description": "Lighting Association Mirror Support Long Extrusion",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42486"
+    },
+    {
+        "description": "Lighting Association Mirror Support Short Extrusion",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42487"
+    },
+    {
+        "description": "Lighting Association Mirror Support Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42488"
+    },
+    {
+        "description": "Lighting Associating Gimble Back Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42494"
+    },
+    {
+        "description": "Shelf for LA enclosure",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42591"
+    },
+    {
+        "description": "TM600 Support Foot Studding (gah)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "60099"
+    },
+    {
+        "description": "TM600 Self Levelling Foot",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "60100"
+    }
+]

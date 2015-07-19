@@ -1,0 +1,32 @@
+[
+    {
+        "description": "D2 Lamp PTFE sleeve",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17091"
+    },
+    {
+        "description": "Deuterium Lamp  M XD 5655-03",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27441"
+    },
+    {
+        "description": "D2 bulb mount clamp",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45199"
+    },
+    {
+        "description": "CL7 Upgrade Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46765"
+    },
+    {
+        "description": "D2-CL7-UPGRADE Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50050"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "description": "Stepping motor for FW in MDC150  (8425884 used for e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18132"
+    },
+    {
+        "description": "P clip 6.4mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19101"
+    },
+    {
+        "description": "Large Gear for ND Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19486_M2"
+    },
+    {
+        "description": "Machined Timing Pulley",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30045_M2"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "TMs300 Slit Bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30253"
+    },
+    {
+        "description": "Ninewells fibre holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42967"
+    },
+    {
+        "description": "Belt for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43392"
+    },
+    {
+        "description": "Circular  ND Filter, UV SILCA 100mm 0-1OD NEWPORT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44243"
+    },
+    {
+        "description": "THORLABS 1.035-40 Retainin Ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44247"
+    },
+    {
+        "description": "9990 ND Filter Shaft ( FREE ISSUE 99903 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44248"
+    },
+    {
+        "description": "8mm to 6mm reducer for 9990 Filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44250"
+    },
+    {
+        "description": "9990 Filter Spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44252"
+    },
+    {
+        "description": "9990 ND Filter Spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44253"
+    },
+    {
+        "description": "FW ND SINGLE TOP PLATE ( Free Issue 1 x 30253 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44256"
+    },
+    {
+        "description": "Dual ND  FWHEEL LIMIT BUMP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44257"
+    },
+    {
+        "description": "FW ND SINGLE BODY ( Free Issue 1 x 30253 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44258"
+    }
+]

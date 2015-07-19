@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Colimator 1 lens tube 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11213"
+    },
+    {
+        "description": "Collimator 2 lens tube 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11239"
+    },
+    {
+        "description": "Lens, ach, 40 dia x 160f",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12192"
+    },
+    {
+        "description": "Lens 25 dia x 25 fl, BK7",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13078"
+    },
+    {
+        "description": "Colimator Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "COL_COMMON_PARTS"
+    }
+]

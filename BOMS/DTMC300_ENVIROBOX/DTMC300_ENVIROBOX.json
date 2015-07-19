@@ -1,0 +1,212 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "Neon indicator RED 200-250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04040"
+    },
+    {
+        "description": "Mains Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07050"
+    },
+    {
+        "description": "Actuator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07051"
+    },
+    {
+        "description": "T switch in series with Pelts. on E-box",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "07055"
+    },
+    {
+        "description": "Bulkhead 9 way socket (through hole)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10027"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Dust cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10142"
+    },
+    {
+        "description": "BS4343 Mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10152"
+    },
+    {
+        "description": "BS4343 Mains inlet free socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10153"
+    },
+    {
+        "description": "Fuse holder panel mounting FPG2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10186"
+    },
+    {
+        "description": "Plug mains male right angle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10192"
+    },
+    {
+        "description": "IP68 mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10292"
+    },
+    {
+        "description": "Sealing cap for mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10293"
+    },
+    {
+        "description": "Right angle, re-wireable IEC socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10306"
+    },
+    {
+        "description": "Bentham Logo plate (silk screened)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16098"
+    },
+    {
+        "description": "EnviroBox Power Inlet Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17777_M1"
+    },
+    {
+        "description": "Grommet 6.4 Dia. cable hole",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19051"
+    },
+    {
+        "description": "Fastener self clinch M4",
+        "location": "",
+        "quantity": "14.00",
+        "stockcode": "19086"
+    },
+    {
+        "description": "Cable gland PG13.5",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19128"
+    },
+    {
+        "description": "THP360X-300CA12-200-CA12/25 (no thermal switch)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19222"
+    },
+    {
+        "description": "Zarges case (Ext 950 x 690 x 480)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19274"
+    },
+    {
+        "description": "Machining Operation To Produce 19274_M1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46428"
+    },
+    {
+        "description": "European Mains Lead",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "23014"
+    },
+    {
+        "description": "Corner Blocks",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "25029"
+    },
+    {
+        "description": "Wooden Packing Crate for  ZZ_LILLE_ ENVIROBOX",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25057"
+    },
+    {
+        "description": "Heat pump spacer plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40043"
+    },
+    {
+        "description": "Lille envirobox fibre inlet plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42767"
+    },
+    {
+        "description": "DTMC300 Envirobox Insulation Pack",
+        "location": "Free Dave",
+        "quantity": "1.00",
+        "stockcode": "99801_M1"
+    },
+    {
+        "description": "1m standard USB cable",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB_USB_1M"
+    },
+    {
+        "description": "Mini usb cable 3m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USB_MINI_3M"
+    },
+    {
+        "description": "Temperature Controller for Bentham Envirobox Systems",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CPS_E-MK4"
+    },
+    {
+        "description": "Bosch Frame For DTMc300 Envirobox frame",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTMC300_ENVIROBOX_FRAME"
+    },
+    {
+        "description": "ADVENT USB 2.0 4-Port Powered Hub",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "USB_HUB"
+    }
+]

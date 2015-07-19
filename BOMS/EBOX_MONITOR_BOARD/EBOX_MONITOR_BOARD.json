@@ -1,0 +1,146 @@
+[
+    {
+        "description": "1k37 MRS25",
+        "location": "R4",
+        "quantity": "1.00",
+        "stockcode": "02026"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "R8",
+        "quantity": "1.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "187R MRS25",
+        "location": "R3",
+        "quantity": "1.00",
+        "stockcode": "02062"
+    },
+    {
+        "description": "1K2, .25W, MF, 1%",
+        "location": "R10",
+        "quantity": "1.00",
+        "stockcode": "02097"
+    },
+    {
+        "description": "953R MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02273"
+    },
+    {
+        "description": "1K .5W Cermet PCB mounting",
+        "location": "R9, 13",
+        "quantity": "2.00",
+        "stockcode": "03017"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "Mod",
+        "quantity": "2.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C3, 4, 5",
+        "quantity": "3.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 22pF ceramic plate",
+        "location": "C1, 2",
+        "quantity": "2.00",
+        "stockcode": "08047"
+    },
+    {
+        "description": "20MHz crystal",
+        "location": "XTAL1",
+        "quantity": "1.00",
+        "stockcode": "08117"
+    },
+    {
+        "description": "Temperature Sens AD590KH",
+        "location": "Do not fit to pcb",
+        "quantity": "1.00",
+        "stockcode": "09056"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "28-Way x 0.3\" DIL Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10053"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 2 way header with catch",
+        "location": "PL1, 3, 4",
+        "quantity": "3.00",
+        "stockcode": "10299"
+    },
+    {
+        "description": "Tyco 3 way header with catch",
+        "location": "I2C1, I2C2",
+        "quantity": "2.00",
+        "stockcode": "10300"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "PL5",
+        "quantity": "1.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "EBOX_MONITOR pcb ( needs up issue to version 2 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15096"
+    },
+    {
+        "description": "PIC16F876A-I/SP",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "20002"
+    },
+    {
+        "description": "LT1019CN82V5",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "20030"
+    },
+    {
+        "description": "TLC27L7CP",
+        "location": "IC3",
+        "quantity": "1.00",
+        "stockcode": "20034"
+    }
+]

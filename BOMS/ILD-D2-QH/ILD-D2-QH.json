@@ -1,0 +1,26 @@
+[
+    {
+        "description": "12V Solenoid.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11249"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP output plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43292"
+    },
+    {
+        "description": "Dual Light Source D2 100WQH Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ILD-D2-QH_COMMON_PARTS"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "ND1 ( 10 SN 25 edged to 22.8mm +/-0.1mm )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13006_REDUCED"
+    },
+    {
+        "description": "ND2 (20 SN 25 edged to 22.8mm +/-0.1mm)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13007_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400_REDUCED"
+    }
+]

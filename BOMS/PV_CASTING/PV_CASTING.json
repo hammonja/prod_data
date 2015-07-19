@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Modified TM300 casting for PV system (Machined)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV_CASTING_M1"
+    },
+    {
+        "description": "Painting of PV_CASTING, standard Bentham colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19480"
+    }
+]

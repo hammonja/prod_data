@@ -1,0 +1,206 @@
+[
+    {
+        "description": "3K MRS25",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02025"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "Resnet - Beckman Insruments",
+        "location": "R3, R4",
+        "quantity": "2.00",
+        "stockcode": "02108"
+    },
+    {
+        "description": "220K Resnet x 7 SIL 4608X-101",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02220"
+    },
+    {
+        "description": "220K, MRS25",
+        "location": "rear board mod",
+        "quantity": "1.00",
+        "stockcode": "02243"
+    },
+    {
+        "description": "1N4148",
+        "location": "D1, D2, D3",
+        "quantity": "3.00",
+        "stockcode": "04007"
+    },
+    {
+        "description": "BC 184 (was Farnell 1017657)",
+        "location": "rear board mod",
+        "quantity": "1.00",
+        "stockcode": "06005"
+    },
+    {
+        "description": "TIP110",
+        "location": "TR1",
+        "quantity": "1.00",
+        "stockcode": "06007"
+    },
+    {
+        "description": "bit switch",
+        "location": "SW1",
+        "quantity": "1.00",
+        "stockcode": "07023"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "rear board mod",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, C4, C6, C12",
+        "quantity": "4.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 220pF Ceramic Plate",
+        "location": "C7",
+        "quantity": "1.00",
+        "stockcode": "08048"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 27pF ceramic plate",
+        "location": "C9",
+        "quantity": "1.00",
+        "stockcode": "08057"
+    },
+    {
+        "description": "Capacitor 1uF 50V",
+        "location": "C10, C11",
+        "quantity": "2.00",
+        "stockcode": "08058"
+    },
+    {
+        "description": "Capacitor 100pF",
+        "location": "C8",
+        "quantity": "1.00",
+        "stockcode": "08062"
+    },
+    {
+        "description": "Capacitor 470pF 63V film & foil 5mm",
+        "location": "C3",
+        "quantity": "1.00",
+        "stockcode": "08064"
+    },
+    {
+        "description": "Ceramic resonator 2MHz",
+        "location": "XL1",
+        "quantity": "1.00",
+        "stockcode": "08090"
+    },
+    {
+        "description": "20 Way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10020"
+    },
+    {
+        "description": "14 Way DIL Socket Low Profile 0.3\"",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10054"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "connector 40-Way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10057"
+    },
+    {
+        "description": "Connector 26-Way boxed header",
+        "location": "PL1",
+        "quantity": "1.00",
+        "stockcode": "10080"
+    },
+    {
+        "description": "Connector 16-way IDC DIL plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10106"
+    },
+    {
+        "description": "pcb \" PMC3B IEEE Iss 2 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15001"
+    },
+    {
+        "description": "74hct14",
+        "location": "IC10, IC11, IC12",
+        "quantity": "3.00",
+        "stockcode": "20027"
+    },
+    {
+        "description": "7438N",
+        "location": "IC13",
+        "quantity": "1.00",
+        "stockcode": "20046"
+    },
+    {
+        "description": "PALCE16V8Z-25PC programmed for PMC3B",
+        "location": "IC7 ",
+        "quantity": "1.00",
+        "stockcode": "21001-PMC3B"
+    },
+    {
+        "description": "CD4014BE",
+        "location": "IC8",
+        "quantity": "1.00",
+        "stockcode": "21007"
+    },
+    {
+        "description": "HEF4738VP",
+        "location": "IC9",
+        "quantity": "1.00",
+        "stockcode": "21017"
+    },
+    {
+        "description": "74HC02",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "21039"
+    },
+    {
+        "description": "74HC74 (Philips only)",
+        "location": "IC4",
+        "quantity": "1.00",
+        "stockcode": "21040"
+    },
+    {
+        "description": "74HC4015E",
+        "location": "IC3, IC6",
+        "quantity": "2.00",
+        "stockcode": "21041"
+    },
+    {
+        "description": "CD74HC40102E",
+        "location": "IC2, IC5",
+        "quantity": "2.00",
+        "stockcode": "21042"
+    }
+]

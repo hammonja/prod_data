@@ -1,0 +1,38 @@
+[
+    {
+        "description": "PV mono plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43239"
+    },
+    {
+        "description": "PV rails blocks",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "43242"
+    },
+    {
+        "description": "Slide bar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43243"
+    },
+    {
+        "description": "PV mono plate clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43275"
+    },
+    {
+        "description": "Slide bearing",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43287"
+    },
+    {
+        "description": "M5x12 csk, bright Zn plate",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "99059"
+    }
+]

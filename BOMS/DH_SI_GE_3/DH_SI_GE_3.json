@@ -1,0 +1,38 @@
+[
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "DH-InGaAs Body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09039"
+    },
+    {
+        "description": "Front plate for TO8 detectors",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "09046"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "5mm uv Si on 3mm Ge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43662"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB17"
+    }
+]

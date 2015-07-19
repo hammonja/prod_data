@@ -1,0 +1,80 @@
+[
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "DH-SiPbS-Te Body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09024"
+    },
+    {
+        "description": "Detector for DH_SI_IGA_TE (UVS/IGA-050/030-TE2)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09066"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "Amphenol 5-way plugs",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10039"
+    },
+    {
+        "description": "Rear lens tube - Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12012"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Front Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42524"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Back Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42525"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Connector Plate",
+        "location": "Needs moding for second BNC",
+        "quantity": "1.00",
+        "stockcode": "42526"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Detector Mount Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42527"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB17"
+    }
+]

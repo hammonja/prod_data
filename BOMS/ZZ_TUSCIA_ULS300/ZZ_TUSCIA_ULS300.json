@@ -1,0 +1,362 @@
+[
+    {
+        "description": "R32-C184: Thermal switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07056"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10125"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Tension Spring 0.25\" Diameter x 2.5\" Long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11165"
+    },
+    {
+        "description": "M300 Unislide.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11271"
+    },
+    {
+        "description": "8 way fibre for ULS300.  All branches equal length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12165"
+    },
+    {
+        "description": "Hemi-sphere. 300mm Internal Dia. Blank - no machining",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13065"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "SMA Connector for Aquila",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17674_M2"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "Fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18080"
+    },
+    {
+        "description": "Lamp 150W 24V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19056"
+    },
+    {
+        "description": "Time Elapsed",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19119"
+    },
+    {
+        "description": "Elipsoidal reflector with AlMgF2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19124"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "M3 plastic thumb nut with brass thread insert",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19330"
+    },
+    {
+        "description": "Bosch 20mm extrusion bracket",
+        "location": "",
+        "quantity": "20.00",
+        "stockcode": "19344"
+    },
+    {
+        "description": "Bosch 6mm groove M4 'T' nut",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "19346"
+    },
+    {
+        "description": "Bosch 20mm extrusion end cap (each)",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "19347"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "30047"
+    },
+    {
+        "description": "Heat sink",
+        "location": "DO NOT KIT",
+        "quantity": "1.00",
+        "stockcode": "40020"
+    },
+    {
+        "description": "Reverse Jaw Plate for VSS & MVSS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41036"
+    },
+    {
+        "description": "Ceramic Lamp Holder Disc (Matl.  RS248-4725)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41261"
+    },
+    {
+        "description": "Manual Focus Elliptical Source Lamp holder Pins",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41262"
+    },
+    {
+        "description": "Manual Focus Elliptical Source Slit Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41263"
+    },
+    {
+        "description": "manual focus elliptical light source ellipse holder plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41333"
+    },
+    {
+        "description": "manual focus elliptical light source lamp holder bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41334"
+    },
+    {
+        "description": "manual focus elliptical light source unislide mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41335"
+    },
+    {
+        "description": "ULS frame, 3842-517-173 x 275mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41611"
+    },
+    {
+        "description": "UKAEA sphere connector bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41614"
+    },
+    {
+        "description": "UKAEA sphere slit mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41617"
+    },
+    {
+        "description": "UKAEA sphere port plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41618"
+    },
+    {
+        "description": "UKAEA sphere port reducer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41619F"
+    },
+    {
+        "description": "UKAEA sphere port reducer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41619P"
+    },
+    {
+        "description": "ULS frame, 3842-517-173 x 125mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41630"
+    },
+    {
+        "description": "UKAEA sphere light source baffle plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41631"
+    },
+    {
+        "description": "UKAEA sphere exit port dust cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41632"
+    },
+    {
+        "description": "UKAEA sphere HCT99 detector to sphere holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41635"
+    },
+    {
+        "description": "UKAEA sphere fan baffle plate pillars (pack of 25)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41674"
+    },
+    {
+        "description": "UKAEA sphere fibre clamp block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41675"
+    },
+    {
+        "description": "ULS300 (Uniform Luminance Source) Light Source Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41872"
+    },
+    {
+        "description": "ULS300 (Uniform Luminance Source) Light Source Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41873"
+    },
+    {
+        "description": "Painted ULS300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42109F"
+    },
+    {
+        "description": "Machined sphere for ULS300 (rubbed down & black anodised)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42109P"
+    },
+    {
+        "description": "MkII ULS300 Fibre Block",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "42110"
+    },
+    {
+        "description": "MkII ULS300 Sphere Support Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42111"
+    },
+    {
+        "description": "ULS frame, 3842-517-173 x 702mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42112"
+    },
+    {
+        "description": "ULS frame, 3842-517-173 x 417mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42114"
+    },
+    {
+        "description": "ULS frame, 3842-517-173 x 200mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42115"
+    },
+    {
+        "description": "ULS frame, 3842-517-173 x 377mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42116"
+    },
+    {
+        "description": "ULS frame, 3842-517-173 x 67mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42117"
+    },
+    {
+        "description": "ULS machined heat sink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42602"
+    },
+    {
+        "description": "ULS300 top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42603"
+    },
+    {
+        "description": "ULS filter holder",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42605"
+    },
+    {
+        "description": "ULS filter slot cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42608"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_VSS"
+    }
+]

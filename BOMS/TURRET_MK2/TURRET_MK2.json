@@ -1,0 +1,104 @@
+[
+    {
+        "description": "TM600 sine drive coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19310"
+    },
+    {
+        "description": "Bearing for worm with integral shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19688"
+    },
+    {
+        "description": "M4 x 10 flat ended grub, black.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30048"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "TM300 turret Post",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30121"
+    },
+    {
+        "description": "TM300 worm yoke.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30133"
+    },
+    {
+        "description": "TMs300 turret side pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30279"
+    },
+    {
+        "description": "TMs300 turret middle support plate (free issue  30291)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30280"
+    },
+    {
+        "description": "TMs300 Grating carrier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30281"
+    },
+    {
+        "description": "TMs300 turret bottom spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30282"
+    },
+    {
+        "description": "TMs300 turret base plate (Free issue 30291)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30284"
+    },
+    {
+        "description": "TMs300 Turret Flag",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30286"
+    },
+    {
+        "description": "TMs300 turret shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30292"
+    },
+    {
+        "description": "Rubber Damper For TM300 Turret (O/D 15, I/D3.5, Thk 5.5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30300"
+    },
+    {
+        "description": "Precision worm gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30474"
+    },
+    {
+        "description": "Worm with integral shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30478"
+    },
+    {
+        "description": "Motor plate assy for TM300 turret",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_MOTOR-PLATE"
+    }
+]

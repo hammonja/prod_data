@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "SAM Mirror Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11248"
+    },
+    {
+        "description": "12V Solenoid.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11249"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "SAM Support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11266"
+    },
+    {
+        "description": "SAM coupling",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30025"
+    },
+    {
+        "description": "Sam pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30026"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "description": "Machined Timing Pulley",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30045_M2"
+    },
+    {
+        "description": "Magnet for EI sphere (box of 10)",
+        "location": "",
+        "quantity": "0.40",
+        "stockcode": "43663"
+    },
+    {
+        "description": "LPM 4 Position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46664"
+    },
+    {
+        "description": "LPM Support Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46665"
+    },
+    {
+        "description": "LPM Filter Wheel Top Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46666_M1"
+    },
+    {
+        "description": "LMP FIlter Wheel Motor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46667_M1"
+    },
+    {
+        "description": "LPM Timing Belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46668"
+    },
+    {
+        "description": "LPM Filter Wheel Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46669"
+    },
+    {
+        "description": "LPM Modified Large Timing Gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46670_M1"
+    },
+    {
+        "description": "LPM Acetal Spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46671"
+    },
+    {
+        "description": "LPM Filter Wheel Pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46673"
+    },
+    {
+        "description": "LPM Thrust washer",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "46676"
+    },
+    {
+        "description": "LPM PCB Mount Block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46694"
+    },
+    {
+        "description": "Nema 14 High Torque Stepper",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46709"
+    },
+    {
+        "description": "Bulgin 12-way male connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46713"
+    },
+    {
+        "description": "Bulgin Pin Crimps",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "46715"
+    },
+    {
+        "description": "LPM-FW-4 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50007"
+    },
+    {
+        "description": "LPM Position Sensor PCB Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "LPM-SENSOR-BOARD"
+    }
+]

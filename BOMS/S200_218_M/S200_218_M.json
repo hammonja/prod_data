@@ -1,0 +1,188 @@
+[
+    {
+        "description": "2R2 MRS25",
+        "location": "R6",
+        "quantity": "1.00",
+        "stockcode": "02002"
+    },
+    {
+        "description": "100R MRS25",
+        "location": "R7, R13",
+        "quantity": "2.00",
+        "stockcode": "02013"
+    },
+    {
+        "description": "330R MRS25",
+        "location": "R3",
+        "quantity": "1.00",
+        "stockcode": "02016"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R12",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R9, R10, R11",
+        "quantity": "3.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "22K, MRS25",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "02075"
+    },
+    {
+        "description": "10M MRS25",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02076"
+    },
+    {
+        "description": "560R MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02052"
+    },
+    {
+        "description": "Pot 20K 2W .25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03007"
+    },
+    {
+        "description": "5K Pot side entry",
+        "location": "R8",
+        "quantity": "1.00",
+        "stockcode": "03029"
+    },
+    {
+        "description": "Voltage reference for 218 (LM336BZ-5.0)",
+        "location": "D2",
+        "quantity": "1.00",
+        "stockcode": "04041"
+    },
+    {
+        "description": "LM78L05ACZ",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "05017"
+    },
+    {
+        "description": "BC 184 (was Farnell 1017657)",
+        "location": "Q1",
+        "quantity": "1.00",
+        "stockcode": "06005"
+    },
+    {
+        "description": "TIP110",
+        "location": "Q2",
+        "quantity": "1.00",
+        "stockcode": "06007"
+    },
+    {
+        "description": "LM358N",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "06016"
+    },
+    {
+        "description": "Miniature toggle switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07004"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, C3, C4, C7",
+        "quantity": "4.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C8",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "C6",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 470uF 35V radial",
+        "location": "C2, C5",
+        "quantity": "2.00",
+        "stockcode": "08104"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "3.5mm Jack socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10015"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "pcb \" 218 pcb 15008 M \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15008"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x10",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15051"
+    },
+    {
+        "description": "218M Front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16037"
+    },
+    {
+        "description": "218 Heat sink",
+        "location": "(Q2)",
+        "quantity": "1.00",
+        "stockcode": "17037"
+    },
+    {
+        "description": "218M mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17109"
+    },
+    {
+        "description": "Turns counter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18014"
+    }
+]

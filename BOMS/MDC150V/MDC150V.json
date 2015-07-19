@@ -1,0 +1,56 @@
+[
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "252 6-Position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11071_P1"
+    },
+    {
+        "description": "Stepping motor for FW in MDC150  (8425884 used for e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18132"
+    },
+    {
+        "description": "Bore reducer, 5mm x 1/4 inch x 6.6mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30052"
+    },
+    {
+        "description": "MDC150 filter wheel motor bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44127"
+    },
+    {
+        "description": "TMc150 Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44132"
+    },
+    {
+        "description": "MDC150 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MDC150"
+    },
+    {
+        "description": "MDC150 Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MDC150_HOUSING"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_VSS"
+    }
+]

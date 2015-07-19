@@ -1,0 +1,32 @@
+[
+    {
+        "description": "LASCAR - PSU20105 - PSU, PCB, 5V, 1A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18006"
+    },
+    {
+        "description": "Power supply box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18023"
+    },
+    {
+        "description": "Power connector for ORM psu",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18124"
+    },
+    {
+        "description": "Sleeved Grommets (bag of 50)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19019"
+    },
+    {
+        "description": "Mains cable - British plug connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23011"
+    }
+]

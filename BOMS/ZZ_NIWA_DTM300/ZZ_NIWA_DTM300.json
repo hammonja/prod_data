@@ -1,0 +1,254 @@
+[
+    {
+        "description": "Connector 15 Way 'D' Plug",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10113"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "Pick 1 from NIWA return",
+        "quantity": "2.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 Curved Mirror.  UV-AL coating",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11038"
+    },
+    {
+        "description": "M300 Plain mirror mount",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "11121"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "Pick 1 from NIWA return",
+        "quantity": "2.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "M300 curved mirror mount",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11123"
+    },
+    {
+        "description": "M300 Mirror Retaining Block",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11124"
+    },
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "M300 Cover plate - exit",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "11132"
+    },
+    {
+        "description": "M300 Mounting plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11134"
+    },
+    {
+        "description": "15 way connector plate for NIWA",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11142"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "Pick from NIWA return",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "ADAPTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11234"
+    },
+    {
+        "description": "'O' RING 0251-16 NITRILE 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11237"
+    },
+    {
+        "description": "SAM Mirror Mount",
+        "location": "Pick from NIWA return",
+        "quantity": "1.00",
+        "stockcode": "11248"
+    },
+    {
+        "description": "12V Solenoid.",
+        "location": "Pick from NIWA return",
+        "quantity": "1.00",
+        "stockcode": "11249"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "Pick 1 from NIWA return",
+        "quantity": "2.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "BASE DTMC300 COMPACT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17094"
+    },
+    {
+        "description": "mains port cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17391"
+    },
+    {
+        "description": "M3 helicoil insert 1.5D",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "19001"
+    },
+    {
+        "description": "Heyco 003 0347 black (Nylon foot)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19004"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "Machining Operation to Produce 30123_M1 SAM at Entrance (FI)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30004"
+    },
+    {
+        "description": "SAM coupling",
+        "location": "Pick from NIWA return",
+        "quantity": "1.00",
+        "stockcode": "30025"
+    },
+    {
+        "description": "Sam pin",
+        "location": "Pick from NIWA return",
+        "quantity": "1.00",
+        "stockcode": "30026"
+    },
+    {
+        "description": "TM300/2 baseplate cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30111"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 sam blanking plate",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "30127"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM252 cover",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "Gasket for use with blanking plate 11132",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45212"
+    },
+    {
+        "description": "Standard TM300 casting in Bentham colours",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CASTING_TM300"
+    },
+    {
+        "description": "Fixed Slit Plate (1.00mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "FSP(1.0)"
+    },
+    {
+        "description": "Fixed Slit Plate (2.00mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FSP(2.0)"
+    },
+    {
+        "description": "Carrier for Fixed Slit Plates",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_FIXED-CARRIER"
+    },
+    {
+        "description": "Fixed Slit Box, Back & Lid, No Slit Carries.",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_FSS"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "Pick from NIWA return",
+        "quantity": "1.00",
+        "stockcode": "SLIT_VSS"
+    },
+    {
+        "description": "Turret for NIWA monochromator",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "ZZ_NIWA_TURRET"
+    }
+]

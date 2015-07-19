@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Steel gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11309"
+    },
+    {
+        "description": "MVSS_GEAR_1  (free issue 11309)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17534"
+    }
+]

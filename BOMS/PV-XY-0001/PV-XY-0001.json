@@ -1,0 +1,20 @@
+[
+    {
+        "description": "CDT XY Top Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45413"
+    },
+    {
+        "description": "PMC3B for IMAC card with USB interface 3 Drives",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_3B_IMAC_USB_3"
+    },
+    {
+        "description": "PV-XY Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV-XY-COMMON-PARTS"
+    }
+]

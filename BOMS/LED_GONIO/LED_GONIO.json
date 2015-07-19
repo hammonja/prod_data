@@ -1,0 +1,500 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04044"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "Green LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04053"
+    },
+    {
+        "description": "Miniature toggle switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07004"
+    },
+    {
+        "description": "large cap, black with line to fit 21.5mm knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07013"
+    },
+    {
+        "description": "Large knob, black with line to fit 1/4\" spindle S211 250BK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07018"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "BNC bulkhead connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10197"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Unislide FF",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11209"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "Bentham Logo plate (silk screened)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16098"
+    },
+    {
+        "description": "Internal psu for TMS monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18033"
+    },
+    {
+        "description": "Cover for psu in TMS monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18034"
+    },
+    {
+        "description": "Connector kit for 18033",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18035"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Ondrives DP4.0-8 (dowell 4mm x8mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19166"
+    },
+    {
+        "description": "Smoke Screen Cog Bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19255"
+    },
+    {
+        "description": "Door catch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19303"
+    },
+    {
+        "description": "Bosch 6mm groove M4 'T' nut",
+        "location": "",
+        "quantity": "57.00",
+        "stockcode": "19346"
+    },
+    {
+        "description": "Bosch handle 8/10mm Groove version",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19378"
+    },
+    {
+        "description": "Packing crate for led gonio system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25064"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30337"
+    },
+    {
+        "description": "Muffett bored worm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30347"
+    },
+    {
+        "description": "Muffett antibacklash wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30348"
+    },
+    {
+        "description": "Roll over turret motor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42690"
+    },
+    {
+        "description": "Led gonio main rail ($220)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42832"
+    },
+    {
+        "description": "Led gonio baffle carrier ($75.90)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42834"
+    },
+    {
+        "description": "Led gonio baseplate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42835"
+    },
+    {
+        "description": "Led gonio cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42836"
+    },
+    {
+        "description": "Painting of led gonio cover assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42836F"
+    },
+    {
+        "description": "20 x 20 x 1240 Bosch 4 channel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42837"
+    },
+    {
+        "description": "20 x 20 x 410 Bosch 4 channel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42838"
+    },
+    {
+        "description": "20 x 20 x 310 Bosch 4 channel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42839"
+    },
+    {
+        "description": "Led gonio door",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42841"
+    },
+    {
+        "description": "Led gonio power box plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42842"
+    },
+    {
+        "description": "Led gonio cover plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42843"
+    },
+    {
+        "description": "Led gonio power box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42844"
+    },
+    {
+        "description": "Led gonio door brace",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42845"
+    },
+    {
+        "description": "Led gonio hinge",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42846"
+    },
+    {
+        "description": "Light trap for 42836",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42847"
+    },
+    {
+        "description": "Light trap for 42836",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42848"
+    },
+    {
+        "description": "Light trap for 42836",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42849"
+    },
+    {
+        "description": "Led gonio detector/gonio carrier",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42855"
+    },
+    {
+        "description": "Modification of 42690",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42856"
+    },
+    {
+        "description": "20 x 20 Bosch 4 channel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42857"
+    },
+    {
+        "description": "Led gonio baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42858"
+    },
+    {
+        "description": "Led gonio detector cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42859"
+    },
+    {
+        "description": "Detector stage base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42860"
+    },
+    {
+        "description": "Led detcetor stage upright",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42861"
+    },
+    {
+        "description": "Led detector holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42862"
+    },
+    {
+        "description": "Led gonio stand base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42865"
+    },
+    {
+        "description": "Led gonio stand upright",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42866"
+    },
+    {
+        "description": "Led gonio stage bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42867"
+    },
+    {
+        "description": "Led gonio position jig",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42868"
+    },
+    {
+        "description": "Led gonio gearbox body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42869"
+    },
+    {
+        "description": "Led gonio GB motor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42870"
+    },
+    {
+        "description": "Led gonio GB bottom shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42871"
+    },
+    {
+        "description": "Led gonio GB shaft top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42872"
+    },
+    {
+        "description": "Led gonio worm shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42873"
+    },
+    {
+        "description": "Led gonio cal plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42891"
+    },
+    {
+        "description": "Led gonio stage mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42892"
+    },
+    {
+        "description": "Led gonio cal upright",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42893"
+    },
+    {
+        "description": "Gonio drive cover plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42894"
+    },
+    {
+        "description": "Modified turret shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42960"
+    },
+    {
+        "description": "Base led gonio GB shaft top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42961"
+    },
+    {
+        "description": "Led gonio cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42962"
+    },
+    {
+        "description": "Modified turret plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42963"
+    },
+    {
+        "description": "Modified turret base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42964"
+    },
+    {
+        "description": "Led gonio standard adapt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42972"
+    },
+    {
+        "description": "Led gonio lid stay",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42995"
+    },
+    {
+        "description": "Led gonio lid stay block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42996"
+    },
+    {
+        "description": "Led gonio lid bar stay",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42998"
+    },
+    {
+        "description": "Led gonio lid retainer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42999"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "IMAC card for TMS300 monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD_TMS"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET"
+    }
+]

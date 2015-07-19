@@ -1,0 +1,38 @@
+[
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "BNC bulkhead connector",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10197"
+    },
+    {
+        "description": "VC connector nozzle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42709"
+    },
+    {
+        "description": "UMS Connector Panel Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46621_P1"
+    },
+    {
+        "description": "UMS Connector Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46628"
+    }
+]

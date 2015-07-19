@@ -1,0 +1,20 @@
+[
+    {
+        "description": "M300 casting, 2 apertures blanked, no machining",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11119"
+    },
+    {
+        "description": "Casting machining  for non-turret Aquila (new drw required)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11370"
+    },
+    {
+        "description": "Painting of Aquila casting (as Accent)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19458"
+    }
+]

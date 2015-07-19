@@ -1,0 +1,14 @@
+[
+    {
+        "description": "TM300 box casting, machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123P"
+    },
+    {
+        "description": "Machining Operation to Produce 30123_M1 SAM at Entrance (FI)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30004"
+    }
+]

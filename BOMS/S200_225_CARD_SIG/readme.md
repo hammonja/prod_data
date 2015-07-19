@@ -1,0 +1,54 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|02015|220R MRS25|2.00|R24, R38|
+|02021|1K, MRS25|2.00|R28, R30|
+|02023|2K MRS25 MF|5.00|R3, R5, R11, R29, R31|
+|02028|4k75 MRS25|1.00|R2|
+|02033|10K MRS25|4.00|R19, R32, R33, R37|
+|02036|18K MRS25|2.00|R4, R6|
+|02037|20K MRS25|3.00|R22, R23, R36|
+|02043|100K MRS25|3.00|R20, R34, R35|
+|02073|1k1, MRS25|1.00|R21|
+|02074|2K7 MRS25|2.00|R8, R10|
+|02075|22K, MRS25|1.00|R27|
+|02076|10M MRS25|3.00|R15, R25, R39|
+|02094|9K1 MRS25|1.00|R12|
+|02101|3K9 MRS25|1.00|R13|
+|02102|475k, MRS25|2.00|R1, R26|
+|02224|180K MRS25|1.00|R18|
+|02225|22K Resnet x 4 Single res|1.00|R14|
+|02226|300R MRS25|2.00|R7, R9|
+|03011|20K .5W Cermet PCB mounting|2.00|R16, R17|
+|04007|1N4148|4.00|D1, D2, D3, D4|
+|08025|Capacitor 0.33uF 200V metalised|2.00|C22, C23|
+|08043|Capacitor 2n2 Polypropylene FKP2|1.00|C13|
+|08044|Capacitor 100nF polyester 63/100V|9.00|C2, C7, C8, C15, C16, C19, C20, C26, C27|
+|08045|Capacitor 10uF 16V electrolytic mini|3.00|C1, C9, C10|
+|08049|Capacitor 4.7pF Ceramic Plate|1.00|C14|
+|08050|Capacitor 47uF 16V electrolytic|2.00|C24, C25|
+|08053|Capacitor 680nF 63V|1.00|C3|
+|08058|Capacitor 1uF 50V|1.00|C18|
+|08059|Capacitor 1nF 100v boxed polyester|1.00|C11|
+|08068|Capacitor 6n8|1.00|C12|
+|08069|Capacitor 10pF 100V|2.00|C17, C28|
+|08070|TZ03 ceramic trimmer capacitor,  2.7-10pF|1.00|C21|
+|08071|Capacitor 22n|1.00|C4|
+|08072|Capacitor 68n|1.00|C6|
+|08073|Capacitor 220n|1.00|C5|
+|10014|Connector 8 way DIL socket|7.00||
+|10020|20 Way DIL socket|2.00||
+|10054|14 Way DIL Socket Low Profile 0.3"|1.00||
+|10055|connector 16-Way DIL socket|8.00||
+|10080|Connector 26-Way boxed header|1.00|PL1|
+|15046|pcb  " 225 SIG Iss 3 ". Lead free HASL|1.00||
+|20026|IC LM393N|1.00|IC8|
+|20043|LF353N Dual Op-Amp DIP8|1.00|IC17|
+|20054|IC SD5000N  ST 9124|1.00|IC16|
+|20055|IC MM74HC4538N (was Farnell 1013952)|1.00|IC14|
+|20056|LT1012CN8|2.00|IC10, IC11|
+|20057|LT1057CN8#PBF|2.00|IC12, IC13|
+|21001-BEN2251|PALCE16V8Z-25PC programmed for BEN2251|1.00|IC1 |
+|21001-BEN2252|PALCE16V8Z-25PC programmed for BEN2252|1.00|IC2|
+|21037|DG419DJ Anologue Switch SPDT|1.00|IC18|
+|21040|74HC74 (Philips only)|1.00|IC15|
+|21045|IC DG413DJ|6.00|IC3, IC4, IC5, IC6, IC7, IC9|

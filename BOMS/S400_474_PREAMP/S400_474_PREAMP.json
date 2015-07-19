@@ -1,0 +1,86 @@
+[
+    {
+        "description": "10R MRS25",
+        "location": "R3",
+        "quantity": "1.00",
+        "stockcode": "02004"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R1, R2, R4",
+        "quantity": "3.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, C2",
+        "quantity": "2.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C4, C5",
+        "quantity": "2.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 100pF",
+        "location": "C3",
+        "quantity": "1.00",
+        "stockcode": "08062"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "pcb for 474 pre-amp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15102"
+    },
+    {
+        "description": "474 front panel",
+        "location": "Drill out pot hole to M3 clearance",
+        "quantity": "1.00",
+        "stockcode": "16038"
+    },
+    {
+        "description": "275 Mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17144"
+    },
+    {
+        "description": "275 Shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17145"
+    },
+    {
+        "description": "IC LT1028CN8",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "20031"
+    }
+]

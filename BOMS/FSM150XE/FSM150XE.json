@@ -1,0 +1,290 @@
+[
+    {
+        "description": "Fuse 2.5A slow blow",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01005"
+    },
+    {
+        "description": "0R1, 25W",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02005"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R3, R4, R7, R8, R20",
+        "quantity": "5.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "3K MRS25",
+        "location": "R22",
+        "quantity": "1.00",
+        "stockcode": "02025"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "R26, R30, R31",
+        "quantity": "3.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "4M7 MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02099"
+    },
+    {
+        "description": "1K .5W Cermet PCB mounting",
+        "location": "R21",
+        "quantity": "1.00",
+        "stockcode": "03017"
+    },
+    {
+        "description": "Green led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04001"
+    },
+    {
+        "description": "78L12",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "05003"
+    },
+    {
+        "description": "KBPC25005 bridge rectifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05013"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "Big FET  STW45NM50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "06013"
+    },
+    {
+        "description": "OPA2251PA",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "06017"
+    },
+    {
+        "description": "SPNO lugs for wires",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07038"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, C4",
+        "quantity": "2.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C6",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 10nF Polyester 10% 63/100V",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08052"
+    },
+    {
+        "description": "Capacitor 4700uF, 63V",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08113"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "Connector 9-way 'D' socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10098"
+    },
+    {
+        "description": "8 way crimp connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10182"
+    },
+    {
+        "description": "Crimp",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "10183"
+    },
+    {
+        "description": "4 Way Crimp Connector   RoHS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10184"
+    },
+    {
+        "description": "Microswitch plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11349"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "pcb  \" BENTHAM INSTRUMENTS 605 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15036"
+    },
+    {
+        "description": "Monokromator 'Rear Panel'",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16071"
+    },
+    {
+        "description": "FSM150Xe  Front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16090"
+    },
+    {
+        "description": "FSM150Xe Power Supply HeatSink Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17024_M3"
+    },
+    {
+        "description": "605 PILLAR",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17147"
+    },
+    {
+        "description": "Monokromator 'Tray'",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17322"
+    },
+    {
+        "description": "FSM150Xe Micro Switch Finger Guard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17387"
+    },
+    {
+        "description": "Machining of bin front rail for FSM",
+        "location": "Mod to front rail of 22022",
+        "quantity": "1.00",
+        "stockcode": "17557"
+    },
+    {
+        "description": "Maching of both bin end plates for FSM",
+        "location": "Mod to side plates of 22022",
+        "quantity": "1.00",
+        "stockcode": "17561"
+    },
+    {
+        "description": "Special transformer for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18055"
+    },
+    {
+        "description": "24V blower for FSM150Xe",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18056"
+    },
+    {
+        "description": "UNC4-40 x 3mm,  pozi pan, zinc.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19094"
+    },
+    {
+        "description": "Time Elapsed",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19119"
+    },
+    {
+        "description": "M5 panel insulator",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19171"
+    },
+    {
+        "description": "30mm cap clip",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19246"
+    },
+    {
+        "description": "LT1019CN82V5",
+        "location": "IC3",
+        "quantity": "1.00",
+        "stockcode": "20030"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "Schroff bin for FSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22022"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    }
+]

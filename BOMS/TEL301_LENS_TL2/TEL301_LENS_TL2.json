@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Lens retaining ring",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "12001"
+    },
+    {
+        "description": "Telescope extension tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12043"
+    },
+    {
+        "description": "50.8 dia, f=177mm, glass, vis AR coated",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13012"
+    }
+]

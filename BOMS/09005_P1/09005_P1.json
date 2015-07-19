@@ -1,0 +1,14 @@
+[
+    {
+        "description": "DH_PY Machined Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09005_M1"
+    },
+    {
+        "description": "Painting Operation to Produce 09005_P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19860"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "description": "O ring. Pack of 100 (book in to make total qty delivered)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11292"
+    },
+    {
+        "description": "TMs300 dummy slit bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30232"
+    },
+    {
+        "description": "TMs300 slit sprocket, 4mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30252"
+    },
+    {
+        "description": "TMs300 slit support cover plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41023"
+    },
+    {
+        "description": "Slit shaft assembly for TMS300 slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_SLIT-SHAFT-ASSY"
+    }
+]

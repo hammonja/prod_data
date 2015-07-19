@@ -1,0 +1,92 @@
+[
+    {
+        "description": "Ferrule to mount FOP-UV to D8 bi-directional",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12184"
+    },
+    {
+        "description": "Bi-Directional Mounting Plate Fixed",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13348"
+    },
+    {
+        "description": "Compression Spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19003"
+    },
+    {
+        "description": "dowel pin parallel mild steel (bag of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19006"
+    },
+    {
+        "description": "Quick Change Mounting Plate Wedge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40006"
+    },
+    {
+        "description": "QC Adapter Fixed Plate Sealing 'O' Ring (Bag of 50)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40042"
+    },
+    {
+        "description": "Lasing sealed IS75 sphere baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41704"
+    },
+    {
+        "description": "D8 Painted Lid",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42509_P1"
+    },
+    {
+        "description": "D8 Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42510"
+    },
+    {
+        "description": "D8 Body (Bi-Directional)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42511"
+    },
+    {
+        "description": "D8 Sphere (Bi-Directional) (fi 0.5 off 99026)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42512"
+    },
+    {
+        "description": "D8 Sphere Dovetail (Bi-Directional)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42513"
+    },
+    {
+        "description": "7mm reducer for D8 painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43191F"
+    },
+    {
+        "description": "7mm reducer for D8",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43191P"
+    },
+    {
+        "description": "FL250 porous PTFE moulded rod, OD 75mm, length 135mm",
+        "location": "",
+        "quantity": "0.50",
+        "stockcode": "99026"
+    }
+]

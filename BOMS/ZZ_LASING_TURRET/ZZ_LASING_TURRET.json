@@ -1,0 +1,92 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04044"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "638/8 2Z   SKF or RHP",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30291"
+    },
+    {
+        "description": "Muffett bored worm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30347"
+    },
+    {
+        "description": "Muffett antibacklash wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30348"
+    },
+    {
+        "description": "Led gonio worm shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42873"
+    },
+    {
+        "description": "Lasing turret bottom",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43616"
+    },
+    {
+        "description": "Lasing turret motor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43617"
+    },
+    {
+        "description": "Lasing turret support pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43618"
+    },
+    {
+        "description": "Lasing turret top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43619"
+    },
+    {
+        "description": "Lasing turret top shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43620"
+    },
+    {
+        "description": "Lasing turret bottom shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43621"
+    },
+    {
+        "description": "Lasing turret paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43622"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Purge port pipe connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10119"
+    },
+    {
+        "description": "4 way, chassis mount plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10240"
+    },
+    {
+        "description": "Nylon hose clip",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19566"
+    },
+    {
+        "description": "Peltier for vacuum chuck.  CP1-127-045L-1-RTV",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43249"
+    },
+    {
+        "description": "PV water block plug",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43286"
+    },
+    {
+        "description": "PV DH-Si cup",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43327"
+    },
+    {
+        "description": "Camera for PSL profiler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43758"
+    },
+    {
+        "description": "CDT Sample Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45399"
+    },
+    {
+        "description": "Chuck Table Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45402"
+    },
+    {
+        "description": "Sample Plate Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45403"
+    },
+    {
+        "description": "CDT Chuck Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45404"
+    },
+    {
+        "description": "CCD Camera Leg",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45419"
+    },
+    {
+        "description": "VC water block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43250"
+    },
+    {
+        "description": "M3 Belleville Washer",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "99274"
+    }
+]

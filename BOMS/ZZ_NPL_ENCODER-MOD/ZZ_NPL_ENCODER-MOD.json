@@ -1,0 +1,224 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04044"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "M4 Ball ended grub screw ( free issue 99022)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11250"
+    },
+    {
+        "description": "Gatan spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11280"
+    },
+    {
+        "description": "M3 thumb nuts for IL10",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19172"
+    },
+    {
+        "description": "TM300 worm shaft(1 off 600mm length 99907 per 9 off 30014)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30014"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TM300 turret Post",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30121"
+    },
+    {
+        "description": "TM300 worm yoke.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30133"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "Anti-backlash worm (written off)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30215"
+    },
+    {
+        "description": "TMs300 turret side pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30279"
+    },
+    {
+        "description": "TMs300 turret middle support plate (free issue  30291)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30280"
+    },
+    {
+        "description": "TMs300 turret bottom spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30282"
+    },
+    {
+        "description": "TMs300 turret motor side plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30283"
+    },
+    {
+        "description": "TMs300 turret base plate (Free issue 30291)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30284"
+    },
+    {
+        "description": "TMs300 Turret Flag",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30286"
+    },
+    {
+        "description": "Antibacklash gear with 8mm bore (written off)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30293"
+    },
+    {
+        "description": "TM300 turret opto spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30303"
+    },
+    {
+        "description": "pillars for TM300 with retro fit heidenhain RCN226 encoder",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30308"
+    },
+    {
+        "description": "TM300 with retro heidenhain RCN226 encoder transport plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30309"
+    },
+    {
+        "description": "Heidenhain encoder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41884"
+    },
+    {
+        "description": "Card for Heidenhain encoder IK220 PCI",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41885"
+    },
+    {
+        "description": "Cable for Heidenhain encoder (2m)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41886"
+    },
+    {
+        "description": "Nut for Heidenhain encoder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41887"
+    },
+    {
+        "description": "TM300 with RON285 encoder turret shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41888"
+    },
+    {
+        "description": "TM300 with RON285 encoder support plate (thickness TBA)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41890"
+    },
+    {
+        "description": "TM300 with RON285 encoder base plate cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41891"
+    },
+    {
+        "description": "TM300 with RON285 encoder casting spacer ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41892"
+    },
+    {
+        "description": "TM300 with RON285 encoder bottom kinematic plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41893"
+    },
+    {
+        "description": "TM300 with RON285 encoder top kinematic plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41894"
+    },
+    {
+        "description": "TM300 with RON285 encoder grating carrier",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41895"
+    },
+    {
+        "description": "TM300 with RON285 encoder kinematic plate clamp nut",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41896"
+    },
+    {
+        "description": "TM300 with RON285 encoder turret tie bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41897"
+    }
+]

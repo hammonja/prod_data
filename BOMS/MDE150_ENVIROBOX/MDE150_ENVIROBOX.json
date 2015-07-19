@@ -1,0 +1,248 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "Neon indicator RED 200-250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04040"
+    },
+    {
+        "description": "Mains Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07050"
+    },
+    {
+        "description": "Actuator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07051"
+    },
+    {
+        "description": "T switch in series with Pelts. on E-box",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "07055"
+    },
+    {
+        "description": "Dust cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10142"
+    },
+    {
+        "description": "BS4343 Mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10152"
+    },
+    {
+        "description": "BS4343 Mains inlet free socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10153"
+    },
+    {
+        "description": "Fuse holder panel mounting FPG2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10186"
+    },
+    {
+        "description": "Crimps",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10187"
+    },
+    {
+        "description": "IP68 mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10292"
+    },
+    {
+        "description": "Sealing cap for mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10293"
+    },
+    {
+        "description": "Right angle, re-wireable IEC socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10306"
+    },
+    {
+        "description": "12 way through hole connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10309"
+    },
+    {
+        "description": "Fibre to slit interface",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12015"
+    },
+    {
+        "description": "'O'RING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12082"
+    },
+    {
+        "description": "FOP(UV) ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12092"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x10",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15051"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x15",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15052"
+    },
+    {
+        "description": "Bentham Logo plate (silk screened)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16098"
+    },
+    {
+        "description": "EnviroBox Power Inlet Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17777_M1"
+    },
+    {
+        "description": "Envirobox fibre end mounting block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17812"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "Grommet 6.4 Dia. cable hole",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19051"
+    },
+    {
+        "description": "Fastener self clinch M4",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "19086"
+    },
+    {
+        "description": "Cable gland PG13.5",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19128"
+    },
+    {
+        "description": "THP360X-300CA12-200-CA12/25 (no thermal switch)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19222"
+    },
+    {
+        "description": "Zarges case for DM150MDE envirobox",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19498"
+    },
+    {
+        "description": "Heat pump spacer plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40043"
+    },
+    {
+        "description": "Lille envirobox fibre inlet plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42767"
+    },
+    {
+        "description": "Base & top. Trim top by 10mm all round.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43468"
+    },
+    {
+        "description": "MDE150 enviro insulation side",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43469"
+    },
+    {
+        "description": "MDE150 enviro insulation front",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43470"
+    },
+    {
+        "description": "MDE150 enviro spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43471"
+    },
+    {
+        "description": "MDE150 enviro top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43472"
+    },
+    {
+        "description": "MDE150 enviro bottom plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43473"
+    },
+    {
+        "description": "Polyfoam Floorboard Super 1250x600x50mm (Cellecta)",
+        "location": "Free issue to John Donavon",
+        "quantity": "5.00",
+        "stockcode": "99801"
+    },
+    {
+        "description": "1m standard USB cable",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USB_1M"
+    },
+    {
+        "description": "Mini usb cable 3m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USB_MINI_3M"
+    },
+    {
+        "description": "PWM controller for envirobox heat pump",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CPS_E-MK3"
+    },
+    {
+        "description": "HV and temerature monitor board for enviroboxes",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "EBOX_MONITOR_BOARD"
+    }
+]

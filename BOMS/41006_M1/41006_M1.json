@@ -1,0 +1,14 @@
+[
+    {
+        "description": "TMs300 floor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41006"
+    },
+    {
+        "description": "TMs300 floor plate modification for use with ICCD camera.",
+        "location": "Modification of Floor plate",
+        "quantity": "1.00",
+        "stockcode": "41030"
+    }
+]

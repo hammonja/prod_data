@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Carrier for Fixed Slit Plates (Components)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_FIXED-CARRIER_COMPONENTS"
+    },
+    {
+        "description": "Fixed Slit Plate (1.85mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FSP(1.85)"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "description": "Gatan spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11280"
+    },
+    {
+        "description": "FC306 MICROSCOPE OBJECTIVE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12054"
+    },
+    {
+        "description": "Eyesocket for use with 12060",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12063"
+    },
+    {
+        "description": "FC310 MONOCHROMATOR PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12097"
+    },
+    {
+        "description": "FC310 MOUNTING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12098"
+    },
+    {
+        "description": "FC310 dovetail",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12100"
+    },
+    {
+        "description": "FC310 setting edge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12101"
+    },
+    {
+        "description": "FC310 eyepiece barrel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12102"
+    },
+    {
+        "description": "FC310 eyepiece holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12103"
+    },
+    {
+        "description": "FC310E upright",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12136"
+    },
+    {
+        "description": "FC310E base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12137"
+    },
+    {
+        "description": "SPACER PLATE FL407",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12140"
+    },
+    {
+        "description": "Lens dia 20, fl 100, glass, bcx",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13013"
+    },
+    {
+        "description": "M3x25 Long stainless steel studding",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17319"
+    },
+    {
+        "description": "Thumbscrew knob",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19095"
+    },
+    {
+        "description": "Bare fibre holder (Newport)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19106"
+    },
+    {
+        "description": "M4x6 nylon grub slotted, black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19113"
+    },
+    {
+        "description": "1.8mm Slotted screwdriver",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19114"
+    },
+    {
+        "description": "M3 thumb nuts for IL10",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19172"
+    }
+]

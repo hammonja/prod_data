@@ -1,0 +1,50 @@
+[
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "Connector IEEE socket (3549-2000)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10108"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "605 Resistor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17146"
+    },
+    {
+        "description": "sales@L-com.com   (pack of 20)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19012"
+    },
+    {
+        "description": "GP-IB to I2C interface",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_GPIB-I2C"
+    }
+]

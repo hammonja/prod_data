@@ -1,0 +1,32 @@
+[
+    {
+        "description": "215 Module",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_215"
+    },
+    {
+        "description": "Chopper control module, standard and EI",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_M"
+    },
+    {
+        "description": "Full width 400 series bin.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_417"
+    },
+    {
+        "description": "400 series ac current pre-amp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_477"
+    },
+    {
+        "description": "Dual Channel DSP Lock-In Amplifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_496"
+    }
+]

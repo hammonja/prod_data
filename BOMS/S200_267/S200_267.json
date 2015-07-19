@@ -1,0 +1,440 @@
+[
+    {
+        "description": "220R MRS25",
+        "location": "R8, mod",
+        "quantity": "2.00",
+        "stockcode": "02015"
+    },
+    {
+        "description": "330R MRS25",
+        "location": "R1, R2, R3, R4, R5 (FP)",
+        "quantity": "5.00",
+        "stockcode": "02016"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R19",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "mod on rear",
+        "quantity": "1.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "100K MRS25",
+        "location": "R17",
+        "quantity": "1.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "R29, R30",
+        "quantity": "2.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "100m, metal film, 1%",
+        "location": "R11",
+        "quantity": "1.00",
+        "stockcode": "02058"
+    },
+    {
+        "description": "2K, 0.1%",
+        "location": "R24",
+        "quantity": "1.00",
+        "stockcode": "02064"
+    },
+    {
+        "description": "10K .25W MF0.1%",
+        "location": "R4, R13",
+        "quantity": "2.00",
+        "stockcode": "02065"
+    },
+    {
+        "description": "18K, 0.25W, MF, 0.1%",
+        "location": "R23",
+        "quantity": "1.00",
+        "stockcode": "02069"
+    },
+    {
+        "description": "22K, MRS25",
+        "location": "R21, R28",
+        "quantity": "2.00",
+        "stockcode": "02075"
+    },
+    {
+        "description": "10M MRS25",
+        "location": "R12, R18",
+        "quantity": "2.00",
+        "stockcode": "02076"
+    },
+    {
+        "description": "82K,MRS25",
+        "location": "R26",
+        "quantity": "1.00",
+        "stockcode": "02093"
+    },
+    {
+        "description": "910K,MRS25",
+        "location": "R16",
+        "quantity": "1.00",
+        "stockcode": "02104"
+    },
+    {
+        "description": "15K, MRS25",
+        "location": "R25, R27",
+        "quantity": "2.00",
+        "stockcode": "02105"
+    },
+    {
+        "description": "Resnet - Beckman Insruments",
+        "location": "R5, R31",
+        "quantity": "2.00",
+        "stockcode": "02108"
+    },
+    {
+        "description": "1M1 MRS25",
+        "location": "R10",
+        "quantity": "1.00",
+        "stockcode": "02109"
+    },
+    {
+        "description": "5K6, MRS25",
+        "location": "R14",
+        "quantity": "1.00",
+        "stockcode": "02113"
+    },
+    {
+        "description": "220K Resnet x 7 SIL 4608X-101",
+        "location": "R1, R3",
+        "quantity": "2.00",
+        "stockcode": "02220"
+    },
+    {
+        "description": "220K, MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02243"
+    },
+    {
+        "description": "1g ohm resistor",
+        "location": "R9",
+        "quantity": "1.00",
+        "stockcode": "02244"
+    },
+    {
+        "description": "84K5 MRS25",
+        "location": "R15",
+        "quantity": "1.00",
+        "stockcode": "02245"
+    },
+    {
+        "description": "1N4148",
+        "location": "D1, D2, D1(RL1)",
+        "quantity": "3.00",
+        "stockcode": "04007"
+    },
+    {
+        "description": "LED Red HLMP 1301",
+        "location": "D2 (FP)",
+        "quantity": "1.00",
+        "stockcode": "04030"
+    },
+    {
+        "description": "LED Yellow HLMP 1401",
+        "location": "D3, D4, D5, D6, D7, D8 (FP)",
+        "quantity": "6.00",
+        "stockcode": "04031"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "D1, D9, D10 (FP)",
+        "quantity": "3.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "BC560C",
+        "location": "mod on rear",
+        "quantity": "1.00",
+        "stockcode": "06006"
+    },
+    {
+        "description": "SPNO pins for pcb",
+        "location": "SW1, SW2, SW3, SW4 (FP)",
+        "quantity": "4.00",
+        "stockcode": "07006"
+    },
+    {
+        "description": "bit switch",
+        "location": "SW1",
+        "quantity": "1.00",
+        "stockcode": "07023"
+    },
+    {
+        "description": "Relay  Hamlin HE3621A0510",
+        "location": "RL2, RL3",
+        "quantity": "2.00",
+        "stockcode": "07042"
+    },
+    {
+        "description": "267 relay",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07070"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, C3, C12, C15, C16",
+        "quantity": "5.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 220pF Ceramic Plate",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08048"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C17",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 10nF Polyester 10% 63/100V",
+        "location": "C13",
+        "quantity": "1.00",
+        "stockcode": "08052"
+    },
+    {
+        "description": "Capacitor 27pF ceramic plate",
+        "location": "C8",
+        "quantity": "1.00",
+        "stockcode": "08057"
+    },
+    {
+        "description": "Capacitor 1uF 50V",
+        "location": "C9",
+        "quantity": "1.00",
+        "stockcode": "08058"
+    },
+    {
+        "description": "Capacitor 1nF 100v boxed polyester",
+        "location": "C14",
+        "quantity": "1.00",
+        "stockcode": "08059"
+    },
+    {
+        "description": "Capacitor 100pF",
+        "location": "C5, C6, C7",
+        "quantity": "3.00",
+        "stockcode": "08062"
+    },
+    {
+        "description": "Capacitor 2.2uF",
+        "location": "C10, C11",
+        "quantity": "2.00",
+        "stockcode": "08065"
+    },
+    {
+        "description": "Capacitor 220n",
+        "location": "C1, C2, C3 (FP)",
+        "quantity": "3.00",
+        "stockcode": "08073"
+    },
+    {
+        "description": "Capacitor 5.6pF, ceramic plate",
+        "location": "C4",
+        "quantity": "1.00",
+        "stockcode": "08084"
+    },
+    {
+        "description": "Ceramic resonator 2MHz",
+        "location": "XL1",
+        "quantity": "1.00",
+        "stockcode": "08090"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "20 Way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10020"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "14 Way DIL Socket Low Profile 0.3\"",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10054"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "connector 40-Way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10057"
+    },
+    {
+        "description": "Connector 26-Way boxed header",
+        "location": "PL2",
+        "quantity": "1.00",
+        "stockcode": "10080"
+    },
+    {
+        "description": "Connector 24-Way DIL 0.3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10115"
+    },
+    {
+        "description": "16 Way IDC PCB Mounting",
+        "location": "PL1, PLI(FP)",
+        "quantity": "2.00",
+        "stockcode": "10120"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "pcb  \" 267 Iss 2 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15055"
+    },
+    {
+        "description": "pcb  \" 267 FP \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15056"
+    },
+    {
+        "description": "PCB 267 RL1 Issue 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15078"
+    },
+    {
+        "description": "267 Front panel (silk sreened)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16061"
+    },
+    {
+        "description": "267 Mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17188"
+    },
+    {
+        "description": "267 Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17189"
+    },
+    {
+        "description": "AD549KH",
+        "location": "IC8",
+        "quantity": "1.00",
+        "stockcode": "20001"
+    },
+    {
+        "description": "TLE2061AC",
+        "location": "IC13",
+        "quantity": "1.00",
+        "stockcode": "20003"
+    },
+    {
+        "description": "TLC372CP",
+        "location": "IC14",
+        "quantity": "1.00",
+        "stockcode": "20004"
+    },
+    {
+        "description": "PALC22V10-25PC",
+        "location": "IC5   Mark bag with \"Do not fit\"",
+        "quantity": "1.00",
+        "stockcode": "20007"
+    },
+    {
+        "description": "74hct14",
+        "location": "IC1, IC9, IC10",
+        "quantity": "3.00",
+        "stockcode": "20027"
+    },
+    {
+        "description": "SN 74LS640 1N",
+        "location": "IC7",
+        "quantity": "1.00",
+        "stockcode": "20045"
+    },
+    {
+        "description": "7438N",
+        "location": "IC16",
+        "quantity": "1.00",
+        "stockcode": "20046"
+    },
+    {
+        "description": "IC M74HC138B1N",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "20048"
+    },
+    {
+        "description": "PALCE16V8Z-25PC",
+        "location": "IC15   Mark bag with \"Do not fit\"",
+        "quantity": "1.00",
+        "stockcode": "21001"
+    },
+    {
+        "description": "CD4014BE",
+        "location": "IC3, IC4",
+        "quantity": "2.00",
+        "stockcode": "21007"
+    },
+    {
+        "description": "HEF4738VP",
+        "location": "IC6",
+        "quantity": "1.00",
+        "stockcode": "21017"
+    },
+    {
+        "description": "DG409ACJ",
+        "location": "IC11",
+        "quantity": "1.00",
+        "stockcode": "21033"
+    },
+    {
+        "description": "IC DG413DJ",
+        "location": "IC12",
+        "quantity": "1.00",
+        "stockcode": "21045"
+    }
+]

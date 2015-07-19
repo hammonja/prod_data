@@ -1,0 +1,92 @@
+[
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "DH-SiPbS-Te Body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09024"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "UV silicon, 5mm dia, single stage te cooled from EOS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42063"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Front Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42524"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Back Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42525"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Connector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42526"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Detector Mount Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42527"
+    },
+    {
+        "description": "DH_SI_TE Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50026"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB17"
+    },
+    {
+        "description": "Cable for chopper and cooled detectors (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB7"
+    },
+    {
+        "description": "Lens ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "NA5604B"
+    },
+    {
+        "description": "Lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "NA5604C"
+    }
+]

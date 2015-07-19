@@ -1,0 +1,260 @@
+[
+    {
+        "description": "100W qh Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09101"
+    },
+    {
+        "description": "Black bunch pin plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10010"
+    },
+    {
+        "description": "Red bunch pin plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10011"
+    },
+    {
+        "description": "Connector lamp holders",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10042"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Red shrouded plug 90 degrees",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10242"
+    },
+    {
+        "description": "Black plug shielded 90 degree",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10243"
+    },
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "Fixed slit block MkII",
+        "location": "Free issue to metal-worker",
+        "quantity": "1.00",
+        "stockcode": "11083"
+    },
+    {
+        "description": "Fixed slit lid MkII",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11085"
+    },
+    {
+        "description": "Colimator 1 lens tube 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11213"
+    },
+    {
+        "description": "Lens retaining ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11214"
+    },
+    {
+        "description": "Lens retaining ring",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11215"
+    },
+    {
+        "description": "Circular aperture 0.12mm Diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11240"
+    },
+    {
+        "description": "Circular aperture 0.35mm Diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11241"
+    },
+    {
+        "description": "Circular aperture 1.17mm diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11242"
+    },
+    {
+        "description": "Collimator 2 foot",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11244"
+    },
+    {
+        "description": "Modification of 11083",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11245"
+    },
+    {
+        "description": "Iris Diaphragm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13068"
+    },
+    {
+        "description": "Lens 25 dia x 25 fl, BK7",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13078"
+    },
+    {
+        "description": "Lens 40 dia x 160 fl, BK7",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13079"
+    },
+    {
+        "description": "Heat sink for various light sources (free issue 40020)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17994"
+    },
+    {
+        "description": "fan plate (IL10 enclosed)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17995"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "Heyco 003 0347 black (Nylon foot)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19004"
+    },
+    {
+        "description": "M3X10 Spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19011"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "L/H side panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27077"
+    },
+    {
+        "description": "R/H side panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27078"
+    },
+    {
+        "description": "Back plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27080"
+    },
+    {
+        "description": "IL1_Enclosed front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27361"
+    },
+    {
+        "description": "Heat sink",
+        "location": "DO NOT KIT",
+        "quantity": "1.00",
+        "stockcode": "40020"
+    },
+    {
+        "description": "Thales Col 2 to IL1-Enclosed Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42188"
+    },
+    {
+        "description": "Thales Col 2 to IL1-Enclosed Support Foot",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42189"
+    },
+    {
+        "description": "25mm diameter x 1mm thick BG34",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42190"
+    },
+    {
+        "description": "Thales IL1-Enclosed Baseplate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42191"
+    },
+    {
+        "description": "Thales IL1-Enclosed Foot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42192"
+    }
+]

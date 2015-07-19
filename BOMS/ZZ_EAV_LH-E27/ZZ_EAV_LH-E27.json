@@ -1,0 +1,32 @@
+[
+    {
+        "description": "20A Straight plug Power 'D'",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10212"
+    },
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "E27 Lampholder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19102"
+    },
+    {
+        "description": "E27 Lamp Holder Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42165F"
+    },
+    {
+        "description": "E27 Lamp Holder Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42165P"
+    }
+]

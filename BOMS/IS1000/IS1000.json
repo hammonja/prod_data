@@ -1,0 +1,380 @@
+[
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Blue shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10136"
+    },
+    {
+        "description": "12 Way Chassis Socket",
+        "location": "Drill out holes for M3 clearance",
+        "quantity": "2.00",
+        "stockcode": "10161"
+    },
+    {
+        "description": "Shrouded socket green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10223"
+    },
+    {
+        "description": "White Shrouded Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10278"
+    },
+    {
+        "description": "Yellow Shrouded Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10279"
+    },
+    {
+        "description": "IS1000 Hinge Item 1",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13139"
+    },
+    {
+        "description": "IS1000 Locating Pin Mount Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13142"
+    },
+    {
+        "description": "IS1000 Hinge Pin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13206"
+    },
+    {
+        "description": "Auxilliary lamp port",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13237"
+    },
+    {
+        "description": "Blank IS1000 Hemi spheres",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13248"
+    },
+    {
+        "description": "Bentham Logo plate (silk screened)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16098"
+    },
+    {
+        "description": "1m sphere Toggle clamp",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19109"
+    },
+    {
+        "description": "Sealing Tape for 1m spheres (10mm [T] x 12mm [W] x 10m [L])",
+        "location": "",
+        "quantity": "0.40",
+        "stockcode": "19210"
+    },
+    {
+        "description": "'E' clip (pack of 100)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19266"
+    },
+    {
+        "description": "Bosch 45mm extrusion 45 degree angle block",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19359"
+    },
+    {
+        "description": "Bosch double wheel castor (Each)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19360"
+    },
+    {
+        "description": "Bosch 45/90 extrusion bracket",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19361"
+    },
+    {
+        "description": "Bosch 45mm extrusion end cap (each)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19362"
+    },
+    {
+        "description": "Bosch M4 for 8mm profile",
+        "location": "",
+        "quantity": "68.00",
+        "stockcode": "19372"
+    },
+    {
+        "description": "Bosch 30mm extrusion 45 degree angle block",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "19373"
+    },
+    {
+        "description": "Conduit Plastic Straight adapter 16mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19374"
+    },
+    {
+        "description": "M4 'T' nut for 10mm groove",
+        "location": "",
+        "quantity": "20.00",
+        "stockcode": "19377"
+    },
+    {
+        "description": "Bosch handle 8/10mm Groove version",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19378"
+    },
+    {
+        "description": "16mm Plastic Conduit (10m reel)",
+        "location": "",
+        "quantity": "0.40",
+        "stockcode": "19393"
+    },
+    {
+        "description": "GHz barium sulphate paint",
+        "location": "For free issue to painter",
+        "quantity": "4.00",
+        "stockcode": "19625"
+    },
+    {
+        "description": "IS1000 Bosch frame Hinge item 2",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41138"
+    },
+    {
+        "description": "Ring Lighting 4 Way Breakout Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41149F"
+    },
+    {
+        "description": "Ring Lighting 4 Way Breakout Box",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41149P"
+    },
+    {
+        "description": "Bosch, 4 channel, 30 x 30 x 410.8mm long",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "41264"
+    },
+    {
+        "description": "Bosch, 4 channel, 30 x 30 x 442mm long",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "41265"
+    },
+    {
+        "description": "Toggle clamp mount plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41266"
+    },
+    {
+        "description": "IS1000 Toggle clamp strike plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41267"
+    },
+    {
+        "description": "IS1000 Strike Plate Pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41268"
+    },
+    {
+        "description": "IS1000 Location Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41269"
+    },
+    {
+        "description": "Bosch, 4 channel, 45 x 45 x 660mm long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41604"
+    },
+    {
+        "description": " Bosch, 4 channel, 45 x 45 x 1207mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41605"
+    },
+    {
+        "description": " Bosch, 4 channel, 45 x 45 x 1000mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41606"
+    },
+    {
+        "description": "Machining of both hemispheres for IS1000 (mtrl 13248)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41609"
+    },
+    {
+        "description": "Painting of both hemispheres for IS1000",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41609-1"
+    },
+    {
+        "description": "Ring Ltd Baffle legs",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41682F"
+    },
+    {
+        "description": "Ring Ltd Baffle legs",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41682P"
+    },
+    {
+        "description": "IS1000 Fibre/detector mounting block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41807"
+    },
+    {
+        "description": "Lighting Association HCT99 to Type 37 Detector Adapter Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41808"
+    },
+    {
+        "description": " Bosch, 4 channel, 45 x 45 x 1490mm long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41814"
+    },
+    {
+        "description": "Bosch, 4 channel, 45 x 45 x 1109mm long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41815"
+    },
+    {
+        "description": "Sphere to Frame Support Plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41817"
+    },
+    {
+        "description": "Opening Frame Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41818"
+    },
+    {
+        "description": "Fixed Frame Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41819"
+    },
+    {
+        "description": "500mm sphere tube mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43130"
+    },
+    {
+        "description": "500mm lamp stand painted ( 2 PARTS ON THIS DRAWING)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43133F"
+    },
+    {
+        "description": "500mm lamp stand un-painted ( 2 PARTS ON THIS DRAWING)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43133P"
+    },
+    {
+        "description": "IS1000 frame base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44012"
+    },
+    {
+        "description": "500mm lamp top support plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44013F"
+    },
+    {
+        "description": "500mm lamp top support plate (un-painted)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44013P"
+    },
+    {
+        "description": "IS port baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44016"
+    },
+    {
+        "description": "IS adjustable tube mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44019"
+    },
+    {
+        "description": "IS adjustable tube mount sleeve",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44020"
+    },
+    {
+        "description": "IS adjustable tube mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44021"
+    },
+    {
+        "description": "In house drilling of plastic box for lower breakout",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44026"
+    },
+    {
+        "description": "IS fibre diffuser  ( PTFE NOT DELRIN )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44028"
+    },
+    {
+        "description": "IS1000 made to fit top mount collar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44208"
+    }
+]

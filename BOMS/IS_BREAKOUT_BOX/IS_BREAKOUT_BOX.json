@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Sleeved Grommets (bag of 50)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19019"
+    },
+    {
+        "description": "Conduit Plastic Straight adapter 16mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19374"
+    },
+    {
+        "description": "M4 'T' nut for 10mm groove",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19377"
+    },
+    {
+        "description": "4 Way Breakout Box Machined for IS spheres",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41816_M2"
+    },
+    {
+        "description": "conduit for IS_BREAKOUT_BOX",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44373"
+    }
+]

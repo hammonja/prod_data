@@ -1,0 +1,98 @@
+[
+    {
+        "description": "Silica lens, dia 36 +0.0/-0.2mm, fl 63mm, pcx",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13121"
+    },
+    {
+        "description": "IL1/IL6 Lens tube body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17020"
+    },
+    {
+        "description": "IL6 Condenser tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17228"
+    },
+    {
+        "description": "IL6 Condenser ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17229"
+    },
+    {
+        "description": "Heyco 003 0347 black (Nylon foot)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19004"
+    },
+    {
+        "description": "Bosch 45mm extrusion 45 degree angle block",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19359"
+    },
+    {
+        "description": "Bosch 45mm extrusion end cap (each)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19362"
+    },
+    {
+        "description": "Bosch 10mm groove M6 'T' nut (Each)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19399"
+    },
+    {
+        "description": "S12x30 T50 self tap",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19435"
+    },
+    {
+        "description": "Magnet for EI sphere (box of 10)",
+        "location": "Kit 4 magnets",
+        "quantity": "0.40",
+        "stockcode": "43663"
+    },
+    {
+        "description": "BOSCH 45 X 45 997mm LONG",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44326"
+    },
+    {
+        "description": "BOSCH 45 X 45 See Drawing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44327"
+    },
+    {
+        "description": "BOSCH 45 X 45 316.85mm LONG",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44328"
+    },
+    {
+        "description": "SSUV TWISTED  IL1 lens TUBE ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44329"
+    },
+    {
+        "description": "SSUV_FRAME_SYSTEM LAMP SUPPORT",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44330"
+    },
+    {
+        "description": "BOSCH 45 X 45 540mm LONG",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44360"
+    }
+]

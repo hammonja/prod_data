@@ -1,0 +1,236 @@
+[
+    {
+        "description": "Fuse 315mA slow blow 20mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01003"
+    },
+    {
+        "description": "10R MRS25",
+        "location": "R9",
+        "quantity": "1.00",
+        "stockcode": "02004"
+    },
+    {
+        "description": "100R MRS25",
+        "location": "R11",
+        "quantity": "1.00",
+        "stockcode": "02013"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R8",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "470R, MRS25",
+        "location": "R5, 7",
+        "quantity": "2.00",
+        "stockcode": "02079"
+    },
+    {
+        "description": "3k92 MRS25",
+        "location": "R3, 4",
+        "quantity": "2.00",
+        "stockcode": "02241"
+    },
+    {
+        "description": "0R22, 5W",
+        "location": "R10",
+        "quantity": "1.00",
+        "stockcode": "02242"
+    },
+    {
+        "description": "5K 25 Turn PCB mounting",
+        "location": "RV1",
+        "quantity": "1.00",
+        "stockcode": "03019"
+    },
+    {
+        "description": "100K .75 rectangular 20 turn",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03022"
+    },
+    {
+        "description": "6.8V Zener diode",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04012"
+    },
+    {
+        "description": "Diode IN5401",
+        "location": "D1, 2",
+        "quantity": "2.00",
+        "stockcode": "04034"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Voltage regulator LT1085CT5",
+        "location": "Vreg",
+        "quantity": "1.00",
+        "stockcode": "05020"
+    },
+    {
+        "description": "Transistor TIP32A",
+        "location": "T1",
+        "quantity": "1.00",
+        "stockcode": "06009"
+    },
+    {
+        "description": "2N2905",
+        "location": "T2",
+        "quantity": "1.00",
+        "stockcode": "06010"
+    },
+    {
+        "description": "2N3906",
+        "location": "T3",
+        "quantity": "1.00",
+        "stockcode": "06011"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 220uF 16V Electrolytic rad",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08054"
+    },
+    {
+        "description": "Capacitor PE, 100nF, 63V",
+        "location": "C1",
+        "quantity": "1.00",
+        "stockcode": "08078"
+    },
+    {
+        "description": "Capacitor 470uF, 16V, axial",
+        "location": "C4",
+        "quantity": "1.00",
+        "stockcode": "08080"
+    },
+    {
+        "description": "Capacitor 10uF, 63V",
+        "location": "C5,6",
+        "quantity": "2.00",
+        "stockcode": "08081"
+    },
+    {
+        "description": "Capacitor 10,000uF,16V",
+        "location": "C3",
+        "quantity": "1.00",
+        "stockcode": "08082"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "14 Way DIL Socket Low Profile 0.3\"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10054"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "SIL socket 20 way",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10274"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "pcb  \" CPS-1 ISS.B \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15054"
+    },
+    {
+        "description": "CPS1 Front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16042"
+    },
+    {
+        "description": "CPS1 Rear panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16043"
+    },
+    {
+        "description": "218F Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17025"
+    },
+    {
+        "description": "218 Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17105"
+    },
+    {
+        "description": "Transformer 30VA. 9Vac, 9Vac",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18030"
+    },
+    {
+        "description": "DPM for 217 (Lascar DPM 2000S)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18042"
+    },
+    {
+        "description": "Beckman Bush",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19005"
+    },
+    {
+        "description": "IC LM723CN",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "20016"
+    },
+    {
+        "description": "ICL7660SCPAZ",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "21051"
+    }
+]

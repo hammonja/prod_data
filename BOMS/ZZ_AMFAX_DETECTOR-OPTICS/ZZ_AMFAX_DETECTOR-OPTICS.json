@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Judson detector Clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17442"
+    },
+    {
+        "description": "Lens,  31.5 dia,  60 f,  pvex,  CaF2",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42810"
+    },
+    {
+        "description": "Amfax lens carrier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42811"
+    },
+    {
+        "description": "Amfax lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42812"
+    },
+    {
+        "description": "Amfax optics tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42813"
+    }
+]

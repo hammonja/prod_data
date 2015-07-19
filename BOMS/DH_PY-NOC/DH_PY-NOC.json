@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Pyroelectric Detector Head",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_PY"
+    },
+    {
+        "description": "Returned Item. <SAGE_PRODUCT_CODE> (SN <SERIAL_NUMBER>)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "RETURNED_ITEM"
+    }
+]

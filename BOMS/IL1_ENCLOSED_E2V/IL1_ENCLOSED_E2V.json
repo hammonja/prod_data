@@ -1,0 +1,194 @@
+[
+    {
+        "description": "100W qh Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09101"
+    },
+    {
+        "description": "Connector lamp holders",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10042"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10125"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Red shrouded plug 90 degrees",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10242"
+    },
+    {
+        "description": "Black plug shielded 90 degree",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10243"
+    },
+    {
+        "description": "Rear lens tube - Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12012"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "IL1 Lens tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17021"
+    },
+    {
+        "description": "bottom panel (IL10 enclosed)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17993"
+    },
+    {
+        "description": "Heat sink for various light sources (free issue 40020)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17994"
+    },
+    {
+        "description": "fan plate (IL10 enclosed)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17995"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "M3X10 Spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19011"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "E2V shutter (12V version)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19248"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "L/H side panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27077"
+    },
+    {
+        "description": "R/H side panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27078"
+    },
+    {
+        "description": "Back plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27080"
+    },
+    {
+        "description": "IL1_Enclosed front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27361"
+    },
+    {
+        "description": "Heat sink",
+        "location": "DO NOT KIT",
+        "quantity": "1.00",
+        "stockcode": "40020"
+    },
+    {
+        "description": "MELLES GRIOT SHUTTER MOUNT PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44266"
+    },
+    {
+        "description": "Melles Groit rear Adpater",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44267"
+    },
+    {
+        "description": "MTG IL1-ENCLOSED LENS TUBE ASS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44268"
+    },
+    {
+        "description": "Melles Griot Spacer Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "44269"
+    },
+    {
+        "description": "Melles Griot Shutter Front Adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44272"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
+    }
+]

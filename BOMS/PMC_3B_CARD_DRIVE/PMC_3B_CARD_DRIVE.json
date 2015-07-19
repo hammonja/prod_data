@@ -1,0 +1,158 @@
+[
+    {
+        "description": "1K, MRS25",
+        "location": "R23, R24, R25, R26",
+        "quantity": "4.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "3K32 MRS25",
+        "location": "R4, R5, R6, R7",
+        "quantity": "4.00",
+        "stockcode": "02027"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R1, R2, R3, R8, R9, R11, R14",
+        "quantity": "7.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "33K2 MRS25",
+        "location": "R12, R13",
+        "quantity": "2.00",
+        "stockcode": "02039"
+    },
+    {
+        "description": "20K .5W Cermet PCB mounting",
+        "location": "RV1",
+        "quantity": "1.00",
+        "stockcode": "03011"
+    },
+    {
+        "description": "Capacitor 3n3F 40V Polystyrene axial",
+        "location": "C10",
+        "quantity": "1.00",
+        "stockcode": "08012"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "MOD",
+        "quantity": "5.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 10nF, 200V AC polyester",
+        "location": "C12, C13",
+        "quantity": "2.00",
+        "stockcode": "08020"
+    },
+    {
+        "description": "Capacitor 0.1uF, 160V, AC polyester",
+        "location": "C3, C4, C5, C6, C8, C9",
+        "quantity": "6.00",
+        "stockcode": "08023"
+    },
+    {
+        "description": "Capacitor 100uF, 25V, electrolytic",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08034"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "Connector 26 way header right angle",
+        "location": "PL1",
+        "quantity": "1.00",
+        "stockcode": "10048"
+    },
+    {
+        "description": "Connector 6-way PCB plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10023"
+    },
+    {
+        "description": "14 Way DIL Socket Low Profile 0.3\"",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "10054"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "Connector 14 way component DIL",
+        "location": "PSS",
+        "quantity": "1.00",
+        "stockcode": "10067"
+    },
+    {
+        "description": "pcb  \" PMC 3B ISSUE C \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15029"
+    },
+    {
+        "description": "DIP Heatsink",
+        "location": "1D, 4D",
+        "quantity": "2.00",
+        "stockcode": "19018"
+    },
+    {
+        "description": "ULN2003A 7xNPN Darlington driver",
+        "location": "1D, 4D",
+        "quantity": "2.00",
+        "stockcode": "20005"
+    },
+    {
+        "description": "LM555CN",
+        "location": "6A",
+        "quantity": "1.00",
+        "stockcode": "20008"
+    },
+    {
+        "description": "4011",
+        "location": "5D, 3C, 4C",
+        "quantity": "3.00",
+        "stockcode": "21005"
+    },
+    {
+        "description": "4013",
+        "location": "2A, 1C, 2D",
+        "quantity": "3.00",
+        "stockcode": "21006"
+    },
+    {
+        "description": "4016B",
+        "location": "5C",
+        "quantity": "1.00",
+        "stockcode": "21008"
+    },
+    {
+        "description": "4070B",
+        "location": "2C",
+        "quantity": "1.00",
+        "stockcode": "21013"
+    },
+    {
+        "description": "MC14518BCP",
+        "location": "4A, 3A",
+        "quantity": "2.00",
+        "stockcode": "21015"
+    },
+    {
+        "description": "4093B",
+        "location": "3D",
+        "quantity": "1.00",
+        "stockcode": "21028"
+    }
+]

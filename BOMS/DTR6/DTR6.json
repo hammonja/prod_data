@@ -1,0 +1,32 @@
+[
+    {
+        "description": "DTR6 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTR6_COMMON_PARTS"
+    },
+    {
+        "description": "Light trap for DTR6",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTR6_LIGHT_TRAP"
+    },
+    {
+        "description": "Port reducers for DTR6",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTR6_PORT-REDUCER-SET"
+    },
+    {
+        "description": "Sample viewer for DTR6",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTR6_SAMPLE_VIEWER"
+    },
+    {
+        "description": "DTR6 Reflectance Piece",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTR6-REFLECTANCE-PIECE"
+    }
+]

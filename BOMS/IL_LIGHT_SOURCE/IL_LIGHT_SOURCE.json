@@ -1,0 +1,32 @@
+[
+    {
+        "description": "100W qh based light source, silica lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL1"
+    },
+    {
+        "description": "250W Constant Current Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_605"
+    },
+    {
+        "description": "Certificate of Origin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CERTIFICATE_ORIGIN"
+    },
+    {
+        "description": "Mains cable, Australian plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23016"
+    },
+    {
+        "description": "Packing and Carriage General Charge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PACK&CARR"
+    }
+]

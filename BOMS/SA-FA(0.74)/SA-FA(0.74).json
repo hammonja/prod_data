@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Carrier for Fixed Slit Plates (Components)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_FIXED-CARRIER_COMPONENTS"
+    },
+    {
+        "description": "PV system aperture 0.74mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43445"
+    }
+]

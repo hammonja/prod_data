@@ -1,0 +1,194 @@
+[
+    {
+        "description": "R32-C184: Thermal switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07056"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "50W qh lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19017"
+    },
+    {
+        "description": "Elipsoidal reflector with AlMgF2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19124"
+    },
+    {
+        "description": "Mill flat on solenoid shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19482"
+    },
+    {
+        "description": "Reverse Jaw Plate for VSS & MVSS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41036"
+    },
+    {
+        "description": "Ceramic Lamp Holder Disc (Matl.  RS248-4725)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41261"
+    },
+    {
+        "description": "Manual Focus Elliptical Source Lamp holder Pins",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41262"
+    },
+    {
+        "description": "Manual Focus Elliptical Source Slit Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41263"
+    },
+    {
+        "description": "UKAEA sphere connector bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41614"
+    },
+    {
+        "description": "UKAEA sphere light source baffle plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41631"
+    },
+    {
+        "description": "UKAEA sphere fan baffle plate pillars (pack of 25)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "41674"
+    },
+    {
+        "description": "UKAEA sphere fibre clamp block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41675"
+    },
+    {
+        "description": "ULS300 top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42603"
+    },
+    {
+        "description": "ULS filter holder",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42605"
+    },
+    {
+        "description": "Filter holder knob (Note new Issue)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42607"
+    },
+    {
+        "description": "ULS filter slot cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42608"
+    },
+    {
+        "description": "IL sun QH mount 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43265"
+    },
+    {
+        "description": "IL sun QH mount 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43266"
+    },
+    {
+        "description": "Shutter slenoid for IL sun.  GDAY 025 X20 E03 12V 100%",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43267"
+    },
+    {
+        "description": "IL sun shutter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43269"
+    },
+    {
+        "description": "IL sun face plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43306"
+    },
+    {
+        "description": "IL sun base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43307"
+    },
+    {
+        "description": "IL sun ellipse plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43308"
+    },
+    {
+        "description": "IL sun shutter mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43309"
+    },
+    {
+        "description": "IL sun shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43310"
+    },
+    {
+        "description": "Lamp cable with shrouded at both ends (3m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB11"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
+    }
+]

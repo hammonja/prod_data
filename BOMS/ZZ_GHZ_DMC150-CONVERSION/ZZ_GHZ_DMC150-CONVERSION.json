@@ -1,0 +1,158 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "R1, R2",
+        "quantity": "2.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "R47 .25W MF 1%",
+        "location": "R3",
+        "quantity": "1.00",
+        "stockcode": "02236"
+    },
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "REG 1",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "dc-dc, 10-30V in,  5V @ 600mA out",
+        "location": "REG 2",
+        "quantity": "1.00",
+        "stockcode": "05024"
+    },
+    {
+        "description": "bridge",
+        "location": "BR1, BR2",
+        "quantity": "2.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "Capacitor 4700 uF 35V",
+        "location": "C1, C2",
+        "quantity": "2.00",
+        "stockcode": "08098"
+    },
+    {
+        "description": "Connector  64 way 2 rows",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10085"
+    },
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "Connector IEEE socket (3549-2000)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10108"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Opto wheel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11198"
+    },
+    {
+        "description": "Opto switch bracket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11199"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "Bentham DMc150 IEEE connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16100"
+    },
+    {
+        "description": "DMc150 Power Supply Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17364"
+    },
+    {
+        "description": "Transformer 60VA. 15Vac, 15Vac (was Farnell 9530436)",
+        "location": "TR1",
+        "quantity": "1.00",
+        "stockcode": "18058"
+    },
+    {
+        "description": "sales@L-com.com   (pack of 20)",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "19012"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "22mm capacitor clip",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19142"
+    },
+    {
+        "description": "P clips (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19149"
+    },
+    {
+        "description": "GP-IB to I2C interface",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_GPIB-I2C"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    }
+]

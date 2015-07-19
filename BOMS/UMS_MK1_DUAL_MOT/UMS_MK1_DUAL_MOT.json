@@ -1,0 +1,92 @@
+[
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "Connector 25 way IDC socket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10124"
+    },
+    {
+        "description": "15-Way IDC D-Socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10350"
+    },
+    {
+        "description": "Female Screw Lock Assembly 13mm Long",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "19044"
+    },
+    {
+        "description": "SAC system UMS guide rails",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41467"
+    },
+    {
+        "description": "SAC system guide clamps",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "41468"
+    },
+    {
+        "description": "SAC system UMS connector panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41517"
+    },
+    {
+        "description": "UMS Collimator Sheet Cover - Right",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45337"
+    },
+    {
+        "description": "UMS Connector Panel Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46689"
+    },
+    {
+        "description": "UMS MOT Wall",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46691"
+    },
+    {
+        "description": "UMS MOT Entrance Wall",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46692"
+    },
+    {
+        "description": "UMS Mk1 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UMS_MK1_COMMON_PARTS"
+    },
+    {
+        "description": "UMS_MK1_DUAL_MOT Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50057"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "description": "4k75 MRS25",
+        "location": "R3, R4, R5",
+        "quantity": "3.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "187k, MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02121"
+    },
+    {
+        "description": "20K .5W Cermet PCB mounting",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "03011"
+    },
+    {
+        "description": "Bridge GBU4D 4A 200V",
+        "location": "D1, D2",
+        "quantity": "2.00",
+        "stockcode": "05028"
+    },
+    {
+        "description": "Regulator  LM2940CT15",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "05029"
+    },
+    {
+        "description": "Regulator LM2990T-15  -15V 1 Amp",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "05031"
+    },
+    {
+        "description": "5V, 1.5A reg",
+        "location": "IC3",
+        "quantity": "1.00",
+        "stockcode": "05032"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1,4,7-10,13,16,17,21,22,23,25,26,27,29,30,31",
+        "quantity": "18.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C20, C24, C28",
+        "quantity": "3.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 10nF Polyester 10% 63/100V",
+        "location": "C14, C15, C18, C19",
+        "quantity": "4.00",
+        "stockcode": "08052"
+    },
+    {
+        "description": "Capacitor 15,000uF 16V Radial Electrolytic",
+        "location": "C11",
+        "quantity": "1.00",
+        "stockcode": "08106"
+    },
+    {
+        "description": "Capacitor 10,000uF, 35V",
+        "location": "C2, C5",
+        "quantity": "2.00",
+        "stockcode": "08107"
+    },
+    {
+        "description": "Molex strips (Molex 10-08-5121)",
+        "location": "J1-8",
+        "quantity": "8.00",
+        "stockcode": "10032"
+    },
+    {
+        "description": "Header 10 Way 0.1\" Pitch C/W",
+        "location": "PL1",
+        "quantity": "1.00",
+        "stockcode": "10172"
+    },
+    {
+        "description": "417 pcb issue 2 (re-designed Oct. 13)",
+        "location": "CHECK BEFORE USE",
+        "quantity": "1.00",
+        "stockcode": "15015"
+    },
+    {
+        "description": "217 heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17598"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "description": "EOS 1mm TE cooled EX-INGaAs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09156"
+    },
+    {
+        "description": "BNC earth tags for 10028",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10013"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "Dual FD43X Detector Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46414"
+    },
+    {
+        "description": "Dual FD43x Detector Tube Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46416"
+    },
+    {
+        "description": "Dual FD43x Detector Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46417"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB17"
+    },
+    {
+        "description": "Cable for chopper and cooled detectors (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB7"
+    }
+]

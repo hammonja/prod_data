@@ -1,0 +1,14 @@
+[
+    {
+        "description": "TMC300 Base PV monochromator Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_PV_BASE_COMMON_PARTS"
+    },
+    {
+        "description": "252 filter wheel for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252"
+    }
+]

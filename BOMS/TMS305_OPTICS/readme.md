@@ -1,0 +1,12 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|12182|Liquid light guide, UV, 8mm, 2m long|1.00||
+|13010|Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl|3.00||
+|19605|Machining Operation to Produce 16119_M1|2.00||
+|42966|Ninewells split ring|2.00||
+|42967|Ninewells fibre holder|1.00||
+|43852|NW exit optic filter block|1.00||
+|43853|NW exit optic lens holder|1.00||
+|44097|9824 focusing optics tube|1.00||
+|44098|9824 focusing optic split ring|2.00||
+|44099|9824 focusing optic|1.00||

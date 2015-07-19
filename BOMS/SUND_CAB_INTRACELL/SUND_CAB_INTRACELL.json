@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Connector 9 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10086"
+    },
+    {
+        "description": "Connector 9 Way 'D' Metal Case",
+        "location": "Cable is 8ft long.  Cable is RS 367-454",
+        "quantity": "1.00",
+        "stockcode": "10111"
+    },
+    {
+        "description": "68 pin connector for National dac card",
+        "location": "Includes shell",
+        "quantity": "1.00",
+        "stockcode": "10263"
+    }
+]

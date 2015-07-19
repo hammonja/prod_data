@@ -1,0 +1,110 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04044"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Anti-backlash worm (written off)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30215"
+    },
+    {
+        "description": "638/8 2Z   SKF or RHP",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30291"
+    },
+    {
+        "description": "Antibacklash gear with 8mm bore (written off)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30293"
+    },
+    {
+        "description": "M300 Turret Grating plate",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42561"
+    },
+    {
+        "description": "Roll over turret motor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42690"
+    },
+    {
+        "description": "Roll over turret opto disc cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42776"
+    },
+    {
+        "description": "Roll over turret gear cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42777"
+    },
+    {
+        "description": "Roll over turret L side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42778"
+    },
+    {
+        "description": "Roll over turret shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42779"
+    },
+    {
+        "description": "Roll over turret base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42780"
+    },
+    {
+        "description": "Roll over turret grating holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42781"
+    },
+    {
+        "description": "Roll over turret ext",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42782"
+    },
+    {
+        "description": "Roll over turret R side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42783"
+    },
+    {
+        "description": "Roll over turret motor bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42784"
+    },
+    {
+        "description": "Roll over turret opto disc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42785"
+    }
+]

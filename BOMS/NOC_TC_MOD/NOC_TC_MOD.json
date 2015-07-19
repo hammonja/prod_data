@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Capacitor 2n2 Polypropylene FKP2",
+        "location": "C13",
+        "quantity": "1.00",
+        "stockcode": "08043"
+    },
+    {
+        "description": "Capacitor 1nF 100v boxed polyester",
+        "location": "C4",
+        "quantity": "1.00",
+        "stockcode": "08059"
+    },
+    {
+        "description": "Capacitor 22n",
+        "location": "C5, C6",
+        "quantity": "2.00",
+        "stockcode": "08071"
+    },
+    {
+        "description": "Capacitor 3n3 polyester 100V DC 63V AC",
+        "location": "C11, C12",
+        "quantity": "2.00",
+        "stockcode": "08097"
+    },
+    {
+        "description": "Capacitor 33nF, 100V DC, polyester, 5mm",
+        "location": "C3",
+        "quantity": "1.00",
+        "stockcode": "08111"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Nanometrics polychromator Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PR300_COMMON_PARTS"
+    },
+    {
+        "description": "Accent Motorised Slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_MVSS_ACCENT"
+    }
+]

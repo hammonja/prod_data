@@ -1,0 +1,68 @@
+[
+    {
+        "description": "Terminal Block 3 Position Grey",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10342"
+    },
+    {
+        "description": "Bosch part",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19567"
+    },
+    {
+        "description": "Bosch part",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44146"
+    },
+    {
+        "description": "Bosch IS1800 table top support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44158"
+    },
+    {
+        "description": "Bosch extrusion see drawing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44159"
+    },
+    {
+        "description": "Bosch part",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44161"
+    },
+    {
+        "description": "Magnetic IS1800 Table (Painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44279F"
+    },
+    {
+        "description": "Magnetic IS1800 Table",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44279P"
+    },
+    {
+        "description": "Peltier Unit for IS1800 bird table : THP68B",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "44280"
+    },
+    {
+        "description": "21 way multipole cable plug,7.5A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44288"
+    },
+    {
+        "description": "Temperature Controller for Bentham Envirobox Systems",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CPS_E-MK4"
+    }
+]

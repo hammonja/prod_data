@@ -1,0 +1,14 @@
+[
+    {
+        "description": "M300 casting, 2 apertures blanked, no machining",
+        "location": "Issue to machine shop",
+        "quantity": "1.00",
+        "stockcode": "11119"
+    },
+    {
+        "description": "TGK casting machining",
+        "location": "Machining OP",
+        "quantity": "1.00",
+        "stockcode": "42802"
+    }
+]

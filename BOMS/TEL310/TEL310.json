@@ -1,0 +1,470 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "dc-dc, 18-36V in,  5V @ 600mA out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05007"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "S009 telescope power connector (KPJX-4S-S)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10308"
+    },
+    {
+        "description": "TEL310 USB Connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10331"
+    },
+    {
+        "description": "M300 microswitch",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11001"
+    },
+    {
+        "description": "M3 inserts in slider (lead screw min. 5mm from end of track)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11042"
+    },
+    {
+        "description": "M300 flexible coupler",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11057"
+    },
+    {
+        "description": "Unislide FF",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11209"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "Microswitch plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11349"
+    },
+    {
+        "description": "Glass lens, 25dia, f=50, pcx",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12168"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "S009 Telescope External  Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18111"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "'E' clip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19266"
+    },
+    {
+        "description": "Camera for S009 telescope",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19481"
+    },
+    {
+        "description": "TEL309 Large Gear Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19486_M1"
+    },
+    {
+        "description": "Modification of 11042 for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19487"
+    },
+    {
+        "description": "8mm to 6mm reducer for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19503"
+    },
+    {
+        "description": "Polishing of disc for TEL309 (99206 paper only)",
+        "location": "Use 99206 paper and polishing kit",
+        "quantity": "1.00",
+        "stockcode": "19516"
+    },
+    {
+        "description": "Machined Timing Pulley",
+        "location": "Drill & tap hub M3",
+        "quantity": "1.00",
+        "stockcode": "30045_M2"
+    },
+    {
+        "description": "Bore reducer, 5mm x 1/4 inch x 6.6mm long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30052"
+    },
+    {
+        "description": "Opto disc with slot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30054"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TMs300 Slit Bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30253"
+    },
+    {
+        "description": "Roll over turret motor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42690"
+    },
+    {
+        "description": "Fibre launch lens for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43371"
+    },
+    {
+        "description": "TEL309 motor bracket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43373"
+    },
+    {
+        "description": "TEL309 unslide pillars",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43374"
+    },
+    {
+        "description": "TEL309 usb cam mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43375"
+    },
+    {
+        "description": "TEL309 cam slide mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43376"
+    },
+    {
+        "description": "TEL309 cam baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43377"
+    },
+    {
+        "description": "TEL309 stop",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43379"
+    },
+    {
+        "description": "TEL309 switch mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43380"
+    },
+    {
+        "description": "TEL309 limit block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43381"
+    },
+    {
+        "description": "TEL309 lens stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43383"
+    },
+    {
+        "description": "TEL309 divert mirror mount (NB  Issue  B )",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43384"
+    },
+    {
+        "description": "Mirror. Al/MgF2.  20x20x3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43385"
+    },
+    {
+        "description": "TEL309 motor bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43386"
+    },
+    {
+        "description": "TEL309 aperture stage",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43387"
+    },
+    {
+        "description": "TEL309 app wheel mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43388"
+    },
+    {
+        "description": "TEL309 appwheel shaft (FREE  ISSUE  99903, 40mm per)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43389"
+    },
+    {
+        "description": "Belt for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43392"
+    },
+    {
+        "description": "TEL309 periscope block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43393"
+    },
+    {
+        "description": "TEL309 app shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43394"
+    },
+    {
+        "description": "TEL309 fibre mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43395"
+    },
+    {
+        "description": "TEL309 fibre entry 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43396"
+    },
+    {
+        "description": "TEL309 fibre holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43397"
+    },
+    {
+        "description": "TEL309 app reducer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43398"
+    },
+    {
+        "description": "TEL309 screw on lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43399"
+    },
+    {
+        "description": "Lens, pcx, silica, f=200, dia 25. Tolerance + 0.00, -0.05",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43400"
+    },
+    {
+        "description": "Lens, pcx, silica, f=400, dia = 25. Tolerance + 0.00, -0.05",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43401"
+    },
+    {
+        "description": "TEL309 front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43402"
+    },
+    {
+        "description": "TEL309 base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43403"
+    },
+    {
+        "description": "Power connector stop",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43405"
+    },
+    {
+        "description": "TEL309 back plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43406"
+    },
+    {
+        "description": "Tel309 Long Distance Lens Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46808"
+    },
+    {
+        "description": "USB Hub Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46809"
+    },
+    {
+        "description": "TEL310 Aperture Disc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46811"
+    },
+    {
+        "description": "TEL310 Microswitch Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46812"
+    },
+    {
+        "description": "TEL310 Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46813"
+    },
+    {
+        "description": "TEL310 Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46814"
+    },
+    {
+        "description": "TM600 Rear Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60078"
+    },
+    {
+        "description": "CAB-USB-9IN-A-MINIB (www.claimthis.com)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB_USB_MINI_9IN"
+    },
+    {
+        "description": "USB A to micro B 150mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USBA_MICROB"
+    },
+    {
+        "description": "UV grade fused silica fibre bundle (200-1350nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FOP-UV-2-500"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Split ring for TGK filter wheel",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "NA5155"
+    },
+    {
+        "description": "IMAC card for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD_TEL309"
+    },
+    {
+        "description": "ADVENT USB 2.0 4-Port Powered Hub",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "USB_HUB"
+    }
+]

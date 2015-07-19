@@ -1,0 +1,308 @@
+[
+    {
+        "description": "InGaAs detector 2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09040"
+    },
+    {
+        "description": "100W qh Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09101"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Connector lamp holders",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10042"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Purge port pipe connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10119"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "12V Solenoid.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11249"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "Rear lens tube - Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12012"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "IL1 Lens tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17021"
+    },
+    {
+        "description": "Nernst insulator",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "17166"
+    },
+    {
+        "description": "Binding post",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17168"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "M3X10 Spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19011"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "LOT IR Glowers Nernst glowbar self-igniting 1/8 diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19074"
+    },
+    {
+        "description": "Dome plug 6.4mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19091"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "SAM coupling",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30025"
+    },
+    {
+        "description": "Sam pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30026"
+    },
+    {
+        "description": "TMs300 SAM support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30297"
+    },
+    {
+        "description": "Heat sink",
+        "location": "DO NOT KIT",
+        "quantity": "2.00",
+        "stockcode": "40020"
+    },
+    {
+        "description": "Dual light source plain side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42351"
+    },
+    {
+        "description": "WRC IL-Glowbar-Enclosed Lamp Support Pillars",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42355"
+    },
+    {
+        "description": "WRC Lamp Heatsink (free issue 40020)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42359"
+    },
+    {
+        "description": "WRC Lamp Fan Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42360"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed Box Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42365"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed Box Back",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42366"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed Box Side 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42367"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed Box Front",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42369"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed Box Top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42370"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed QH Lens Holder Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42372"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed Lamp Holder Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42375"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed SAM Pillars",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42377"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed Monitor Detector Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42402"
+    },
+    {
+        "description": "Off Axis Elliptical Reflector Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42404"
+    },
+    {
+        "description": "WRC Large Off Axis Elliptical Reflector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42405"
+    },
+    {
+        "description": "WRC Detector Chamber Pillars",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42410"
+    },
+    {
+        "description": "WRC Light Source Pillar Studding",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42411"
+    },
+    {
+        "description": "Sam mirror bracket for Dual QH Nernst",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42635"
+    },
+    {
+        "description": "Threaded block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43967"
+    },
+    {
+        "description": "Lamp cable with shrouded at both ends (1.8m long)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB6"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB8"
+    },
+    {
+        "description": "Sam cable, 3 way to 3 way, 550mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB9"
+    }
+]

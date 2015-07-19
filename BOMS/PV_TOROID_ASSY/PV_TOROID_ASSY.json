@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "Toroid for PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19489"
+    },
+    {
+        "description": "PV angle mount block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43232"
+    },
+    {
+        "description": "PV toroidal mirror bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43272"
+    },
+    {
+        "description": "PV toroidal mirror mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43305"
+    },
+    {
+        "description": "PV mirror retaining block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43443"
+    },
+    {
+        "description": "PV Mirror Cover (1.5mm 6082)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44102"
+    }
+]

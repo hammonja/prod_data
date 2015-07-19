@@ -1,0 +1,86 @@
+[
+    {
+        "description": "4k75 MRS25",
+        "location": "R1,2",
+        "quantity": "2.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "REG1",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "dc-dc, 10-30V in,  5V @ 600mA out",
+        "location": "REG2",
+        "quantity": "1.00",
+        "stockcode": "05024"
+    },
+    {
+        "description": "bridge",
+        "location": "BR1,2",
+        "quantity": "2.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "mod on REG1",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "mod on REG1",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 4700 uF 35V",
+        "location": "C1,2",
+        "quantity": "2.00",
+        "stockcode": "08098"
+    },
+    {
+        "description": "Connector  64 way 2 rows",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10085"
+    },
+    {
+        "description": "Tyco 4 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10303"
+    },
+    {
+        "description": "DMc150 Power Supply Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17364"
+    },
+    {
+        "description": "Transformer 60VA. 15Vac, 15Vac (was Farnell 9530436)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18058"
+    },
+    {
+        "description": "22mm capacitor clip",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19142"
+    },
+    {
+        "description": "6.3mm flag receptacle,0.75-2.3 sq.mm",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99199"
+    },
+    {
+        "description": "6.3mm flag receptacle Insulating sleeve",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99201"
+    }
+]

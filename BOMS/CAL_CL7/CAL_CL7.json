@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Purge port pipe connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10119"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Blue shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10136"
+    },
+    {
+        "description": "D2 Lamp PTFE sleeve",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17091"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "CL7 BODY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27373_P1"
+    },
+    {
+        "description": "CL7 front wall plate Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27375_P1"
+    },
+    {
+        "description": "Deuterium Lamp  M XD 5655-03",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27441"
+    },
+    {
+        "description": "MkII silencer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40028"
+    },
+    {
+        "description": "D2 bulb mount clamp",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "45199"
+    },
+    {
+        "description": "Cable for CL7 (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB10"
+    },
+    {
+        "description": "New CL7 back wall plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27374_P1"
+    }
+]

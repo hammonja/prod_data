@@ -1,0 +1,254 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "led",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R1, R2",
+        "quantity": "2.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "Green led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04001"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "L78S05CV +5V 2A TO220",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05019"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 10,000uF,16V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08082"
+    },
+    {
+        "description": "Capacitor 4700uF, 63V",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08113"
+    },
+    {
+        "description": "Vertical Mounting Clip for 30mm Capacitor",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08114"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "Connector  64 way 2 rows",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10085"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "Connector 25 way IDC socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10124"
+    },
+    {
+        "description": "Mains filter, Fused, Snap-Fit FN261",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10129"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "M3 x 10 nylon spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11047"
+    },
+    {
+        "description": "605 Rear panel bracket for bin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "16008"
+    },
+    {
+        "description": "Mac bin front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16044"
+    },
+    {
+        "description": "25-WAY / IEEE BLANKING PLATE",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "16066"
+    },
+    {
+        "description": "Mac bin rear panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16073"
+    },
+    {
+        "description": "9 WAY BLANKING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16074"
+    },
+    {
+        "description": "417 Bin USB PCB support plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16123"
+    },
+    {
+        "description": "MSD TRAY (2mm 6082)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17163"
+    },
+    {
+        "description": "Transformer 120VA. 9Vac, 14Vac, 30Vac",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18024"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "UNC4-40 x 3mm,  pozi pan, zinc.",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "19094"
+    },
+    {
+        "description": "22mm capacitor clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19142"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "Schroff EMC gasket kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22012"
+    },
+    {
+        "description": "Schroff Additional horizontal rail",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22014"
+    },
+    {
+        "description": "Schroff bin full width.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22015"
+    },
+    {
+        "description": "Schroff bin card guides",
+        "location": "pairs",
+        "quantity": "2.00",
+        "stockcode": "22017"
+    },
+    {
+        "description": "Shroff bin card retainers",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22018"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]

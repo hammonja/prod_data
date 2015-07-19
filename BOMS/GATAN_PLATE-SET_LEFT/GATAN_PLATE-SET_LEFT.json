@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Monocl web",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PEP1326_PAINTED"
+    },
+    {
+        "description": "Monocl web",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PEP1326_UNPAINTED"
+    },
+    {
+        "description": "Web plate for MONOCL and TEMCL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PEP1327_PAINTED"
+    },
+    {
+        "description": "Web plate for MONOCL and TEMCL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PEP1327_UNPAINTED"
+    },
+    {
+        "description": "Monocll web",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PEP4614_PAINTED"
+    },
+    {
+        "description": "Monocl web",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PEP4614_UNPAINTED"
+    },
+    {
+        "description": "Only use grey paint supplied by Gatan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PEP6324_PAINTED"
+    },
+    {
+        "description": "Monocl back plate LEFT HAND",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PEP6324_UNPAINTED"
+    }
+]

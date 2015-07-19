@@ -1,0 +1,320 @@
+[
+    {
+        "description": "1K, MRS25",
+        "location": "R10, R12",
+        "quantity": "2.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "2k2 MRS25",
+        "location": "R14",
+        "quantity": "1.00",
+        "stockcode": "02024"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R8, R9, R16",
+        "quantity": "3.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "12K1, 0.25W, MF, 1% LR1",
+        "location": "R4",
+        "quantity": "1.00",
+        "stockcode": "02035"
+    },
+    {
+        "description": "100K MRS25",
+        "location": "R6, R15",
+        "quantity": "2.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "47K MRS25",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02083"
+    },
+    {
+        "description": "21K, 0.25W, MF, 0.1%, 50PPM",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "02086"
+    },
+    {
+        "description": "560K, MRS25",
+        "location": "R13",
+        "quantity": "1.00",
+        "stockcode": "02088"
+    },
+    {
+        "description": "511K MRS25",
+        "location": "R3",
+        "quantity": "1.00",
+        "stockcode": "02091"
+    },
+    {
+        "description": "100K Resnet x 7 SIL",
+        "location": "R7",
+        "quantity": "1.00",
+        "stockcode": "02107"
+    },
+    {
+        "description": "Resnet - Beckman Insruments",
+        "location": "R11, R17",
+        "quantity": "2.00",
+        "stockcode": "02108"
+    },
+    {
+        "description": "1N4148",
+        "location": "D1, D2, D3",
+        "quantity": "3.00",
+        "stockcode": "04007"
+    },
+    {
+        "description": "bit switch",
+        "location": "SW1",
+        "quantity": "1.00",
+        "stockcode": "07023"
+    },
+    {
+        "description": "Capacitor 2n2 Polypropylene FKP2",
+        "location": "C1",
+        "quantity": "1.00",
+        "stockcode": "08043"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C2, C3, C6, C7, C8, C14",
+        "quantity": "6.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 22pF ceramic plate",
+        "location": "C10",
+        "quantity": "1.00",
+        "stockcode": "08047"
+    },
+    {
+        "description": "Capacitor 220pF Ceramic Plate",
+        "location": "C11, mod",
+        "quantity": "2.00",
+        "stockcode": "08048"
+    },
+    {
+        "description": "Capacitor 4.7pF Ceramic Plate",
+        "location": "C9",
+        "quantity": "1.00",
+        "stockcode": "08049"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 100pF",
+        "location": "C12",
+        "quantity": "1.00",
+        "stockcode": "08062"
+    },
+    {
+        "description": "Capacitor 2.2uF",
+        "location": "C4, C13",
+        "quantity": "2.00",
+        "stockcode": "08065"
+    },
+    {
+        "description": "Quartz crystal 4MHz",
+        "location": "XL1",
+        "quantity": "1.00",
+        "stockcode": "08091"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "20 Way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10020"
+    },
+    {
+        "description": "Connector 12Way Molex Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10031"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "14 Way DIL Socket Low Profile 0.3\"",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "10054"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "connector 40-Way DIL socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10057"
+    },
+    {
+        "description": "Connector 18-way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10079"
+    },
+    {
+        "description": "Connector 26-Way boxed header",
+        "location": "PL1, PL2",
+        "quantity": "2.00",
+        "stockcode": "10080"
+    },
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "Connector IEEE socket (3549-2000)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10108"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "pcb \" 228A Iss3 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15035"
+    },
+    {
+        "description": "228A Front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16004"
+    },
+    {
+        "description": "200 Series mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17038"
+    },
+    {
+        "description": "sales@L-com.com   (pack of 20)",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "19012"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "VFC in 228A (AD652AQ) (alternative FEC  223-1177)",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "20025"
+    },
+    {
+        "description": "IC LM393N",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "20026"
+    },
+    {
+        "description": "74hct14",
+        "location": "IC12, IC16",
+        "quantity": "2.00",
+        "stockcode": "20027"
+    },
+    {
+        "description": "IC MM74HC390N",
+        "location": "IC10",
+        "quantity": "1.00",
+        "stockcode": "20028"
+    },
+    {
+        "description": "IC 74HC126",
+        "location": "IC15",
+        "quantity": "1.00",
+        "stockcode": "20039"
+    },
+    {
+        "description": "SN 74LS640 1N",
+        "location": "IC7",
+        "quantity": "1.00",
+        "stockcode": "20045"
+    },
+    {
+        "description": "7438N",
+        "location": "IC17",
+        "quantity": "1.00",
+        "stockcode": "20046"
+    },
+    {
+        "description": "HEF4001BP",
+        "location": "IC3",
+        "quantity": "1.00",
+        "stockcode": "21004"
+    },
+    {
+        "description": "4013",
+        "location": "IC4, IC13",
+        "quantity": "2.00",
+        "stockcode": "21006"
+    },
+    {
+        "description": "CD4014BE",
+        "location": "IC6",
+        "quantity": "1.00",
+        "stockcode": "21007"
+    },
+    {
+        "description": "HEF4738VP",
+        "location": "IC11",
+        "quantity": "1.00",
+        "stockcode": "21017"
+    },
+    {
+        "description": "IC HEF4526P",
+        "location": "IC5",
+        "quantity": "1.00",
+        "stockcode": "21029"
+    },
+    {
+        "description": "IC LOCMOS HEF4737VP",
+        "location": "IC8, IC9",
+        "quantity": "2.00",
+        "stockcode": "21030"
+    },
+    {
+        "description": "HEF4071P (Must be Phillips)",
+        "location": "IC14",
+        "quantity": "1.00",
+        "stockcode": "21032"
+    }
+]

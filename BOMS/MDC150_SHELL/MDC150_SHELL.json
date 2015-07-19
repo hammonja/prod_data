@@ -1,0 +1,38 @@
+[
+    {
+        "description": "MDC150 Top Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44119"
+    },
+    {
+        "description": "MDC150 Entrance Side Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44120"
+    },
+    {
+        "description": "MDC150 Exit Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44121"
+    },
+    {
+        "description": "MDC150 Optics Deck",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44122"
+    },
+    {
+        "description": "MDC150 Connector End Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44123"
+    },
+    {
+        "description": "MDC150 End Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44124"
+    }
+]

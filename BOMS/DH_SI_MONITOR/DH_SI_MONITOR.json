@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "SMA bulkhead socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10179"
+    },
+    {
+        "description": "SMA cable plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10202"
+    },
+    {
+        "description": "Un-cooled monitor detector body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42631"
+    },
+    {
+        "description": "Un-cooled monitor detector block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42632"
+    },
+    {
+        "description": "Detector isolator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42633"
+    },
+    {
+        "description": "Silicon detector (FC320Si)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09106"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30047"
+    }
+]

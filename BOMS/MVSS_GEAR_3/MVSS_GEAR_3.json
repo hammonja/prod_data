@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Machining operation to make MVSS_GEAR_3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11308"
+    },
+    {
+        "description": "Derlin gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11308P"
+    }
+]

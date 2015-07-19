@@ -1,0 +1,152 @@
+[
+    {
+        "description": "Silicon detector (10mm x 10mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09006"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Lens, pcx, 25dia, 100fl, silica",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13025"
+    },
+    {
+        "description": "Blank 150mm hemisphere",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13484"
+    },
+    {
+        "description": "IL1 Lens tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17021"
+    },
+    {
+        "description": "Greenwich University Sphere Phosphor System Tube Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42014"
+    },
+    {
+        "description": "Greenwich University Sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42030F"
+    },
+    {
+        "description": "Greenwich University Sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42030P"
+    },
+    {
+        "description": "Greenwich University Detecto/Sample Port Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42031"
+    },
+    {
+        "description": "Greenwich University Fibre Port Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42032"
+    },
+    {
+        "description": "Greenwich University Filter Holder Top Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42033"
+    },
+    {
+        "description": "Greenwich University Filter Holder Middle Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42034"
+    },
+    {
+        "description": "Greenwich University Filter Holder Bottom Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42035"
+    },
+    {
+        "description": "Greenwich University Filter Holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42036"
+    },
+    {
+        "description": "Greenwich University Sphere/Filter Holder port Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42037"
+    },
+    {
+        "description": "Greenwich University Phosphor Sample/OP-DI-MA Holder Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42038"
+    },
+    {
+        "description": "Greenwich University Dh-Si Holder Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42039"
+    },
+    {
+        "description": "Greenwich University OP-DI-MA Sample Cup",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42040"
+    },
+    {
+        "description": "Greenwich University OP-DI-MA Sample plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42041"
+    },
+    {
+        "description": "Greenwich University Phosphor Sample Cup",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42042"
+    },
+    {
+        "description": "Greenwich University Lens/Baffle Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42043"
+    },
+    {
+        "description": "Greenwich University Lens Retaining Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42044"
+    },
+    {
+        "description": "Greenwich University Sphere L/H Support Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42045"
+    },
+    {
+        "description": "Greenwich University Sphere R/H Support Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42046"
+    },
+    {
+        "description": "Greenwich University IL1 Aperture Disc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42047"
+    }
+]

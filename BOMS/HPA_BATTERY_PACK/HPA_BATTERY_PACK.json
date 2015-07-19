@@ -1,0 +1,62 @@
+[
+    {
+        "description": "Fuse 5A slow blow",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01008"
+    },
+    {
+        "description": "Bulkhead 9 way socket (through hole)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10027"
+    },
+    {
+        "description": "Dust cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10142"
+    },
+    {
+        "description": "Inline fuse holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10143"
+    },
+    {
+        "description": "Battery for HPA (http://www.jprelec.co.uk/store.asp/c=1242#)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19499"
+    },
+    {
+        "description": "Zarges box for HPA batteries",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19500"
+    },
+    {
+        "description": "Battery pack foam",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43670"
+    },
+    {
+        "description": "Battery pack foam base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43671"
+    },
+    {
+        "description": "Battery pack spacer foam",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43672"
+    },
+    {
+        "description": "HPA battery pack plug cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43779"
+    }
+]

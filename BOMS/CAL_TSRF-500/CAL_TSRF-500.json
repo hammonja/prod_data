@@ -1,0 +1,38 @@
+[
+    {
+        "description": "20A Straight plug Power 'D'",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10212"
+    },
+    {
+        "description": "Lampholder G6,35 with silicone lead 395mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13323"
+    },
+    {
+        "description": "150W Grit Blasted Quartz-Halogen Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17905"
+    },
+    {
+        "description": "Painting of CAL_TSRF-500 (White not PHP)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19453"
+    },
+    {
+        "description": "Polypropylene Case 225 x 200 x 70 for CL2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25054"
+    },
+    {
+        "description": "500 lamp mount tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43135"
+    }
+]

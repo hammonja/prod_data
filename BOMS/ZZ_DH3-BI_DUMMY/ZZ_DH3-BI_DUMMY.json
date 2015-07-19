@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Connector BNC socket (Radial R141404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10065"
+    },
+    {
+        "description": "HV BNC socket (Radial)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10066"
+    },
+    {
+        "description": "DH3 Adapter plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17032"
+    },
+    {
+        "description": "DH3 connector plate (silk screened) FI  17046P",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17046F"
+    },
+    {
+        "description": "DH3 connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17046P"
+    },
+    {
+        "description": "DH(BI) Tube housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17155"
+    }
+]

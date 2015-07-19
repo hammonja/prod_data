@@ -1,0 +1,188 @@
+[
+    {
+        "description": "1K, MRS25",
+        "location": "R6, 7",
+        "quantity": "2.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R1, 2, 3, 8, 9, 10, 12",
+        "quantity": "7.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "33K2 MRS25",
+        "location": "R11",
+        "quantity": "1.00",
+        "stockcode": "02039"
+    },
+    {
+        "description": "200K, MRS25",
+        "location": "R4, 5",
+        "quantity": "2.00",
+        "stockcode": "02048"
+    },
+    {
+        "description": "56K, .25W, MF, 1%",
+        "location": "R13",
+        "quantity": "1.00",
+        "stockcode": "02080"
+    },
+    {
+        "description": "20K .5W Cermet PCB mounting",
+        "location": "RV1",
+        "quantity": "1.00",
+        "stockcode": "03011"
+    },
+    {
+        "description": "dc-dc conv",
+        "location": "DC1",
+        "quantity": "1.00",
+        "stockcode": "05038"
+    },
+    {
+        "description": "Capacitor 2n2 Polypropylene FKP2",
+        "location": "C10",
+        "quantity": "1.00",
+        "stockcode": "08043"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "CD, 16, 17",
+        "quantity": "13.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 10nF Polyester 10% 63/100V",
+        "location": "C3, 5, 12, 13",
+        "quantity": "4.00",
+        "stockcode": "08052"
+    },
+    {
+        "description": "Capacitor 0.47uF, 63V dc",
+        "location": "C1, 4",
+        "quantity": "2.00",
+        "stockcode": "08063"
+    },
+    {
+        "description": "Capacitor 47uF Tantalum",
+        "location": "C14, 15",
+        "quantity": "2.00",
+        "stockcode": "08116"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "14 Way DIL Socket Low Profile 0.3\"",
+        "location": "",
+        "quantity": "9.00",
+        "stockcode": "10054"
+    },
+    {
+        "description": "connector 16-Way DIL socket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10055"
+    },
+    {
+        "description": "16 way IDC connector",
+        "location": "PL1, 2",
+        "quantity": "2.00",
+        "stockcode": "10247"
+    },
+    {
+        "description": "Connector 10 Way IDC",
+        "location": "PL3",
+        "quantity": "1.00",
+        "stockcode": "10248"
+    },
+    {
+        "description": "4 way square pin header",
+        "location": "SKT1",
+        "quantity": "1.00",
+        "stockcode": "10249"
+    },
+    {
+        "description": "8 way square pin header",
+        "location": "SKT2",
+        "quantity": "1.00",
+        "stockcode": "10250"
+    },
+    {
+        "description": "EADS PMC3B BOTTOM PCB Issue B",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15074"
+    },
+    {
+        "description": "DIP Heatsink",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19018"
+    },
+    {
+        "description": "ULN2003A 7xNPN Darlington driver",
+        "location": "IC11, 13",
+        "quantity": "2.00",
+        "stockcode": "20005"
+    },
+    {
+        "description": "LM555CN",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "20008"
+    },
+    {
+        "description": "4011",
+        "location": "IC5",
+        "quantity": "1.00",
+        "stockcode": "21005"
+    },
+    {
+        "description": "4013",
+        "location": "IC3, 8, 12",
+        "quantity": "3.00",
+        "stockcode": "21006"
+    },
+    {
+        "description": "4016B",
+        "location": "IC4",
+        "quantity": "1.00",
+        "stockcode": "21008"
+    },
+    {
+        "description": "4070B",
+        "location": "IC7",
+        "quantity": "1.00",
+        "stockcode": "21013"
+    },
+    {
+        "description": "MC14518BCP",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "21015"
+    },
+    {
+        "description": "HEF4071P (Must be Phillips)",
+        "location": "IC6",
+        "quantity": "1.00",
+        "stockcode": "21032"
+    },
+    {
+        "description": "74HC74 (Philips only)",
+        "location": "IC10",
+        "quantity": "1.00",
+        "stockcode": "21040"
+    },
+    {
+        "description": "NE556N",
+        "location": "IC9",
+        "quantity": "1.00",
+        "stockcode": "21058"
+    }
+]

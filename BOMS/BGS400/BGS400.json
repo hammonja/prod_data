@@ -1,0 +1,32 @@
+[
+    {
+        "description": "BGS400 Base Unit including stage",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BGS400_BASE_STAGE"
+    },
+    {
+        "description": "BGS400 Detector Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BGS400_DETECTOR_UNIT"
+    },
+    {
+        "description": "Incomplete BOM / Contact R&D",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BGS400_DRIVE_UNIT"
+    },
+    {
+        "description": "BGS400 Lamp Drive Unit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BGS400_LAMP_DRIVE_UNIT"
+    },
+    {
+        "description": "BGS400 Lamp Support Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BGS400_LAMP_SUPPORT"
+    }
+]

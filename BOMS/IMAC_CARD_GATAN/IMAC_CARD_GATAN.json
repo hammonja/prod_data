@@ -1,0 +1,44 @@
+[
+    {
+        "description": "64-way edge connector 617-09-03-36-4-6921",
+        "location": "CONN1",
+        "quantity": "1.00",
+        "stockcode": "10150"
+    },
+    {
+        "description": "DIP Heatsink",
+        "location": "IC2, 10, 6",
+        "quantity": "3.00",
+        "stockcode": "19018"
+    },
+    {
+        "description": "PIC16F876A-I/SP",
+        "location": "IC1,  9, 5   DO NOT FIT, PROG. as TURRETS",
+        "quantity": "3.00",
+        "stockcode": "20002"
+    },
+    {
+        "description": "Stepper drive chip NJM#3771D2",
+        "location": "IC2, 10, 6",
+        "quantity": "3.00",
+        "stockcode": "21050"
+    },
+    {
+        "description": "DAC Chip  NJU#39610D2",
+        "location": "IC3, 11, 7",
+        "quantity": "3.00",
+        "stockcode": "21056"
+    },
+    {
+        "description": "Opto isolator",
+        "location": "IC4, 12, 8",
+        "quantity": "3.00",
+        "stockcode": "21057"
+    },
+    {
+        "description": "Loaded starting point for IMAC cards",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IMAC_CARD_ROOT"
+    }
+]

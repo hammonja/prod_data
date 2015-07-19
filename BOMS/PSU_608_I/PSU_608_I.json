@@ -1,0 +1,440 @@
+[
+    {
+        "description": "Fuse 5A slow blow",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01008"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R2,R3,R9,R10,R12,R13, 3 for cable",
+        "quantity": "9.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "R15",
+        "quantity": "1.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R4,R5,R6",
+        "quantity": "3.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "R7,R8",
+        "quantity": "2.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "1k1, MRS25",
+        "location": "R14",
+        "quantity": "1.00",
+        "stockcode": "02073"
+    },
+    {
+        "description": "4K7 Bussed Resistor Network",
+        "location": "RN1 ON KEYPAD PCB (15086)",
+        "quantity": "1.00",
+        "stockcode": "02132"
+    },
+    {
+        "description": "Rhopoint PBV 0R1 0.5% (H1T 82QQ)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02239"
+    },
+    {
+        "description": "20K .5W Cermet PCB mounting",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "03011"
+    },
+    {
+        "description": "200R 25 Turn PCB mounting",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03021"
+    },
+    {
+        "description": "Green led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04001"
+    },
+    {
+        "description": "Red led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04002"
+    },
+    {
+        "description": "Diode 6.2V Zener 400mW",
+        "location": "ZD2",
+        "quantity": "1.00",
+        "stockcode": "04033"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "78L12",
+        "location": "U4",
+        "quantity": "1.00",
+        "stockcode": "05003"
+    },
+    {
+        "description": "dc-dc, 18-36V in,  5V @ 600mA out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05007"
+    },
+    {
+        "description": "KBPC25005 bridge rectifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05013"
+    },
+    {
+        "description": "LM78L05ACZ",
+        "location": "U5",
+        "quantity": "1.00",
+        "stockcode": "05017"
+    },
+    {
+        "description": "L78S24CV +24V 2A TO220",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05018"
+    },
+    {
+        "description": "Converter,dc-dc,3W,18-36Vdc I/P,12V,250mA O/P",
+        "location": "Fan supply",
+        "quantity": "1.00",
+        "stockcode": "05036"
+    },
+    {
+        "description": "Big FET  STW45NM50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "06013"
+    },
+    {
+        "description": "OPA2251PA",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "06017"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "R32-C184: Thermal switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07056"
+    },
+    {
+        "description": "4X4 KEYPAD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07071"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C5,C6",
+        "quantity": "2.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "C4",
+        "quantity": "3.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 10nF Polyester 10% 63/100V",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08052"
+    },
+    {
+        "description": "Capacitor 47000uF, 40V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08055"
+    },
+    {
+        "description": "Capacitor clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08056"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "ICI,IC3,IC4,IC5,IC6",
+        "quantity": "5.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "SIL socket 20 way",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10274"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Tyco 4 way header with catch",
+        "location": "PL2",
+        "quantity": "1.00",
+        "stockcode": "10303"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "heatsink stands",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "608 Main PCB Issue 1 (15 day train)",
+        "location": "PCB",
+        "quantity": "1.00",
+        "stockcode": "15085"
+    },
+    {
+        "description": "608 Keypad PCB Issue 1 (15 day train)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15086"
+    },
+    {
+        "description": "608I Front Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16119"
+    },
+    {
+        "description": "Plate Transformer 605",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17581"
+    },
+    {
+        "description": "608_I Heat Sink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17607_M1"
+    },
+    {
+        "description": "2X16 WHITE ON BLUE LCD (was Farnell 9449051)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18020"
+    },
+    {
+        "description": "Transformer 300VA. 25Vac, 25Vac.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18029"
+    },
+    {
+        "description": "DPM for 217 (Lascar DPM 2000S)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18042"
+    },
+    {
+        "description": "BISONIC - BP922512H-W - FAN, SLIMLINE, 92MM",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18087"
+    },
+    {
+        "description": "608V LCD Display Bzel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18096"
+    },
+    {
+        "description": "605 fan spacers",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19290"
+    },
+    {
+        "description": "MAX541, 16 bit dac (MAX541BCPA)",
+        "location": "IC6",
+        "quantity": "1.00",
+        "stockcode": "20010"
+    },
+    {
+        "description": "LT1019CN82V5",
+        "location": "IC5",
+        "quantity": "1.00",
+        "stockcode": "20030"
+    },
+    {
+        "description": "Opto isolator",
+        "location": "IC3,IC4",
+        "quantity": "2.00",
+        "stockcode": "21057"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "New shroff BIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22016"
+    },
+    {
+        "description": "Schroff Rail Type L-ST light, standard",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22020"
+    },
+    {
+        "description": "608 floor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42625"
+    },
+    {
+        "description": "605 rear panel MK2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44389"
+    },
+    {
+        "description": "605 Resistor Plate MK2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44391"
+    },
+    {
+        "description": "0.2\" LED mounting bush",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99012"
+    },
+    {
+        "description": "TO220 insulator",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99023"
+    },
+    {
+        "description": "TO-220 Insulating Bush (pack of 10)Manual adjust stock",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99024"
+    },
+    {
+        "description": "Crimp 0.25 inch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99039"
+    },
+    {
+        "description": "LED CLIP, 3MM, PK50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99060"
+    },
+    {
+        "description": "M3 x 12 Cheese Head Nylon Screw",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99197"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]

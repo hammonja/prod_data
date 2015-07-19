@@ -1,0 +1,404 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Cap 19mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10062"
+    },
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "Connector IEEE socket (3549-2000)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10108"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "M300 microswitch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11001"
+    },
+    {
+        "description": "M300 Optical float glass",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11002"
+    },
+    {
+        "description": "M300 Optical float follower",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11009"
+    },
+    {
+        "description": "M300 Optical float carrier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11012"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "DM150 kinematic plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11030_P1"
+    },
+    {
+        "description": "M300 Lead screw block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11037"
+    },
+    {
+        "description": "M300 0.25\" bearing R4AZZ",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11044"
+    },
+    {
+        "description": "M300 Index blanking plate",
+        "location": "Bag this item and show part number",
+        "quantity": "1.00",
+        "stockcode": "11053"
+    },
+    {
+        "description": "M300 flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11057"
+    },
+    {
+        "description": "DM150 bearing housing assy(free issue 2 x 11044)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11079"
+    },
+    {
+        "description": "M300 Plain mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11121"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "M300 Grating mount base",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11126"
+    },
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "Standard DMc150 casting in Bentham Colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_DMC150"
+    },
+    {
+        "description": "DM150 Sine Bar - Primary",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11150"
+    },
+    {
+        "description": "DM150 Sine Bar - Secondary",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11152"
+    },
+    {
+        "description": "DM150 Base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11157"
+    },
+    {
+        "description": "DM150 Aperture plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11159"
+    },
+    {
+        "description": "DM150 Aperture washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11160"
+    },
+    {
+        "description": "DM150 carrying handle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11164"
+    },
+    {
+        "description": "Tension Spring 0.25\" Diameter x 2.5\" Long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11165"
+    },
+    {
+        "description": "DM15 curved mirror mount",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11166"
+    },
+    {
+        "description": "Spherical mirror 150mm focal length.  UV-AL coating",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11167"
+    },
+    {
+        "description": "DM150 Entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11190"
+    },
+    {
+        "description": "Grating head shaft (free issue 99904, 2 lengths per 20 )",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11193"
+    },
+    {
+        "description": "M300/DM150 Follower cup",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11194"
+    },
+    {
+        "description": "Opto wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11198"
+    },
+    {
+        "description": "Opto switch bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11199"
+    },
+    {
+        "description": "Pin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11223"
+    },
+    {
+        "description": "Pressure plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11224"
+    },
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "DM150 Curved mirror cover (NB Ally. NOT ACETAL )",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11226"
+    },
+    {
+        "description": "Link arm head (free issue 11044 bearing)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11233"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "DM150 Lid gasket - 3mm S/A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11253"
+    },
+    {
+        "description": "Link arm plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11257"
+    },
+    {
+        "description": "Link arm plate (fi 19046)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11258"
+    },
+    {
+        "description": "M300 Unislide.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11271"
+    },
+    {
+        "description": "1/4 to 1/8\" reducer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11272"
+    },
+    {
+        "description": "Microswitch plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11349"
+    },
+    {
+        "description": "DM150 spring retaining pivot (FI 99904 300mm per 10)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11351"
+    },
+    {
+        "description": "Thumb screw M3 x 12 DYED BLACK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13095"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "M3 x 8mm Spacer Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15083"
+    },
+    {
+        "description": "Bentham DMc150 IEEE connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16100"
+    },
+    {
+        "description": "Stepper Motor 1.8 degrees",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18045"
+    },
+    {
+        "description": "sales@L-com.com   (pack of 20)",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "19012"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "P clips (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19149"
+    },
+    {
+        "description": "Power supply for DMc150 imac",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DM150_C_PSU_IMAC"
+    },
+    {
+        "description": "GP-IB to I2C interface",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_GPIB-I2C"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_VSS"
+    }
+]

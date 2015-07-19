@@ -1,0 +1,32 @@
+[
+    {
+        "description": "TMC300_PV_COMMON_PARTS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_PV_COMMON_PARTS"
+    },
+    {
+        "description": "PV Aperture Set",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV_APERTURE_SET"
+    },
+    {
+        "description": "Modified TM300 casting for PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV_CASTING"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    }
+]

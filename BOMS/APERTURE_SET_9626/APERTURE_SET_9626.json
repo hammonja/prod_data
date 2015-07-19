@@ -1,0 +1,32 @@
+[
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "PV300 Aperture for 1mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45097"
+    },
+    {
+        "description": "PV300 Aperture for 2mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45098"
+    },
+    {
+        "description": "PV300 Aperture for 0.5mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45099"
+    }
+]

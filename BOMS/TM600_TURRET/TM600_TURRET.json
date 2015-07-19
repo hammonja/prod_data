@@ -1,0 +1,110 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "TM300 worm shaft(1 off 600mm length 99907 per 9 off 30014)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30014"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TM300 turret Post",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30121"
+    },
+    {
+        "description": "TM300 worm yoke.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30133"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "Anti-backlash worm (written off)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30215"
+    },
+    {
+        "description": "TMs300 turret side pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30279"
+    },
+    {
+        "description": "TMs300 turret bottom spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30282"
+    },
+    {
+        "description": "TMs300 turret shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30292"
+    },
+    {
+        "description": "TM600 high precision turret antiback-lash gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60048"
+    },
+    {
+        "description": "TM600 Turret Floor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60049"
+    },
+    {
+        "description": "TM600 Turret opto Flag",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60050"
+    },
+    {
+        "description": "TM600 Turret Motor Mount Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60051"
+    },
+    {
+        "description": "TM600 Turret Middle Support plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60052"
+    }
+]

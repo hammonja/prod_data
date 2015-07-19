@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Ferrule to mount FOP-UV to D8 bi-directional",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12184"
+    },
+    {
+        "description": "Bi-Directional Mounting Plate Fixed",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13348"
+    },
+    {
+        "description": "Compression Spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19003"
+    },
+    {
+        "description": "dowel pin parallel mild steel (bag of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19006"
+    },
+    {
+        "description": "Quick Change Mounting Plate Wedge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40006"
+    },
+    {
+        "description": "QC Adapter Fixed Plate Sealing 'O' Ring (Bag of 50)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40042"
+    },
+    {
+        "description": "Lasing sealed IS75 sphere baffle",
+        "location": "One Baffle to be trimmed as per model",
+        "quantity": "2.00",
+        "stockcode": "41704"
+    },
+    {
+        "description": "D8 Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42510"
+    },
+    {
+        "description": "D8 Sphere Dovetail (Bi-Directional)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42513"
+    },
+    {
+        "description": "D8_50_10373  Body (Bi-Directional)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44322"
+    },
+    {
+        "description": "D8_50_ITRI  BENFLECT PARTS ( free issue 99026 x 0.5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44323"
+    },
+    {
+        "description": "ITRi 50mm Sphere Entrance Plate [SHELF : DUNCAN]",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44324"
+    },
+    {
+        "description": "FL250 porous PTFE moulded rod, OD 75mm, length 135mm",
+        "location": "",
+        "quantity": "0.50",
+        "stockcode": "99026"
+    }
+]

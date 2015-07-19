@@ -1,0 +1,164 @@
+[
+    {
+        "description": "Hemi-sphere. 300mm Internal Dia. Blank - no machining",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13065"
+    },
+    {
+        "description": "Bosch 6mm groove M4 'T' nut",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19346"
+    },
+    {
+        "description": "Bosch 20mm extrusion end cap (each)",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "19347"
+    },
+    {
+        "description": "M6 taptite screw",
+        "location": "",
+        "quantity": "22.00",
+        "stockcode": "19421"
+    },
+    {
+        "description": "Anodising of Dalsa sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19510"
+    },
+    {
+        "description": "Painting of Dalsa sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19511"
+    },
+    {
+        "description": "ULS frame, 3842-517-173 x 275mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41611"
+    },
+    {
+        "description": "UKAEA sphere port plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41618"
+    },
+    {
+        "description": "UKAEA sphere exit port dust cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41632"
+    },
+    {
+        "description": "MkII ULS300 Sphere Support Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42111"
+    },
+    {
+        "description": "SRS12 Baffle Pillar",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "43118_P1"
+    },
+    {
+        "description": "SRS12 baffle painted PHP all over",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43119"
+    },
+    {
+        "description": "Dalsa Bosch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43519"
+    },
+    {
+        "description": "Dalsa Bosch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43520"
+    },
+    {
+        "description": "Dalsa Bosch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43521"
+    },
+    {
+        "description": "Dalsa Bosch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43522"
+    },
+    {
+        "description": "Dalsa mono plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43523"
+    },
+    {
+        "description": "Dalsa sphere machining rear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43569"
+    },
+    {
+        "description": "Dalsa Bosch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43570"
+    },
+    {
+        "description": "Dalsa Bosch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43572"
+    },
+    {
+        "description": "Bosch, 20x20, 4 channel, x 323mm long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43573"
+    },
+    {
+        "description": "Dalsa Bosch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43574"
+    },
+    {
+        "description": "Bosch, 20x20, 4 channel, 30.5mm long",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43575"
+    },
+    {
+        "description": "Dalsa sphere QC connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43576"
+    },
+    {
+        "description": "Dalsa monitor detector cup",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43577"
+    },
+    {
+        "description": "Dalsa sphere machining front",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43578"
+    },
+    {
+        "description": "Slit mounted socket for QC detectors",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SUND_QC_SOCKET"
+    }
+]

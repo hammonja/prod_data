@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Ninewells Base Hemisphere Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13076_M1"
+    },
+    {
+        "description": "Ninewells Inlet Hemisphere Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13076_M2"
+    },
+    {
+        "description": "Painting of PHTH sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19582"
+    },
+    {
+        "description": "PHTH Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46731"
+    },
+    {
+        "description": "Light guide input receptacle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43345"
+    },
+    {
+        "description": "PHTH_SPHERE Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50009"
+    }
+]

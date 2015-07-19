@@ -1,0 +1,38 @@
+[
+    {
+        "description": "SMA Connector for Aquila",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17674_M2"
+    },
+    {
+        "description": "O ring 3mm id, 1mm cs (OR3X1NI70-PK200)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19461"
+    },
+    {
+        "description": "Moulded case for diffusers and CL2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25058"
+    },
+    {
+        "description": "Diffuser P.T.F.E insert 2mm (200-1100nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27246"
+    },
+    {
+        "description": "Quartz dome 1 inch diameter (Polished all over)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41707"
+    },
+    {
+        "description": "Diffuser body, SMA & ENV",
+        "location": "Seal holes for dryer tubes",
+        "quantity": "1.00",
+        "stockcode": "43288"
+    }
+]

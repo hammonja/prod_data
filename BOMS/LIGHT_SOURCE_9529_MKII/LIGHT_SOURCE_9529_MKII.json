@@ -1,0 +1,608 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "100W qh Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09101"
+    },
+    {
+        "description": "Monitor detector (e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09115"
+    },
+    {
+        "description": "Crimp socket contact (pack of 100)",
+        "location": "Kit 2 per",
+        "quantity": "0.02",
+        "stockcode": "10025"
+    },
+    {
+        "description": "Connector lamp holders",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10042"
+    },
+    {
+        "description": "Connector Isolated BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10081"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Blue shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10136"
+    },
+    {
+        "description": "Shrouded socket green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10223"
+    },
+    {
+        "description": "4 way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10236"
+    },
+    {
+        "description": "4 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10238"
+    },
+    {
+        "description": "2.5mm panel socket (E2V)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10269"
+    },
+    {
+        "description": "Pin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11223"
+    },
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "M3 Ball ended grub screw (99254 free issued)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "11260"
+    },
+    {
+        "description": "45 DEGREE SOLENOID",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11335"
+    },
+    {
+        "description": "FC320 Pivot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "12107"
+    },
+    {
+        "description": "Lens uv silica 25dia (+0, -0.1) x 50fl pcx",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13436"
+    },
+    {
+        "description": "Spacer NS 06-M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15013"
+    },
+    {
+        "description": "Spacer NP 8.0/25/C/M4",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15028"
+    },
+    {
+        "description": "Binding post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17168"
+    },
+    {
+        "description": "Fan guard - 1",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18040"
+    },
+    {
+        "description": "TLS starter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18064"
+    },
+    {
+        "description": "E2V filter holder",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18083"
+    },
+    {
+        "description": "fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18086"
+    },
+    {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19002"
+    },
+    {
+        "description": "dowel pin parallel mild steel (bag of 25)",
+        "location": "",
+        "quantity": "9.00",
+        "stockcode": "19006"
+    },
+    {
+        "description": "E2V shutter (12V version)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19248"
+    },
+    {
+        "description": "Xenon Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19249"
+    },
+    {
+        "description": "Melles shutter controller",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19379"
+    },
+    {
+        "description": "Power supply for 19379",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19380"
+    },
+    {
+        "description": "M3 Ball ended Spring plunger (Bag of 10)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19400"
+    },
+    {
+        "description": "Plastic thumb cap for M3 socket head screw",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19604"
+    },
+    {
+        "description": "Large solenoid clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27043"
+    },
+    {
+        "description": "pin 7mm x 3mm dia with flat",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "27074"
+    },
+    {
+        "description": "E2V dual filter wheel front motor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27089"
+    },
+    {
+        "description": "E2V single filter wheel front motor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27090"
+    },
+    {
+        "description": "E2V dual filter wheelside 2 plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27092"
+    },
+    {
+        "description": "E2V dual filter wheelbottom plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27093"
+    },
+    {
+        "description": "E2V dual filter wheel top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27094"
+    },
+    {
+        "description": "E2V fan mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27095"
+    },
+    {
+        "description": "E2v sphere support",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27096"
+    },
+    {
+        "description": "E2V single filter wheelside 2 plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27098"
+    },
+    {
+        "description": "E2V single filter wheel bottom plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27099"
+    },
+    {
+        "description": "E2V single filter wheel top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27100"
+    },
+    {
+        "description": "E2V (Marconi) light source 4\" sphere lens rings",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "27102"
+    },
+    {
+        "description": "E2V light source baffle plug (fi 10mm of 99026)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27104"
+    },
+    {
+        "description": "SAM mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27107"
+    },
+    {
+        "description": "E2V connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27115"
+    },
+    {
+        "description": "E2V lamp lens tube",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27116"
+    },
+    {
+        "description": "E2V lamp lens block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27117"
+    },
+    {
+        "description": "E2V 50W QH lamp plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27119"
+    },
+    {
+        "description": "150W Xenon lamp 'L' bracket E2V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27120"
+    },
+    {
+        "description": "E2V 150W Xenon lamp bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27121"
+    },
+    {
+        "description": "E2V solenoid mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27127"
+    },
+    {
+        "description": "E2V shutter mount plate 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27129"
+    },
+    {
+        "description": "E2V shutter mount plate 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27190"
+    },
+    {
+        "description": "E2V thick lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27191"
+    },
+    {
+        "description": "E2V extended lamp cover fixing screws",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27192"
+    },
+    {
+        "description": "E2V sphere clamping straps",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27193"
+    },
+    {
+        "description": "E2V single filter wheel output plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27195"
+    },
+    {
+        "description": "E2V dual filter wheel output plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27197"
+    },
+    {
+        "description": "E2V sphere detector fixing ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27198"
+    },
+    {
+        "description": "E2V Sphere Clamp Upright Full Cross Member",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27427"
+    },
+    {
+        "description": "Plain mirror 29 x 44 x 3mm thk.  UV-AL (send ULO a drawing)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30033"
+    },
+    {
+        "description": "SAM2 mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30039"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "E2V Filter Wheel",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "44229"
+    },
+    {
+        "description": "THORLABS 1.035-40 Retainin Ring",
+        "location": "",
+        "quantity": "30.00",
+        "stockcode": "44247"
+    },
+    {
+        "description": "1\" Tube Washer",
+        "location": "",
+        "quantity": "30.00",
+        "stockcode": "44254"
+    },
+    {
+        "description": "9529 light source sphere brace",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44255"
+    },
+    {
+        "description": "e2v source xenon striker plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44276"
+    },
+    {
+        "description": "UV Plano-Convex Lens 25mm Dia. x 38mm FL Uncoated",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45054"
+    },
+    {
+        "description": "Thick lens ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45055"
+    },
+    {
+        "description": "Comar rear reflector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45057"
+    },
+    {
+        "description": "Small reflector holder",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45058"
+    },
+    {
+        "description": "Reflector holder back plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45059"
+    },
+    {
+        "description": "Reflector pivot plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45060"
+    },
+    {
+        "description": "Reflector support block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45061"
+    },
+    {
+        "description": "Quartz holder bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45062"
+    },
+    {
+        "description": "Extra xenon baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45067"
+    },
+    {
+        "description": "e2v cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45069"
+    },
+    {
+        "description": "Sphere cladding plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45164"
+    },
+    {
+        "description": "E2V base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46001"
+    },
+    {
+        "description": "sphere lens tube/plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46002"
+    },
+    {
+        "description": "Sphere Tie Bars",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46003"
+    },
+    {
+        "description": "QH lamp cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46004"
+    },
+    {
+        "description": "QH Sub Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46005"
+    },
+    {
+        "description": "Solenoid Pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46006"
+    },
+    {
+        "description": "Swing Mirror Sub plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46007"
+    },
+    {
+        "description": "Xenon Cover part",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46008"
+    },
+    {
+        "description": "Xenon Lamp Sub Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46009"
+    },
+    {
+        "description": "Teardrop Porthole Cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46010"
+    },
+    {
+        "description": "Benflect sphere parts for e2v",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_SPHERE_BFLECT"
+    },
+    {
+        "description": "Painted baffle with legs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_SPHERE-BAFFLE"
+    },
+    {
+        "description": "For use with TLS starter when used with 605",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INVERTER_BOARD_605"
+    },
+    {
+        "description": "Cable set for e2v light source",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ZZ_E2V_CAM_CABLES"
+    }
+]

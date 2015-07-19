@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Red M4insul spade terminal,0.5-1.5sq.mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10337"
+    },
+    {
+        "description": "Hawk Eye Silicon Nirtride Glowbar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19076"
+    },
+    {
+        "description": "IL8 Nernst Clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46752"
+    },
+    {
+        "description": "IL8 Nernst Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46753"
+    },
+    {
+        "description": "IL8 P.T.F.E. sleeve",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46754"
+    },
+    {
+        "description": "IR-IL8-UPGRADE Customer Instructions",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46802"
+    },
+    {
+        "description": "IR-IL8-Upgrade Build Manual",
+        "location": "COPY TO BE SENT TO CUSTOMER",
+        "quantity": "1.00",
+        "stockcode": "50035"
+    },
+    {
+        "description": "M3 x 10 Black Cap Head Screw",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99154"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99185"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Fixed slit block MkII",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11083"
+    },
+    {
+        "description": "Fixed slit block cover MkII (fi 19087, 2 per)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11084"
+    },
+    {
+        "description": "Fixed slit lid MkII",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11085"
+    }
+]

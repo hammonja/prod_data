@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    },
+    {
+        "description": "910K,MRS25",
+        "location": "replace R41,R24,R7 ",
+        "quantity": "3.00",
+        "stockcode": "02104"
+    },
+    {
+        "description": "DIP Heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19018"
+    },
+    {
+        "description": "PIC16F876A-I/SP",
+        "location": "IC5 DO NOT FIT",
+        "quantity": "1.00",
+        "stockcode": "20002"
+    },
+    {
+        "description": "Stepper drive chip NJM#3771D2",
+        "location": "IC6",
+        "quantity": "1.00",
+        "stockcode": "21050"
+    },
+    {
+        "description": "DAC Chip  NJU#39610D2",
+        "location": "IC7",
+        "quantity": "1.00",
+        "stockcode": "21056"
+    },
+    {
+        "description": "Opto isolator",
+        "location": "IC8",
+        "quantity": "1.00",
+        "stockcode": "21057"
+    }
+]

@@ -1,0 +1,4 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|27331|Mount for D6H to CL6 [SHELF: DUNCAN]|1.00||
+|19785|Painting Operation to Produce 27331_P1|1.00||

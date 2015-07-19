@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Thrust Washer",
+        "location": "Free Issue to Supplier of 46585",
+        "quantity": "2.00",
+        "stockcode": "46580"
+    },
+    {
+        "description": "Flanged Oilite Bush",
+        "location": "Free Issue to Supplier of 46585",
+        "quantity": "4.00",
+        "stockcode": "46581"
+    },
+    {
+        "description": "Shoulder screw",
+        "location": "Free Issue to Supplier of 46585",
+        "quantity": "1.00",
+        "stockcode": "46582"
+    },
+    {
+        "description": "Pivot Arm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46585"
+    },
+    {
+        "description": "M5 Spring Plunger",
+        "location": "Free Issue to Supplier of 46585",
+        "quantity": "2.00",
+        "stockcode": "46590"
+    },
+    {
+        "description": "M6 Zinc Plain Washers",
+        "location": "Free Issue to Supplier of 46585",
+        "quantity": "1.00",
+        "stockcode": "99557"
+    },
+    {
+        "description": "M6 BZP Steel Nylock (pack of 100)",
+        "location": "Free Issue to Supplier of 46585",
+        "quantity": "1.00",
+        "stockcode": "99562"
+    }
+]

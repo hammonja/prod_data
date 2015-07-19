@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Compression Spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19003"
+    },
+    {
+        "description": "dowel pin parallel mild steel (bag of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19006"
+    },
+    {
+        "description": "QC Adapter Fixed Plate Sealing 'O' Ring (Bag of 50)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40042"
+    },
+    {
+        "description": "9539 QC LH Side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43988"
+    },
+    {
+        "description": "9539 QC Back Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43998"
+    },
+    {
+        "description": "9539 QC RH Side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43999"
+    },
+    {
+        "description": "9593 QC Pressure Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44000"
+    }
+]

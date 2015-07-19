@@ -1,0 +1,74 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04044"
+    },
+    {
+        "description": "90 degree 9 way connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10257"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19002"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "NPL Delhi shutter front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43452"
+    },
+    {
+        "description": "NPL Delhi shutter blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43453"
+    },
+    {
+        "description": "NPL Delhi shutter boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43454"
+    },
+    {
+        "description": "NPL Delhi shutter motor post",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43455"
+    },
+    {
+        "description": "NPL Delhi shutter opto disc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43456"
+    },
+    {
+        "description": "NPL Delhi shutter body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43457"
+    }
+]

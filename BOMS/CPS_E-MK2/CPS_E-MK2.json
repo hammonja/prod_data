@@ -1,0 +1,374 @@
+[
+    {
+        "description": "Fuse 2A slow blow",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01007"
+    },
+    {
+        "description": "0R1, 25W",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02005"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R8",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "2k2 MRS25",
+        "location": "R20, 21",
+        "quantity": "2.00",
+        "stockcode": "02024"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R18,19,22,23",
+        "quantity": "4.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "47K5 MRS25",
+        "location": "R9,12",
+        "quantity": "2.00",
+        "stockcode": "02041"
+    },
+    {
+        "description": "100K MRS25",
+        "location": "R11",
+        "quantity": "1.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "150K MRS25",
+        "location": "R3,14",
+        "quantity": "2.00",
+        "stockcode": "02045"
+    },
+    {
+        "description": "750k, MRS25",
+        "location": "R16",
+        "quantity": "1.00",
+        "stockcode": "02084"
+    },
+    {
+        "description": "511K MRS25",
+        "location": "R15",
+        "quantity": "1.00",
+        "stockcode": "02091"
+    },
+    {
+        "description": "300K MRS25",
+        "location": "R10",
+        "quantity": "1.00",
+        "stockcode": "02119"
+    },
+    {
+        "description": "7K5, MRS25",
+        "location": "R6",
+        "quantity": "1.00",
+        "stockcode": "02123"
+    },
+    {
+        "description": "15K8, MRS25",
+        "location": "R4",
+        "quantity": "1.00",
+        "stockcode": "02124"
+    },
+    {
+        "description": "19K6, MRS25",
+        "location": "R13",
+        "quantity": "1.00",
+        "stockcode": "02125"
+    },
+    {
+        "description": "MRS25 866k",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02230"
+    },
+    {
+        "description": "137K,0.1%, RC55Y",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02232"
+    },
+    {
+        "description": "39K, MRS25",
+        "location": "R7",
+        "quantity": "1.00",
+        "stockcode": "02235"
+    },
+    {
+        "description": "1K .75W Cermet PCB mounting",
+        "location": "R5",
+        "quantity": "1.00",
+        "stockcode": "03008"
+    },
+    {
+        "description": "100K .5W CERMET PCB MOUNT",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "03013"
+    },
+    {
+        "description": "Zener diode 500MW 5.1V",
+        "location": "D1",
+        "quantity": "1.00",
+        "stockcode": "04010"
+    },
+    {
+        "description": "Chassis LED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04039"
+    },
+    {
+        "description": "Neon indicator RED 200-250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04040"
+    },
+    {
+        "description": "KBPC25005 bridge rectifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05013"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "Big FET  STW45NM50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "06013"
+    },
+    {
+        "description": "ATE1D (CPS2)",
+        "location": "SW1",
+        "quantity": "1.00",
+        "stockcode": "07033"
+    },
+    {
+        "description": "Mains Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07050"
+    },
+    {
+        "description": "Actuator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07051"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1,2,5,6,7",
+        "quantity": "5.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C8",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 47000uF, 40V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08055"
+    },
+    {
+        "description": "Capacitor clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08056"
+    },
+    {
+        "description": "Capacitor 1nF 100v boxed polyester",
+        "location": "C3,4",
+        "quantity": "2.00",
+        "stockcode": "08059"
+    },
+    {
+        "description": "Capacitor 4700 uF 35V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08098"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "IC1,2,3",
+        "quantity": "3.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "9 Way cable plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10138"
+    },
+    {
+        "description": "9  Way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10141"
+    },
+    {
+        "description": "IP68 3 way cable plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10144"
+    },
+    {
+        "description": "IP68 3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10145"
+    },
+    {
+        "description": "IP68 3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10147"
+    },
+    {
+        "description": "Fuse holder panel mounting FPG2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10186"
+    },
+    {
+        "description": "Crimps",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10187"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "pcb  \" CPS2 Iss 2 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15050"
+    },
+    {
+        "description": "PLAIN MIRROR COVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17083"
+    },
+    {
+        "description": "605 Clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17148"
+    },
+    {
+        "description": "DVM window on CPSE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17477"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17550F"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17550P"
+    },
+    {
+        "description": "CPSE Heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17551F"
+    },
+    {
+        "description": "CPSE heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17551P"
+    },
+    {
+        "description": "Clamp (envirobox)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17694"
+    },
+    {
+        "description": "Lascar DPM 125",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18019"
+    },
+    {
+        "description": "Transformer 500VA. 25Vac, 25Vac",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18050"
+    },
+    {
+        "description": "Transformer 50VA. 9Vac, 9Vac",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18059"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "IP68 Cable gland (PG9)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19105"
+    },
+    {
+        "description": "22mm capacitor clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19142"
+    },
+    {
+        "description": "flexible metal conduit",
+        "location": "1.2m cable",
+        "quantity": "0.25",
+        "stockcode": "19176"
+    },
+    {
+        "description": "flexibe conduit adapters",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19177"
+    },
+    {
+        "description": "TLC27L7CP",
+        "location": "IC2,3",
+        "quantity": "2.00",
+        "stockcode": "20034"
+    },
+    {
+        "description": "REF01CP",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "20058"
+    }
+]

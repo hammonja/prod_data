@@ -1,0 +1,440 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Silicon detector (10mm x 10mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09006"
+    },
+    {
+        "description": "DH-InGaAs Body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09039"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "M300 microswitch",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11001"
+    },
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "Fixed slit block MkII",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11083"
+    },
+    {
+        "description": "Fixed slit lid MkII",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11085"
+    },
+    {
+        "description": "Colimator 1 lens tube 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11213"
+    },
+    {
+        "description": "Lens retaining ring",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11215"
+    },
+    {
+        "description": "Circular aperture 1.17mm diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11242"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "Iris Diaphragm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13068"
+    },
+    {
+        "description": "Lens 40 dia x 160 fl, BK7",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13079"
+    },
+    {
+        "description": "P clip 6.4mm",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "19101"
+    },
+    {
+        "description": "Dowel pin 3x8mm (hardened and ground)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19134"
+    },
+    {
+        "description": "Ball Screw (from KSS)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19535"
+    },
+    {
+        "description": "Bearing 30mm od, 10mm id",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19540"
+    },
+    {
+        "description": "Linear bearing for BEL stages",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19541"
+    },
+    {
+        "description": "Coupler for BEL stages",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19542"
+    },
+    {
+        "description": "8mm to 5mm reducer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19551"
+    },
+    {
+        "description": "Machining of 43709 for BEL gonio (drawing 43780)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19552"
+    },
+    {
+        "description": "Glan Taylor polariser",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19562"
+    },
+    {
+        "description": "2mm round to round, luv, 2m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19563"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "Ninewells split ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42966"
+    },
+    {
+        "description": "AGR75-unlimited-FLY-NM-L-0-NSL-with NEMA17 motor",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43706"
+    },
+    {
+        "description": "PRO115-05mm-250-NOTT-FLY-NM-0-CO25-noplots",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43707"
+    },
+    {
+        "description": "TTM for PRO115",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43708"
+    },
+    {
+        "description": "Special TTM for AGR rotary stage",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43709"
+    },
+    {
+        "description": "8mm diameter ground bar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43720"
+    },
+    {
+        "description": "350 linear stage end block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43721"
+    },
+    {
+        "description": "350 linear stage switch mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43722"
+    },
+    {
+        "description": "BEL detector mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43723"
+    },
+    {
+        "description": "350 linear stage runner",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43724"
+    },
+    {
+        "description": "350 linear stage switch plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43725"
+    },
+    {
+        "description": "350 linear stage lock nut",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43726"
+    },
+    {
+        "description": "350 linear stage bearing block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43727"
+    },
+    {
+        "description": "350 linear stage motor block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43728"
+    },
+    {
+        "description": "BEL stage support 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43729"
+    },
+    {
+        "description": "BEL stage support 2",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43730"
+    },
+    {
+        "description": "350 linear stage switch mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43731"
+    },
+    {
+        "description": "BEL stage clamp block 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43732"
+    },
+    {
+        "description": "BEL stage right angle block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43733"
+    },
+    {
+        "description": "BEL stage clamp block 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43734"
+    },
+    {
+        "description": "BEL rotary stage turn table",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43735"
+    },
+    {
+        "description": "BEL stage main post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43736"
+    },
+    {
+        "description": "BEL middle turntable",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43737"
+    },
+    {
+        "description": "BEL colimator clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43738"
+    },
+    {
+        "description": "BEL colimator mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43739"
+    },
+    {
+        "description": "BEL slit box adaptor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43740"
+    },
+    {
+        "description": "BEL plate rig small clamp",
+        "location": "",
+        "quantity": "11.00",
+        "stockcode": "43741"
+    },
+    {
+        "description": "BEL colimator stage stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43743"
+    },
+    {
+        "description": "BEL limit switch plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43744"
+    },
+    {
+        "description": "BEL stage clamp block 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43745"
+    },
+    {
+        "description": "BEL hud holder plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43747"
+    },
+    {
+        "description": "BEL hud holder loaction bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43748"
+    },
+    {
+        "description": "BEL base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43749"
+    },
+    {
+        "description": "BEL DH-Si top plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43766"
+    },
+    {
+        "description": "BEL collimator polariser holder col end",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43807"
+    },
+    {
+        "description": "BEL polariser holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43808"
+    },
+    {
+        "description": "BEL exit optic",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43809"
+    },
+    {
+        "description": "BEL exit optic rear lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43810"
+    },
+    {
+        "description": "BEL exit optic fibre holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43811"
+    },
+    {
+        "description": "BEL fibre bush holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43812"
+    },
+    {
+        "description": "BEL plate rig base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43814"
+    },
+    {
+        "description": "BEL plate rig centre clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43815"
+    },
+    {
+        "description": "8mm ground shaft",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99905"
+    },
+    {
+        "description": "10mm ground shaft",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99923"
+    }
+]

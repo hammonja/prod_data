@@ -1,0 +1,116 @@
+[
+    {
+        "description": "100K MRS25",
+        "location": "R4",
+        "quantity": "1.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "1M, 1W",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02082"
+    },
+    {
+        "description": "Capacitor 0.1uF, 160V, AC polyester",
+        "location": "C1",
+        "quantity": "1.00",
+        "stockcode": "08023"
+    },
+    {
+        "description": "Capacitor 0.47uF, 100V ceramic multi-layer",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08087"
+    },
+    {
+        "description": "Body DH-Pbse-Te body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09070"
+    },
+    {
+        "description": "T0-8 quick change detector front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09126"
+    },
+    {
+        "description": "T0-8 quick change detector front plate adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09127"
+    },
+    {
+        "description": "T0-8 quick change detector 'O' ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09128"
+    },
+    {
+        "description": "PbSe-Te detetcor (3mm, 2 stage)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09129"
+    },
+    {
+        "description": "BNC earth tags for 10028",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10013"
+    },
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "Amphenol 5-way plugs",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10039"
+    },
+    {
+        "description": "M300 Small 'O' ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11054"
+    },
+    {
+        "description": "PCB Te  (15 day)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15057"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB17"
+    },
+    {
+        "description": "HV-BNC to HV-BNC 1200mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB3"
+    }
+]

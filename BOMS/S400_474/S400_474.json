@@ -1,0 +1,50 @@
+[
+    {
+        "description": "1K, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "BNC connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10196"
+    },
+    {
+        "description": "White Shrouded Socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10278"
+    },
+    {
+        "description": "Single primary 30VA transformer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18110"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Box for 474 (painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22035"
+    },
+    {
+        "description": "16 swg copper wire for 474",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99132"
+    }
+]

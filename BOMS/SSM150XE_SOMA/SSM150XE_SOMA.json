@@ -1,0 +1,410 @@
+[
+    {
+        "description": "Fuse 2.5A slow blow",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01005"
+    },
+    {
+        "description": "0R1, 25W",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02005"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R3, R4, R7, R8, R20",
+        "quantity": "5.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "3K MRS25",
+        "location": "R22",
+        "quantity": "1.00",
+        "stockcode": "02025"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "R26, 2 across capacitors",
+        "quantity": "3.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "4M7 MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02099"
+    },
+    {
+        "description": "1K .5W Cermet PCB mounting",
+        "location": "R21",
+        "quantity": "1.00",
+        "stockcode": "03017"
+    },
+    {
+        "description": "Green led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04001"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "78L12",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "05003"
+    },
+    {
+        "description": "KBPC25005 bridge rectifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05013"
+    },
+    {
+        "description": "dc-dc, 10-30V in,  5V @ 600mA out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05024"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "Big FET  STW45NM50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "06013"
+    },
+    {
+        "description": "OPA2251PA",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "06017"
+    },
+    {
+        "description": "SPNO lugs for wires",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07038"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, C4",
+        "quantity": "2.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C6",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 10nF Polyester 10% 63/100V",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08052"
+    },
+    {
+        "description": "Capacitor 4700 uF 35V",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08098"
+    },
+    {
+        "description": "Capacitor 10,000uF, 35V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08107"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Mains Selector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10078"
+    },
+    {
+        "description": "Connector  64 way 2 rows",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10085"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "M300 Small 'O' ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11054"
+    },
+    {
+        "description": "Microswitch plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11349"
+    },
+    {
+        "description": "Rear lens tube - Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12012"
+    },
+    {
+        "description": "3mm liquid light guide, 1m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12129"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "pcb  \" BENTHAM INSTRUMENTS 605 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15036"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "Soma S-1110 Front panel (SSM150Xe) (memo)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16129"
+    },
+    {
+        "description": "FSM150Xe Micro Switch Finger Guard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17387"
+    },
+    {
+        "description": "Elliptical cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17419"
+    },
+    {
+        "description": "Machining of bin front rail for FSM",
+        "location": "Mod to front rail of 22022",
+        "quantity": "1.00",
+        "stockcode": "17557"
+    },
+    {
+        "description": "Maching of both bin end plates for FSM",
+        "location": "Mod to side plates of 22022",
+        "quantity": "1.00",
+        "stockcode": "17561"
+    },
+    {
+        "description": "Special transformer for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18055"
+    },
+    {
+        "description": "SSM150Xe FET Heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18099"
+    },
+    {
+        "description": "BISONIC - BP601012M-W - FAN, ULTRASLIM, 60MM, 12VDC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18131"
+    },
+    {
+        "description": "Time Elapsed",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19119"
+    },
+    {
+        "description": "22mm capacitor clip",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19142"
+    },
+    {
+        "description": "FSM150Xe Iris",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19320"
+    },
+    {
+        "description": "LT1019CN82V5",
+        "location": "IC3",
+        "quantity": "1.00",
+        "stockcode": "20030"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "Schroff bin for FSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22022"
+    },
+    {
+        "description": "FSM150Xe optics tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27337"
+    },
+    {
+        "description": "FSM150Xe Lens tube for Iris",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27347"
+    },
+    {
+        "description": "FSM150Xe front lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27348"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30047"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "SSM150Xe Power Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42422"
+    },
+    {
+        "description": "VAPO bearing axial fan,14.4cu.m/h 12Vdc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42623"
+    },
+    {
+        "description": "Axial fan finger guard,50Hx51Wmm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42624"
+    },
+    {
+        "description": "MODIFICATION OF 17338",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44138"
+    },
+    {
+        "description": "SOMA SSM AIR FLOW BAFFLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44139"
+    },
+    {
+        "description": "SOMA SSM BAFFLE COVER BOX",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44140"
+    },
+    {
+        "description": "SOMA SSM INTERNAL HORZ BAFFLE PLATE",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44141"
+    },
+    {
+        "description": "SOMA SSM VERT INTERNAL BAFFLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44142"
+    },
+    {
+        "description": "SOMA SSM BACK PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44169"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    },
+    {
+        "description": "SSM150Xe Optics Deck (output snout not included)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SSM_OPTICS_DECK"
+    }
+]

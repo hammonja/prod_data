@@ -1,0 +1,14 @@
+[
+    {
+        "description": "MSH150 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH150"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_VSS"
+    }
+]

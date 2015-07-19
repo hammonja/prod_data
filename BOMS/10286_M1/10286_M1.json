@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Purge connector for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10286"
+    },
+    {
+        "description": "Machining Operation to Produce 10286_M1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19577"
+    }
+]

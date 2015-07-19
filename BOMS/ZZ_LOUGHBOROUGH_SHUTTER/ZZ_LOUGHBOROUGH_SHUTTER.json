@@ -1,0 +1,80 @@
+[
+    {
+        "description": "8 Way Crimp Socket Housing  EHR-8",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10229"
+    },
+    {
+        "description": "DIP Heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19018"
+    },
+    {
+        "description": "Sleeved Grommets (bag of 50)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19019"
+    },
+    {
+        "description": "PIC16F876A-I/SP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "20002"
+    },
+    {
+        "description": "Stepper drive chip NJM#3771D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21050"
+    },
+    {
+        "description": "DAC Chip  NJU#39610D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21056"
+    },
+    {
+        "description": "Opto isolator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21057"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "Loughborough shutter paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42666"
+    },
+    {
+        "description": "Loughborough shutter mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42691"
+    },
+    {
+        "description": "Loughborough shutter motor arm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42692"
+    },
+    {
+        "description": "Loughborough shutter micro-switch mounting block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42693"
+    }
+]

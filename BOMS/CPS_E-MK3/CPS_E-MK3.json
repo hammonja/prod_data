@@ -1,0 +1,146 @@
+[
+    {
+        "description": "Fuse 2.5A slow blow",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01005"
+    },
+    {
+        "description": "Neon indicator RED 200-250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04040"
+    },
+    {
+        "description": "Mains Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07050"
+    },
+    {
+        "description": "Actuator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07051"
+    },
+    {
+        "description": "12 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10159"
+    },
+    {
+        "description": "12 Way Chassis Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10161"
+    },
+    {
+        "description": "9 Way IP67 'D' panel plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10162"
+    },
+    {
+        "description": "Fuse holder panel mounting FPG2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10186"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Conduit adapter for 12 way connectors",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10333"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17550P"
+    },
+    {
+        "description": "CPSE heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17551P"
+    },
+    {
+        "description": "Temp sensor for CPS-E-MK3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18047"
+    },
+    {
+        "description": "PWM, PID Temperature controller",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18125"
+    },
+    {
+        "description": "Lamp psu for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18129"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "IP68 Cable gland (PG9)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19105"
+    },
+    {
+        "description": "flexible metal conduit",
+        "location": "1.2m long cable",
+        "quantity": "0.25",
+        "stockcode": "19176"
+    },
+    {
+        "description": "European Mains Lead",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23014"
+    },
+    {
+        "description": "Heat pump controller spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43848"
+    },
+    {
+        "description": "Machining Operation to Produce 17550_M1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43858"
+    },
+    {
+        "description": "CPSE rs232 sub plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43952"
+    },
+    {
+        "description": "CPSE machining of heat sink (Free issue 17551P)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43953"
+    }
+]

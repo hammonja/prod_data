@@ -1,0 +1,7 @@
+S400_417_SINGLE,01003,Fuse 315mA slow blow 20mm,,0,2.00,,,,,
+S400_417_SINGLE,07040,Rocker switch,,1,1.00,,,,,
+S400_417_SINGLE,10043,IEC fused mains inlet,,2,1.00,,,,,
+S400_417_SINGLE,16113,Uni-Bin front panel,,3,1.00, ,,,,
+S400_417_SINGLE,16114,Uni-Bin rear panel,,4,1.00, ,,,,
+S400_417_SINGLE,18039,Power supply for UNI_BIN,,5,1.00,,,,,
+S400_417_SINGLE,19216,Case for 215F,,6,1.00, Discard front and rear panels,,,,

@@ -1,0 +1,62 @@
+[
+    {
+        "description": "Luxonic Sphere Auxiliary Lamp Baffle (un-painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42000P"
+    },
+    {
+        "description": "Luxonic Sphere Auxiliary Lamp Baffle (painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42000F"
+    },
+    {
+        "description": "Luxonic Sphere Auxiliary Lamp Baffle Arm (un-painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42001P"
+    },
+    {
+        "description": "Luxonic Sphere Auxiliary Lamp Baffle Arm (painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42001F"
+    },
+    {
+        "description": "Luxonic Sphere Auxiliary Lamp Lamp Holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42002"
+    },
+    {
+        "description": "Luxonic Sphere Switched_Fused Aux Lamp Unit (un-painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42003P"
+    },
+    {
+        "description": "Luxonic Sphere Switched_Fused Aux Lamp Unit (painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42003F"
+    },
+    {
+        "description": "Luxonic Sphere Auxiliary Lamp Holder Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42004"
+    },
+    {
+        "description": "Luxonic Sphere Auxiliary Lamp IEC Fused_Switched unit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42005"
+    },
+    {
+        "description": "Luxonic Sphere Auxiliary Lamp G9 Halogen 75W",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42006"
+    }
+]

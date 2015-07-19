@@ -1,0 +1,74 @@
+[
+    {
+        "description": "dc-dc, 10-30V in,  5V @ 600mA out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05024"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "IEC Plug Flange Fixing Black 6.3mm Tabs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10191"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Connector 10 Way IDC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10248"
+    },
+    {
+        "description": "10 way IDC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10254"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "XP power 100~200Vac 24Vdc 2.5A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18134"
+    },
+    {
+        "description": "SparkFun L6470 Auto Driver Stepping Board",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18142"
+    },
+    {
+        "description": "14820154 InterScaleM box 44 x 221 x 177",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22036"
+    },
+    {
+        "description": "706 Power LED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46379"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]

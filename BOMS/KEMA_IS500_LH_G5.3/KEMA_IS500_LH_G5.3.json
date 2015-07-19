@@ -1,0 +1,26 @@
+[
+    {
+        "description": "20A Straight plug Power 'D'",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10212"
+    },
+    {
+        "description": "G5.3 lamp base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10036"
+    },
+    {
+        "description": "Painting of CAL_TSRF-500 (White not PHP)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19453"
+    },
+    {
+        "description": "500 lamp mount tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43135"
+    }
+]

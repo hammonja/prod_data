@@ -1,0 +1,218 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "100R MRS25",
+        "location": "R7, 8",
+        "quantity": "2.00",
+        "stockcode": "02013"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R3, 4, 14",
+        "quantity": "3.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "2K MRS25 MF",
+        "location": "R26",
+        "quantity": "1.00",
+        "stockcode": "02023"
+    },
+    {
+        "description": "6K2, .25W, CF, 1%",
+        "location": "R16",
+        "quantity": "1.00",
+        "stockcode": "02030"
+    },
+    {
+        "description": "18K MRS25",
+        "location": "R14",
+        "quantity": "1.00",
+        "stockcode": "02036"
+    },
+    {
+        "description": "1k1, MRS25",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02073"
+    },
+    {
+        "description": "4M7 MRS25",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02099"
+    },
+    {
+        "description": "Rhopoint PBV 0R1 0.5% (H1T 82QQ)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02239"
+    },
+    {
+        "description": "200R 25 Turn PCB mounting",
+        "location": "R15",
+        "quantity": "1.00",
+        "stockcode": "03021"
+    },
+    {
+        "description": "Green led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04001"
+    },
+    {
+        "description": "Red led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04002"
+    },
+    {
+        "description": "78L12",
+        "location": "IC1",
+        "quantity": "1.00",
+        "stockcode": "05003"
+    },
+    {
+        "description": "KBPC25005 bridge rectifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05013"
+    },
+    {
+        "description": "MJ11016 - DARLINGTON TRANSISTOR, TO-3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "06004"
+    },
+    {
+        "description": "OPA2251PA",
+        "location": "IC2",
+        "quantity": "1.00",
+        "stockcode": "06017"
+    },
+    {
+        "description": "Push button switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07021"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "C1, 4",
+        "quantity": "2.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 47uF 16V electrolytic",
+        "location": "C6",
+        "quantity": "1.00",
+        "stockcode": "08050"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "C5",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Capacitor 10nF Polyester 10% 63/100V",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08052"
+    },
+    {
+        "description": "Capacitor 22,000uF electrolytic",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08100"
+    },
+    {
+        "description": "Vertical Mounting Clip for 30mm Capacitor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08114"
+    },
+    {
+        "description": "Black 4mm socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10002"
+    },
+    {
+        "description": "Red 4mm socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10003"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "IC2, 3",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "pcb  \" BENTHAM INSTRUMENTS 605 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15036"
+    },
+    {
+        "description": "CL5 front panel, painted and silk screened",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16045"
+    },
+    {
+        "description": "CL5 REAR PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16054"
+    },
+    {
+        "description": "PMC3B BASE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17026"
+    },
+    {
+        "description": "Transformer 50VA. 9Vac, 9Vac",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18059"
+    },
+    {
+        "description": "Heat Sink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19282"
+    },
+    {
+        "description": "TO3 Cover Snap-on",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19389"
+    },
+    {
+        "description": "LT1019CN82V5",
+        "location": "IC3",
+        "quantity": "1.00",
+        "stockcode": "20030"
+    }
+]

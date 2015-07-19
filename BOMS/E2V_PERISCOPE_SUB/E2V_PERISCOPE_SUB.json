@@ -1,0 +1,44 @@
+[
+    {
+        "description": "E2V Periscope Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27429"
+    },
+    {
+        "description": "E2V Periscope Plate Wedge Mirror Block",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "27430"
+    },
+    {
+        "description": "E2V Periscope Cover Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27431"
+    },
+    {
+        "description": "E2V Periscope Mounting Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27432"
+    },
+    {
+        "description": "E2V Periscope Lens Mounting Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27433"
+    },
+    {
+        "description": "E2V Periscope Bending Mirror",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "27435"
+    },
+    {
+        "description": "E2V Periscope Lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27436"
+    }
+]

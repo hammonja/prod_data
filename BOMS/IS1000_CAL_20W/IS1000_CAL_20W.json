@@ -1,0 +1,50 @@
+[
+    {
+        "description": "12 Way Cable Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10159"
+    },
+    {
+        "description": "Lamp Holder for 10W Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13063"
+    },
+    {
+        "description": "20W Grit Blasted Quartz-Halogen Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17902"
+    },
+    {
+        "description": "Case for long fibres (435x308x90mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25055"
+    },
+    {
+        "description": "IS calibrated lamp stand (painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44015F"
+    },
+    {
+        "description": "IS calibrated lamp stand (un-painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44015P"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44024F"
+    },
+    {
+        "description": "DELETED/OBSOLETED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44024P"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Standard Turns Counter for M300/DM150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11064"
+    },
+    {
+        "description": "Siko upgrade adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11344"
+    },
+    {
+        "description": "Hexagon key 1.5mm AF, short",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99079"
+    },
+    {
+        "description": "Hexagon key 2mm AF, short",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99080"
+    },
+    {
+        "description": "Hexagon key 1.27mm AF",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99094"
+    }
+]

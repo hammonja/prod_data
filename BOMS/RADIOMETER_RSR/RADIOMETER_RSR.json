@@ -1,0 +1,140 @@
+[
+    {
+        "description": "Eppley holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45033"
+    },
+    {
+        "description": "Kipp & Zonen holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45035"
+    },
+    {
+        "description": "Front plate for ARPA adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45037"
+    },
+    {
+        "description": "Base plate for ARPA adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45038"
+    },
+    {
+        "description": "Back plate for ARPA adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45039"
+    },
+    {
+        "description": "Holder for silica window",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45040"
+    },
+    {
+        "description": "Holder for quartz window",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45041"
+    },
+    {
+        "description": "Beam splitter in RADIOMETER_RSR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45042"
+    },
+    {
+        "description": "Block to hold lenses",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45043"
+    },
+    {
+        "description": "Tube to hold lenses",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45045"
+    },
+    {
+        "description": "Spacer to keep two lenses apart",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45046"
+    },
+    {
+        "description": "Side plate for ARPA adapter",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45047"
+    },
+    {
+        "description": "Lid for ARPA adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45048"
+    },
+    {
+        "description": "Support rod for ARPA adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45049"
+    },
+    {
+        "description": "Foot for supporting ARPA adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45050"
+    },
+    {
+        "description": "Adapter for Eppley radiometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45051"
+    },
+    {
+        "description": "DHSi Calibration Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45052"
+    },
+    {
+        "description": "Lens, pcx, silica, 25.4 dia x 75 f",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45053"
+    },
+    {
+        "description": "Standard DH-Si.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_SI"
+    },
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "Aperture to give 1.5mm square image in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45144"
+    },
+    {
+        "description": "Aperture to give 1.5mm x 3mm image in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45145"
+    }
+]

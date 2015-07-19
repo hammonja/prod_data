@@ -1,0 +1,26 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|02129|MRS16 Resistor A/P,0.4W,1%,47R|1.00||
+|04004|Opto for Accent MVSS|2.00||
+|10086|Connector 9 Way 'D' Plug|1.00||
+|10111|Connector 9 Way 'D' Metal Case|1.00||
+|11314|Circlip 6mm (pack of 100)|2.00||
+|11345|MVSS Optowheel 1|1.00||
+|11346|MVSS Optowheel 2|1.00||
+|11360|MVSS_GEARBOX_PLATE|1.00||
+|11361|MVSS_GEARBOX (fi 19162 19163)|1.00||
+|11362|MVSS 2 Idler shaft  (free issue 99903, 2 lengths pe 20)|1.00||
+|11367|MVSS2 Riser|1.00||
+|11388|MVSS PCB support (free issue 15038)|1.00| |
+|15071|Surface mount 15071 (MVSS pcb)|1.00||
+|17576|BIO-RAD grommet plate|1.00||
+|17594|In house modification of 30118 for MVSS|1.00||
+|19019|Sleeved Grommets (bag of 50)|1.00||
+|30118|Stepper motor.  Call-off.  Monthly drops of 70|1.00||
+|42731|Accent MVSS spindle (free issue 99903, 1 lenght per 5)|1.00||
+|42732|Accent MVSS thrust washer|1.00||
+|42734|Accent MVSS spindle sleeve|1.00||
+|MVSS_GEAR_1|Gear for use in MVSS|1.00||
+|MVSS_GEAR_2|Gear for use in MVSS|1.00||
+|MVSS_GEAR_3|Gear for use in MVSS|1.00||
+|SLIT_BLOCK_5|Slit block for MVSS|1.00||

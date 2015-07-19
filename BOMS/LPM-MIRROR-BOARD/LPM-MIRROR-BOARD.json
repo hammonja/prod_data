@@ -1,0 +1,44 @@
+[
+    {
+        "description": "CAP, MLCC, X7R, 100NF, 100V, 0805",
+        "location": "C1,C3",
+        "quantity": "2.00",
+        "stockcode": "08129"
+    },
+    {
+        "description": "CAP, MLCC, X5R, 2.2UF, 6.3V, 0402",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08130"
+    },
+    {
+        "description": "B120-13-F  DIODE, REC, SCHOTTKY, 1A, 20V, SMA",
+        "location": "D1",
+        "quantity": "1.00",
+        "stockcode": "04058"
+    },
+    {
+        "description": "LPM Filter Wheel PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15125"
+    },
+    {
+        "description": "MICROCHIP  MCP23S09-E/SO  IC, I/O EXPANDER, 8BIT, SPI, 18SOI",
+        "location": "U5",
+        "quantity": "1.00",
+        "stockcode": "21059"
+    },
+    {
+        "description": "MAX4634EUB+  MULTIPLEXER, 4X1, 4OHM RON, 10MICROMAX",
+        "location": "U6",
+        "quantity": "1.00",
+        "stockcode": "21060"
+    },
+    {
+        "description": "LPM-MIRROR-BOARD Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50056"
+    }
+]

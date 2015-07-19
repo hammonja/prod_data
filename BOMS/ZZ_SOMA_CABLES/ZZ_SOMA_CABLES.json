@@ -1,0 +1,68 @@
+[
+    {
+        "description": "Amphenol 5-way plugs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10039"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "20.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "Connector 9 Way 'D' Plug",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10086"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "BNC barrel connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10099"
+    },
+    {
+        "description": "26 Way IDC Socket Bump Polarised",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "10105"
+    },
+    {
+        "description": "Connector 9 Way 'D' Metal Case",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10111"
+    },
+    {
+        "description": "Connector 15 Way 'D' Plug",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "10113"
+    },
+    {
+        "description": "Cable cover 15 way",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "10171"
+    },
+    {
+        "description": "Lemo FGG.0B.305.CLAD31  (Connector (wire O/D 2.1 to 3.0mm))",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10277"
+    }
+]

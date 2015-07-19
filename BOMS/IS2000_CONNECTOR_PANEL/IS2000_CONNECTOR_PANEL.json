@@ -1,0 +1,104 @@
+[
+    {
+        "description": "3K9 MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02101"
+    },
+    {
+        "description": "Red led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04002"
+    },
+    {
+        "description": "TRACOPOWER - TMH 0512D - CONVERTER, DC/DC, 2W, +/-12V/0.1A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05010"
+    },
+    {
+        "description": "24V,  650Ohm relay",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07072"
+    },
+    {
+        "description": "Relay Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07073"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "Cable gland PG13.5",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19128"
+    },
+    {
+        "description": "Ferrite for TGK monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19539"
+    },
+    {
+        "description": "IS2000 Connector Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45377"
+    },
+    {
+        "description": "Toggle Switch DPST 2A/250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45380"
+    },
+    {
+        "description": "IS2000 Connector Panel Label",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45384"
+    },
+    {
+        "description": "Starter Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45385"
+    },
+    {
+        "description": "IS2000_CONNECTOR_PANEL Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50022"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]

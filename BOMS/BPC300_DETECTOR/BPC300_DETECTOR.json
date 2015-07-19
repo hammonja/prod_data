@@ -1,0 +1,86 @@
+[
+    {
+        "description": "75K, MRS25",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "02120"
+    },
+    {
+        "description": "Silicon detector (10mm x 10mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09006"
+    },
+    {
+        "description": "Multi-alkali side window pmt (R928)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09068"
+    },
+    {
+        "description": "Magnetic shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09067"
+    },
+    {
+        "description": "Connector B11A socket 11-PIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10016"
+    },
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Lens retaining ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11215"
+    },
+    {
+        "description": "Iris Diaphragm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13068"
+    },
+    {
+        "description": "Scattered Light Rejection Filter, 270nm-380nm (UG11)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13069"
+    },
+    {
+        "description": "TMs300 SAM pillars. M4 x 20.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30246"
+    },
+    {
+        "description": "BPC300 Detector Box Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41419_M1"
+    },
+    {
+        "description": "Sola system Si support post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41420"
+    },
+    {
+        "description": "Detector Lens/Iris tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42135"
+    }
+]

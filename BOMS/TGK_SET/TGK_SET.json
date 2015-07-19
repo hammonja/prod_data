@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Illuminator for TgK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL_TGK"
+    },
+    {
+        "description": "M300 monochromator for TgK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "M300_TGK"
+    },
+    {
+        "description": "Fibre launch optics for TgK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OPTICS_TGK"
+    }
+]

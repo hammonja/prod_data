@@ -1,0 +1,92 @@
+[
+    {
+        "description": "Fuse 2.5A slow blow",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01005"
+    },
+    {
+        "description": "220R MRS25",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02015"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "1K .5W Cermet PCB mounting",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "03017"
+    },
+    {
+        "description": "Negative variable regulator (LM337T)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05005"
+    },
+    {
+        "description": "Regulator LM317",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05021"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 1uF 50V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08058"
+    },
+    {
+        "description": "Capacitor 4700uF, 63V",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08113"
+    },
+    {
+        "description": "Vertical Mounting Clip for 30mm Capacitor",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08114"
+    },
+    {
+        "description": "1uF, 35V Tantalum",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08120"
+    },
+    {
+        "description": "217 heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17598"
+    },
+    {
+        "description": "Transformer for 477-Hi (120VA, 25Vac)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18003"
+    },
+    {
+        "description": "Plate for 477 Hi power supply mod in 417",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42650"
+    }
+]

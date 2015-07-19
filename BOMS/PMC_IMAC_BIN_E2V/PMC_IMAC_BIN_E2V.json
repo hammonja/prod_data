@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Incomplete BOM / Contact R&D",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_BIN-USB"
+    },
+    {
+        "description": "Imac Card with E2V Mod",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD_E2V"
+    }
+]

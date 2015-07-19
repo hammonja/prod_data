@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Cable for chopper and cooled detectors (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB7"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 120mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB12"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 180mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB14"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 400mm overall length",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB15"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB17"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 560mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB16"
+    },
+    {
+        "description": "HV-BNC to HV-BNC,  570mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB18"
+    }
+]

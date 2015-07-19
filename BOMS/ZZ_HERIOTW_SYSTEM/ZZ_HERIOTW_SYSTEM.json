@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Fibre to slit interface",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12015"
+    },
+    {
+        "description": "'O'RING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12082"
+    },
+    {
+        "description": "FOP(UV) ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12092"
+    },
+    {
+        "description": "1.5m, LUV, bifurcated fibre for monitor detector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12178"
+    },
+    {
+        "description": "Standard Si monitor detector (un-cooled)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_SI_MONITOR"
+    },
+    {
+        "description": "Enclosure for Herriot Watt system (SO8296)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ZZ_HERIOTW_FRAME"
+    },
+    {
+        "description": "Optics for SO 8296",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ZZ_HERIOTW_OPTICS"
+    },
+    {
+        "description": "Light source for sun source in SO 8296",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ZZ_HERIOTW_SUN"
+    }
+]

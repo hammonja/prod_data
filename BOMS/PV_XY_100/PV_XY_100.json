@@ -1,0 +1,182 @@
+[
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "25way gender changer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10266"
+    },
+    {
+        "description": "Thumb screw M3 x 12 DYED BLACK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13095"
+    },
+    {
+        "description": "SAMPLE SPRING SHORT",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13114"
+    },
+    {
+        "description": "Binding post",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "17168"
+    },
+    {
+        "description": "dowel pin parallel mild steel (bag of 25)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19006"
+    },
+    {
+        "description": "Female Screw Lock Assembly 13mm Long",
+        "location": "Male thread down to 10.5mm, Nut down by 1mm",
+        "quantity": "2.00",
+        "stockcode": "19044"
+    },
+    {
+        "description": "PV probe end (Issue D, angled hole for contact pin)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43323"
+    },
+    {
+        "description": "PV probe connector plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43324"
+    },
+    {
+        "description": "Rounded 2-part spring probe,2.54mm pitch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43325-1"
+    },
+    {
+        "description": "Crimp receptacle for 2.54mm pitch probe",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43325-2"
+    },
+    {
+        "description": "Toolmix.com  Draper MB-LDFAB MAG BASE, FINE ADJUST. - 45277",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43326"
+    },
+    {
+        "description": "PV_PROBE_CONTACT_XY ADJUSTABLE SPACER COLLAR",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44173"
+    },
+    {
+        "description": "PV_XY PROBE BAR WITH V GROOVE",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45032"
+    },
+    {
+        "description": "MODIFICATION OF PV BASE 43246",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "45100"
+    },
+    {
+        "description": "PV_XY_100 DH_SI HOLDER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45109"
+    },
+    {
+        "description": "100mm xy stage for PVE300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45110"
+    },
+    {
+        "description": "PV_XY_100 Stage pillars",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45111"
+    },
+    {
+        "description": "PV_XY_100 BASE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45112"
+    },
+    {
+        "description": "All over gold plating (gold on nickel)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45114F"
+    },
+    {
+        "description": "PV_XY_100  COPPER CHUCK  (un_plated)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45114P"
+    },
+    {
+        "description": "PV_XY_100 PROBE POST",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45115"
+    },
+    {
+        "description": "PV_XY_100 CHUCK ADAPTER BLOCK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45116"
+    },
+    {
+        "description": "BATH 9626 CELL HOLDER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45117"
+    },
+    {
+        "description": "PV_XY_100 Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45118"
+    },
+    {
+        "description": "PV_XY_100 COPPER CHUCK FOOT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45119"
+    },
+    {
+        "description": "MOD OF MAGNETIC BASE CLAMP",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45120"
+    }
+]

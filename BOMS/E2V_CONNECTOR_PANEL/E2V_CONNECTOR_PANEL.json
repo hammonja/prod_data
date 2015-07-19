@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Connector Isolated BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10081"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "Black Shrouded Socket Cut Down (4mm)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10127_M1"
+    },
+    {
+        "description": "Red Shrouded Socket Cut Down (4mm)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10128_M1"
+    },
+    {
+        "description": "Blue Shrouded Socket Cut Down (4mm)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10136_M1"
+    },
+    {
+        "description": "Green Shrouded Scoket Cut Down (4mm)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10223_M1"
+    },
+    {
+        "description": "4 way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10236"
+    },
+    {
+        "description": "4 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10238"
+    },
+    {
+        "description": "2.5mm panel socket (E2V)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10269"
+    },
+    {
+        "description": "UKAEA sphere fan baffle plate pillars (pack of 25)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "41674"
+    },
+    {
+        "description": "PEM CLS-M3-2 self clinch fastener",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19046"
+    },
+    {
+        "description": "E2V connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27115"
+    },
+    {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19002"
+    }
+]

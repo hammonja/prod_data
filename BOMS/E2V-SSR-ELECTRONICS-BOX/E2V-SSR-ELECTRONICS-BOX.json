@@ -1,0 +1,158 @@
+[
+    {
+        "description": "dc-dc, 18-36V in,  5V @ 600mA out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05007"
+    },
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "3 way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10094"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "IP68 mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10292"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "M3 x 15 metal spacer (pack of 50)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "15100"
+    },
+    {
+        "description": "Internal psu for TMS monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18033"
+    },
+    {
+        "description": "Cover for psu in TMS monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18034"
+    },
+    {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19002"
+    },
+    {
+        "description": "DIP Heatsink",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19018"
+    },
+    {
+        "description": "PIC16F876A-I/SP",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "20002"
+    },
+    {
+        "description": "Stepper drive chip NJM#3771D2",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "21050"
+    },
+    {
+        "description": "DAC Chip  NJU#39610D2",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "21056"
+    },
+    {
+        "description": "Opto isolator",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "21057"
+    },
+    {
+        "description": "Led gonio power box plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42842"
+    },
+    {
+        "description": "Inlet Gasket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46540"
+    },
+    {
+        "description": "6.3mm flag receptacle,0.75-2.3 sq.mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99199"
+    },
+    {
+        "description": "Mini usb cable 3m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USB_MINI_3M"
+    },
+    {
+        "description": "Loaded starting point for IMAC cards",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IMAC_CARD_ROOT"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]

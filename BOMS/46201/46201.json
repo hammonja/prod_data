@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Bosch part",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19567"
+    },
+    {
+        "description": "Bosch part",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44146"
+    },
+    {
+        "description": "Bosch extrusion see drawing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44156"
+    },
+    {
+        "description": "Bosch standard lamp adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44157"
+    },
+    {
+        "description": "Bosch part",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44161"
+    },
+    {
+        "description": "10mm Groove Aluminium Cover L=220mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46192"
+    }
+]

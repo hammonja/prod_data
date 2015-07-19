@@ -1,0 +1,122 @@
+[
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "TM300 grating spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30007"
+    },
+    {
+        "description": "TM Grating adjuster (Free issue 17254)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30008"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30047"
+    },
+    {
+        "description": "PVslit cover plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43229"
+    },
+    {
+        "description": "PV mirror stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43230"
+    },
+    {
+        "description": "PV divert mirror plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43234"
+    },
+    {
+        "description": "PV divert mirror holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43235"
+    },
+    {
+        "description": "PV divert mirror (100x70x3)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43236"
+    },
+    {
+        "description": "PV extended slit box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43237"
+    },
+    {
+        "description": "PV junction plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43238"
+    },
+    {
+        "description": "PV divert mirror angle block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43240"
+    },
+    {
+        "description": "PV brace",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "43259"
+    },
+    {
+        "description": "PV bias source clamp",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43260"
+    },
+    {
+        "description": "PV fibre support plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43261"
+    },
+    {
+        "description": "PV divert mirror plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43262"
+    },
+    {
+        "description": "Heriot Watt fibre holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43312"
+    },
+    {
+        "description": "PV system aperture 4.2mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43450"
+    },
+    {
+        "description": "Toroidal mirror assembly used in PV system.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV_TOROID_ASSY"
+    }
+]

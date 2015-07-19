@@ -1,0 +1,62 @@
+[
+    {
+        "description": "20A Straight plug Power 'D'",
+        "location": "",
+        "quantity": "22.00",
+        "stockcode": "10212"
+    },
+    {
+        "description": "Painting of 43591/43592(11 items) (wipe clean white)",
+        "location": "Assemble 43591 to 43592 b4 painting",
+        "quantity": "1.00",
+        "stockcode": "19518"
+    },
+    {
+        "description": "E12 lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19521"
+    },
+    {
+        "description": "E14 lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19522"
+    },
+    {
+        "description": "E26 lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19523"
+    },
+    {
+        "description": "E27 lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19524"
+    },
+    {
+        "description": "B22d lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19525"
+    },
+    {
+        "description": "GU10 lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19526"
+    },
+    {
+        "description": "BLH custom top",
+        "location": "",
+        "quantity": "11.00",
+        "stockcode": "43591"
+    },
+    {
+        "description": "Lamp holder bases for Kema set (11 items)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43592"
+    }
+]

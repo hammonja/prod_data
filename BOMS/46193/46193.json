@@ -1,0 +1,50 @@
+[
+    {
+        "description": "IS1800 suspension hook",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19224"
+    },
+    {
+        "description": "Bosch part",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19567"
+    },
+    {
+        "description": "Bosch extrusion see drawing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44144"
+    },
+    {
+        "description": "Bosch IS1800 top bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44145"
+    },
+    {
+        "description": "Bosch part",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44146"
+    },
+    {
+        "description": "IS1800 top bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44147"
+    },
+    {
+        "description": "IS1800 TOP BRACKET STUDDING",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "44148"
+    },
+    {
+        "description": "IS1800 top Bosch end cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44149"
+    }
+]

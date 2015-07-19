@@ -1,0 +1,14 @@
+[
+    {
+        "description": "TM300 casting machined for QC turrets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123_M5"
+    },
+    {
+        "description": "Painting Operation to Produce CASTING_TM300_QC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19831"
+    }
+]

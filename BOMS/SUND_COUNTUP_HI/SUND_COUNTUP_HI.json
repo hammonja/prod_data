@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Turns counter for M300/DM150 with 1mm pitch lead screw",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11322"
+    },
+    {
+        "description": "Siko upgrade adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11344"
+    },
+    {
+        "description": "Hexagon key 1.5mm AF, short",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99079"
+    },
+    {
+        "description": "Hexagon key 2mm AF, short",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99080"
+    },
+    {
+        "description": "Hexagon key 1.27mm AF",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99094"
+    }
+]

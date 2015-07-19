@@ -1,0 +1,170 @@
+[
+    {
+        "description": "7 way Amphenol socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10034"
+    },
+    {
+        "description": "Lemo, 8 way, cable plug, green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10289"
+    },
+    {
+        "description": "M300 0.25\" bearing R4AZZ",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11044"
+    },
+    {
+        "description": "M300 Idler pulley shaft (FI 300mm 99904 per 10)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11074"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "'E' clip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19266"
+    },
+    {
+        "description": "TEL309 Large Gear Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19486_M1"
+    },
+    {
+        "description": "8mm to 6mm reducer for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19503"
+    },
+    {
+        "description": "Machined Timing Pulley",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30045_M2"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "Bearing O/D 19mm, I/D 6mm, THK 6mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30153"
+    },
+    {
+        "description": "TMs300 Slit Bearing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30253"
+    },
+    {
+        "description": "TM300 turret opto spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30303"
+    },
+    {
+        "description": "Electro-magnet for arrestable chopper (was RS 346-069)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42540"
+    },
+    {
+        "description": "Belt for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43392"
+    },
+    {
+        "description": "20 slot chopping disc in 1mm CR4 Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43432_P1"
+    },
+    {
+        "description": "Arrestable chopper pole piece Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43702_P1"
+    },
+    {
+        "description": "Solenoid mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43703"
+    },
+    {
+        "description": "PV DC Chopper Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44088"
+    },
+    {
+        "description": "ILD-75E-QH-Chop-DC-Chop Side Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44089"
+    },
+    {
+        "description": "PV DC Chopper Motor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44090"
+    },
+    {
+        "description": "PV DC Chopper Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44091"
+    },
+    {
+        "description": "PV DC Chopper Shaft (free issue 50mm 99903 per item)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44092"
+    },
+    {
+        "description": "PV DC Chopper Spacer Pillar",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "44093"
+    },
+    {
+        "description": "Blade for dc chopper in ILD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44094"
+    },
+    {
+        "description": "PV DC Chop Source Limit Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44104"
+    },
+    {
+        "description": "ILD_HF-LF-UPGRADE-KIT Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50042"
+    }
+]

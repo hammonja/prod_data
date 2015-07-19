@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Vertical PCB Mounting USB Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10346"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]

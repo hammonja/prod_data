@@ -1,0 +1,188 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "Pot 20K 2W .25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03007"
+    },
+    {
+        "description": "1A 1000V Rectifier silicon",
+        "location": "FIT TO BACK OF 7 way Amphenol. ",
+        "quantity": "1.00",
+        "stockcode": "04006"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "Button for push switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07003"
+    },
+    {
+        "description": "Miniature toggle switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07004"
+    },
+    {
+        "description": "large cap, black with line to fit 21.5mm knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07013"
+    },
+    {
+        "description": "Large knob, black with line to fit 1/4\" spindle S211 250BK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07018"
+    },
+    {
+        "description": "Gold contact sub-miniature",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07026"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "Regulator",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "Regulator",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "7 way Amphenol socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10034"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "IEC fused mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10043"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "LCD Screen Modified to Fit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18020_M1"
+    },
+    {
+        "description": "XP power 100~200Vac 24Vdc 2.5A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18134"
+    },
+    {
+        "description": "TM300 turret opto spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30303"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30337"
+    },
+    {
+        "description": "418F BACK PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44348"
+    },
+    {
+        "description": "418F Front Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44349"
+    },
+    {
+        "description": "418 Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44350"
+    },
+    {
+        "description": "418F OKW BOX (205 x 140 x 75)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44351"
+    },
+    {
+        "description": "418F PSU Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44352"
+    },
+    {
+        "description": "S400_418_F Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50074"
+    },
+    {
+        "description": "M2.5 x 6 tritap (pack of 100)",
+        "location": "",
+        "quantity": "0.04",
+        "stockcode": "99003"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "USB 418 board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_418_BOARD"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "Connector 9 Way 'D' Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10086"
+    },
+    {
+        "description": "Connector 9 Way 'D' Metal Case",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10111"
+    },
+    {
+        "description": "Connector 15 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10113"
+    },
+    {
+        "description": "Cable cover 15 way",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10171"
+    },
+    {
+        "description": "M300 microswitch",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11001"
+    },
+    {
+        "description": "M300 flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11057"
+    },
+    {
+        "description": "Microswitch plate",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11349"
+    },
+    {
+        "description": "Bore reducer, 5mm x 1/4 inch x 6.6mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30052"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "Unislide 2\" Travel, 63mm Wide MACHINED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43020_M1"
+    },
+    {
+        "description": "UMS carrier (was 146-1365)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43157"
+    },
+    {
+        "description": "Rail for PV RT option ( was 146-0440)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43256"
+    },
+    {
+        "description": "PV main sphere plate",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "43257"
+    },
+    {
+        "description": "PV brace",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43259"
+    },
+    {
+        "description": "Probe Station Z-stage Back Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45396"
+    },
+    {
+        "description": "Probe Station X-Y Mounting Plate Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45405"
+    },
+    {
+        "description": "Probe Station Z-stage Standoff",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45406"
+    },
+    {
+        "description": "PV Probe Station Head Backing Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45409"
+    },
+    {
+        "description": "X-Y Manual Stage 25mm Travel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45415"
+    },
+    {
+        "description": "PV Probe Station Head Standoff",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45416"
+    },
+    {
+        "description": "Probe Station X-Y Mounting Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45418"
+    },
+    {
+        "description": "Unislide Motor Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46518"
+    },
+    {
+        "description": "PV-PROBE-STATION Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50058"
+    }
+]

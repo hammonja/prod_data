@@ -1,0 +1,380 @@
+[
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10125"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "M4 Ball ended grub screw ( free issue 99022)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11250"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "M3 Ball ended grub screw (99254 free issued)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11260"
+    },
+    {
+        "description": "Lens for SMI",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12195"
+    },
+    {
+        "description": "Spacer NP 8.0/25/C/M3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15021"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "Pillar M4 X 16 Female - Female (pack of 25)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "15069"
+    },
+    {
+        "description": "EXLS Anode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17329"
+    },
+    {
+        "description": "EXLS Cathode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17330"
+    },
+    {
+        "description": "Fixed focus bar (make as matched pair with 17405)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17404"
+    },
+    {
+        "description": "Floating focus bar  (make as matched pair with 17404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17405"
+    },
+    {
+        "description": "Dowel 5mm x 35mm (99902, 1.5 lengths per 20)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17409"
+    },
+    {
+        "description": "EXLS Z Adjuster Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17673"
+    },
+    {
+        "description": "TLS starter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18064"
+    },
+    {
+        "description": "FAN, 40X40X10MM, 12VDC, 7CFM, 27DBA",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18117"
+    },
+    {
+        "description": "Finger guard for 40mm fan",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18118"
+    },
+    {
+        "description": "Osram XBO 75W/2 OFR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19117"
+    },
+    {
+        "description": "PLC-M3 self locking insert (Zygology Ltd)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19173"
+    },
+    {
+        "description": "FSM150Xe adjuster spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19345"
+    },
+    {
+        "description": "Lumatech series 380, 5mm dia., 1m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19508"
+    },
+    {
+        "description": "TM300 grating spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30007"
+    },
+    {
+        "description": "TM Grating adjuster (Free issue 17254)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30008"
+    },
+    {
+        "description": "Off Axis Elliptical Reflector Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42404"
+    },
+    {
+        "description": "WRC Large Off Axis Elliptical Reflector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42405"
+    },
+    {
+        "description": "TS space systems xenon lamp side plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42499"
+    },
+    {
+        "description": "TS Space Systems Xenon Lamp Bottom Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42500"
+    },
+    {
+        "description": "TS space systems reflector pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42503"
+    },
+    {
+        "description": "TGK grating surround",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42806"
+    },
+    {
+        "description": "Grating plate for TGK monochromator",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42991"
+    },
+    {
+        "description": "SMi150 cover (2 sheets)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43527"
+    },
+    {
+        "description": "SMi150 mirror stand",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43528"
+    },
+    {
+        "description": "SMi150 sperical mirror",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43529"
+    },
+    {
+        "description": "SMi150 mirror surround",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43530"
+    },
+    {
+        "description": "SMi150 divert mirror stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43531"
+    },
+    {
+        "description": "SMi150 grating stand",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43532"
+    },
+    {
+        "description": "SMi150 fan plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43533"
+    },
+    {
+        "description": "SMi150 light source baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43534"
+    },
+    {
+        "description": "SMi150 main baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43535"
+    },
+    {
+        "description": "SMi150 power plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43536"
+    },
+    {
+        "description": "SMi150 output plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43537"
+    },
+    {
+        "description": "SMi150 base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43538"
+    },
+    {
+        "description": "SMi150 middle slit cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43539"
+    },
+    {
+        "description": "SMi150 entrance slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43540"
+    },
+    {
+        "description": "SMi150 middle slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43541"
+    },
+    {
+        "description": "SMi150 app cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43544"
+    },
+    {
+        "description": "SMI150 exit optic",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43608"
+    },
+    {
+        "description": "SMI150 split ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43610"
+    },
+    {
+        "description": "SMI150 LG adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43611"
+    },
+    {
+        "description": "SMI150 slit carrier block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43627"
+    },
+    {
+        "description": "SMI slit screw",
+        "location": "",
+        "quantity": "34.00",
+        "stockcode": "43629"
+    },
+    {
+        "description": "Fixed Slit Plate (1.00mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FSP(1.0)"
+    },
+    {
+        "description": "68x68x6. 300/500",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "G303R0U5"
+    },
+    {
+        "description": "68x68x6. 1200/500",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "G303R0U76"
+    },
+    {
+        "description": "For use with TLS starter when used with 605",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INVERTER_BOARD_605"
+    }
+]

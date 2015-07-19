@@ -1,0 +1,278 @@
+[
+    {
+        "description": "IEC Insulating Boot Type 1",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10005"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Mains outlet socket black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10190"
+    },
+    {
+        "description": "IEC Plug Flange Fixing Black 6.3mm Tabs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10191"
+    },
+    {
+        "description": "Plug mains male right angle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10192"
+    },
+    {
+        "description": "Opto switch bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11199"
+    },
+    {
+        "description": "IP68 cable gland",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19215"
+    },
+    {
+        "description": "Bosch 3 way cube connectors (30m x 30mm)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19309"
+    },
+    {
+        "description": "Bosch 2 way cube connectors (30m x 30mm)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19313"
+    },
+    {
+        "description": "Large timing gear for LA goniometer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19407"
+    },
+    {
+        "description": "Small timing gear for LA goniometer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19408"
+    },
+    {
+        "description": "12mm pillow bearing for LA goniometer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19409"
+    },
+    {
+        "description": "Timing belt for LA goniometer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19410"
+    },
+    {
+        "description": "pin 7mm x 3mm dia with flat",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27074"
+    },
+    {
+        "description": "Lighting Associating Extrusion length 1160mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42439"
+    },
+    {
+        "description": "Lighting  Association 16 tooth sprocket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42536"
+    },
+    {
+        "description": "Lighting  Association 144 tooth sprocket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42537"
+    },
+    {
+        "description": "Lighting  Association belt (NOT spliced)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42538"
+    },
+    {
+        "description": "LA Locating plate for gimble",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42541"
+    },
+    {
+        "description": "Gimble Shaft (EXTRA DRAWING)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42542"
+    },
+    {
+        "description": "Side Motor Support Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42544"
+    },
+    {
+        "description": "LA iddler pin",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42545"
+    },
+    {
+        "description": "3 Amp Stepping Motor - 23HSX-206",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42546"
+    },
+    {
+        "description": "LA Top Bearing Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42547"
+    },
+    {
+        "description": "Gimble Extrusion 285mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42548"
+    },
+    {
+        "description": "Gimble Extrusion For 15mm Shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42549"
+    },
+    {
+        "description": "Gimble bearing spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42550"
+    },
+    {
+        "description": "Gimble Extrusion length 110 mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42551"
+    },
+    {
+        "description": "gimble width extrusion with fixing holes",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42552"
+    },
+    {
+        "description": "LA lamp interface plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42553"
+    },
+    {
+        "description": "Azimuth shaft (EXTRA DRAWING)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42554"
+    },
+    {
+        "description": "15mm diameter SKF Bearing (SKF 6002-2Z)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42555"
+    },
+    {
+        "description": "LA Top Motor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42556"
+    },
+    {
+        "description": "LA pillow block bearing",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42557"
+    },
+    {
+        "description": "LA Large Gear Clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42558"
+    },
+    {
+        "description": "LA interface Plate Clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42559"
+    },
+    {
+        "description": "Stepping motor 23HSX-306",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42566"
+    },
+    {
+        "description": "Pinning of large gear to 15mm shaft in LA goniometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42567"
+    },
+    {
+        "description": "Pinning of large gear to 42574 in LA goniometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42568"
+    },
+    {
+        "description": "Pinning of small gear to 42574 in LA goniometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42569"
+    },
+    {
+        "description": "Pinning of small gear to 42566 motor in LA goniometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42570"
+    },
+    {
+        "description": "Idler bearing plate for LA goniometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42572"
+    },
+    {
+        "description": "Idler bearing for LA goniometer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42573"
+    },
+    {
+        "description": "Second stage gear shaft in LA goniometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42574"
+    },
+    {
+        "description": "Goniometer balance weight",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42588"
+    }
+]

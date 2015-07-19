@@ -1,0 +1,116 @@
+[
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "Cap 19mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10062"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "M300 Index blanking plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11053"
+    },
+    {
+        "description": "Fixed slit block MkII",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11083"
+    },
+    {
+        "description": "Fixed slit block cover MkII (fi 19087, 2 per)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11084"
+    },
+    {
+        "description": "Fixed slit lid MkII",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11085"
+    },
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "Standard DMc150 casting in Bentham Colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_DMC150"
+    },
+    {
+        "description": "DM150 Base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11157"
+    },
+    {
+        "description": "DM150 carrying handle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11164"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "M3 x 8mm Spacer Pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15083"
+    },
+    {
+        "description": "DMc150 USB Connector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16125"
+    },
+    {
+        "description": "DMc150 Power Supply Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17364"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Dome plug 6.4mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19091"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    }
+]
