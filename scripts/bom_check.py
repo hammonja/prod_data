@@ -1,7 +1,7 @@
 import json
 import os
-#import requests
 from bom_functions import get_sage_boms
+import requests
 import certifi
 import urllib3
 http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED',ca_certs=certifi.where())
@@ -59,8 +59,11 @@ if len(mis_match_boms) >0 :
 	if len(mis_match_boms) >0 :
 	
 		print('# still unequal then send an email')
-		for bom in mis_match_boms:
-			print( 'The following BOM is out of sync with github : ' +bom )
-			#send_message(text,bom)		
+		email = {"from": "accounts@bentham.co.uk","to": "jameshammond@bentham.co.uk","subject": "BOM CHECKER", "replyTo ": "jameshammond@bentham.co.uk"}
+		html = ' '
+		for bom in mis_match_boms:			
+			html = html + 'The following BOM is out of sync with github : ' +bom + '<br>'
+		email['html'] =  html
+		print(requests.post('http://10.0.0.75:3000/email', json = email).text)			
 else:
 	print('Sage and Git agree')		

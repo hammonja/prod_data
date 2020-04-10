@@ -32,5 +32,4 @@
 |FOP_2|Optical glass fibre bundle (350-1700nm)|1.00||
 |FOP_3|Optical glass fibre bundle (350-1700nm)|1.00||
 |FOP_5|Optical glass fibre bundle (350-1700nm)|1.00||
-|FOP_IDR_2|Optical glass fibre bundle (350-1700nm)|1.00||
 |13010|Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl|1.00||

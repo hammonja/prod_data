@@ -1,14 +1,8 @@
-import smtplib
-from email.mime.multipart import MIMEMultipart
-from email.MIMEText import MIMEText
+import json
 
-def send_message(_text, bom ):
-	msg = MIMEMultipart()
-	msg['From'] = 'python <python@python.com'
-	msg['To'] = 'James Hammond <james.hammond@bentham.co.uk>'
-	msg['Subject'] = 'BOM Changed'				
-	textPart = MIMEText(_text + str(bom)+".", 'plain')
-	msg.attach(textPart)		
-	server = smtplib.SMTP('mail.bentham.co.uk')
-	server.sendmail('python <python@python.com','James Hammond <james.hammond@bentham.co.uk>',msg.as_string())
-	return
+
+#def send_message(_text, bom ):
+email = {"from": "accounts@bentham.co.uk","to": ["jameshammond@bentham.co.uk"],"bcc": ["david.hammond@bentham.co.uk"],"subject": "Test","html" : " some mesage ", "replyTo ": "jameshammond@bentham.co.uk"}
+json_email = json.dumps (email)
+
+print (json_email)
