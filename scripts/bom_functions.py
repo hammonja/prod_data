@@ -4,7 +4,7 @@ import os
 
 def __query_db(query):
 
-	cnxn = pyodbc.connect('DSN=L50M_sagel50_44432;;UID=sa;PWD=')
+	cnxn = pyodbc.connect('DSN=L50M_sagel50_44432;;UID=JamesSQL;PWD=vxBFp6=NL6cm')
 	cursor = cnxn.cursor()
 
 	boms = {}
@@ -19,7 +19,7 @@ def __query_db(query):
 
 			boms[row.bomreference].append (part)					
 		except:
-			print " unable to process " + str(row)
+			print (' Unable to process ' + str(row))
 	return boms
 
 def get_sage_boms():
