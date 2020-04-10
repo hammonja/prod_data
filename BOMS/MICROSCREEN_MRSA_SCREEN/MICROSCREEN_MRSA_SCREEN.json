@@ -1,0 +1,128 @@
+[
+    {
+        "description": "Red led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04002"
+    },
+    {
+        "description": "DC-DC 5V to +/- 15V (TEM2-0522)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05041"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Smokescreen detector 650nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09169"
+    },
+    {
+        "description": "2.5mm Panel Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10004"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "IP68 mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10292"
+    },
+    {
+        "description": "15061 PCB 477 Issue 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15061"
+    },
+    {
+        "description": "STINGRAY Dual Channel USB Oscilloscope (DS1M12)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19147"
+    },
+    {
+        "description": "TM300 turret opto spacer",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "30303"
+    },
+    {
+        "description": "DM150 internal electronics 487 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42828"
+    },
+    {
+        "description": "MICROSCREEN MRSA CASE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45763-P1"
+    },
+    {
+        "description": "MICROSCREEN MRSA PRIMARY MOUNTING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45764"
+    },
+    {
+        "description": "MICROSCREEN MRSA DEFUSE REFLECTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45765"
+    },
+    {
+        "description": "MICROSCREEN MRSA REFLECTOR CLAMP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45766"
+    },
+    {
+        "description": "MICROSCREEN MRSA TOPHAT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45767"
+    },
+    {
+        "description": "MICROSCREEN MRSA LIGHT COVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45768"
+    },
+    {
+        "description": "MICROSCREEN MRSA SCREEN BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50195-BM"
+    },
+    {
+        "description": "0.5m standard USB cable",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "CAB_USB_0.5M"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "ADVENT USB 2.0 4-Port Powered Hub",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "USB_HUB"
+    }
+]

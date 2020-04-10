@@ -1,0 +1,422 @@
+[
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "100W QH Lamp 3300K",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09101"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Purge port pipe connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10119"
+    },
+    {
+        "description": "Black shrouded socket (pack 2)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "6.35 Lamp Holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10398"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "Pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11223"
+    },
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "Rear lens tube - Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12012"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "IL1 Lens tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17021"
+    },
+    {
+        "description": "Motor with end cap and 150mm long leads",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18007"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "M3X10 Spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19011"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "CaF2 lens for IL1, 25 dia, 25 f",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19640"
+    },
+    {
+        "description": "SAM coupling",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30025"
+    },
+    {
+        "description": "Sam pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30026"
+    },
+    {
+        "description": "GDAY 035 X20 B21 (24V)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30043"
+    },
+    {
+        "description": "TMs300 SAM support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30297"
+    },
+    {
+        "description": "Dual light source plain side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42351"
+    },
+    {
+        "description": "WRC IL-Glowbar-Enclosed Lamp Support Pillars",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42355"
+    },
+    {
+        "description": "WRC LAMP HEATSINK",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "40020-P1"
+    },
+    {
+        "description": "WRC Lamp Fan Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42360"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed Box Top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42370"
+    },
+    {
+        "description": "WRC IL-Nernst-Enclosed QH Lens Holder Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42372"
+    },
+    {
+        "description": "Sam mirror bracket for Dual QH Nernst",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42635"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP chopper stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43291"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP sam pillars",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "43296"
+    },
+    {
+        "description": "ILD QC Output Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43704"
+    },
+    {
+        "description": "ILD QC dovetail",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43705"
+    },
+    {
+        "description": "218B 5-slot blade ( powder coated)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17015"
+    },
+    {
+        "description": "Threaded block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43967"
+    },
+    {
+        "description": "Comar rear reflector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45057"
+    },
+    {
+        "description": "Small reflector holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45058"
+    },
+    {
+        "description": "REFLECTOR HOLDER BACK PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45910"
+    },
+    {
+        "description": "REFLECTOR PIVOT PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45911"
+    },
+    {
+        "description": "M3 x 15 SCREW SET BALL END HEX SOCKET STAINLESS STEEL A2",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "45912"
+    },
+    {
+        "description": "ILD Back Plate Painted Nernst",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46160_P2"
+    },
+    {
+        "description": "ILD-75E-QH-CHOP  LAMP PLATE WITH RELECTOR AND PURGE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48446"
+    },
+    {
+        "description": "HAWKEYE IR SOURCE (IR-SI217)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48448"
+    },
+    {
+        "description": "HAWKEYE IR PARABOLIC HOLDER (IR-RMC432)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48449"
+    },
+    {
+        "description": "ILD-D2-QH BASE PLATE FOR COLLIMATED IR SOURCE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48450"
+    },
+    {
+        "description": "HAWKEYE IR SOURCE PARABOLIC MOUNTING BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48451"
+    },
+    {
+        "description": "1.8m Long 7 Way Cable for Arrestable Choppers",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB24"
+    },
+    {
+        "description": "Lamp cable with shrouded at both ends (1.8m long)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB6"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB8"
+    },
+    {
+        "description": "Sam cable, 3 way to 3 way, 550mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB9"
+    },
+    {
+        "description": "M4 x 8 socket head, black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99105"
+    },
+    {
+        "description": "M2.5 x 12 socket cap black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99110"
+    },
+    {
+        "description": "M3 x 10 Black Cap Head Screw",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99154"
+    },
+    {
+        "description": "M3 x 16 Black Socket Cap Head Screw",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99161"
+    },
+    {
+        "description": "M3 x 50 Zinc Socket Cap Head",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99190"
+    },
+    {
+        "description": "M2.5 x 6, button head, black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99209"
+    },
+    {
+        "description": "M3 Plain Washer Stainless Steel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99232"
+    },
+    {
+        "description": "M4 Black Plain Washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99351"
+    },
+    {
+        "description": "M4 x 10 Black Socket Cap Head",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99355"
+    },
+    {
+        "description": "M4 x 14 socket cap, black",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99366"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "ILD-QH-IR-CH-24-QC-RR BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51082-BM"
+    },
+    {
+        "description": "ILD-QH-IR-CH-24-QC-RR PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51082-PL"
+    }
+]

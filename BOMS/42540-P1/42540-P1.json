@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Machining Operation to Produce 42540-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42540-F1"
+    },
+    {
+        "description": "Electro-magnet for Arrestable Chopper",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42540"
+    }
+]

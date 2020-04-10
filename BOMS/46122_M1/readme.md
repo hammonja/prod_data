@@ -1,0 +1,4 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|19994|Vapour Blasting Operation to Produce 46122_M1|1.00||
+|46122|Peltier Cooled VC Chuck [SHELF: CIR]|1.00||

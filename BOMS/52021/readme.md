@@ -1,0 +1,9 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|10097|3 way cable socket|1.00||
+|18136|Electronic temperature sensor|1.00||
+|49081|BPC300-C  TEMPERATURE SENSOR|1.00||
+|49082|BPC300-C TEMPERATURE SENSOR TIP|1.00||
+|49083|BPC300-C TEMPERATURE SENSOR LOCKING RING|1.00||
+|52021-PL|BPC300-C TEMPERATURE SENSOR - PARTS LIST|1.00||
+|52021-BM|BPC300-C TEMPERATURE SENSOR - BUILD MANUAL|1.00||

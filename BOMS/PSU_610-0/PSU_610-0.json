@@ -1,0 +1,200 @@
+[
+    {
+        "description": "1K, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "187R MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02062"
+    },
+    {
+        "description": "10K 2W WW .25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03006"
+    },
+    {
+        "description": "LED Panel Mount Indicators Red/Green Diffused 700/565nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04061"
+    },
+    {
+        "description": "LED Panel Mount Indicators PMI Blue 470nm 40mcd",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04062"
+    },
+    {
+        "description": "large cap, black with line to fit 21.5mm knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07013"
+    },
+    {
+        "description": "Large knob, black with line to fit 1/4\" spindle S211 250BK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07018"
+    },
+    {
+        "description": "Large cap, blk without line to fit 21.5mm knob (pack of 10)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07037"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "knob, blk without line to fit 1/4\" spindle ( pack of 10 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07057"
+    },
+    {
+        "description": "Pole 8 Way Rotary Switch (PCB Mount)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07076"
+    },
+    {
+        "description": "Push Button Switch, IP67, NO, Panel Mount, Momentary",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07077"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "IEC Inlet. Fused. Filtered. No Switch.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10364"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "15124 PCB with precision resistor fitted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15124_M1"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: NHD-0420CW-AB3 (Assembled)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15134_M1"
+    },
+    {
+        "description": "Fan (92mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18088"
+    },
+    {
+        "description": "NHD-0420CW-AB3 4 lines x 20 character Blue OLED display",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18145"
+    },
+    {
+        "description": "605 fan spacers",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19290"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "New shroff BIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22016"
+    },
+    {
+        "description": "320W Single Output Internal Enclosed SMPSU",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45219"
+    },
+    {
+        "description": "610 Front Panel Printed Label",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45473"
+    },
+    {
+        "description": "610 Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46663"
+    },
+    {
+        "description": "610 Front Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46810"
+    },
+    {
+        "description": "610 Rear Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46820"
+    },
+    {
+        "description": "PSU_610 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50068"
+    }
+]

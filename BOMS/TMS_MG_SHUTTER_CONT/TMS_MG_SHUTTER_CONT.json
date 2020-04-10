@@ -1,0 +1,50 @@
+[
+    {
+        "description": "100R JI - RESISTOR, 10W 5% 100R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02278"
+    },
+    {
+        "description": "1A 1000V Rectifier silicon",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04006"
+    },
+    {
+        "description": "Capacitor 470uF 35V radial",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "08104"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "M3 x 12 hexagonal pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15038"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x10",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15051"
+    },
+    {
+        "description": "M3 x 8mm Spacer Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15083"
+    }
+]

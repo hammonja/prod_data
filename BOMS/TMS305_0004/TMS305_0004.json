@@ -1,0 +1,44 @@
+[
+    {
+        "description": "High throughput monochromator - DSPIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS305_SF02"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 300nm Blazed Holograpic",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T624H0U3"
+    },
+    {
+        "description": "Grating Assembly with 1800g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T618R0U5"
+    },
+    {
+        "description": "UG5, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG5"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG11"
+    },
+    {
+        "description": "HOYA UV-34 25mm diameter, 2mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS380"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    }
+]

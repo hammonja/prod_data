@@ -1,0 +1,122 @@
+[
+    {
+        "description": "Neon indicator RED 200-250V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04040"
+    },
+    {
+        "description": "Mains Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07050"
+    },
+    {
+        "description": "Actuator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07051"
+    },
+    {
+        "description": "Connector  64 way 2 rows",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10085"
+    },
+    {
+        "description": "12 Way Chassis Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10161"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "IP68 mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10292"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "AC/DC Power Supply, Fixed, 2 Output, 90 V, 264 V, 42 W, 5 V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18166"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "IP68 Cable gland (PG9)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19105"
+    },
+    {
+        "description": "European Mains Lead",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23014"
+    },
+    {
+        "description": "RSB Power Supply Box (Material 27014P)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27014F"
+    },
+    {
+        "description": "RSB Power Supply Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27014P"
+    },
+    {
+        "description": "RSB_CONTROLLER_USB Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50143"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    }
+]

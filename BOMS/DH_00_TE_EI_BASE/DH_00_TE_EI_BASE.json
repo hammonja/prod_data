@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Safe HV socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10040"
+    },
+    {
+        "description": "SMA bulkhead socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10179"
+    },
+    {
+        "description": "Ferrite bead for EI cooled housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18021"
+    },
+    {
+        "description": "TMs300 SAM pillars. M4 x 20.",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30246"
+    },
+    {
+        "description": "Expanded Neoprene Gaskets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40016"
+    },
+    {
+        "description": "DH_00_TE COOLED SIDE WINDOW HOUSING BASE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40001-BASE"
+    }
+]

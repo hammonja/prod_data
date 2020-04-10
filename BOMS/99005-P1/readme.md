@@ -1,0 +1,4 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|99005|FL250 porous PTFE moulded rod. OD 32mm, length 1m|0.03||
+|99005-F1|MACHINING OPERATION TO PRODUCE 99005-P1|1.00||

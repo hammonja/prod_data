@@ -1,0 +1,230 @@
+[
+    {
+        "description": "Windows spectroradiometer control software",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BENWIN_PLUS"
+    },
+    {
+        "description": "Photobiological safety of lamps measurement wizard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BENPSL-WIZARD"
+    },
+    {
+        "description": "IDR300 Spectroradiometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR300_0001"
+    },
+    {
+        "description": "Housing for 400 series modules (full width unit)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_417"
+    },
+    {
+        "description": "Optical chopper control (417 module)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_M"
+    },
+    {
+        "description": "AC transimpedance  current pre-amplifier (417 module)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_477"
+    },
+    {
+        "description": "Peltier cooler controller for DH_PBS_TE (417 module)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CPS_1_M"
+    },
+    {
+        "description": "Dual channel, fully automated DSP lock-in amplifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_496"
+    },
+    {
+        "description": "End window uncooled housing with S20 pmt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_3_S20"
+    },
+    {
+        "description": "Silicon photodiode, 10x10mm active area (200-1100nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_SI"
+    },
+    {
+        "description": "3mm InGaAs with optics",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_IGA_3_LENS"
+    },
+    {
+        "description": "Cooled lead sulphide",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_PBS_TE"
+    },
+    {
+        "description": "Photometric measurement head, DIN class A (f1<3%)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH400_VL"
+    },
+    {
+        "description": "Profiling camera for PSL system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSL_PROFILER"
+    },
+    {
+        "description": "End-on precision cosine-corrected diffuser (200- 1100nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D7"
+    },
+    {
+        "description": "Field of View Limiting Optic for IEC62471",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D7_FOVL"
+    },
+    {
+        "description": "D8 with bi-directional slit mount & FOP-UV adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D8_SLIT-FIBRE"
+    },
+    {
+        "description": "Fibre slit relay with CaF2 lenses",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "RELAY_CAF2"
+    },
+    {
+        "description": "Input optic for spectral check procedure",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27016"
+    },
+    {
+        "description": "Direct view, fibre coupled telescope",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TEL310"
+    },
+    {
+        "description": "Optical chopper motor unit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_H"
+    },
+    {
+        "description": "Blade set for 218 optical chopper (incl. 2,  5, 10 & 30)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_B"
+    },
+    {
+        "description": "UV grade fused silica fibre bundle (200-1350nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FOP-UV-4-1000"
+    },
+    {
+        "description": "UV grade fused silica fibre bundle (200-1350nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FOP-UV-2-1000"
+    },
+    {
+        "description": "Deuterium based irradiance standard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_CL7"
+    },
+    {
+        "description": "CL7-H Spectral Irradiance Calibration 200-400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CALIBRATION-CL7-H"
+    },
+    {
+        "description": "Adaptor to attach DIFF_D7 to CAL_CL6_H_150W and CAL_CL7",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "DIFF_D6_DAR"
+    },
+    {
+        "description": "Luminance standard, 300mm sphere.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_SRS12"
+    },
+    {
+        "description": "Spectral Radiance Calibration 300-800nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CALIBRATION-SRS-300-800"
+    },
+    {
+        "description": "Spectral Radiance Calibration 800-1800nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CALIBRATION-SRS-800-1800"
+    },
+    {
+        "description": "CL6-H Spectral Irradiance Calibration 300-800nm DeVos 3000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CALIBRATION-CL6-H-D8"
+    },
+    {
+        "description": "Adaptor to attach DIFF_D8_SLIT-FIBRE to CAL_CL6_H_150W",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D8_DAR"
+    },
+    {
+        "description": "Programmable Constant Current Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_610"
+    },
+    {
+        "description": "Deuterium Lamp Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_706"
+    },
+    {
+        "description": "150W QH Spectral Irradiance Standard (Horizontal, Enclosed)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_CL6-H-150W"
+    },
+    {
+        "description": "CL6-H Spectral Irradiance Calibration 300-800nm DeVos 3000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CALIBRATION-CL6-H"
+    },
+    {
+        "description": "IDR300-PSL system detector cable set",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSL-SYSTEM-CABLE-SET"
+    },
+    {
+        "description": "USB cable,  2m long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB-USB"
+    }
+]

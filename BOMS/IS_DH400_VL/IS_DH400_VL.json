@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Detector for DH400_VL Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09026_M1"
+    },
+    {
+        "description": "Calibration Check for DH400 Detectors",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19547"
+    },
+    {
+        "description": "IS2000 DH400 End Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45333"
+    },
+    {
+        "description": "DH400_IS2000 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50019"
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "description": "100R MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02013"
+    },
+    {
+        "description": "2K MRS25 MF",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02023"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "KYCON 4 PIN PANEL MOUNT CONNECTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10059"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "M3 x 8mm Spacer Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15083"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "Ferrite bead for EI cooled housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18021"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 casting lid painted and silk screened for LOT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124_LOT"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TMc300 USB connector panel (LOT)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44274"
+    },
+    {
+        "description": "DUAL DSPIN PCB Mounting Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45650"
+    },
+    {
+        "description": "MSH300 POWER CONNECTOR PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45734"
+    },
+    {
+        "description": "50172 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50172-BM"
+    },
+    {
+        "description": "LED CLIP, 3MM, PK50",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99060"
+    },
+    {
+        "description": "1\" version of 252 Filter Wheel for TM300 - 6 Position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252_DSPIN_IMPERIAL"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    }
+]

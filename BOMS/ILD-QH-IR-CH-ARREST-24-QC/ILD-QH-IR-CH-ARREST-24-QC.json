@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "7 way Amphenol socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10034"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "Motor with end cap and 150mm long leads",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18007"
+    },
+    {
+        "description": "GDAY 035 X20 B21 (24V)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30043"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP chopper stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43291"
+    },
+    {
+        "description": "ILD QC Output Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43704"
+    },
+    {
+        "description": "ILD QC dovetail",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43705"
+    },
+    {
+        "description": "5 slot chopping disc in 1mm CR4 Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43875_P1"
+    },
+    {
+        "description": "ILD-QH-IR-CH Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50086"
+    },
+    {
+        "description": "1.8m Long 7 Way Cable for Arrestable Choppers",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB24"
+    },
+    {
+        "description": "QH plus Nernst Dual Light Source Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ILD-QH-IR-COMMON-PARTS"
+    },
+    {
+        "description": "IDR WIDE CONE MAGNET ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52014"
+    }
+]

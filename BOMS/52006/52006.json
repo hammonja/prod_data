@@ -1,0 +1,80 @@
+[
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "FESTO AXIAL KIT - EAMM-A-T42-57A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47062"
+    },
+    {
+        "description": "LINEAR STAGE FESTO PRT NO ELGC-BS-KF-60-200-12P",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47064"
+    },
+    {
+        "description": "T-NUT FOR FESTO STAGES",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "48095"
+    },
+    {
+        "description": "LIMIT SWITCH STRIKER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48114"
+    },
+    {
+        "description": "WIRES FOR STAGE MOTORS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48115"
+    },
+    {
+        "description": "FESTO STEPPING MOTOR WITH BRAKE EMMS-ST-57-S-SB-G2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48337"
+    },
+    {
+        "description": "M2 Plain Zinc Washer",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99075"
+    },
+    {
+        "description": "M3 Plain Washer Stainless Steel",
+        "location": "",
+        "quantity": "0.01",
+        "stockcode": "99232"
+    },
+    {
+        "description": "M3 x 12 Socket Button Head Stainless Steel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99259"
+    },
+    {
+        "description": "M2 x 8 Socket Head Cap Screw Stainless Steel",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99929"
+    },
+    {
+        "description": "52006 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52006-BM"
+    },
+    {
+        "description": "52006 PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52006-PL"
+    }
+]

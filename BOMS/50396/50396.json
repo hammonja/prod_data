@@ -1,0 +1,32 @@
+[
+    {
+        "description": "SRT-M37L-5",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44642"
+    },
+    {
+        "description": "SRT-M45/37B",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44643"
+    },
+    {
+        "description": "SRT-M37Z-01",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44644"
+    },
+    {
+        "description": "50396 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50396-BM"
+    },
+    {
+        "description": "Photometric measurement head, DIN class A (f1<3%)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH400_VL"
+    }
+]

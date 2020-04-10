@@ -1,0 +1,20 @@
+[
+    {
+        "description": "100W qh Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09101"
+    },
+    {
+        "description": "CaF2 lens for IL1, 25 dia, 25 f",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19640"
+    },
+    {
+        "description": "IL1 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL1_COMMON_PARTS"
+    }
+]

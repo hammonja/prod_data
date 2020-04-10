@@ -1,0 +1,38 @@
+[
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "HV BNC socket (Radial)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10066"
+    },
+    {
+        "description": "HV feed through",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43166"
+    },
+    {
+        "description": "PVE300 CONNECTOR PLATE Mk.2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49218"
+    },
+    {
+        "description": "PV LAMP PANELMk.2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49219"
+    },
+    {
+        "description": "PVE300 Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PVE300_COMMON_PARTS"
+    }
+]

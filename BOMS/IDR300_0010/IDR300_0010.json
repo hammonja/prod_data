@@ -1,0 +1,62 @@
+[
+    {
+        "description": "IDR300 with 8 position filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR300_SF03"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T324H0U25"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U25"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400_REDUCED"
+    },
+    {
+        "description": "ND1 ( 10 SN 25 edged to 22.8mm +/-0.1mm )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13006_REDUCED"
+    },
+    {
+        "description": "ND2 (20 SN 25 edged to 22.8mm +/-0.1mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13007_REDUCED"
+    },
+    {
+        "description": "Reduced Cemented Filter Pair OS400 + ND2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400_ND2_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250_REDUCED"
+    }
+]

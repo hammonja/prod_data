@@ -1,0 +1,218 @@
+[
+    {
+        "description": "Gatan spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11280"
+    },
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "M3 thumb nuts for IL10",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19172"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "M4 x 10 flat ended grub, black.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30048"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TM300 turret Post",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30121"
+    },
+    {
+        "description": "TM300 worm yoke.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30133"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "TMs300 turret side pillar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30279"
+    },
+    {
+        "description": "Rubber Damper For TM300 Turret (O/D 15, I/D3.5, Thk 5.5)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30300"
+    },
+    {
+        "description": "Precision worm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30473"
+    },
+    {
+        "description": "Precision worm gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30474"
+    },
+    {
+        "description": "TM300 removable turret tie bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41344"
+    },
+    {
+        "description": "MDC Turret Opto Flag",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44222"
+    },
+    {
+        "description": "BALANCE WEIGHT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44441"
+    },
+    {
+        "description": "Worm Shaft (5mm x 80mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44442_M1"
+    },
+    {
+        "description": "Dpsin Turret Motor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45583"
+    },
+    {
+        "description": "External E-CLIP 4mm groove",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45584"
+    },
+    {
+        "description": "Deep Groove Ball Bearing 8x16x5mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48639"
+    },
+    {
+        "description": "Turret Middle Support Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48644"
+    },
+    {
+        "description": "Turret Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48645"
+    },
+    {
+        "description": "ETSEIB bottom kinematic plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48646"
+    },
+    {
+        "description": "ETSEIB turret shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48647"
+    },
+    {
+        "description": "M3 x 10 Black Cap Head Screw",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99154"
+    },
+    {
+        "description": "M3 x 16 Black Socket Cap Head Screw",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99161"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "M3 x 8mm Cone Grub Screw",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99193"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99244"
+    },
+    {
+        "description": "M3 Oversize Washer Zinc plated (O/D 9mm, Thk 0.8mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99273"
+    },
+    {
+        "description": "M4 Black Plain Washer",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99351"
+    },
+    {
+        "description": "M4 x 16 Black Socket Cap Head",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "99365"
+    },
+    {
+        "description": "M3 x 4 CAP HEAD HEX SOCKET GRADE 12.9 BLACK",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99386"
+    },
+    {
+        "description": "M6 Zinc Plain Washers",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99557"
+    }
+]

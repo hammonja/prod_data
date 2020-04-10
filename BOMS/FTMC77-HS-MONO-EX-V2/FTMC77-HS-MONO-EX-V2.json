@@ -1,0 +1,44 @@
+[
+    {
+        "description": "FTMc77-HS-MONO-EX-V2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51065"
+    },
+    {
+        "description": "500g/mm@330nm 65mm 67mm 6mm BK7 AL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "G1305R0U33"
+    },
+    {
+        "description": "500g/mm@770nm 65mm 67mm 6mm BK7 Ag/MgF2@550nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "G1305R0U77"
+    },
+    {
+        "description": "600g/mm@1000nm 65mm 67mm 6mm BK7 Ag/MgF2@550nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "G1306R1U0"
+    },
+    {
+        "description": "GG455 65 mm x 67 mm x 2 mm AR coated",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13966-P1"
+    },
+    {
+        "description": "RG715 65 mm x 67 mm x 2 mm AR coated",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13967-P1"
+    },
+    {
+        "description": "Longpass Filter 335nm Cut-on (CGA-335) 67mm x 65mm x 1.1mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13968"
+    }
+]

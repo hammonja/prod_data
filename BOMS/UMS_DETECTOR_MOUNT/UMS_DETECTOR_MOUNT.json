@@ -1,0 +1,26 @@
+[
+    {
+        "description": "UMS_MK1 Detector Mount plate B",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44464"
+    },
+    {
+        "description": "UMS_MK2 DETECTOR MOUNT PLATE A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48134"
+    },
+    {
+        "description": "UMS_MK2 - DETECTOR MOUNTING BRACKET BASE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48135"
+    },
+    {
+        "description": "UMS_DETECTOR_MOUNT BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51010-BM"
+    }
+]

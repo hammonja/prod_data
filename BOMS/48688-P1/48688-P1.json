@@ -1,0 +1,14 @@
+[
+    {
+        "description": "48688 PREPARED FOR PAINTING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48688-P2"
+    },
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 48688-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48688-F1"
+    }
+]

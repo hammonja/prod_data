@@ -1,0 +1,104 @@
+[
+    {
+        "description": "UG5, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG5"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG11"
+    },
+    {
+        "description": "TMC Casting Machined and Painted PQ",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123_M10_P1"
+    },
+    {
+        "description": "TM300 sam blanking plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30127"
+    },
+    {
+        "description": "Grating Assembly with 400g/mm, 1600nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T304R1U6"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T324H0U25"
+    },
+    {
+        "description": "MSH300PQ Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH300PQ_COMMON_PARTS"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700_REDUCED"
+    },
+    {
+        "description": "Slit MVSS RightHand",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_MVSS_RH"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "252 filter wheel for TM300. 8 position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252-8"
+    }
+]

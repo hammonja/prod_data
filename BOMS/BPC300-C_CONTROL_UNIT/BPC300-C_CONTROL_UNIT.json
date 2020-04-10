@@ -1,0 +1,296 @@
+[
+    {
+        "description": "Fuse 5A slow blow  sold in pack of 10",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01008"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "1K .5W Cermet PCB mounting",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "03017"
+    },
+    {
+        "description": "Red led",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04002"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "LM317AHVT - IC, LDO VOLT REG, 57V, 1.5A, TO-220",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05012"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Connector 9 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10086"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "Mains filter, Fused, Snap-Fit FN261",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10129"
+    },
+    {
+        "description": "25 way D socket + 3 x 20A connections",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10211"
+    },
+    {
+        "description": "Socket straight Power 'D' 20A",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10213"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "M3 x 10 nylon spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11047"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "M3 x 8mm Spacer Pillar",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "15083"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "SAM Driver Relay PCB (Assembled 1 Relay)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15130_M1"
+    },
+    {
+        "description": "Mac bin front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16044"
+    },
+    {
+        "description": "25-WAY / IEEE BLANKING PLATE",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "16066"
+    },
+    {
+        "description": "Ferrite bead for EI cooled housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18021"
+    },
+    {
+        "description": "24V fan for IDR300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18105"
+    },
+    {
+        "description": "PSU for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18130"
+    },
+    {
+        "description": "Dome plug 6.4mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19091"
+    },
+    {
+        "description": "UNC4-40 x 3mm,  pozi pan, zinc.",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "19094"
+    },
+    {
+        "description": "605 fan spacers",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19290"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "New shroff BIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22016"
+    },
+    {
+        "description": "Schroff Rail Type L-ST light, standard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22020"
+    },
+    {
+        "description": "320W Single Output Internal Enclosed SMPSU 28V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45219"
+    },
+    {
+        "description": "Tyco 9 way housing",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45606"
+    },
+    {
+        "description": "Schroff Bin Floor Plate for BPC300 Controller Unit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46501"
+    },
+    {
+        "description": "USB Support Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46533"
+    },
+    {
+        "description": "SCHROFF PENTAIR 24571-738 MAC BIN REAR PANEL- NO SWITCH HOLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49052"
+    },
+    {
+        "description": "BPC300-C CONTROL UNIT_DSPIN PCB MOUNTING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49112"
+    },
+    {
+        "description": "0.2\" LED mounting bush",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99012"
+    },
+    {
+        "description": "TO220 insulator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99023"
+    },
+    {
+        "description": "TO-220 Insulating Bush (pack of 10)Manual adjust stock",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99024"
+    },
+    {
+        "description": "Crimp terminal for 07040 mains switch",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99029"
+    },
+    {
+        "description": "Crimp 0.25 inch",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99039"
+    },
+    {
+        "description": "M3 x 6 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "99271"
+    },
+    {
+        "description": "Heat Pump Controller Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "HEAT-PUMP-CONTOLLER-PARTS"
+    },
+    {
+        "description": "BPC300-C_CONTROL_UNIT - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52033-BM"
+    },
+    {
+        "description": "BPC300-C_CONTROL_UNIT - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52033-PL"
+    },
+    {
+        "description": "BPC300-C_CONTROL_UNIT - CABLE SET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB52"
+    }
+]

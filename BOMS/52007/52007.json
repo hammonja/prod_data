@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Sleeved Grommets (bag of 50)",
+        "location": "",
+        "quantity": "0.04",
+        "stockcode": "19019"
+    },
+    {
+        "description": "Flying lead with IEC plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19103"
+    },
+    {
+        "description": "3m Black IEC mains cable",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23023"
+    },
+    {
+        "description": "BGS400 Emergency Stop Switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46404-P1"
+    },
+    {
+        "description": "52007 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52007-BM"
+    },
+    {
+        "description": "52007 PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52007-PL"
+    }
+]

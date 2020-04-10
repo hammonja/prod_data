@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T324H0U25"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "T3MIR Plane mirror on grating mount for TM300 series.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "T3MIR"
+    },
+    {
+        "description": "UG5, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG5"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG11"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 380nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS380"
+    },
+    {
+        "description": "TMC300 Base PV monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_PV_BASE"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "TM300_PV to ILD-HF-LF-CHOP Connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_PV_DC_CHOP"
+    }
+]

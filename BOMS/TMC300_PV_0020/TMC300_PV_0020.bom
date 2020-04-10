@@ -1,0 +1,6 @@
+TMC300_PV_0020,TMC300_PV_SF01,PV TMC300 Standard configuration 6P FW,,0,1.00,,,,,
+TMC300_PV_0020,GA-T312R0U4,Grating Assembly with 1200g/mm, 400nm Blazed Ruled Grating,,1,1.00,,,,,
+TMC300_PV_0020,GA-T312R0U75,Grating Assembly with 1200g/mm, 750nm Blazed Ruled Grating,,2,1.00,,,,,
+TMC300_PV_0020,OS400,Order Sorting Filter for Insertion at 400nm,,3,1.00,,,,,
+TMC300_PV_0020,OS700,Order Sorting Filter for Insertion at 700nm,,4,1.00,,,,,
+TMC300_PV_0020,30125,TM300 base cover,,5,1.00,,,,,

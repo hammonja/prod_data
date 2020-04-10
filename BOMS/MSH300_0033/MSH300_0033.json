@@ -1,0 +1,20 @@
+[
+    {
+        "description": "MSH300 SIDE ENT, SIDE EXIT, IMP 6 FW, VSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50174"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U25"
+    }
+]

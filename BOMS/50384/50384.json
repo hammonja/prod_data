@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Bosch 6mm groove M4 'T' nut",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19346"
+    },
+    {
+        "description": "Bosch 20mm extrusion end cap (each)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19347"
+    },
+    {
+        "description": "M6 taptite screw",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19421"
+    },
+    {
+        "description": "TMS305 system base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44096"
+    },
+    {
+        "description": "TMS305 system base plate Bosch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44100"
+    },
+    {
+        "description": "Bosch 20x20, 4 channel x 380.5mm long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44101"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "COG, 5mm bore with DIN 916 Grade 14.9 Black Zn Plated Grubs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30234"
+    },
+    {
+        "description": "TMs300 slit drive opto bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41020"
+    },
+    {
+        "description": "Tyco 9 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45606"
+    },
+    {
+        "description": "OPTO BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45626"
+    },
+    {
+        "description": "M3 x 6 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99180"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 x 3, cone grub, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99192"
+    },
+    {
+        "description": "M3 Full nut, BLACK",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99196"
+    },
+    {
+        "description": "M4 Black Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99351"
+    },
+    {
+        "description": "M4 x 10 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99355"
+    },
+    {
+        "description": "IDR 300 WIRED SLIT DRIVE ASSY - DSPIN - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52040-PL"
+    },
+    {
+        "description": "IDR 300 WIRED SLIT DRIVE ASSY - DSPIN - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52040-BM"
+    }
+]

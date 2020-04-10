@@ -1,0 +1,212 @@
+[
+    {
+        "description": "1R8, 2.5W, WW, SC, 1%",
+        "location": "R2, 4, 36, 38",
+        "quantity": "4.00",
+        "stockcode": "02003"
+    },
+    {
+        "description": "1K, MRS25",
+        "location": "R1, 3,35, 37",
+        "quantity": "4.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "1K5  MRS25",
+        "location": "R7, 41",
+        "quantity": "2.00",
+        "stockcode": "02022"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "R16, 17, 33, 50, 51, 52, 53",
+        "quantity": "7.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "33K2 MRS25",
+        "location": "R6, 40",
+        "quantity": "2.00",
+        "stockcode": "02039"
+    },
+    {
+        "description": "470R, MRS25",
+        "location": "R14, 15, 48, 49",
+        "quantity": "4.00",
+        "stockcode": "02079"
+    },
+    {
+        "description": "15K, MRS25",
+        "location": "R5, 39",
+        "quantity": "2.00",
+        "stockcode": "02105"
+    },
+    {
+        "description": "MRS25, 430R",
+        "location": "R9, 43",
+        "quantity": "2.00",
+        "stockcode": "02249"
+    },
+    {
+        "description": "MRS25, 680R",
+        "location": "R8, 42",
+        "quantity": "2.00",
+        "stockcode": "02250"
+    },
+    {
+        "description": "1K Resnet",
+        "location": "RP1, 2",
+        "quantity": "2.00",
+        "stockcode": "02263"
+    },
+    {
+        "description": "1A 1000V Rectifier silicon",
+        "location": "D1, 2",
+        "quantity": "2.00",
+        "stockcode": "04006"
+    },
+    {
+        "description": "BC184L (was RS 294-283)",
+        "location": "Q1, 2, 5, 6",
+        "quantity": "4.00",
+        "stockcode": "06001"
+    },
+    {
+        "description": "Relay",
+        "location": "RL1, 2",
+        "quantity": "2.00",
+        "stockcode": "07044"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "Mod ( IC1 , IC9)",
+        "quantity": "2.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 100nF polyester 63/100V",
+        "location": "CD(3), C6,7,11,12,16,17, 21,22",
+        "quantity": "11.00",
+        "stockcode": "08044"
+    },
+    {
+        "description": "Capacitor 22pF ceramic plate",
+        "location": "C1, 2",
+        "quantity": "2.00",
+        "stockcode": "08047"
+    },
+    {
+        "description": "Capacitor 10uF, 63V",
+        "location": "C24",
+        "quantity": "1.00",
+        "stockcode": "08081"
+    },
+    {
+        "description": "Capacitor 820pF",
+        "location": "C3, 4, 13, 14",
+        "quantity": "4.00",
+        "stockcode": "08096"
+    },
+    {
+        "description": "Capacitor 3n3 polyester 100V DC 63V AC",
+        "location": "C5, 15",
+        "quantity": "2.00",
+        "stockcode": "08097"
+    },
+    {
+        "description": "20MHz crystal",
+        "location": "XTAL",
+        "quantity": "1.00",
+        "stockcode": "08117"
+    },
+    {
+        "description": "CAPACITOR, 47UF, 35V",
+        "location": "C25",
+        "quantity": "1.00",
+        "stockcode": "08122"
+    },
+    {
+        "description": "Connector 8 way DIL socket",
+        "location": "IC4, 12",
+        "quantity": "2.00",
+        "stockcode": "10014"
+    },
+    {
+        "description": "28-Way x 0.3\" DIL Socket",
+        "location": "IC1, 9",
+        "quantity": "2.00",
+        "stockcode": "10053"
+    },
+    {
+        "description": "AMP - 822-AG11DESL-LF-SKT IC, DIL, 22WAY",
+        "location": "IC2, 3, 10, 11",
+        "quantity": "4.00",
+        "stockcode": "10149"
+    },
+    {
+        "description": "64-way edge connector 617-09-03-36-4-6921",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10150"
+    },
+    {
+        "description": "Tyco 2 way header with catch",
+        "location": "SAM1, 2",
+        "quantity": "2.00",
+        "stockcode": "10299"
+    },
+    {
+        "description": "Tyco 3 way header with catch",
+        "location": "I2C1, I2C2",
+        "quantity": "2.00",
+        "stockcode": "10300"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "T1, 2",
+        "quantity": "2.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "pcb  \" 15002 ISSUE 5 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15002"
+    },
+    {
+        "description": "DIP Heatsink",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19018"
+    },
+    {
+        "description": "Assembly of IMAC root card (15 day)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19600"
+    },
+    {
+        "description": "PIC16F876A-I/SP",
+        "location": "configure as EI PLATEREADER TRIG Drives",
+        "quantity": "2.00",
+        "stockcode": "20002"
+    },
+    {
+        "description": "Stepper drive chip NJM#3771D2",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "21050"
+    },
+    {
+        "description": "DAC Chip  NJU#39610D2",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "21056"
+    },
+    {
+        "description": "Opto isolator",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "21057"
+    }
+]

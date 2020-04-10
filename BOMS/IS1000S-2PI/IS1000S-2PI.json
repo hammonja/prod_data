@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Binding post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17168"
+    },
+    {
+        "description": "E27 Lampholder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19102"
+    },
+    {
+        "description": "Conduit Plastic Straight adapter 16mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19374"
+    },
+    {
+        "description": "16mm Plastic Conduit (10m reel)",
+        "location": "",
+        "quantity": "0.20",
+        "stockcode": "19393"
+    },
+    {
+        "description": "IS1000S Lamp Mount Tube Clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45501"
+    },
+    {
+        "description": "IS1000S Lamp Mount Tube Conduit Fitting",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45511"
+    },
+    {
+        "description": "IS1000S Lamp Tube Clamp PTFE sleeve",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45512"
+    },
+    {
+        "description": "IS1000S Lamp Tube Clamp Nut Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45513"
+    },
+    {
+        "description": "IS1000 Lamp Mount Tube Spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45514"
+    },
+    {
+        "description": "IS1000S Lamp Support Tube, Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45515_P1"
+    },
+    {
+        "description": "IS1000S Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50101"
+    },
+    {
+        "description": "Integrating Sphere 1000mm with 2PI port",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS1000S_SPHERE-2PI"
+    },
+    {
+        "description": "IS1000S Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS1000S_CONNECTOR_PANEL"
+    },
+    {
+        "description": "IS1000S Shipping costs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS1000S_SHIPPING"
+    }
+]

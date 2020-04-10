@@ -1,0 +1,146 @@
+[
+    {
+        "description": "Silicon detector (10mm x 10mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09006"
+    },
+    {
+        "description": "OPTAN-255J-FL UV LED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09173"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "DM150 carrying handle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11164"
+    },
+    {
+        "description": "Silica lens, dia 36 +0.0/-0.2mm, fl 63mm, pcx",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13121"
+    },
+    {
+        "description": "IL6 Condenser ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17229"
+    },
+    {
+        "description": "Magnet for EI sphere (box of 10)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "43663"
+    },
+    {
+        "description": "44404 detector tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44460"
+    },
+    {
+        "description": "Mirror tester floor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44468"
+    },
+    {
+        "description": "Mirror tester front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44469"
+    },
+    {
+        "description": "Mirror tester side plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44470"
+    },
+    {
+        "description": "Mirror Tester Roof",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44471"
+    },
+    {
+        "description": "Mirror tester foot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44472"
+    },
+    {
+        "description": "Mirror tester door",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44473"
+    },
+    {
+        "description": "Mirror tester mirror platform",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44474"
+    },
+    {
+        "description": "44404 clamp 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44475"
+    },
+    {
+        "description": "44404 collimator tubre clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44476"
+    },
+    {
+        "description": "colimator tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44477"
+    },
+    {
+        "description": "44404 LED clamp Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44478"
+    },
+    {
+        "description": "Colimator Tube 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44479"
+    },
+    {
+        "description": "44404 Baffle Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44480"
+    },
+    {
+        "description": "44481 spacer tube 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44481"
+    },
+    {
+        "description": "Mirror tester back plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44507"
+    },
+    {
+        "description": "Dowel 3mm x 10mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45327"
+    }
+]

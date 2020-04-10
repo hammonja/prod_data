@@ -1,0 +1,50 @@
+[
+    {
+        "description": "PLUG, 2MM, RED, PK5",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10318"
+    },
+    {
+        "description": "PLUG, 2MM, BLACK, PK5",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10319"
+    },
+    {
+        "description": "SOCKET, 2MM, PANEL, BLACK, PK10",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10314"
+    },
+    {
+        "description": "SOCKET, 2MM, PANEL, RED, PK10",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "10313"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Lemo, 8 way, chassis socket, green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10288"
+    },
+    {
+        "description": "PV Sample Cable Patch Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41816-P1"
+    },
+    {
+        "description": "PV Sample Cable Patch Box Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50358-BM"
+    }
+]

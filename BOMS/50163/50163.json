@@ -1,0 +1,110 @@
+[
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Solenoid push type (24V) (was 120-420-620-720) Quote 8408",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19016"
+    },
+    {
+        "description": "TMs300 shutter mounting plt (C = NO CSK HOLES)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41350"
+    },
+    {
+        "description": "TMs300 spacer plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41351"
+    },
+    {
+        "description": "TMs300 shutter stop bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41352"
+    },
+    {
+        "description": "TMs300 shutter solenoid block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41353"
+    },
+    {
+        "description": "TMs300 shutter blade bush",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41354"
+    },
+    {
+        "description": "TMs300 shutter washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41355"
+    },
+    {
+        "description": "TMs300 shutter shutter blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41356"
+    },
+    {
+        "description": "TMs300 shutter actuator cap (FI 99852, 3 lengths per 50 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41357"
+    },
+    {
+        "description": "Shutter blade weight",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41358"
+    },
+    {
+        "description": "EI Shutter PEEK Pad",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41932"
+    },
+    {
+        "description": "DRIVE BELT 2.5mm PITCH 67 TOOTH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45703"
+    },
+    {
+        "description": "M3 x 10 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99154"
+    },
+    {
+        "description": "M3 x 5 Black Cup Grub Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99175"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "TMS300 SHUTTER 24V ASSY BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50163-BM"
+    }
+]

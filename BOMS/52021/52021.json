@@ -1,0 +1,44 @@
+[
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Electronic temperature sensor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18136"
+    },
+    {
+        "description": "BPC300-C  TEMPERATURE SENSOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49081"
+    },
+    {
+        "description": "BPC300-C TEMPERATURE SENSOR TIP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49082"
+    },
+    {
+        "description": "BPC300-C TEMPERATURE SENSOR LOCKING RING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49083"
+    },
+    {
+        "description": "BPC300-C TEMPERATURE SENSOR - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52021-PL"
+    },
+    {
+        "description": "BPC300-C TEMPERATURE SENSOR - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52021-BM"
+    }
+]

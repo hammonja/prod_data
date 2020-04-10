@@ -1,0 +1,80 @@
+[
+    {
+        "description": "M4 Ball ended grub screw ( free issue 99022)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11250"
+    },
+    {
+        "description": "M3 Ball ended grub screw (99254 free issued)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11260"
+    },
+    {
+        "description": "Gatan spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11280"
+    },
+    {
+        "description": "EXLS Elipse Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17327"
+    },
+    {
+        "description": "EXLS Anode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17329"
+    },
+    {
+        "description": "Side Panels MK2 EXLS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17403"
+    },
+    {
+        "description": "Fixed focus bar (make as matched pair with 17405)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17404"
+    },
+    {
+        "description": "Floating focus bar  (make as matched pair with 17404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17405"
+    },
+    {
+        "description": "Dowel 5mm x 35mm (99902, 1.5 lengths per 20)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17409"
+    },
+    {
+        "description": "EXLS Z Adjuster Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17673"
+    },
+    {
+        "description": "Ellipsoidal Reflector Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19124_M1"
+    },
+    {
+        "description": "M3 UNINSULATED RING TERMINAL 22-16AWG",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99286"
+    },
+    {
+        "description": "Xenon Bulb Reflector Kinematic Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50291-BM"
+    }
+]

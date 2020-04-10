@@ -1,0 +1,44 @@
+[
+    {
+        "description": "DM150 Base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11157"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "Standard DMc150 casting plus SAM at Exit Bentham Colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_DMC150_SAM-EXIT"
+    },
+    {
+        "description": "Filter wheel for DM150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DM150_252"
+    },
+    {
+        "description": "Exit sam for DM150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DM150_SAM-EXIT"
+    },
+    {
+        "description": "DM150 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DMC150_COMMON_PARTS"
+    },
+    {
+        "description": "Fixed Slit Box, Back & Lid, No Slit Carries.",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_FSS"
+    }
+]

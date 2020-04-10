@@ -1,0 +1,68 @@
+[
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "Ring for 3mm IGA in DH_IGA_3_LENS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09033"
+    },
+    {
+        "description": "EOS 3mm InGaAs detector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09058"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Rear lens tube - Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12012"
+    },
+    {
+        "description": "Aspheric glass lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13291"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "DH_IGA_3_LENS Detector Mount Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19420"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Back Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42525"
+    },
+    {
+        "description": "DH_IGA-Ex_Te_Boot Connector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42526"
+    },
+    {
+        "description": "IGA 3mm QCL Adaptor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45668"
+    }
+]

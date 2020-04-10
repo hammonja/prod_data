@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "Connector 9-way 'D' socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10098"
+    },
+    {
+        "description": "MSH 300mm Focal Length Triple Grating Monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH300_0005"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "LOT Connector port cover (blanking plate)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46405"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    }
+]

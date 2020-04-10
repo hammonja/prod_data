@@ -1,0 +1,122 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "Pcb for slit limit assy",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15108"
+    },
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "Tms300 limit switch/yoke mounting bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30260"
+    },
+    {
+        "description": "TMS300 SLIT DRIVE MOTOR OPTO BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45726"
+    },
+    {
+        "description": "Tyco 9 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45606"
+    },
+    {
+        "description": "TMS300 SLIT DRIVE MOTOR MOUNT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45708"
+    },
+    {
+        "description": "Cable tie anchors",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99037"
+    },
+    {
+        "description": "M4 x 8 socket head, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99105"
+    },
+    {
+        "description": "M3 x 5 Black Cup Grub Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99175"
+    },
+    {
+        "description": "M3 x 6 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99180"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "M3 Full nut, BLACK",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99196"
+    },
+    {
+        "description": "M3 internal shakeproof washer, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99263"
+    },
+    {
+        "description": "M4 Black Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99351"
+    },
+    {
+        "description": "TMS SLIT DRIVE DSPIN ASSY BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50165-BM"
+    }
+]

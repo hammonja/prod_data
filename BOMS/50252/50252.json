@@ -1,0 +1,38 @@
+[
+    {
+        "description": "FTMC50-HS OPTICAL DECK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45838"
+    },
+    {
+        "description": "FTMC50-HS HOUSING REAR PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45839"
+    },
+    {
+        "description": "FTMC50-HS HOUSING SIDE PLATE",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45840"
+    },
+    {
+        "description": "FTMC50-HS HOUSING CORNER BRACKET",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45841"
+    },
+    {
+        "description": "FTMC50-HS HOUSING FRONT PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45845"
+    },
+    {
+        "description": "FTMC50-HS HOUSING BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50252-BM"
+    }
+]

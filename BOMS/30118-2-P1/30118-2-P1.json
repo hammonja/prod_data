@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Stepper motor.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118-2"
+    },
+    {
+        "description": "In house modification of 30118 for MVSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17594"
+    }
+]

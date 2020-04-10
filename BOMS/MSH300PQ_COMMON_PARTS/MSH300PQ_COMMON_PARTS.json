@@ -1,0 +1,236 @@
+[
+    {
+        "description": "100R MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02013"
+    },
+    {
+        "description": "2K MRS25 MF",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02023"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "DTMS power connector 3way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10012"
+    },
+    {
+        "description": "Connector 9-way 'D' socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10098"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "10 way IDC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10254"
+    },
+    {
+        "description": "BINDER - 09 0306 00 03 - SOCKET, FREE, 3WAY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10329"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: RS232 to TTL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15135"
+    },
+    {
+        "description": "Ferrite bead for EI cooled housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18021"
+    },
+    {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19002"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "P clip 6.4mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19101"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 casting lid painted and for PicoQuant Monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124_PQ"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "MSH300PQ Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44405"
+    },
+    {
+        "description": "MSH300PQ power connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44408"
+    },
+    {
+        "description": "DSPIN PCB Mounting Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45585"
+    },
+    {
+        "description": "LED CLIP, 3MM, PK50",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99060"
+    },
+    {
+        "description": "M4 x 16, pozi-pan, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99143"
+    },
+    {
+        "description": "M3 x 6 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99271"
+    },
+    {
+        "description": "M4 Stainless Steel Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99451"
+    },
+    {
+        "description": "M4 x 12 pozi pan zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99506"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    }
+]

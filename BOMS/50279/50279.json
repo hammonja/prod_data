@@ -1,0 +1,116 @@
+[
+    {
+        "description": "100R MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02013"
+    },
+    {
+        "description": "2K MRS25 MF",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02023"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "KYCON 4 PIN PANEL MOUNT CONNECTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10059"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "M3 x 8mm Spacer Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15083"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "Ferrite bead for EI cooled housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18021"
+    },
+    {
+        "description": "MSH150 External Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18113"
+    },
+    {
+        "description": "DUAL DSPIN PCB Mounting Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45650"
+    },
+    {
+        "description": "WIRING DIAGRAM MONO A1, D1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50279-BM"
+    },
+    {
+        "description": "M3 Solder Tag (box of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99750"
+    }
+]

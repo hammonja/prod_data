@@ -1,0 +1,80 @@
+[
+    {
+        "description": "TM300 sam blanking plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30127"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "Casting for LOT TM300 monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_TM300_LOT"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 300nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U3"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 830g/mm, 1200nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3083R1U2"
+    },
+    {
+        "description": "MSH300 Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH300_COMMON_PARTS"
+    },
+    {
+        "description": "Fixed Slit Box, Back & Lid, No Slit Carries (Components).",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_FSS_COMPONENTS"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.00mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(1.00)"
+    },
+    {
+        "description": "252 filter wheel for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    }
+]

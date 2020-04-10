@@ -1,0 +1,74 @@
+[
+    {
+        "description": "DTMS power connector 3way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10012"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "TMs300 slit blanking plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30270"
+    },
+    {
+        "description": "TMs300 Lid Gasket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30273"
+    },
+    {
+        "description": "DTMs300 Connector Plate Excitation",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30333"
+    },
+    {
+        "description": "DTMs300 Connector Blanking Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30334"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30337"
+    },
+    {
+        "description": "Alternative slit blanking plate for TMS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30472"
+    },
+    {
+        "description": "TMS300 lid painted RAL-9016 / Nextel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41009_1"
+    },
+    {
+        "description": "Gasket for use with blanking plate 30270",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45213"
+    },
+    {
+        "description": "Gasket for use with blanking plate 30472",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45214"
+    },
+    {
+        "description": "Housing for excitation TMS302",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS302_X_HOUSING"
+    }
+]

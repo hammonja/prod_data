@@ -1,0 +1,392 @@
+[
+    {
+        "description": " ",
+        "location": " ",
+        "quantity": "0.00",
+        "stockcode": " "
+    },
+    {
+        "description": "RESISTOR, POWER, 4K7, 0.5W, 1%, 1206",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "02280"
+    },
+    {
+        "description": "Connector 25 way IDC socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10124"
+    },
+    {
+        "description": "Thumb screw M3 x 8 DYED BLACK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13066"
+    },
+    {
+        "description": "SAMPLE SPRING SHORT",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13114"
+    },
+    {
+        "description": "25.0mm x 25.0mm F.L. CAF2 Lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13950"
+    },
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "E2V (Marconi) light source 4\" sphere lens rings",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "27102"
+    },
+    {
+        "description": "TM300 worm shaft(1 off 600mm length 99907 per 9 off 30014)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30014"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "Stepper motor.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TM300 worm yoke.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30133"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "Precision worm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30473"
+    },
+    {
+        "description": "Precision worm gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30474"
+    },
+    {
+        "description": "MACHINED 30474",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30474-P1"
+    },
+    {
+        "description": "SAC Detector Extension Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41116"
+    },
+    {
+        "description": "SAC Lens Mounting Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41117"
+    },
+    {
+        "description": "SAC goniometer plain mirror bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41481"
+    },
+    {
+        "description": "SAC goniometer detector support bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41482"
+    },
+    {
+        "description": "GONIO_MK2 BASE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48486"
+    },
+    {
+        "description": "GONIO_MK2 BASE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48488"
+    },
+    {
+        "description": "GONIO_MK2 AXEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48489"
+    },
+    {
+        "description": "ROTATING TO PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48490"
+    },
+    {
+        "description": "SKF ROLLER BEARING - 61806-2RS1",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48491"
+    },
+    {
+        "description": "SKF DEEP GROOVE BALL BEARING - 619/7",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48492"
+    },
+    {
+        "description": "BEARING RETAINING CAP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48493"
+    },
+    {
+        "description": "GEAR SPACER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48494"
+    },
+    {
+        "description": "MISUMI (AETRS10-74-SC30) 10mm STAND OFF",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "48495"
+    },
+    {
+        "description": "SECOND RADIAL BEARING HOLDER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48496"
+    },
+    {
+        "description": "BEARING SPACER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48497"
+    },
+    {
+        "description": "MISUMI GONIO BRACKET 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48499"
+    },
+    {
+        "description": "MISUMI GONIO BRACKET 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48500"
+    },
+    {
+        "description": "TABLE OUTPUT LIMIT STRIKER",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48501"
+    },
+    {
+        "description": "TABLE OUTPUT LIMIT STRIKER 2",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48502"
+    },
+    {
+        "description": "TABLE OUTPUT LIMIT BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48503"
+    },
+    {
+        "description": "SAMPLE OUTPUT LIMIT BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48504"
+    },
+    {
+        "description": "TABLE INPUT LIMIT BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48505"
+    },
+    {
+        "description": "TURRET DATUM WHEEL",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48506"
+    },
+    {
+        "description": "SAMPLE INPUT LIMIT BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48507"
+    },
+    {
+        "description": "MISUMI GONIO BRACKET 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48508"
+    },
+    {
+        "description": "MISUMI GONIO BRACKET 4",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48509"
+    },
+    {
+        "description": "GONIO SAMPLES HOLDER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48510"
+    },
+    {
+        "description": "BACK COVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48511"
+    },
+    {
+        "description": "FRONT COVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48512"
+    },
+    {
+        "description": "25 WAY DIN PLUG PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48513"
+    },
+    {
+        "description": "BEARING LOCKING RING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48587"
+    },
+    {
+        "description": "UMS-MK3-GONIO - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51057-BM"
+    },
+    {
+        "description": "UMS-MK3-GONIO - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51057-PL"
+    },
+    {
+        "description": "M3 x 10, socket cap, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99048"
+    },
+    {
+        "description": "M3 x 16mm Socket Head Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99076"
+    },
+    {
+        "description": "M3 x 6 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99180"
+    },
+    {
+        "description": "M3 Stainless Steel Full Nut",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99230"
+    },
+    {
+        "description": "M3 Plain Washer Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99232"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99244"
+    },
+    {
+        "description": "M3 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99247"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Button Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99250"
+    },
+    {
+        "description": "M5 x 8 CAP HEAD HEX SOCKET GRADE 12.9 BLACK",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99305"
+    },
+    {
+        "description": "M4x6 Screw Cap Head Hex Socket Stainless Steel A2",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99332"
+    },
+    {
+        "description": "M4x6 SKT HD CONE POINT GRUB SCREW : SSO-M4-6-A2",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99387"
+    },
+    {
+        "description": "M5 X 4mm Cone Point Set / Grub Screws (DIN 914) - A2 Stainle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99438"
+    },
+    {
+        "description": "M4 Stainless Steel Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99451"
+    },
+    {
+        "description": "M4 x 10 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99454"
+    },
+    {
+        "description": "M3 Plain Nylon Sealing Washer, 0.8mm Thickness ( Bag 0f 50 )",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "99519"
+    },
+    {
+        "description": "M4 x 25  SKT S/STEEL",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99579"
+    }
+]

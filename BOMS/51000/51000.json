@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Lens uv silica 25dia (+0, -0.1) x 50fl pcx",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13436"
+    },
+    {
+        "description": "THORLABS 90° MIRROR CUBE (CCM1-F01/M",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48073"
+    },
+    {
+        "description": "CUSTOM OPTIC RELAY LENS SUPPORT BUSHING",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48078"
+    },
+    {
+        "description": "CUSTOM OPTIC RELAY LENS CLAMP",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48079"
+    },
+    {
+        "description": "CUSTOM OPTIC RELAY LENS FOCUS OPEN SIDE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48083"
+    },
+    {
+        "description": "CUSTOM RELAY OPTIC LENS FOCUS HOUSING - MONO SIDE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48086"
+    },
+    {
+        "description": "CUSTOM RELAY OPTIC EXTENTION TUBE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48087"
+    },
+    {
+        "description": "M3 x 4 cone grub, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99172"
+    },
+    {
+        "description": "M3 Plain Washer Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99232"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99244"
+    },
+    {
+        "description": "M2 x 10 skt cap, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99281"
+    },
+    {
+        "description": "4-40 X 3/8\" UNC CAP HD SKT STST",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "48234"
+    },
+    {
+        "description": "OPTICS_CUSTOM_0004 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51000-BM"
+    },
+    {
+        "description": "OPTICS_CUSTOM_0004 PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51000-PL"
+    }
+]

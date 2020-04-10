@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Monitor detector (e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09115"
+    },
+    {
+        "description": "Lens uv silica 25dia (+0, -0.1) x 50fl pcx",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13436"
+    },
+    {
+        "description": "E2V (Marconi) light source 4\" sphere lens rings",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27102"
+    },
+    {
+        "description": "E2V thick lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27191"
+    },
+    {
+        "description": "E2V sphere detector fixing ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27198"
+    },
+    {
+        "description": "E2V 50mm OP-DI-MA sphere cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41777"
+    },
+    {
+        "description": "E2V CCD211 Sphere Tie Bars",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41864"
+    },
+    {
+        "description": "E2V CCD211 Sphere Support Post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41865"
+    },
+    {
+        "description": "E2V CCD211 Sphere Input Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41867"
+    },
+    {
+        "description": "E2V CCD211 Sphere Output Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41868"
+    },
+    {
+        "description": "E2V CCD211 Sphere Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41869"
+    },
+    {
+        "description": "E2V CCD211 50mm Sphere (13mm output port)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41870"
+    },
+    {
+        "description": "E2V CCD211 SPHERE baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44412"
+    },
+    {
+        "description": "E2V CCD211 Sphere leg",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "44413_P1"
+    }
+]

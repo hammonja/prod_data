@@ -1,0 +1,26 @@
+[
+    {
+        "description": "TMC300 Variable Slits 6P FW, Side entrance, Dual exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_SF11"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T324H0U25"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 310nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS310"
+    },
+    {
+        "description": "Purge port option for TM300 monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PP_OPT"
+    }
+]

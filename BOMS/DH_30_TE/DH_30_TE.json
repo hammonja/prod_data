@@ -1,0 +1,188 @@
+[
+    {
+        "description": "75K, MRS25",
+        "location": "R1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+        "quantity": "10.00",
+        "stockcode": "02120"
+    },
+    {
+        "description": "Temperature Sens AD590KH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09056"
+    },
+    {
+        "description": "Multi-alkali side window pmt (R928)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09068"
+    },
+    {
+        "description": "Socket photomultiplier PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10019"
+    },
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Connector 15 Way 'D' Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10113"
+    },
+    {
+        "description": "Cable cover 15 way",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10171"
+    },
+    {
+        "description": "SMA bulkhead socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10179"
+    },
+    {
+        "description": "M300 Small 'O' ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11054"
+    },
+    {
+        "description": "pcb  \" PmtBase iss1 \"",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15068"
+    },
+    {
+        "description": "TMs300 SAM pillars. M4 x 20.",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30246"
+    },
+    {
+        "description": "Compression Spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19003"
+    },
+    {
+        "description": "dowel pin parallel mild steel (bag of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19006"
+    },
+    {
+        "description": "Peltier element. (2 SC 040-050127-63L-RTV).",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19169"
+    },
+    {
+        "description": "DH-00-Te housing (2 parts, matched)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40001"
+    },
+    {
+        "description": "Insulation piece ( FREE ISSUE  0.5  SHEET  99801)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40003_BOTTOM"
+    },
+    {
+        "description": "Insulation piece (FREE  ISSUE  0.5  SHEET 99801)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40003_TOP"
+    },
+    {
+        "description": "Quick Change Fixed Mounting Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40004"
+    },
+    {
+        "description": "Dh-00-Te Mounting plate removable side",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40005"
+    },
+    {
+        "description": "Quick Change Mounting Plate Wedge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40006"
+    },
+    {
+        "description": "Dh-00-Te Cold block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40007"
+    },
+    {
+        "description": "UV silica/ quartz window dia. 25.8/25.85mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40009"
+    },
+    {
+        "description": "Mu metal shield (40010 Issue B)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40010"
+    },
+    {
+        "description": "Expanded Neoprene Gaskets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40016"
+    },
+    {
+        "description": "Heat sink gasket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40017"
+    },
+    {
+        "description": "QC Adapter Fixed Plate Sealing 'O' Ring (Bag of 50)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40042"
+    },
+    {
+        "description": "Signal cable BNC to SMA cable (1200mm length)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB25"
+    },
+    {
+        "description": "HV-BNC to HV-BNC 1200mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB3"
+    },
+    {
+        "description": "Fan assembly for DH_00_TE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_00_TE_FAN-ASSY"
+    },
+    {
+        "description": "Heatsink for cooled housing (from 40011)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_TE_HEATSINK"
+    },
+    {
+        "description": "BUILD MANUAL FOR DH_30_TE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51042-BM"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "SAM Driver Relay PCB (Assembled 1 Relay)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15130_M1"
+    },
+    {
+        "description": "Painted TMC casting for Bentham colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123_M13_P2"
+    },
+    {
+        "description": "MSH300PQ_0002 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50133"
+    },
+    {
+        "description": "M3 x 8 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99278"
+    },
+    {
+        "description": "MSH300PQ Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH300PQ_COMMON_PARTS"
+    },
+    {
+        "description": "Slit MVSS RightHand",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_MVSS_RH"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "Exit sam for TM300 or TMc300 - 24 Volts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_SAM-EXIT-24"
+    }
+]

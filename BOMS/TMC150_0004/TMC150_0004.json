@@ -1,0 +1,56 @@
+[
+    {
+        "description": "TMc150 Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44132"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA1-G1512R0U5"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_VSS"
+    },
+    {
+        "description": "TMc150 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC150"
+    },
+    {
+        "description": "TMc150 Metric Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC150_252"
+    },
+    {
+        "description": "TMc150 Painted Housing Bentham Colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC150_HOUSING"
+    },
+    {
+        "description": "MSH150 External Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18113"
+    }
+]

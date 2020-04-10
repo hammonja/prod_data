@@ -1,0 +1,44 @@
+[
+    {
+        "description": "TMS300 Motorized Slits 6P FW, Side entrance, Side exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BENTHAM_TMS300_SF01"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T324H0U25"
+    },
+    {
+        "description": "Grating Assembly with 1800g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T318R0U5"
+    },
+    {
+        "description": "UG5, 25mm dia. +0, -0.1mm. 1mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG5"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 1mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG11"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 380nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS380"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    }
+]

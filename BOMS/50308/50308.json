@@ -1,0 +1,56 @@
+[
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 Plain mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11121"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "WRC Exit 252-Mirror Mount Plate for Monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42397"
+    },
+    {
+        "description": "FLAT MIRROR (EXIT FW) BUILD MANAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50308-BM"
+    },
+    {
+        "description": "Roll of 2500  25mm x 25mm sticky pads",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99_STICKY-PAD"
+    },
+    {
+        "description": "M3 x 10 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99154"
+    },
+    {
+        "description": "M4 x 16 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99365"
+    }
+]

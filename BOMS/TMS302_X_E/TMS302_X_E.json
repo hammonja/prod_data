@@ -1,0 +1,338 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "L78S24CV +24V 2A TO220",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05018"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "DTMS power connector 3way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10012"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "O ring.( Pack of 100)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11292"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127"
+    },
+    {
+        "description": "SAM Driver Relay PCB (excluding relays and connectors)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15130"
+    },
+    {
+        "description": "Ferrite bead for EI cooled housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18021"
+    },
+    {
+        "description": "TMs300 drive chain.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30233"
+    },
+    {
+        "description": "COG, 5mm bore with DIN 916 Grade 14.9 Black Zn Plated Grubs",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "30234"
+    },
+    {
+        "description": "TMs300 slit blanking plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30270"
+    },
+    {
+        "description": "DTMs300 Connector Blanking Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30334"
+    },
+    {
+        "description": "Alternative slit blanking plate for TMS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30472"
+    },
+    {
+        "description": "TMs300 baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41007"
+    },
+    {
+        "description": "TMs300 Entrance Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41018"
+    },
+    {
+        "description": "TMs300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41019"
+    },
+    {
+        "description": "TMs300 blank slit position cover plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41021"
+    },
+    {
+        "description": "Gasket for use with blanking plate 30270",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45213"
+    },
+    {
+        "description": "Gasket for use with blanking plate 30472",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45214"
+    },
+    {
+        "description": "TMs300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41008"
+    },
+    {
+        "description": "PANEL MOUNT USB CABLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45721"
+    },
+    {
+        "description": "DTMS300 EXITATION FRONT CONNECTOR PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45723"
+    },
+    {
+        "description": "TMS302_X_E BUILD MANUAL",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "50155-BM"
+    },
+    {
+        "description": "TMS300 CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50157"
+    },
+    {
+        "description": "TMS300 FILTER WHEEL ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50158"
+    },
+    {
+        "description": "TMS300 FLAT MIRROR ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50159"
+    },
+    {
+        "description": "TMS300 RIGHT HAND SAM ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50160"
+    },
+    {
+        "description": "PAINTING OPPERATION TO PRODUCE 50161-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50161-P1"
+    },
+    {
+        "description": "TMS300 LID ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50162"
+    },
+    {
+        "description": "TMS300_SHUTTER_24V_DSPIN_ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50163"
+    },
+    {
+        "description": "TMS SLIT DRIVE DSPIN ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50165"
+    },
+    {
+        "description": "TMS SLIT LIMIT DSPIN ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50166"
+    },
+    {
+        "description": "Cable tie anchors",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99037"
+    },
+    {
+        "description": "M4 x 8 socket head, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99105"
+    },
+    {
+        "description": "M3 x 6 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99180"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "M3 Full nut, BLACK",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99196"
+    },
+    {
+        "description": "P-CLIP 6.5mm ID",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99239"
+    },
+    {
+        "description": "P-CLIP 12.5mm ID",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99243"
+    },
+    {
+        "description": "M3 x 8 Black Socket Button Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99252"
+    },
+    {
+        "description": "M3 internal shakeproof washer, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99263"
+    },
+    {
+        "description": "M3 x 6 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99271"
+    },
+    {
+        "description": "M3 x 16 Pozi pan zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99279"
+    },
+    {
+        "description": "M3 x 5 SCREW SET HEX SKT FLAT ISO4029 14.9 BLACK ZINC",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99294"
+    },
+    {
+        "description": "M4 Black Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99351"
+    },
+    {
+        "description": "M4 x 12 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99359"
+    },
+    {
+        "description": "M4 Crinkle Washer Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99467"
+    },
+    {
+        "description": "M3 Solder Tag (box of 100)",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99750"
+    },
+    {
+        "description": "Grating Assembly with 1800g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T318H0U25"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "TMS300 slit assembly",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "TMS300_SLIT"
+    }
+]

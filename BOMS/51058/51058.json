@@ -1,0 +1,86 @@
+[
+    {
+        "description": "PINET TORQUE HINGE (RS NO 407-7391)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48414"
+    },
+    {
+        "description": "BPC300-C ENCLOSURE BODY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48520"
+    },
+    {
+        "description": "SPLASH GUARD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48521"
+    },
+    {
+        "description": "BPC300-C ENCLOSURE LID",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48525"
+    },
+    {
+        "description": "BPC300-C ENCLOSURE LID GASKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48526"
+    },
+    {
+        "description": "MISUMI HANDLE (UHFNEA 160)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48530"
+    },
+    {
+        "description": "COLLIMATOR SEALING FLANGE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48531"
+    },
+    {
+        "description": "SPHERE SEALING FLANGE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48532"
+    },
+    {
+        "description": "BPC300-C ENCLOSURE LID SEALING SPACER GASKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48564"
+    },
+    {
+        "description": "BPC300-C ENCLOSURE LID SEALING SPACER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48568"
+    },
+    {
+        "description": "M3 Plain Washer Stainless Steel",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "99232"
+    },
+    {
+        "description": "M3 x 5 Stailess Steel Button Head",
+        "location": "",
+        "quantity": "28.00",
+        "stockcode": "99277"
+    },
+    {
+        "description": "BPC300-C_ENCLOSURE BODY - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51058-PL"
+    },
+    {
+        "description": "BPC300-C_ENCLOSURE BODY - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51058-BM"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "IL1 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL1_COMMON_PARTS"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "Lamp 250W HLX 64657",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19060"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "Standard DMc150 casting in Bentham Colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_DMC150"
+    },
+    {
+        "description": "Filter wheel for DM150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DM150_252"
+    },
+    {
+        "description": "DM150 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DMC150_COMMON_PARTS"
+    },
+    {
+        "description": "Fixed Slit Box, Back & Lid, No Slit Carries.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_FSS"
+    },
+    {
+        "description": "Integrated detection electronics for DM150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MDE150"
+    },
+    {
+        "description": "HV and temerature monitor board for enviroboxes",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "EBOX_MONITOR_BOARD"
+    }
+]

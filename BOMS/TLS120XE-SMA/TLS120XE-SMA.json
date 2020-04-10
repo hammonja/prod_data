@@ -1,0 +1,626 @@
+[
+    {
+        "description": "56R MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02056"
+    },
+    {
+        "description": "15K8, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02124"
+    },
+    {
+        "description": "LED Panel Mount Indicators Red/Green Diffused 700/565nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04061"
+    },
+    {
+        "description": "LED Panel Mount Indicators PMI Blue 470nm 40mcd",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04062"
+    },
+    {
+        "description": "AC/DC Regulated, Fixed, 1 Output, 90 V, 265 V, 15 W, 24 V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05050"
+    },
+    {
+        "description": "large cap, black with line to fit 21.5mm knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07013"
+    },
+    {
+        "description": "Large knob, black with line to fit 1/4\" spindle S211 250BK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07018"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Push Button Switch, IP67, NO, Panel Mount, Momentary",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07077"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "IEC Inlet. Fused. Filtered. No Switch.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10364"
+    },
+    {
+        "description": "M300 Small 'O' ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11054"
+    },
+    {
+        "description": "M4 Ball ended grub screw ( free issue 99022)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11250"
+    },
+    {
+        "description": "M3 Ball ended grub screw (99254 free issued)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11260"
+    },
+    {
+        "description": "Microswitch plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11349"
+    },
+    {
+        "description": "Rear lens tube - Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12012"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 1mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13930"
+    },
+    {
+        "description": "Spacer NP 8.0/25/C/M3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15021"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x15",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15052"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "11.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "30mm M3 Pillar",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "15087"
+    },
+    {
+        "description": "15124 PCB with precision resistor fitted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15124_M1"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: Encoders (Assembled)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15133_M1"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: NHD-0420CW-AB3 (Assembled)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15134_M1"
+    },
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "Logic Level Converter - Bi-Directional",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15144"
+    },
+    {
+        "description": "EXLS Foot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17324"
+    },
+    {
+        "description": "EXLS Anode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17329"
+    },
+    {
+        "description": "EXLS Cathode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17330"
+    },
+    {
+        "description": "FSM150 input baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17338"
+    },
+    {
+        "description": "Fixed focus bar (make as matched pair with 17405)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17404"
+    },
+    {
+        "description": "Floating focus bar  (make as matched pair with 17404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17405"
+    },
+    {
+        "description": "Dowel 5mm x 35mm (99902, 1.5 lengths per 20)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17409"
+    },
+    {
+        "description": "Elliptical cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17419"
+    },
+    {
+        "description": "EXLS Z Adjuster Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17673"
+    },
+    {
+        "description": "Fan guard for 60mm fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18041"
+    },
+    {
+        "description": "TLS starter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18064"
+    },
+    {
+        "description": "60mm Fan",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18070"
+    },
+    {
+        "description": "NHD-0420CW-AB3 4 lines x 20 character Blue OLED display",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18145"
+    },
+    {
+        "description": "Elipsoidal reflector with AlMgF2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19124"
+    },
+    {
+        "description": "'E' clip (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19266"
+    },
+    {
+        "description": "FSM150Xe Iris",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19320"
+    },
+    {
+        "description": "Ushio lamp for PV light sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19583"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "FSM150Xe optics tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27337"
+    },
+    {
+        "description": "FSM150Xe Lens tube for Iris",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27347"
+    },
+    {
+        "description": "FSM150Xe front lens ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27348"
+    },
+    {
+        "description": "TM300 worm shaft(1 off 600mm length 99907 per 9 off 30014)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30014"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "26 MT SPROCKET 5mm bore Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30243_M2"
+    },
+    {
+        "description": "26 MT SPROCKET 5mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30243F"
+    },
+    {
+        "description": "TMs300 Slit Bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30253"
+    },
+    {
+        "description": "Precision worm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30473"
+    },
+    {
+        "description": "Precision worm gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30474"
+    },
+    {
+        "description": "TMs300 slit drive opto bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41020"
+    },
+    {
+        "description": "SSMXe150 Filter Wheel Front Plate (Short Belt)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42283"
+    },
+    {
+        "description": "SSMXe150 Filter Wheel Shaft Short Belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42284"
+    },
+    {
+        "description": "SSMXe150 Filter Wheel Slit Body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42285"
+    },
+    {
+        "description": "SSMXe150 Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42286"
+    },
+    {
+        "description": "SSMXe150 Filter Wheel Belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42287"
+    },
+    {
+        "description": "Bearing for SSM grating shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42579"
+    },
+    {
+        "description": "SSM grating shaft mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42580"
+    },
+    {
+        "description": "SSM grating shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42581"
+    },
+    {
+        "description": "SSM grating shaft mount clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42582"
+    },
+    {
+        "description": "SSM150Xe slit cover plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42584"
+    },
+    {
+        "description": "VAPO bearing axial fan,14.4cu.m/h 12Vdc",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42623"
+    },
+    {
+        "description": "Axial fan finger guard,50Hx51Wmm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42624"
+    },
+    {
+        "description": "Paddle for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42669"
+    },
+    {
+        "description": "New baffle box for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42682"
+    },
+    {
+        "description": "SSM motor side plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43329"
+    },
+    {
+        "description": "SSM worm yoke",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43330"
+    },
+    {
+        "description": "SSM intensity control slit block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43332"
+    },
+    {
+        "description": "SSM Grating Plate Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43692_P1"
+    },
+    {
+        "description": "SSM grating mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43693"
+    },
+    {
+        "description": "SOMA SSM AIR FLOW BAFFLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44139"
+    },
+    {
+        "description": "320W Single Output Internal Enclosed SMPSU",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45219"
+    },
+    {
+        "description": "TLS150Xe Front Panel with Label",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45559_P1"
+    },
+    {
+        "description": "TLS150Xe Back Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45561"
+    },
+    {
+        "description": "TLS150Xe Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45562"
+    },
+    {
+        "description": "TLS150Xe - Screen Shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45563"
+    },
+    {
+        "description": "TLS150Xe - Pot Shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45565"
+    },
+    {
+        "description": "TLS150Xe - Lamp Mount Sides",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45568"
+    },
+    {
+        "description": "TLS150Xe - Lamp Mount Insulators",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45569"
+    },
+    {
+        "description": "TLS150Xe - Lamp Reflector Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45570"
+    },
+    {
+        "description": "Opto Mount Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45571"
+    },
+    {
+        "description": "Tyco 9 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45606"
+    },
+    {
+        "description": "19in 4U SCHROFF BIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45639"
+    },
+    {
+        "description": "Build Manual for TLS150Xe",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50107"
+    },
+    {
+        "description": "6.3mm flag receptacle Insulating sleeve",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99201"
+    },
+    {
+        "description": "6mm Spade Terminal - Female - Crimp - Right Angle",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99288"
+    },
+    {
+        "description": "Grating for FSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FSM12H0U39"
+    },
+    {
+        "description": "For use with TLS starter when used with 610",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INVERTER_BOARD_610"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (8.00mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(8.00)"
+    },
+    {
+        "description": "20A Blocking Diode Module (EVS-RP6020)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15143"
+    }
+]

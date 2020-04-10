@@ -1,0 +1,14 @@
+[
+    {
+        "description": "PV System base Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43246_P1"
+    },
+    {
+        "description": "MACHINING OPERATION TO PRODUCE 43246-P3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43246-F3"
+    }
+]

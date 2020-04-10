@@ -1,0 +1,38 @@
+[
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "12 Way Chassis Socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10161"
+    },
+    {
+        "description": "Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17814P"
+    },
+    {
+        "description": "608-610-ADAPTER-BOX Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50185"
+    }
+]

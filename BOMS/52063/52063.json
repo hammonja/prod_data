@@ -1,0 +1,38 @@
+[
+    {
+        "description": "TEFLON DONUT HOUSING DISK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49202"
+    },
+    {
+        "description": "DONUT CAP - 30mm OD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49204"
+    },
+    {
+        "description": "TEFLON DONUT HOUSING BENFLECT DISH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99005-P3"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Socket Grub Screw",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99276"
+    },
+    {
+        "description": "TEFLON DONUT HOUSING - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52063-BM"
+    },
+    {
+        "description": "TEFLON DONUT HOUSING - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52063-PL"
+    }
+]

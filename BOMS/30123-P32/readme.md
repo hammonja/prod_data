@@ -1,0 +1,4 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|30123-P30|MACHINED CASTING 2 FOR CUSTOM DTMC300|1.00||
+|30123-F32|PAINTING OPERATION TO PRODUCE 30123-P32|1.00||

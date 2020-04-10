@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Didymium Wavelength Reference Cell",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09500"
+    },
+    {
+        "description": "M3 plastic thumb nut with brass thread insert",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19330"
+    },
+    {
+        "description": "BPC300 12.7mm CUVETTE HOLDER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45938"
+    },
+    {
+        "description": "BPC300 12.7mm CUVETTE COVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45941"
+    },
+    {
+        "description": "BPC300 CUVETTE HOLDER TOP PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45942"
+    },
+    {
+        "description": "CASE FOR BPC300_WL_CAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25097-P2"
+    }
+]

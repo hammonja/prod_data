@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Cable cover 15 way",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10171"
+    },
+    {
+        "description": "Connector 15 way 'D' socket\"",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10112"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "PMC-MAC to NIWA DTM300 - Custom Cable",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50409-BM"
+    }
+]

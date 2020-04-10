@@ -1,0 +1,14 @@
+[
+    {
+        "description": "30123 MACHINED SLIT 1 & 2, MIRROR 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P20"
+    },
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 30123-F21",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-F21"
+    }
+]

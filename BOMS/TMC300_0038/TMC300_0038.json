@@ -1,0 +1,206 @@
+[
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG11"
+    },
+    {
+        "description": "UG5, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG5"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "TMC Casting Machined & Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123_M16_P1"
+    },
+    {
+        "description": "WRC Exit 252-Mirror Mount Plate for Monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42397"
+    },
+    {
+        "description": "PV mono exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45197"
+    },
+    {
+        "description": "Grating Assembly with 50g/mm, 19500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3005R19U5-AU"
+    },
+    {
+        "description": "Grating Assembly with 75g/mm, 10000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T30075R10U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 6000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3015R6U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 400g/mm, 1600nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T304R1U6"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T324H0U25"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 10.5um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS10500"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 17.0um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS17000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 3600nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS3600"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 6000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS6000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Slit MVSS RightHand",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_MVSS_RH"
+    },
+    {
+        "description": "252 Filter Wheel for TM300 - 8 Position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252_8_DSPIN"
+    },
+    {
+        "description": "252 Filter Wheel for TM300 Exit - 6 Position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252_DSPIN_EXIT"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "Grating carrier for quick change turret",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_QC_CARRIER"
+    },
+    {
+        "description": "TM300 Turret for QC Grating Carriers",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_QC_DSPIN"
+    },
+    {
+        "description": "TM300 QC Grating Case",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300-QC-GRATING-CASE"
+    },
+    {
+        "description": "TMC300 DSPIN Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_DSPIN_COMMON_PARTS"
+    },
+    {
+        "description": "Purge port option for TM300 monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PP_OPT"
+    }
+]

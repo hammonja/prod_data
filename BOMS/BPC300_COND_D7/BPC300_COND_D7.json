@@ -1,0 +1,80 @@
+[
+    {
+        "description": "M3 plastic thumb nut with brass thread insert",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19330"
+    },
+    {
+        "description": "Sola system tank detector support front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41436"
+    },
+    {
+        "description": "Sola system tank detector support bottom plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41437"
+    },
+    {
+        "description": "Sola system tank detector support connection block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41438"
+    },
+    {
+        "description": "BPC300 DETECTOR SUPPORT PLATE FOR DIFF D7",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48213"
+    },
+    {
+        "description": "M3 x 10 pozi, csk, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99155"
+    },
+    {
+        "description": "M3 x 16 Black Socket Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99161"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "M6 x 10 socket head black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99551"
+    },
+    {
+        "description": "HORIZONTAL DIFFUSER (200nm - 1100nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D7_BPC"
+    },
+    {
+        "description": "BPC300_COND_D7 PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51024-PL"
+    },
+    {
+        "description": "BPC300_COND_D7 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51024-BM"
+    }
+]

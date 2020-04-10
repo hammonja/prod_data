@@ -1,0 +1,398 @@
+[
+    {
+        "description": "1A 1000V Rectifier silicon",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04006"
+    },
+    {
+        "description": "3.3V, 800mA, linear regulator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05047"
+    },
+    {
+        "description": "Miniature toggle switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07004"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Capacitor 330nF Polyester",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08051"
+    },
+    {
+        "description": "Laser Module 2.8-5.2v, 10mm dia body, 5mW @ 650nm, 25mA draw",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09182"
+    },
+    {
+        "description": "PRO POWER - PV2 GROMMET PK 100 - GROMMET, 8MM, PK100",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10030"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Black shrouded socket (pack 2)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Gatan spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11280"
+    },
+    {
+        "description": "Comar 100-PQ-50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12207"
+    },
+    {
+        "description": "Lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13035"
+    },
+    {
+        "description": "ND filter, 50mm sq, ND1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13460"
+    },
+    {
+        "description": "ND filter, 50mm sq, ND2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13550"
+    },
+    {
+        "description": "ND filter, 50mm sq, ND3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13551"
+    },
+    {
+        "description": "ND filter, 50mm sq, ND4",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13552"
+    },
+    {
+        "description": "Hoya 52mm HMC 81B screw in filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13589"
+    },
+    {
+        "description": "Hoya 52mm HMC 81C screw in filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13590"
+    },
+    {
+        "description": "Bentham Logo plate (silk screened)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16098"
+    },
+    {
+        "description": "250W Grit Blasted Quartz-Halogen Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17901"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "E2V filter holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18083"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "plastic ball knob (16mm dia. M4)",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "19271"
+    },
+    {
+        "description": "PHOTO_CAL_LIGHT-SOURCE filter case",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19289_M1"
+    },
+    {
+        "description": "Bosch 3 way cube connectors (30m x 30mm)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19309"
+    },
+    {
+        "description": "Bosch M4 for 8mm profile",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "19372"
+    },
+    {
+        "description": "Photometer calibrator curtain",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19411"
+    },
+    {
+        "description": "Photometer Test Unit Exterior Lamp Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41100"
+    },
+    {
+        "description": "Photometer Test Unit Lamp Body Extrusion (Machined)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41101_M1"
+    },
+    {
+        "description": "Photometer Test Unit Lamp Support",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41102"
+    },
+    {
+        "description": "Photometer Test Unit Filter Receptacle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41104"
+    },
+    {
+        "description": "Photometer Test Unit Filter Holder",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "41105"
+    },
+    {
+        "description": "Photometer Test Unit Baffle Legs",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "41106"
+    },
+    {
+        "description": "Photometer Test Unit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41107"
+    },
+    {
+        "description": "Photometer Test Unit Lamp Holder Support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41111"
+    },
+    {
+        "description": "Photometer Test Unit Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41112"
+    },
+    {
+        "description": "Photometer Test Unit Filter Receptacle Pillars",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "41113"
+    },
+    {
+        "description": "Photometer Test Unit Lamp Back Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41114"
+    },
+    {
+        "description": "Photometer Test Unit Height Gauge Shouldered Screw",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41115"
+    },
+    {
+        "description": "EMICS Ltd Enclosure Lid",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42291"
+    },
+    {
+        "description": "EMICS Ltd Enclosure Side 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42292"
+    },
+    {
+        "description": "EMICS Ltd Enclosure Back",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42294"
+    },
+    {
+        "description": "Bosch 30mm, 4 channel, 540mm long",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42295"
+    },
+    {
+        "description": "Bosch 30mm, 4 channel, 440mm long",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42296"
+    },
+    {
+        "description": "Bosch 30mm, 4 channel, 450mm long",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42297"
+    },
+    {
+        "description": "Labjack  (rexaloy / A J Cope & Son Ltd T 02077292405)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42300"
+    },
+    {
+        "description": "Photometer calibrator base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42614"
+    },
+    {
+        "description": "EMICS Ltd Enclosure Side 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42615"
+    },
+    {
+        "description": "Magnet for EI sphere (box of 10)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43663"
+    },
+    {
+        "description": "LUXCAL250 SRS8 Port Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44541"
+    },
+    {
+        "description": "LUX CAL HEIGHT GUAGE ARM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44629"
+    },
+    {
+        "description": "LUXCAL HEIGHT GAUGE BASE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44630"
+    },
+    {
+        "description": "RS illuminance lens holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45166"
+    },
+    {
+        "description": "RS lamp baffle support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45170"
+    },
+    {
+        "description": "RS lamp baffle support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45171"
+    },
+    {
+        "description": "RS alignment paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45172"
+    },
+    {
+        "description": "RS lens retainer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45173"
+    },
+    {
+        "description": "TO220 insulator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99023"
+    },
+    {
+        "description": "Lamp cable with shrouded at both ends (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB6"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
+    },
+    {
+        "description": "PHOTO_CAL_LIGHT - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52069-BM"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    }
+]

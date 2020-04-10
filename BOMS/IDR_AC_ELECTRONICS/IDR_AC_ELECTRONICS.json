@@ -1,0 +1,104 @@
+[
+    {
+        "description": "BNC earth tags for 10028",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10013"
+    },
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Spacer NS 06-M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15013"
+    },
+    {
+        "description": "M-F spacer, metal, M3 (Purchased in packs of 25)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "15098"
+    },
+    {
+        "description": "DM150 internal electronics 487 cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42828"
+    },
+    {
+        "description": "DTMS300 487 plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42854"
+    },
+    {
+        "description": "IDR300 base pillar",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43061"
+    },
+    {
+        "description": "ID/SR300 HV connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43339"
+    },
+    {
+        "description": "IDR300 2nd connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44040"
+    },
+    {
+        "description": "2GB Micro SD Flash Memory Card (TS2GUSDC)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15116"
+    },
+    {
+        "description": "S400_496 OMAP Module Programmed",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46041_P1"
+    },
+    {
+        "description": "S400_496 Main PCB (25 day)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46043"
+    },
+    {
+        "description": "S400 477 Main Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_477_BOARD"
+    },
+    {
+        "description": "USB 418 board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_418_BOARD"
+    }
+]

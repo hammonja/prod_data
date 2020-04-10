@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Precision worm gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30474"
+    },
+    {
+        "description": "MACHINING OPERATION TO PRODUCE 30474-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30474-F1"
+    }
+]

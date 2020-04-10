@@ -1,0 +1,104 @@
+[
+    {
+        "description": "Colimator 1 lens tube 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11212"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "Lens, silica, pcx, f 160, dia 40, ar coated",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13067"
+    },
+    {
+        "description": "M3 plastic thumb nut with brass thread insert",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19330"
+    },
+    {
+        "description": "CUSTOM COLLIMATOR TUBE 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44543"
+    },
+    {
+        "description": "Glan-Thompson Polarizer 350 - 2200nm, 8mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44544"
+    },
+    {
+        "description": "POLARIZER BLOCK FOR COL_1_UV-VIS_0001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44545"
+    },
+    {
+        "description": "POLARIZER COVER FOR COL_1_UV-VIS_0001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44546"
+    },
+    {
+        "description": "POLARIZER HOLDER FOR COL_1_UV-VIS_0001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44547"
+    },
+    {
+        "description": "Dowel 3mm x 10mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45327"
+    },
+    {
+        "description": "POLARIZER COVER FOR COL_1_UV-VIS_0001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46885"
+    },
+    {
+        "description": "COL_1_UV-VIS_0001 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50251-BM"
+    },
+    {
+        "description": "Colimator Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "COL_COMMON_PARTS"
+    },
+    {
+        "description": "COL 1 Polarizer Mid Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46953"
+    },
+    {
+        "description": "Fixed Slit Assembly with Circular Aperture (0.12mm Diameter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FA(0.12)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Circular Aperture (0.35mm Diameter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FA(0.35)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Circular Aperture (1.17mm Diameter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FA(1.17)"
+    }
+]

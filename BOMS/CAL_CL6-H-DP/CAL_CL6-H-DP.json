@@ -1,0 +1,92 @@
+[
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "CL6 Cal Lamp Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17288_P1"
+    },
+    {
+        "description": "CL6 baffle 14mm hole",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17289"
+    },
+    {
+        "description": "CL6 Cal Clamp Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17290_P1"
+    },
+    {
+        "description": "Cal-Lamp Clamp Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17293"
+    },
+    {
+        "description": "CAL_CL6-DP lamp Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17294_M1"
+    },
+    {
+        "description": "CL6 H End Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17357"
+    },
+    {
+        "description": "80mm fan finger guard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18044"
+    },
+    {
+        "description": "12V fan for CL6 etc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18112"
+    },
+    {
+        "description": "CL6-H-DP location pin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27250"
+    },
+    {
+        "description": "Cal lamp 8mm hole baffle (painted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27356"
+    },
+    {
+        "description": "CL6 Cal Lamp Clamp Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27357_P1"
+    },
+    {
+        "description": "CAL_CL6-H-DP Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50090"
+    },
+    {
+        "description": "Lamp cable shrouded to bunch pin (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB5"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
+    }
+]

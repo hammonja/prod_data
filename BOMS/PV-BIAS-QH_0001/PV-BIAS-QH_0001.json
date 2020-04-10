@@ -1,0 +1,26 @@
+[
+    {
+        "description": "IL sun cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43311"
+    },
+    {
+        "description": "PV-BIAS-QH_0001 custom fibre",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45728"
+    },
+    {
+        "description": "PV-BIAS-QH Base Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV-BIAS-QH-BASE"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_VSS"
+    }
+]

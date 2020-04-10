@@ -1,0 +1,362 @@
+[
+    {
+        "description": "Fuse 5A slow blow",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01008"
+    },
+    {
+        "description": "47R, .25W, MF, 1%",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02008"
+    },
+    {
+        "description": "15K8, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02124"
+    },
+    {
+        "description": "LED Panel Mount Indicators Red/Green Diffused 700/565nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04061"
+    },
+    {
+        "description": "LED Panel Mount Indicators PMI Blue 470nm 40mcd",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04062"
+    },
+    {
+        "description": "large cap, black with line to fit 21.5mm knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07013"
+    },
+    {
+        "description": "Large knob, black with line to fit 1/4\" spindle S211 250BK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07018"
+    },
+    {
+        "description": "Large cap, blk without line to fit 21.5mm knob (pack of 10)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07037"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "knob, blk without line to fit 1/4\" spindle ( pack of 10 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07057"
+    },
+    {
+        "description": "Pole 8 Way Rotary Switch (PCB Mount)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07076"
+    },
+    {
+        "description": "Push Button Switch, IP67, NO, Panel Mount, Momentary",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07077"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Blue shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10136"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Shrouded socket green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10223"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Red M4insul spade terminal,0.5-1.5sq.mm",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "10337"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "IEC Inlet. Fused. Filtered. No Switch.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10364"
+    },
+    {
+        "description": "SOCKET, 4MM, SHROUDED, BLACK, PK5 , SPADE CONNECTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10366"
+    },
+    {
+        "description": "SOCKET, 4MM, SHROUDED, RED, PK5  , SPADE CONNECTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10367"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "M-F spacer, metal, M3 (Purchased in packs of 25)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15098"
+    },
+    {
+        "description": "15124 PCB with precision resistor fitted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15124_M1"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: Encoders (Assembled)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15133_M1"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: NHD-0420CW-AB3 (Assembled)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15134_M1"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: 8P Knob Knob A12505RNCQ (Assembled)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15138_M1"
+    },
+    {
+        "description": "NHD-0420CW-AB3 4 lines x 20 character Blue OLED display",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18145"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "New shroff BIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "22016"
+    },
+    {
+        "description": "VAPO bearing axial fan,14.4cu.m/h 12Vdc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42623"
+    },
+    {
+        "description": "Axial fan finger guard,50Hx51Wmm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42624"
+    },
+    {
+        "description": "320W Single Output Internal Enclosed SMPSU",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45219"
+    },
+    {
+        "description": "TLS150Xe - Pot Shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45565"
+    },
+    {
+        "description": "610 Midplate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45575"
+    },
+    {
+        "description": "610 Standoff",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "45578"
+    },
+    {
+        "description": "8mm P CLIP (Pack of 100)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "45601"
+    },
+    {
+        "description": "5mm P CLIP ( Bag of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45632"
+    },
+    {
+        "description": "610-2 Front Panel with Label",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45660_P1"
+    },
+    {
+        "description": "610 Rear Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46820"
+    },
+    {
+        "description": "PSU_610-2 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50125"
+    },
+    {
+        "description": "M2.5 x 8 pozi pan, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99021"
+    },
+    {
+        "description": "Crimp terminal for 07040 mains switch",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99029"
+    },
+    {
+        "description": "Red M4 crimp ring terminal,0.5-1.5sq.mm",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "99071"
+    },
+    {
+        "description": "M4 x 8 socket head, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99105"
+    },
+    {
+        "description": "M3 x 4, pozi pan, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99167"
+    },
+    {
+        "description": "M3 x 6 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99180"
+    },
+    {
+        "description": "M3 x 8 Black Pozi Csk",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99189"
+    },
+    {
+        "description": "6.3mm flag receptacle Insulating sleeve",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99201"
+    },
+    {
+        "description": "M3 Plain Zinc Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99256"
+    },
+    {
+        "description": "M3 Zinc Full Nuts",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99260"
+    },
+    {
+        "description": "M3 internal shakeproof washer, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99263"
+    },
+    {
+        "description": "M3 x 6 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99271"
+    },
+    {
+        "description": "6mm Spade Terminal - Female - Crimp - Right Angle",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99288"
+    },
+    {
+        "description": "M4 Full Nut zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99401"
+    },
+    {
+        "description": "M3 x 25 Pozi Pan Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99408"
+    },
+    {
+        "description": "USB cable,  2m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB-USB"
+    }
+]

@@ -9,8 +9,6 @@ def __query_db(query):
 
 	boms = {}
 	
-	print (query)
-
 	cursor.execute(query)
 	rows = cursor.fetchall()
 	for row in rows:

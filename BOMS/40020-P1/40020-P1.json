@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Heat sink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40020"
+    },
+    {
+        "description": "MACHING OPERATION TO PRODUCE 40020-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40020-F1"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "ORM400 product for use in Flicker System",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ORM400_FLICKER"
+    },
+    {
+        "description": "STINGRAY Dual Channel USB Oscilloscope (DS1M12)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19147"
+    },
+    {
+        "description": "Flicker Measurement Software",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FLICKER"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "description": "252 Drive Cog (Berg GG33A28-32)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11020"
+    },
+    {
+        "description": "252 6-Position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11071_P1"
+    },
+    {
+        "description": "252 drive belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11145"
+    },
+    {
+        "description": "Shaft 0.25 x 1.25\" (Material 99904, 1 length per 20)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11174"
+    },
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "252 bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30023"
+    },
+    {
+        "description": "Bore reducer, 5mm x 1/4 inch x 6.6mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30052"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "DSPIN Filter Wheel Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45651"
+    },
+    {
+        "description": "DSPIN Filter wheel Pillars",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45652"
+    },
+    {
+        "description": "OPTO MOUNTING BLOCK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45653"
+    },
+    {
+        "description": "Cable tie anchors",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99037"
+    },
+    {
+        "description": "M3 x 16 cup grub, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99127"
+    },
+    {
+        "description": "M2 x 6 socket cap, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99148"
+    },
+    {
+        "description": "M3 x 5 plastic grub screw (pack of 1000)",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99168"
+    },
+    {
+        "description": "M3 x 5 Black Cup Grub Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99175"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "Tyco 9 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45606"
+    },
+    {
+        "description": "Metric 6 position Filter Wheel Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50201-BM"
+    }
+]

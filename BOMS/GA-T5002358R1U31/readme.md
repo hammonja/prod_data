@@ -1,0 +1,4 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|T5002358R1U31|50x50x6 235.8/1310|1.00||
+|50232|FTMc50 GRATING COMMON PARTS|1.00||

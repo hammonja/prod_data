@@ -1,0 +1,92 @@
+[
+    {
+        "description": "Monitor detector (e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09115"
+    },
+    {
+        "description": "E2V sphere detector fixing ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27198"
+    },
+    {
+        "description": "Sphere Body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44444"
+    },
+    {
+        "description": "Painted Sphere Entrance Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44445_P1"
+    },
+    {
+        "description": "Sphere Exit Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44446"
+    },
+    {
+        "description": "Thorlabs TR75/M",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44448"
+    },
+    {
+        "description": "CMOSIS-100MM-IS Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44449"
+    },
+    {
+        "description": "Thor labs CF125",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45186"
+    },
+    {
+        "description": "THORLABS  PH3E/M",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45191"
+    },
+    {
+        "description": "AP SPHERE GUARD PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46182"
+    },
+    {
+        "description": "CMOSIS-100MM-IS Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50138"
+    },
+    {
+        "description": "M4 x 10 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99355"
+    },
+    {
+        "description": "M4 x 16 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99365"
+    },
+    {
+        "description": "CMOSIS Sphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CMOSIS_SPHERE_PARTS"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    }
+]

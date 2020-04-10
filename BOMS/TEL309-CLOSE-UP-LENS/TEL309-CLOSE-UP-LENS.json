@@ -1,0 +1,32 @@
+[
+    {
+        "description": "TEL309 screw on lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43399"
+    },
+    {
+        "description": "Lens, pcx, silica, f=200, dia 25. Tolerance + 0.00, -0.05",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43400"
+    },
+    {
+        "description": "Lens, pcx, silica, f=400, dia = 25. Tolerance + 0.00, -0.05",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43401"
+    },
+    {
+        "description": "TEL309-CLOSE-UP-LENS Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50083"
+    },
+    {
+        "description": "Split ring for TGK filter wheel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "NA5155"
+    }
+]

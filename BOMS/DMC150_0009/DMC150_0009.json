@@ -1,0 +1,68 @@
+[
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "Standard DMc150 casting in Bentham Colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_DMC150"
+    },
+    {
+        "description": "Filter wheel for DM150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DM150_252"
+    },
+    {
+        "description": "DM150 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DMC150_COMMON_PARTS"
+    },
+    {
+        "description": "Grating Assembly with 1800g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-G1518H0U25"
+    },
+    {
+        "description": "Grating Assembly with 1800g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-G1518R0U5"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_VSS"
+    },
+    {
+        "description": "DM150 Base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11157"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    }
+]

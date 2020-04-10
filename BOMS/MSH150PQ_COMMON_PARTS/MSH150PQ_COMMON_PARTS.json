@@ -1,0 +1,230 @@
+[
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "DTMS power connector 3way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10012"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "10 way IDC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10254"
+    },
+    {
+        "description": "BINDER - 09 0306 00 03 - SOCKET, FREE, 3WAY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10329"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "DM15 curved mirror mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11166"
+    },
+    {
+        "description": "Spherical mirror 150mm focal length.  UV-AL coating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11167"
+    },
+    {
+        "description": "DM150 Curved mirror cover (NB Ally. NOT ACETAL )",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11226"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: RS232 to TTL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15135"
+    },
+    {
+        "description": "Ferrite bead for EI cooled housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18021"
+    },
+    {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19002"
+    },
+    {
+        "description": "8mm dome plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19082"
+    },
+    {
+        "description": "Small round rubber feet (bag of 60)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19112"
+    },
+    {
+        "description": "MDC150 Bottom Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44118"
+    },
+    {
+        "description": "MDC150 Plain Mirror Mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44125"
+    },
+    {
+        "description": "Plain mirror, 30 x 16 x 3mm.  Al + overcoat, 200nm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44126"
+    },
+    {
+        "description": "MDC150 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44128"
+    },
+    {
+        "description": "MDC150 exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44129"
+    },
+    {
+        "description": "MDC150 grating stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44133"
+    },
+    {
+        "description": "MSH150PQ Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45591"
+    },
+    {
+        "description": "PCB STANDOFF",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45596"
+    },
+    {
+        "description": "Connector 9-way 'D' socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10098"
+    },
+    {
+        "description": "M2.5 x 8 Black Socket Head. Must be good quality socket.",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99108"
+    },
+    {
+        "description": "M4 x 16, pozi-pan, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99143"
+    },
+    {
+        "description": "M3 x 10 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99154"
+    },
+    {
+        "description": "M3 x 12 Black Socket Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99156"
+    },
+    {
+        "description": "Yellow equipment wire,1.5sq.mm100m",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99178"
+    },
+    {
+        "description": "M3 x 6 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99180"
+    },
+    {
+        "description": "M4 x 12 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99359"
+    },
+    {
+        "description": "Painted MSH150PQ Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH150PQ_HOUSING_P1"
+    },
+    {
+        "description": "Compact Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM150_TURRET_DSPIN"
+    }
+]

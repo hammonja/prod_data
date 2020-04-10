@@ -1,0 +1,32 @@
+[
+    {
+        "description": "FTMC50-HS Power Cable Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50385-BM"
+    },
+    {
+        "description": "Lumberg 4 Pole DIN Socket 5A, 270VAC, IP68",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10382"
+    },
+    {
+        "description": "TE Connectivity Mini-Universal MATE-N-LOK Series 4.2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10377"
+    },
+    {
+        "description": "TE Connectivity Mini-Universal MATE-N-LOK, F, 22AWG to 18AWG",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10378"
+    },
+    {
+        "description": "4 Pole Din Plug Plug, DIN EN 60529, 5A, 250 V ac IP68",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10384"
+    }
+]

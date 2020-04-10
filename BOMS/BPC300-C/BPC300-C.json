@@ -1,0 +1,134 @@
+[
+    {
+        "description": "BPC300-C BASE ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51063"
+    },
+    {
+        "description": "BPC300-C SAMPLE WHEEL CAROUSEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52008"
+    },
+    {
+        "description": "BPC300-C_OPTICS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52010"
+    },
+    {
+        "description": "BPC300-C_WATER BATH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52011"
+    },
+    {
+        "description": "BPC300-C_ENCLOSURE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52013"
+    },
+    {
+        "description": "ILD-TMC-FEET_0001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52024"
+    },
+    {
+        "description": "BPC300 Conditioning Source",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BPC300_COND_SOURCE"
+    },
+    {
+        "description": "BPC300-C THERMOMETER ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BPC300_THERMO_0002"
+    },
+    {
+        "description": "Silica lens based collimator for use with BPC300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "COL_1_UV-VIS-BPC"
+    },
+    {
+        "description": "Cooled side window housing (linear dynode chain)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_00_TE"
+    },
+    {
+        "description": "D8 Sphere, Slit Mounting, Inline Configuration",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF-D8-INLINE"
+    },
+    {
+        "description": "FIBRE FOR BCP300-C",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FIBRE-BPC300-C"
+    },
+    {
+        "description": "Slit Mounted Socket for QC ILD sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ILD_QC_SOCKET"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP_ARREST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ILD-QH-CHOP-24"
+    },
+    {
+        "description": "TMC300_0083",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_0083"
+    },
+    {
+        "description": "TMC300_0084",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_0084"
+    },
+    {
+        "description": "M6 x 16 SKT Stainless steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99290"
+    },
+    {
+        "description": "M3x10 Screw Countersunk Hex Socket A2 Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99322"
+    },
+    {
+        "description": "M6 Zinc Plain Washers",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99557"
+    },
+    {
+        "description": "M6 FULL NUT",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99580"
+    },
+    {
+        "description": "BPC300-C PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BPC300-C-PL"
+    },
+    {
+        "description": "BPC300-C BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BPC300-C-BM"
+    }
+]

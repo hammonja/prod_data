@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Fused silica (200nm), 25mm dia x 3mm (max. 25.1mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13605"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 1mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13930"
+    },
+    {
+        "description": "TLS120Xe COMMON PARTS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50280"
+    },
+    {
+        "description": "Grating for FSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FSM12H0U39"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    }
+]

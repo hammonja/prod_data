@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Connector 9 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10086"
+    },
+    {
+        "description": "Connector 9 Way 'D' Metal Case",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10111"
+    },
+    {
+        "description": "CAB_MVSS_1 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50141"
+    }
+]

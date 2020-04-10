@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Laser Driven Tuneable Light Source common parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TLS50EQ_COMMON_PARTS"
+    },
+    {
+        "description": "TLS50EQ Filter Wheel Assy",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TLS50EQ_252"
+    },
+    {
+        "description": "TM300 Turret for TLS50EQ",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_DSPIN_ACC"
+    },
+    {
+        "description": "Grating Assembly with 1500g/mm, 250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T5015R0U25"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 600nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T5012R0U6"
+    },
+    {
+        "description": "Grating Assembly with 400g/mm, 1300nm Blazed Ruled",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T5004R1U3"
+    }
+]

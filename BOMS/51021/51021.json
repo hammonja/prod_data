@@ -1,0 +1,140 @@
+[
+    {
+        "description": "F MATCHER PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51021-PL"
+    },
+    {
+        "description": "F MATCHER BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51021-BM"
+    },
+    {
+        "description": "Dowel 3mm x 10mm",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "45327"
+    },
+    {
+        "description": "Off Axis Replicated Parabolic Mirror 25.4mm FL (50329AL)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45671"
+    },
+    {
+        "description": "THORLABS SM1SMA SMA 1 INCH FIBRE ADAPTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45776"
+    },
+    {
+        "description": "SMA BACK STOP RING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48156"
+    },
+    {
+        "description": "Z AXIS SLOTED STAGE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48159"
+    },
+    {
+        "description": "Y AXIS SLOTED STAGE BRACKET",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48160"
+    },
+    {
+        "description": "X AXIS SLOTED STAGE PLATE",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48162"
+    },
+    {
+        "description": "F-MATCHER SMA NA 0.22 FIBRE MOINT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48165"
+    },
+    {
+        "description": "FIBRE SMA HOLD IN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48167"
+    },
+    {
+        "description": "F-MATCHER STAGE HOUSING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48172"
+    },
+    {
+        "description": "F MATCHER LID",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48173"
+    },
+    {
+        "description": "F MATCHER END CAP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48174"
+    },
+    {
+        "description": "4 m6 x 10 DOWEL PIN STAINLESS STEEL 1.4301 TO ISO 2338",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48181"
+    },
+    {
+        "description": "1/8\" (M6) x 1/2\" PIN STST",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "48231"
+    },
+    {
+        "description": "3/32\" (M6) x 1/2\" PIN STST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48232"
+    },
+    {
+        "description": "4-40 X 3/8\" UNC CAP HD SKT STST",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "48234"
+    },
+    {
+        "description": "DIA 25.4mm OFF AXIS PARABOLIC, 25.4mm FL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48371"
+    },
+    {
+        "description": "Z AXIS SLOTED STAGE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48372"
+    },
+    {
+        "description": "6-32 x 1/4\" UNC CAP HD STST A2",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "48373"
+    },
+    {
+        "description": "M3 x 6 Black, csk, pozi",
+        "location": "",
+        "quantity": "17.00",
+        "stockcode": "99179"
+    },
+    {
+        "description": "M3 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "99247"
+    }
+]

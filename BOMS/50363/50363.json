@@ -1,0 +1,128 @@
+[
+    {
+        "description": "ECO165SL-250-TT1-M1-3-LI1-CP2-PL0-TAC",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44590"
+    },
+    {
+        "description": "Aerotech Stage ECO165SL 250mm Travel Modified",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44591-P1"
+    },
+    {
+        "description": "Aerotech Stage ECO225SL 800mm Travel Modified",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44592-P1"
+    },
+    {
+        "description": "GEW A Brace",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46918"
+    },
+    {
+        "description": "GEW Right Ear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46920"
+    },
+    {
+        "description": "GEW L Bracket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46921"
+    },
+    {
+        "description": "GEW Left Ear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46922"
+    },
+    {
+        "description": "GEW X Shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46923"
+    },
+    {
+        "description": "GEW X Shield Left Anti Flex Bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46924"
+    },
+    {
+        "description": "GEW X Shield Right Anti Flex Bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46925"
+    },
+    {
+        "description": "GEW Long Ear Brace",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46926"
+    },
+    {
+        "description": "GEW Short Ear Brace",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46927"
+    },
+    {
+        "description": "GEW Z Motor Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46928"
+    },
+    {
+        "description": "GEW Motor Shield for Aerotech Stage",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46929"
+    },
+    {
+        "description": "GEW Gantry 250mm E-Chain Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46932"
+    },
+    {
+        "description": "IGUS E-Chain 2680.05.125.0 w/ 12PZB ends in A2 Positions",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46935"
+    },
+    {
+        "description": "IGUS E-Chain 2680.07.100.0 w/ 12PZB ends A2 Positions",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46936"
+    },
+    {
+        "description": "GEW Gantry 800mm E-Chain Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46937"
+    },
+    {
+        "description": "GEW Gantry Z Stage Chain Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46938"
+    },
+    {
+        "description": "EnsembleCP10",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "44593"
+    },
+    {
+        "description": "GEW Gantry System Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50363-BM"
+    }
+]

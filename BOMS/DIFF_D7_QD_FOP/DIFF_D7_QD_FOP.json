@@ -1,0 +1,26 @@
+[
+    {
+        "description": "DIFF D7 DESICCATED COMMON PARTS",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D7_COMMON_PARTS"
+    },
+    {
+        "description": "DIFFUSER D7 7mm FOP FIBRE ADAPTER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45854"
+    },
+    {
+        "description": "O ring for 7mm Fibre Ferrule (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13116"
+    },
+    {
+        "description": "FOP DIFFUSER 7mm FIBRE BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50237-BM"
+    }
+]

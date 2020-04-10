@@ -1,0 +1,164 @@
+[
+    {
+        "description": "IL6 Single. Common Denominator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL6_BASE_SINGLE"
+    },
+    {
+        "description": "Deuterium for IL6",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL6_SOURCE_DEUT"
+    },
+    {
+        "description": "100W qh based light source, silica lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL1"
+    },
+    {
+        "description": "Programmable Constant Current Power Supply",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "PSU_610"
+    },
+    {
+        "description": "Deuterium Lamp Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_706"
+    },
+    {
+        "description": "TMC300 Monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_0004"
+    },
+    {
+        "description": "Silica lens based collimator for use with monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "COL_1_UV-VIS"
+    },
+    {
+        "description": "GHZ Optometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "X1-1"
+    },
+    {
+        "description": "VL-3704-4 Detector housing with watertight glued diffuser",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "VL-3704-4"
+    },
+    {
+        "description": "215 Module",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_215"
+    },
+    {
+        "description": "Optical chopper control (417 module)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_M"
+    },
+    {
+        "description": "Optical chopper motor unit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_H"
+    },
+    {
+        "description": "Blade set for 218 optical chopper (incl. 2,  5, 10 & 30)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S200_218_B"
+    },
+    {
+        "description": "Housing for 400 series modules (full width unit)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_417"
+    },
+    {
+        "description": "AC transimpedance  current pre-amplifier (417 module)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_477"
+    },
+    {
+        "description": "Dual channel, fully automated DSP lock-in amplifier",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_496"
+    },
+    {
+        "description": "Bentham Photo-Chromic System Optics",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BPC300"
+    },
+    {
+        "description": "BPC300 Cable Set",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BPC300_CABLE_SET"
+    },
+    {
+        "description": "Chopper mounting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12042"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB17"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 120mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB12"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 180mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB14"
+    },
+    {
+        "description": "HV-BNC to HV-BNC 1200mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB3"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 400mm overall length",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB15"
+    },
+    {
+        "description": "HV-BNC to HV-BNC 320mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB20"
+    },
+    {
+        "description": "3m USB cable",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USB_3M"
+    },
+    {
+        "description": "USB cable,  2m long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB-USB"
+    }
+]

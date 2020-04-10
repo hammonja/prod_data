@@ -1,0 +1,122 @@
+[
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "Standard TM300 casting in Bentham colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_TM300"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U0"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 2000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3015R2U0"
+    },
+    {
+        "description": "Grating Assembly with 75g/mm, 10000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T30075R10U0"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_VSS"
+    },
+    {
+        "description": "252 filter wheel for TM300. 8 position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252-8"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 3600nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS3600"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 6000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS6000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 10.5um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS10500"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "TMC300 Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_COMMON_PARTS"
+    },
+    {
+        "description": "Exit sam for TM300 or TMc300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_SAM-EXIT"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "description": "M300 Unislide.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11271"
+    },
+    {
+        "description": "MACHINING OPERATION TO PRODUCE 11271-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11271-F1"
+    }
+]

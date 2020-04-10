@@ -1,0 +1,272 @@
+[
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Purge port pipe connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10119"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "M300 Index blanking plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11053"
+    },
+    {
+        "description": "M4 Ball ended grub screw ( free issue 99022)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11250"
+    },
+    {
+        "description": "M3 Ball ended grub screw (99254 free issued)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11260"
+    },
+    {
+        "description": "Spacer NP 8.0/25/C/M3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15021"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "EXLS Elipse Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17327"
+    },
+    {
+        "description": "EXLS Anode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17329"
+    },
+    {
+        "description": "EXLS Cathode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17330"
+    },
+    {
+        "description": "EXIT TUBE FOR IL75E-SMA-P",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44532"
+    },
+    {
+        "description": "IL75E side plates",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17352"
+    },
+    {
+        "description": "IL75E lamp platform",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17354"
+    },
+    {
+        "description": "Side Panels MK2 EXLS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17403"
+    },
+    {
+        "description": "Fixed focus bar (make as matched pair with 17405)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17404"
+    },
+    {
+        "description": "Floating focus bar  (make as matched pair with 17404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17405"
+    },
+    {
+        "description": "Dowel 5mm x 35mm (99902, 1.5 lengths per 20)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17409"
+    },
+    {
+        "description": "EXLS Z Adjuster Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17673"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "Small round rubber feet (bag of 56)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19112"
+    },
+    {
+        "description": "Osram XBO 75W/2  (note NOT OFR)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19120"
+    },
+    {
+        "description": "Elipsoidal reflector with AlMgF2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19124"
+    },
+    {
+        "description": "PLC-M3 self locking insert",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19173"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "FSM150Xe adjuster spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19345"
+    },
+    {
+        "description": "Milling of slot in ellipse for Hamamatsu lamp seal",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19611"
+    },
+    {
+        "description": "WRC Lamp Heatsink (free issue 40020)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42359"
+    },
+    {
+        "description": "WRC Lamp Fan Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42360"
+    },
+    {
+        "description": "IL75E-SMA-P Adapater plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44498"
+    },
+    {
+        "description": "IL75E-SMA-P  bottom plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44499"
+    },
+    {
+        "description": "IL75E-SMA-P front plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44500"
+    },
+    {
+        "description": "IL75E-SMA-P rear plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44501"
+    },
+    {
+        "description": "Lid - IL75E",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17348"
+    },
+    {
+        "description": "IL75E-P Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50150"
+    },
+    {
+        "description": "XE Lamp cable with shrouded at both ends (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB49"
+    },
+    {
+        "description": "For use with TLS starter when used with 610",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INVERTER_BOARD_610"
+    },
+    {
+        "description": "Shortened Purge port pipe connector IL75E_SMA_P",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10119_M2"
+    },
+    {
+        "description": "5mm P CLIP ( Bag of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45632"
+    },
+    {
+        "description": "20A Blocking Diode Module (EVS-RP6020)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15143"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
+    },
+    {
+        "description": "Xenon Striker Isolater",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15149"
+    },
+    {
+        "description": "Igniter for Xe and Hg lamps",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18052"
+    }
+]

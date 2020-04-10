@@ -1,0 +1,122 @@
+[
+    {
+        "description": "Photobiological safety of lamps measurement wizard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BENPSL-WIZARD"
+    },
+    {
+        "description": "Windows spectroradiometer control software",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BENWIN_PLUS"
+    },
+    {
+        "description": "USB cable,  2m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB-USB"
+    },
+    {
+        "description": "150W QH Spectral Irradiance Standard (Horizontal, Enclosed)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_CL6-H-150W"
+    },
+    {
+        "description": "Luminance standard, 300mm sphere.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_SRS12"
+    },
+    {
+        "description": "CL6-H Spectral Irradiance Calibration 300-800nm DeVos 3000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CALIBRATION-CL6-H"
+    },
+    {
+        "description": "Spectral Radiance Calibration 300-800nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CALIBRATION-SRS-300-800"
+    },
+    {
+        "description": "Spectral Radiance Calibration 800-1800nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CALIBRATION-SRS-800-1800"
+    },
+    {
+        "description": "End window uncooled housing with S20 pmt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_3_S20"
+    },
+    {
+        "description": "Silicon photodiode, 10x10mm active area (200-1100nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_SI"
+    },
+    {
+        "description": "Adaptor to attach DIFF_D7 to CAL_CL6_H_150W and CAL_CL7",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D6_DAR"
+    },
+    {
+        "description": "End-on precision cosine-corrected diffuser (200- 1100nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D7"
+    },
+    {
+        "description": "Field of View Limiting Optic for IEC62471",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D7_FOVL"
+    },
+    {
+        "description": "UV grade fused silica fibre bundle (200-1350nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FOP-UV-2-1000"
+    },
+    {
+        "description": "UV grade fused silica fibre bundle (200-1350nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FOP-UV-4-1000"
+    },
+    {
+        "description": "ISR300 Spectroradiometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ISR300_0012"
+    },
+    {
+        "description": "Cable Set for ISR300 PSL Systems",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ISR300-PSL-SYSTEM-CABLE-SET"
+    },
+    {
+        "description": "Profiling camera for PSL system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSL_PROFILER"
+    },
+    {
+        "description": "Programmable Constant Current Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_610"
+    },
+    {
+        "description": "Direct view, fibre coupled telescope",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TEL310"
+    }
+]

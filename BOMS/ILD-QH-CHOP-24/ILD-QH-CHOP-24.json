@@ -1,0 +1,350 @@
+[
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Black shrouded socket (pack 2)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "6.35 Lamp Holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10398"
+    },
+    {
+        "description": "Pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11223"
+    },
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "M3 Ball ended grub screw (99254 free issued)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11260"
+    },
+    {
+        "description": "Rear lens tube - Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12012"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "IL1 Lens tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17021"
+    },
+    {
+        "description": "Motor with end cap and 150mm long leads",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18007"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "Fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18080"
+    },
+    {
+        "description": "M3X10 Spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19011"
+    },
+    {
+        "description": "Lamp 250W HLX 64657 €2.18",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19060"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "UKAEA sphere light source baffle plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41631"
+    },
+    {
+        "description": "UKAEA sphere fan baffle plate pillars (pack of 25)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "41674"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP chopper stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43291"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP output plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43292"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP lens stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43293"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP side plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43299"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43300"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP lamp plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43302"
+    },
+    {
+        "description": "5 slot chopping disc in 1mm CR4 Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43875_P1"
+    },
+    {
+        "description": "ILD-QH-CHOP-ARREST-24 Lamp support block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44646"
+    },
+    {
+        "description": "ILD-QH-CHOP-ARREST-24  Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44647"
+    },
+    {
+        "description": "ILD-QH-CHOP-ARREST-24 Reflector support block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44648"
+    },
+    {
+        "description": "ILD-QH-CHOP-ARREST-24 Painted Back Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44649-P1"
+    },
+    {
+        "description": "Comar rear reflector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45057"
+    },
+    {
+        "description": "Small reflector holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45058"
+    },
+    {
+        "description": "Reflector holder back plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45059"
+    },
+    {
+        "description": "Reflector pivot plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45060"
+    },
+    {
+        "description": "ILD-QH-250W LAMP HOLDER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49211"
+    },
+    {
+        "description": "M2.5 x 10 socket cap, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99028"
+    },
+    {
+        "description": "M4 x 8 socket head, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99105"
+    },
+    {
+        "description": "M2.5 x 12 socket cap black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99110"
+    },
+    {
+        "description": "M3 x 10 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99154"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "M3 x 18, socket cap SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99205"
+    },
+    {
+        "description": "M2 x 10 skt cap, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99281"
+    },
+    {
+        "description": "M2.5x5 SCREW COUNTERSUNK POZI-Z BLACK OXIDE",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99317"
+    },
+    {
+        "description": "M4 Black Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99351"
+    },
+    {
+        "description": "M4 x 12 Black Csk Pozi Drive",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99357"
+    },
+    {
+        "description": "M4 x 12 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99359"
+    },
+    {
+        "description": "M4 x 14 socket cap, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99366"
+    },
+    {
+        "description": "M2 nuts SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99569"
+    },
+    {
+        "description": "Lamp cable with shrouded at both ends (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB6"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP_ARREST - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ILD-QH-CHOP-24-BM"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP_ARREST - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ILD-QH-CHOP-24-PL"
+    }
+]

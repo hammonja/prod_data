@@ -1,0 +1,182 @@
+[
+    {
+        "description": "Pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11223"
+    },
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "Parabolic Mirror Rfl=50.8 Gold Coated",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44658"
+    },
+    {
+        "description": "Collimator Aperture 0.5mm radius",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44494"
+    },
+    {
+        "description": "Collimator Aperture 1.0mm radius",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44495"
+    },
+    {
+        "description": "Collimator Aperture 2.0mm radius",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44496"
+    },
+    {
+        "description": "Collimator Aperture 3.0mm radius",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44497"
+    },
+    {
+        "description": "MACHINED Ellipsoidal Mirror E50, GOLD COATED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49056-P1"
+    },
+    {
+        "description": "Collimator Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45303"
+    },
+    {
+        "description": "Collimator Cover (no logo)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45307"
+    },
+    {
+        "description": "Collimator End Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45309"
+    },
+    {
+        "description": "Ellipsoid Mount Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45312"
+    },
+    {
+        "description": "Ellipsoid Kinematic Mount Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45313"
+    },
+    {
+        "description": "Collimator Aperture Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45317"
+    },
+    {
+        "description": "Collimator Aperture Block Stand-off",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45319"
+    },
+    {
+        "description": "Iris - Graduated C-Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45347"
+    },
+    {
+        "description": "Metal Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45453"
+    },
+    {
+        "description": "Collimator Aperture 0.115mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45458"
+    },
+    {
+        "description": "Collimator Mount Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45463"
+    },
+    {
+        "description": "C-mount to SM1 adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45467"
+    },
+    {
+        "description": "M3 BALL ENDED GRUB SCREW",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "45580"
+    },
+    {
+        "description": "M3 x 10 pozi, csk, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99155"
+    },
+    {
+        "description": "M3 x 16 Black Socket Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99161"
+    },
+    {
+        "description": "Yellow equipment wire,1.5sq.mm100m",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99178"
+    },
+    {
+        "description": "M3 x 6 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99180"
+    },
+    {
+        "description": "4-40 UNC X 5/16 SOCKET CAP",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99708"
+    },
+    {
+        "description": "M3 x 12 CSK Pozi S/Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99972"
+    },
+    {
+        "description": "Diff D7 Fovl  Bentham Logo sticker",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46780_M1"
+    },
+    {
+        "description": "COL 3 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52001-BM"
+    },
+    {
+        "description": "COL 3 Parts List",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52001-PL"
+    }
+]

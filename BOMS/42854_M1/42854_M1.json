@@ -1,0 +1,14 @@
+[
+    {
+        "description": "DTMS300 487 plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42854"
+    },
+    {
+        "description": "Machining Operation To Produce 42854_M1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44511"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "LUXCAL250 Enclosure",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "LUXCAL250_ENCLOSURE"
+    },
+    {
+        "description": "Photometric measurement head, DIN class A (f1<3%)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH400_VL"
+    },
+    {
+        "description": "ORM.  Sensitivity Ranges as 487",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ORM400"
+    },
+    {
+        "description": "Programmable Constant Current Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_610"
+    }
+]

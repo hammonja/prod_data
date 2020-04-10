@@ -1,0 +1,254 @@
+[
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "TM300 Fixed Slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_FIXED_SLIT"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (2.78mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FSP(2.78)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (3.7mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FSP(3.7)"
+    },
+    {
+        "description": "PV system aperture 0.74mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43445"
+    },
+    {
+        "description": "PV system aperture 1.85mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43446"
+    },
+    {
+        "description": "PV system aperture 3.7mm square",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43448"
+    },
+    {
+        "description": "Aperture to give 1.5mm square image in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45144"
+    },
+    {
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50275"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "FLAT MIRROR LOWER HOLE ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50199"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "TM300 252 Filter Wheel Exit - 6 Position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50307"
+    },
+    {
+        "description": "TMC CASTING MACHINED AND PAINTED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P48"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 Lid Gaskets #125",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "ELECTRONICS MONO A1, D1,S1, (EXIT FW)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51009"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "TMC300 POWER PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45877"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "PV mono exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45197"
+    },
+    {
+        "description": "CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50198"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T324H0U25"
+    },
+    {
+        "description": "Grating Assembly with 1800g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T318R0U5"
+    },
+    {
+        "description": "T3MIR Plane mirror on grating mount for TM300 series.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "T3MIR"
+    },
+    {
+        "description": "UG5, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG5"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG11"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 380nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS380"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "TMC300 Configuration",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_0075-BM"
+    },
+    {
+        "description": "Lemo, 8 way, chassis socket, green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10288"
+    },
+    {
+        "description": "Lemo, 8 way, cable plug, green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10289"
+    },
+    {
+        "description": "WRC Exit 252-Mirror Mount Plate for Monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42397"
+    },
+    {
+        "description": "MSH150 External Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18113"
+    }
+]

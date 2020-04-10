@@ -1,0 +1,38 @@
+[
+    {
+        "description": "IDR150 Fixed Slits, 6P FW, Front entrance, Back exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR150_SF01"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-G1524H0U25"
+    },
+    {
+        "description": "ND1 filter, UV, 25mm diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13006"
+    },
+    {
+        "description": "ND2 filter, UV, 25mm diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13007"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.74mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(0.74)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.85mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(1.85)"
+    }
+]

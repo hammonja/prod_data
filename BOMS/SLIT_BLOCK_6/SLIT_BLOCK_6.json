@@ -1,0 +1,98 @@
+[
+    {
+        "description": "TMs300 Jaw Running Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17661"
+    },
+    {
+        "description": "TMs300 Jaw (handed pair)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17663"
+    },
+    {
+        "description": "TMs300 Jaw plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17664"
+    },
+    {
+        "description": "VSS Spring",
+        "location": "Free issue to Hamer",
+        "quantity": "2.00",
+        "stockcode": "19054"
+    },
+    {
+        "description": "MVSS Bearing",
+        "location": "Free issue to Hamer",
+        "quantity": "2.00",
+        "stockcode": "19116"
+    },
+    {
+        "description": "Dowell pin 2x12mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19023"
+    },
+    {
+        "description": "Dowel pin 3x8mm (hardened and ground)",
+        "location": "Free issue to Hamer",
+        "quantity": "2.00",
+        "stockcode": "19134"
+    },
+    {
+        "description": "Dowell pin 2x8mm",
+        "location": "Free issue to Hamer",
+        "quantity": "4.00",
+        "stockcode": "19245"
+    },
+    {
+        "description": "Slit Block 6 Body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46850"
+    },
+    {
+        "description": "Slit Block 6 Threaded Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46851"
+    },
+    {
+        "description": "Slit Block 6 Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46852"
+    },
+    {
+        "description": "Slit Block 6 Opto Pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46858"
+    },
+    {
+        "description": "Slit fork, MVSS (Slit block 6)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46861"
+    },
+    {
+        "description": "M2.5 x 6 Black Socket Head. Must be good quality socket.",
+        "location": "Free issue to Hamer",
+        "quantity": "4.00",
+        "stockcode": "99104"
+    },
+    {
+        "description": "M3 x 6 Black, csk, pozi",
+        "location": "Free issue to Hamer",
+        "quantity": "4.00",
+        "stockcode": "99179"
+    },
+    {
+        "description": "M3 x 3mm socket grub, cup, black",
+        "location": "Free issue to Hamer",
+        "quantity": "2.00",
+        "stockcode": "99191"
+    }
+]

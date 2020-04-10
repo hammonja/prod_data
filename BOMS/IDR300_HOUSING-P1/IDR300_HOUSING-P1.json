@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Painted box with lid for IDR300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR300_HOUSING"
+    },
+    {
+        "description": "PAINTING OPERATION TO PRODUCE IDR300_HOUSING-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR300_HOUSING-F1"
+    }
+]

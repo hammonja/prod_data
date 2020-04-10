@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Magnet for EI sphere (box of 10)",
+        "location": "",
+        "quantity": "9.00",
+        "stockcode": "43663"
+    },
+    {
+        "description": "CONTACT LENSE EYE - MAGNETIC BASE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49051"
+    },
+    {
+        "description": "BPC300-C CONTACT LENSE HOLDER CAP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49104"
+    },
+    {
+        "description": "BPC300-C_ SAMPLE ASSEMBLY - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52028-PL"
+    },
+    {
+        "description": "BPC300-C_ SAMPLE ASSEMBLY - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52028-BM"
+    }
+]

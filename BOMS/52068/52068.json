@@ -1,0 +1,32 @@
+[
+    {
+        "description": "450W - 2000W Irem power supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19033"
+    },
+    {
+        "description": "TECHNOMET 19\" 3UX400MM (M6619344)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49215"
+    },
+    {
+        "description": "FRONT PANEL 1UX19\" - (M6019010)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49216"
+    },
+    {
+        "description": "3U 19\" RACK WITH 1U BLANKING PLATE - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52068-BM"
+    },
+    {
+        "description": "3U 19\" RACK WITH 1U BLANKING PLATE - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52068-PL"
+    }
+]

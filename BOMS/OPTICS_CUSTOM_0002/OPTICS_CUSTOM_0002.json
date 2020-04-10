@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Purged ColimatoingTube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44461"
+    },
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "Shortened Purge port pipe connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10119_M1"
+    },
+    {
+        "description": "E2V (Marconi) light source 4\" sphere lens rings",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "27102"
+    },
+    {
+        "description": "25mm Dia. x 38mm FL Uncoated, UV Plano-Convex Lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13949"
+    }
+]

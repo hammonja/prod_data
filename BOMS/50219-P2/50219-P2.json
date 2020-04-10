@@ -1,0 +1,14 @@
+[
+    {
+        "description": "TMC150 HOUSING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50219"
+    },
+    {
+        "description": "MACHINING OPERATION TO PRODUCE 50219-P2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50219-F2"
+    }
+]

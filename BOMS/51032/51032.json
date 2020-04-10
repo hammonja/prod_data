@@ -1,0 +1,98 @@
+[
+    {
+        "description": "TM Grating adjuster (Free issue 17254)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30008"
+    },
+    {
+        "description": "MDC150 grating spacer",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "44137"
+    },
+    {
+        "description": "TURRET MOTOT CLAMPING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48259"
+    },
+    {
+        "description": "TURRET SHAFT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48261"
+    },
+    {
+        "description": "GRATING CARRIER",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "48291"
+    },
+    {
+        "description": "GRATING TOP CLAMP",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "48292"
+    },
+    {
+        "description": "GRATING BOTTOM CLAMP",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "48293"
+    },
+    {
+        "description": "O-RING 100 ID x 1.5 CS NITRILE 70 (DOWTY 206-100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48314"
+    },
+    {
+        "description": "O RING 26 ID x 1.5 CS NITRILE 70 (DOWTY 206-026)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48329"
+    },
+    {
+        "description": "FILTER TOP CLAMP",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "48333"
+    },
+    {
+        "description": "FILTER BOTTOM CLAMP",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "48334"
+    },
+    {
+        "description": "6 m6 x 24 DOWEL PIN STAINLESS STEEL 1.4301 TO ISO 2338",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48352"
+    },
+    {
+        "description": "M3 x 16mm Socket Head Stainless Steel",
+        "location": "",
+        "quantity": "18.00",
+        "stockcode": "99076"
+    },
+    {
+        "description": "M3 Plain Washer Stainless Steel",
+        "location": "",
+        "quantity": "15.00",
+        "stockcode": "99232"
+    },
+    {
+        "description": "M6x20 SCREW CAP HEAD HEX SOCKET A2 STAINLESS",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99320"
+    },
+    {
+        "description": "M6x25 Screw Cap Heah Hex Socket A2 Stainless Steel",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99323"
+    }
+]

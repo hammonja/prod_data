@@ -1,0 +1,14 @@
+[
+    {
+        "description": "TMC CASTING MACHINED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P37"
+    },
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 30123-P34",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-F34"
+    }
+]

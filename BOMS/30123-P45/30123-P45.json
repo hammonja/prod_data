@@ -1,0 +1,14 @@
+[
+    {
+        "description": "TM300 box casting, machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123P"
+    },
+    {
+        "description": "MACHINING OPERATION TO PRODUCE 30123-P45",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-F45"
+    }
+]

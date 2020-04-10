@@ -1,0 +1,7 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|19033|450W - 2000W Irem power supply|1.00||
+|49215|TECHNOMET 19" 3UX400MM (M6619344)|1.00||
+|49216|FRONT PANEL 1UX19" - (M6019010)|1.00||
+|52068-BM|3U 19" RACK WITH 1U BLANKING PLATE - BUILD MANUAL|1.00||
+|52068-PL|3U 19" RACK WITH 1U BLANKING PLATE - PARTS LIST|1.00||

@@ -1,0 +1,32 @@
+[
+    {
+        "description": "PV-SS6-MCP Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50005"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "PV SS chuck Probe (Miller quote # 2012-228) Right Hand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44302-R"
+    },
+    {
+        "description": "Test needle for 44302 (10 off @ $9)",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "44302-1"
+    },
+    {
+        "description": "5\" straight test arm for 44302 (2 off @ $41)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44302-2"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "M3 plastic thumb nut with brass thread insert",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19330"
+    },
+    {
+        "description": "Machined Timing Pulley",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30045_M2"
+    },
+    {
+        "description": "Belt for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43392"
+    },
+    {
+        "description": "BPC300 MOTORISED POLARIZATION LENS MOUNT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45872"
+    },
+    {
+        "description": "BPC300 MOTORISED MOUNT HUB ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45876"
+    },
+    {
+        "description": "BPC300 MOTORISED LENS MOUNT RING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45878"
+    },
+    {
+        "description": "BPC300 POLARISATION MOUNT MOTOR BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45879"
+    },
+    {
+        "description": "BPC300 MOTORISED LENS MOUNT SPLASH GUARD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45880"
+    },
+    {
+        "description": "BPC300 POLARISATION MOUNT LENS CLAMP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45889"
+    },
+    {
+        "description": "Thermometer Stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46492"
+    },
+    {
+        "description": "Stepper Motor NEMA11 0.67A 12N/cm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46914"
+    },
+    {
+        "description": "W61810ZZ - 440SS DEEP GROVE BALL BARING 50x65x7mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49174"
+    },
+    {
+        "description": "BPC300 MOTORIZED LENS MOUNT MAIN UPRIGHT MK.2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49179"
+    },
+    {
+        "description": "BPC300 SAMPLE HOLDER 0002 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50296-BM"
+    },
+    {
+        "description": "RS 744-558 TIMING PULLEY 60 TOOTH MACHINED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "60169-P1"
+    }
+]

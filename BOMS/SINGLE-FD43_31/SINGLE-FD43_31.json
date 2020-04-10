@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Silicon detector (FC320Si)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09106"
+    },
+    {
+        "description": "Connector BNC socket (Radial R141404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10065"
+    },
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "FC320 Pivot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "12107"
+    },
+    {
+        "description": "FC320 clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12109"
+    },
+    {
+        "description": "Shutter RH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17431-2"
+    },
+    {
+        "description": "DFH plinth",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17432"
+    },
+    {
+        "description": "DFH lid-2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17434"
+    },
+    {
+        "description": "DFH base 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17436"
+    },
+    {
+        "description": "DFH pivot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17438"
+    },
+    {
+        "description": "Stud M3x15 Stainless steel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19099"
+    },
+    {
+        "description": "Bare fibre holder (Newport)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19106"
+    },
+    {
+        "description": "Washer crinkle M5 copper",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19157"
+    }
+]

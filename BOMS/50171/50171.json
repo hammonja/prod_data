@@ -1,0 +1,44 @@
+[
+    {
+        "description": "IS4C FLANGE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13082"
+    },
+    {
+        "description": "IS4C TUBE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13083"
+    },
+    {
+        "description": "Trap Port",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13090"
+    },
+    {
+        "description": "DTR6_0001 BACK HEMISPHERE UNPAINTED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13484_P4"
+    },
+    {
+        "description": "M3 x 8 socket button head stainless steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99246"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Button Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99250"
+    },
+    {
+        "description": "50171 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50171-BM"
+    }
+]

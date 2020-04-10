@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Hall Sensor Board for FTMc50 Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15148"
+    },
+    {
+        "description": "SS443A  SENSOR, HALL EFFECT, 140G, UNIPOLAR",
+        "location": "U1",
+        "quantity": "1.00",
+        "stockcode": "04060"
+    },
+    {
+        "description": "RESISTOR, 10K, 0.125W, 1%",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02288"
+    }
+]

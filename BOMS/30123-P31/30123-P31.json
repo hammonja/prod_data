@@ -1,0 +1,14 @@
+[
+    {
+        "description": "MACHINED CASTING 1 FOR CUSTOM DTMC300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P29"
+    },
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 30123-P31",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-F31"
+    }
+]

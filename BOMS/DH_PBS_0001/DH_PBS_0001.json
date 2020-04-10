@@ -1,0 +1,110 @@
+[
+    {
+        "description": "100K MRS25",
+        "location": "R4",
+        "quantity": "1.00",
+        "stockcode": "02043"
+    },
+    {
+        "description": "1M, MRS25",
+        "location": "R1",
+        "quantity": "1.00",
+        "stockcode": "02053"
+    },
+    {
+        "description": "1M, 1W",
+        "location": "R2",
+        "quantity": "1.00",
+        "stockcode": "02082"
+    },
+    {
+        "description": "Capacitor 0.1uF, 160V, AC polyester",
+        "location": "C1",
+        "quantity": "1.00",
+        "stockcode": "08023"
+    },
+    {
+        "description": "Capacitor 0.47uF, 100V ceramic multi-layer",
+        "location": "C2",
+        "quantity": "1.00",
+        "stockcode": "08087"
+    },
+    {
+        "description": "BNC earth tags for 10028",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10013"
+    },
+    {
+        "description": "connector HV BNC (R316553)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10028"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "PCB Te  (15 day)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15057"
+    },
+    {
+        "description": "IN HOUSE MODIFIED 46847",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46847-P1"
+    },
+    {
+        "description": "BASE GASKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48653"
+    },
+    {
+        "description": "DH-SiPbs-Te body 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48654"
+    },
+    {
+        "description": "DH-SiPbs-Te body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48655"
+    },
+    {
+        "description": "DH_PBS_0001 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51085-BM"
+    },
+    {
+        "description": "DH_PBS_0001 PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51085-PL"
+    },
+    {
+        "description": "M3 x 16 Black Socket Cap Head Screw",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99161"
+    },
+    {
+        "description": "M3 x 3, cone grub, black",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99192"
+    },
+    {
+        "description": "M6x4 Screw Set Flat Point Hex Socket Stainless Steel A2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99330"
+    }
+]

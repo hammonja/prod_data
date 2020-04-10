@@ -1,0 +1,38 @@
+[
+    {
+        "description": "IL1-DC-FAN-UPGRADE Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50140"
+    },
+    {
+        "description": "IL1 fan filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18009"
+    },
+    {
+        "description": "12V fan for CL6 etc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18112"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
+    },
+    {
+        "description": "Lamp cable shrouded to bunch pin (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB5"
+    }
+]

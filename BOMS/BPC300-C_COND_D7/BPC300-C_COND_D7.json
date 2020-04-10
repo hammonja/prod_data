@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Sola system tank detector support bottom plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41437"
+    },
+    {
+        "description": "BPC300-C DETECTOR SUPPORT FRONT PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49159"
+    },
+    {
+        "description": "BPC300-C DETECTOR SUPPORT PLATE CONNECTION BLOCK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49160"
+    },
+    {
+        "description": "BPC300-C DETECTOR SUPPORT PLATE FOR DIFF D7",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49161"
+    },
+    {
+        "description": "HORIZONTAL DIFFUSER (200nm - 1100nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D7_BPC"
+    },
+    {
+        "description": "BPC300-C COND MONO DET_D7",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52048-BM"
+    },
+    {
+        "description": "BPC300-C_COND_D7",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52048-PL"
+    }
+]

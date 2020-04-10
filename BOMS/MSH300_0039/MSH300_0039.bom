@@ -1,0 +1,7 @@
+MSH300_0039,50299,MSH300 SIDE ENT, SIDE EXIT, FS,,0,1.00,,,,,
+MSH300_0039,SA-FSP(0.05),Fixed Slit Assembly with Slit Plate (0.05mm width aperture),,1,2.00,,,,,
+MSH300_0039,SA-FSP(0.10),Fixed Slit Assembly with Slit Plate (0.10mm width aperture),,2,2.00,,,,,
+MSH300_0039,SA-FSP(0.20),Fixed Slit Assembly with Slit Plate (0.20mm width aperture),,3,2.00,,,,,
+MSH300_0039,GA-T312R0U5,Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating,,4,1.00,,,,,
+MSH300_0039,GA-T306R0U5,Grating Assembly with 600g/mm, 500nm Blazed Ruled Grating,,5,1.00,,,,,
+MSH300_0039,MSH300_0039-BM,MSH300_0039 CONFIGURATION,,6,1.00,,,,,

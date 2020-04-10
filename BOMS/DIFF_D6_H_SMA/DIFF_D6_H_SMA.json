@@ -1,0 +1,38 @@
+[
+    {
+        "description": "SMA Connector for Aquila",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17674_M2"
+    },
+    {
+        "description": "Sola system 16mm x 10mm mirror (Al + Mg F2)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19328"
+    },
+    {
+        "description": "O ring 3mm id, 1mm cs (OR3X1NI70-PK200)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19461"
+    },
+    {
+        "description": "Moulded case for diffusers and CL2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25058"
+    },
+    {
+        "description": "Diffuser P.T.F.E Insert 1mm (200-600nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27247"
+    },
+    {
+        "description": "D7-H-SMA Body  including 2 off mirror wedges",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27439"
+    }
+]

@@ -1,0 +1,284 @@
+[
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "TM300 Fixed Slit",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "TM300_FIXED_SLIT"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (3.7mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FSP(3.7)"
+    },
+    {
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "50275"
+    },
+    {
+        "description": "ADAPTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11234"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (5.56mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FSP(5.56)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Square Aperture (0.74mm x 0.74mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FA(0.74)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Square Aperture (1.85mm x 1.85mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FA(1.85)"
+    },
+    {
+        "description": "Aperture to give 1.5mm square image in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45144"
+    },
+    {
+        "description": "Aperture to give 1.5mm x 3mm image in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45145"
+    },
+    {
+        "description": "Aperture to give 1.5mm x 5mm image in PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45146"
+    },
+    {
+        "description": "M300 Fixed Slit Support",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11051"
+    },
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "FLAT MIRROR LOWER HOLE ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50199"
+    },
+    {
+        "description": "FLAT MIRROR ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50200"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "CABLE EXTENDER FOR 9 WAY TYCOS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45998"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "TM300 252 FILTER WHEEL - 6 POSITION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50201"
+    },
+    {
+        "description": "PAINTED CASTING 1 FOR CUSTOM DTMC300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P31"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "PAINTED CASTING 2 FOR CUSTOM DTMC300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P32"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Blanking Plug, Push Mount, 16 mm, Black ( Bag of 100 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19035"
+    },
+    {
+        "description": "ELECTRONICS MONO A1, D1, S1(M3)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50359"
+    },
+    {
+        "description": "Connector port cover (blanking plate)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17390"
+    },
+    {
+        "description": "mains port cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17391"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "TMC300 POWER PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45877"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "DTMC300 SUPERSTRUCTURE BULKHEAD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46897"
+    },
+    {
+        "description": "CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "50198"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T324R0U25"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T306R1U25"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "DTMC300_0027 CONFIGURATION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTMC300_0027-BM"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10221"
+    }
+]

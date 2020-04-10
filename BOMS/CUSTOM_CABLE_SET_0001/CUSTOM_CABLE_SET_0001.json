@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Build Instructions for CUSTOM_CABLE_SET_0001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50112"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "Green shrouded plug (pack of 5)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10222"
+    },
+    {
+        "description": "Blue shrouded plug",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10135"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10125"
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "description": "10K MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "SS443A  SENSOR, HALL EFFECT, 140G, UNIPOLAR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04060"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "MODIFIED 11308P TO SHORTEN WIDTH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11308-P1"
+    },
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "Black PVC 14mm Round Cable Grommet - BAG OF 100",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19884"
+    },
+    {
+        "description": "Magnet for EI sphere (box of 10)",
+        "location": "",
+        "quantity": "19.00",
+        "stockcode": "43663"
+    },
+    {
+        "description": "CONTACT CAROUSEL TOP GUARD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48574"
+    },
+    {
+        "description": "2 PIN IP67 LEMO PLUG (FGN.0F.302.XLC)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48581"
+    },
+    {
+        "description": "LEMO IP67 PLUG 8 PINS (FMN.1M.308.XLC)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48582"
+    },
+    {
+        "description": "BPC300-C CAROUSEL HARD STOP PADDLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48683"
+    },
+    {
+        "description": "BPC300-C SAMPLE WHEEL CAROUSEL OPTO GATE HOLDER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48686"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - BEARING RING",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "49012"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - SAMPLE WHEEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49013"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - GUIDE PINS",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "49014"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - MID PLATE BACK",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "49015"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - BEARING SHOULDER",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "49017"
+    },
+    {
+        "description": "9mm DIAMETER BALL BEARING (4mm BORE, 4mm WIDTH)",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "49018"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - FRONT PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49019"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - BACK PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49020"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - LID",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49021"
+    },
+    {
+        "description": "FLANGE BEARINGS WITH 4 MOUNTING HOLES -6MM BORE DIAMETER",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "49022"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - MID PLATE BUSHING HOUSING",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "49023"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - AXEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49025"
+    },
+    {
+        "description": "LEE SPRING - 6.35mm BORE",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "49026"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - MOTOR BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49027"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - COIL SHAFT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49029"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - COIL HOUSING A",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49030"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - COIL SHAFT 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49031"
+    },
+    {
+        "description": "16mm DIAMETER BALL BEARING (8mm BORE, 5mm WIDTH)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "49032"
+    },
+    {
+        "description": "Constant Force Springs - 25000 Life Cycle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49033"
+    },
+    {
+        "description": "TIMING BELT - RS (778-5082)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49035"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - COIL SHAFT TOP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49039"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL OPTO GATE HOLDER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49040"
+    },
+    {
+        "description": "O-RING (DOWTY 206-029) 29ID x 1.5CS NITRILE 70",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "49041"
+    },
+    {
+        "description": "SAMPLE WHEEL CAROUSEL - COIL HOUSING B",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49099"
+    },
+    {
+        "description": "BPC300-C_CAROUSEL UPPER BLOCK BRACES",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "49107"
+    },
+    {
+        "description": "BPC300-C_CAROUSEL UPPER ROD BRACES",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "49108"
+    },
+    {
+        "description": "Dual Shaft Nema 17 High Torque Stepper",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49109"
+    },
+    {
+        "description": "BPC300-C_CAROUSEL CARRYING HANDLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49113"
+    },
+    {
+        "description": "MODIFIED 49169 TO HAVE M3 HOLE & 5 mm REAMER SHAFT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49169-P1"
+    },
+    {
+        "description": "BPC300-C SAMPLE WHEEL CAROUSEL OPTO FLAG",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49172"
+    },
+    {
+        "description": "BPC300-C CAROUSEL GEAR BOX COVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49181"
+    },
+    {
+        "description": "MODIFIED 49183 TO HAVE M3 HOLE AND 5mm BORE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49183-P1"
+    },
+    {
+        "description": "MODIFIED 49214 TO ENLARGE BORE AND ANODIZE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49214-P1"
+    },
+    {
+        "description": "HUMAN EYE RESPONSE PHOTO DIODE ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52025"
+    },
+    {
+        "description": "BPC300-C_ SAMPLE ASSEMBLY",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "52028"
+    },
+    {
+        "description": "BPC300-C CAROUSEL ND1 FILTER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52055"
+    },
+    {
+        "description": "P-CLIP 6.5mm ID",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99239"
+    },
+    {
+        "description": "P-CLIP 3.2mm ID (1x100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99249"
+    },
+    {
+        "description": "M2.5 WASHER - A4 - SS316",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "99412"
+    },
+    {
+        "description": "M3 WASHER - A4 - SS316",
+        "location": "",
+        "quantity": "30.00",
+        "stockcode": "99413"
+    },
+    {
+        "description": "M4 WASHER  - A4 - SS316",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99414"
+    },
+    {
+        "description": "M5 WASHER - A4 - SS316",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99415"
+    },
+    {
+        "description": "M3 LOW PROFILE NUT  - A4 - SS316",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "99416"
+    },
+    {
+        "description": "M3 x 6mm FLAT SET SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99418"
+    },
+    {
+        "description": "M6 x 12mm FLAT SET SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99419"
+    },
+    {
+        "description": "M2 x 4mm CSK SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99421"
+    },
+    {
+        "description": "M2 x 4mm BUTTON HEAD SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99422"
+    },
+    {
+        "description": "M2.5 x 5mm CAP HEAD SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "99423"
+    },
+    {
+        "description": "M3 x 5mm BUTTON HEAD SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "99425"
+    },
+    {
+        "description": "M3 x 6mm CSK SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "99426"
+    },
+    {
+        "description": "M3 x 8mm CAP HEAD SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "13.00",
+        "stockcode": "99427"
+    },
+    {
+        "description": "M3 x 8mm BUTTON HEAD SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99428"
+    },
+    {
+        "description": "M3 x 10mm CAP HEAD SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "99429"
+    },
+    {
+        "description": "M3 x 16mm CAP HEAD SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99430"
+    },
+    {
+        "description": "M4 x 8mm CAP HEAD SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99431"
+    },
+    {
+        "description": "M4 x 12mm CAP HEAD SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99432"
+    },
+    {
+        "description": "M2 x 6mm CSK SCREW - A4 SS316 - BLACK",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99435"
+    },
+    {
+        "description": "M3 Hexagon Nylon Locking Nuts - A4 SS316",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99437"
+    },
+    {
+        "description": "M3 X 6mm Full Thread Cap Head Screws (DIN 912) - A4 Stainles",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "99439"
+    },
+    {
+        "description": "M2.5 Hexagon Nylon Locking Nuts (DIN 985) - A4 Stainless Ste",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "99440"
+    },
+    {
+        "description": "M2.5 X 8mm Full Thread Cap Head Screws (DIN 912) - A4 Stain",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "99441"
+    },
+    {
+        "description": "6mm (M6) X 14mm Dowel Pins (DIN 7) - A4 Stainless Steel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99442"
+    },
+    {
+        "description": "M3 X 45mm Cap Head Screws (DIN 912) - A4 Stainless Steel",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99444"
+    },
+    {
+        "description": "M3 X 12mm Full Thread Cap Head Screws (DIN 912) - A4 Stainle",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99445"
+    },
+    {
+        "description": "M2.5 X 6mm Cup Point Set / Grub Screws (DIN 916) - A4 SS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99447"
+    },
+    {
+        "description": "M4 X 8mm Cup Point Set / Grub Screws (DIN 916) - A4 Stainles",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99449"
+    },
+    {
+        "description": "BPC300-C SAMPLE WHEEL CAROUSEL- BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52008-BM"
+    },
+    {
+        "description": "BPC300-C SAMPLE WHEEL CAROUSEL - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52008-PL"
+    },
+    {
+        "description": "BPC300-C SAMPLE HOLDER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52054"
+    }
+]

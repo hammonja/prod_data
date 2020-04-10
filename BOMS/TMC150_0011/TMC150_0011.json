@@ -1,0 +1,140 @@
+[
+    {
+        "description": "Slit MVSS RightHand",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_MVSS_RH"
+    },
+    {
+        "description": "TMC150 PLAIN MIRROR",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50222"
+    },
+    {
+        "description": "Compact Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM150_TURRET_DSPIN"
+    },
+    {
+        "description": "MDC150 grating stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44133"
+    },
+    {
+        "description": "TMC150 252 6 POS FILTER WHEEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50220"
+    },
+    {
+        "description": "TMC150 HOUSING PAINTED BENTHAM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50219-P1"
+    },
+    {
+        "description": "16mm HOLE BLANKING PLUG (PK 25)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45783"
+    },
+    {
+        "description": "MDC150 Bottom Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44118"
+    },
+    {
+        "description": "Small round rubber feet (bag of 56)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19112"
+    },
+    {
+        "description": "ELECTRONICS MONO150 A1, D1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50310"
+    },
+    {
+        "description": "TMC150 CONNECTOR PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45811"
+    },
+    {
+        "description": "MDC150 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44128"
+    },
+    {
+        "description": "MDC150 exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44129"
+    },
+    {
+        "description": "TMC150 CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50221"
+    },
+    {
+        "description": "Grating Assembly with 1800g/mm, 400nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA1-G1518R0U4"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 750nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA2-G1512R0U75"
+    },
+    {
+        "description": "UG5, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG5"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG11"
+    },
+    {
+        "description": "HOYA UV-34 25mm diameter, 2mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS380"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "TMC150_0010 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC150_0011-BM"
+    }
+]

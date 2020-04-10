@@ -1,0 +1,14 @@
+[
+    {
+        "description": "DTR6_0001 BACK HEMISPHERE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50171"
+    },
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 50171_P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50171-F1"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Pcb for slit limit assy",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15108"
+    },
+    {
+        "description": "Pcb for motor sensor in TMS slit drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15109"
+    },
+    {
+        "description": "Base plate for TMS slit drive assy",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "43437"
+    },
+    {
+        "description": "DTMS_SLIT_DRIVE Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50039"
+    }
+]

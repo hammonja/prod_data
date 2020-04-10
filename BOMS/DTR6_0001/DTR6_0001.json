@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Thumb screw M3 x 5 DYED BLACK",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "13051"
+    },
+    {
+        "description": "DTR6 White cover cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13092_P1"
+    },
+    {
+        "description": "SAMPLE SPRING LONG",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13113"
+    },
+    {
+        "description": "UMS carrier (was 146-1365)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43157"
+    },
+    {
+        "description": "Rail for UMS (OBT-300SUU)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43158"
+    },
+    {
+        "description": "UMS optics clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43159"
+    },
+    {
+        "description": "DTR6_0001 CALMP STAND",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44523"
+    },
+    {
+        "description": "DTR6_0001 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50169"
+    },
+    {
+        "description": "PAINTED DTR6_0001 FRONT HEMIPSHERE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50170_P1"
+    },
+    {
+        "description": "PAINTED DTR6_0001 BACK HEMISPHERE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50171_P1"
+    },
+    {
+        "description": "M6 x 12, socket cap, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99211"
+    },
+    {
+        "description": "M4 x 10 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99355"
+    },
+    {
+        "description": "Light trap for DTR6",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTR6_LIGHT_TRAP"
+    }
+]

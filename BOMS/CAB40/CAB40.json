@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Amphenol 5-way plugs",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10039"
+    },
+    {
+        "description": "CAB40 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50422-BM"
+    },
+    {
+        "description": "H30 rubber sleeve (pack of 500)",
+        "location": "Kit 2 sleeves per cable",
+        "quantity": "0.01",
+        "stockcode": "99015"
+    },
+    {
+        "description": "H12 rubber sleeve (pack of 500)",
+        "location": "Kit 2 sleeves per cable",
+        "quantity": "0.01",
+        "stockcode": "99018"
+    },
+    {
+        "description": "4 core screened cable,7x0.2mm 100m",
+        "location": "Kit 2.1m per cable ",
+        "quantity": "0.02",
+        "stockcode": "99067"
+    }
+]

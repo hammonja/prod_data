@@ -1,0 +1,4 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|11025|M300 Plain mirrors 30x25x3mm.  UV-AL coating|1.00||
+|11025-F1|Recoating Operation to Produce 11025-P1|1.00||

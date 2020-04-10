@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Thin cable BNC to BNC cable, 400mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB15"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 560mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB16"
+    },
+    {
+        "description": "HV-BNC to HV-BNC,  570mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB18"
+    }
+]

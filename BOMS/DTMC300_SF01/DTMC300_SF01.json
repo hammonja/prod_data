@@ -1,0 +1,92 @@
+[
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "TM300 sam blanking plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30127"
+    },
+    {
+        "description": "Standard TM300 casting in Bentham colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_TM300"
+    },
+    {
+        "description": "Standard TM300 casting in Bentham colours with ILD output",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_TM300_ILD"
+    },
+    {
+        "description": "Double Monochromator Common Base components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DOUBLE_MONO_BASE"
+    },
+    {
+        "description": "Double Monochromator Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DOUBLE_MONO_COMMON_PARTS"
+    },
+    {
+        "description": "DTMC300 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTMC300_COMMON_PARTS"
+    },
+    {
+        "description": "Fixed Slit Box, Back & Lid, No Slit Carries.",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "SLIT_FSS"
+    },
+    {
+        "description": "252 filter wheel for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 Filter Drive Chip Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_FILTER_DRIVE_PARTS"
+    },
+    {
+        "description": "Exit sam for TM300 or TMc300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_SAM-EXIT"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET"
+    }
+]

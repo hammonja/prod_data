@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Bentham DTMS300 Monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BENTHAM_DTMS300_SF01"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Grating Assembly with 1800g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T318R0U5"
+    },
+    {
+        "description": "Grating Assembly with 830g/mm, 1200nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3083R1U2"
+    },
+    {
+        "description": "Grating Assembly with 400g/mm, 1600nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T304R1U6"
+    }
+]

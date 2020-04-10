@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Lamp Holder for 10W Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13063"
+    },
+    {
+        "description": "10W Grit Blasted Quartz-Halogen Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17900"
+    },
+    {
+        "description": "CAL_CL2_MK.2 - (10w & 20w) ADAPTER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49199"
+    },
+    {
+        "description": "M3 x 16 Black Socket Cap Head Screw",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99161"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "CAL_CL2_MK.2 - COMMON PARTS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_CL2_MK.2"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "description": "InSb photovoltaic detector 3mm diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09183"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "Felt pad (pack of 4) (EAN 3206409 from B&Q)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19596"
+    },
+    {
+        "description": "DH_INSB_3_0001 BODY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44633"
+    },
+    {
+        "description": "DH_INSB_3_0001 MIRROR MOUNT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44634"
+    },
+    {
+        "description": "DH_INSB_3_0001 TABLE BASE",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44636"
+    },
+    {
+        "description": "DH_INSB_3_0001 TABLE LEG",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "44638"
+    },
+    {
+        "description": "DH_INSB_3_0001 SUPPORT PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44639"
+    },
+    {
+        "description": "DH_INSB_3_0001 CLAMP PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44640"
+    },
+    {
+        "description": "DH_INSB_3_0001 DUST CAP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44641"
+    },
+    {
+        "description": "DH_INSB_3_0001 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50392-BM"
+    },
+    {
+        "description": "DH_INSB_3_0001 Parts List",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50392-PL"
+    }
+]

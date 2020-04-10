@@ -1,0 +1,200 @@
+[
+    {
+        "description": "Toroid for PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19489"
+    },
+    {
+        "description": "TM300 grating spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30007"
+    },
+    {
+        "description": "TM Grating adjuster (Free issue 17254)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30008"
+    },
+    {
+        "description": "PV divert mirror plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43234"
+    },
+    {
+        "description": "PV divert mirror holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43235"
+    },
+    {
+        "description": "PV divert mirror (100x70x3)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43236"
+    },
+    {
+        "description": "PV bias source clamp",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43260"
+    },
+    {
+        "description": "PV toroidal mirror mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43305"
+    },
+    {
+        "description": "Heriot Watt fibre holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43312"
+    },
+    {
+        "description": "PV mirror retaining block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43443"
+    },
+    {
+        "description": "PVE300 GLOVEBOX DIVERT MIRROR MOUNT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45729"
+    },
+    {
+        "description": "PVE300 GLOVEBOX PRIMARY MOUNTING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45730"
+    },
+    {
+        "description": "PVE300 MONOCHROMATOR MOUNTING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45731"
+    },
+    {
+        "description": "PVE300 GLOVEBOX PRIMARY BRACKET",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45732"
+    },
+    {
+        "description": "PVE300 GLOVEBOX PRIMARY MOUNT SPINE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45733"
+    },
+    {
+        "description": "PVE300 GLOVEBOX LIGHT TIGHT COVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45735"
+    },
+    {
+        "description": "PVE300 GLOVEBOX MONOCHROMATOR BASE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45736"
+    },
+    {
+        "description": "PVE300 GLOVEBOX MOUNTING BRACKET",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45738"
+    },
+    {
+        "description": "PVE300 GLOVEBOX LIGHT TUBE INNER TOPHAT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45739"
+    },
+    {
+        "description": "PVE300 GLOVEBOX LIGHT TUBE OUTER TOPHAT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45740"
+    },
+    {
+        "description": "NITRILE O RING OD 37.82x1.78",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45742"
+    },
+    {
+        "description": "NITRILE O RING OD 152.07x2.62",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45743"
+    },
+    {
+        "description": "PVE300 GLOVEBOX LIGHT TUBE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45744"
+    },
+    {
+        "description": "NITRILE O RING 66.4x1.78",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45745"
+    },
+    {
+        "description": "PVE300 GLOVEBOX T BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45747"
+    },
+    {
+        "description": "PVE300 GLOVEBOX ANGLE MOUNT BLOCK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45748"
+    },
+    {
+        "description": "PVE300 GLOVEBOX CORNER MOUNT",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45749"
+    },
+    {
+        "description": "PVE300 MIRROR MOUNTING DOWEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45750"
+    },
+    {
+        "description": "PVE300 GLOVEBOX MIRROR MOUNT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45751"
+    },
+    {
+        "description": "PVE300 GLOVEBOX COVER SIDE BRACKET",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45753"
+    },
+    {
+        "description": "PVE300 GLOVEBOX COVER END BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45754"
+    },
+    {
+        "description": "TABLE FOOT M6 THREAD",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45755"
+    },
+    {
+        "description": "PV Mirror Cover (1.5mm 6082)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44102"
+    }
+]

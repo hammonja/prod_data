@@ -1,0 +1,164 @@
+[
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "KYCON 4 PIN PANEL MOUNT CONNECTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10059"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "M3 x 8mm Spacer Pillar",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "15083"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "SAM Driver Relay PCB (Assembled 2 Relay)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15130_M2"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TMC Casting Machined & Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123_M14_P1"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "DUAL DSPIN PCB Mounting Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45650"
+    },
+    {
+        "description": "LED CLIP, 3MM, PK50",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99060"
+    },
+    {
+        "description": "Slit MVSS RightHand",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_MVSS_RH"
+    },
+    {
+        "description": "1\" version of 252 Filter Wheel for TM300 - 6 Position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252_DSPIN_IMPERIAL"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "Exit sam for TM300 or TMc300 - 24 Volts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_SAM-EXIT-24"
+    },
+    {
+        "description": "TM300 Turret for QC Grating Carriers",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_QC_DSPIN"
+    }
+]

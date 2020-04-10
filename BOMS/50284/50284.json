@@ -1,0 +1,62 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Amphenol  5-way socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10038"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "Coupler holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17001"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "Motor with end cap and 150mm long leads",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18007"
+    },
+    {
+        "description": "Internal chopper mounting block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41522"
+    }
+]

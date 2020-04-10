@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Gear, 30T, MOD 0.5, Hostaform",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47077"
+    },
+    {
+        "description": "Machining Operation to Produce 47077-P2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47077-F2"
+    }
+]

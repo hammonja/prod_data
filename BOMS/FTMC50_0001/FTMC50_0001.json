@@ -1,0 +1,44 @@
+[
+    {
+        "description": "FTMc50 COMMON PARTS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50230"
+    },
+    {
+        "description": "Grating Assembly with 235.8g/mm, 1.31um Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T5002358R1U31"
+    },
+    {
+        "description": "Grating Assembly with 900g/mm, 300nm Blazed Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T5009R0U3"
+    },
+    {
+        "description": "Grating Assembly with 900g/mm, 600nm Blazed Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T5009R0U6"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400_D30"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700_D30"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250_D30"
+    }
+]

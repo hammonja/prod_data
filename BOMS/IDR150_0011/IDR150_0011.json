@@ -1,0 +1,20 @@
+[
+    {
+        "description": "IDR150 VSS, 6P FW, Front entrance, Back exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR150_SF05"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-G1524H0U25"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    }
+]

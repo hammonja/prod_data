@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Modified LASCAR board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18006_M1"
+    },
+    {
+        "description": "Machined Power Supply Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18023_M1"
+    },
+    {
+        "description": "Power connector for ORM psu",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18124"
+    },
+    {
+        "description": "Sleeved Grommets (bag of 50)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19019"
+    },
+    {
+        "description": "Mains cable - British plug connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23011"
+    },
+    {
+        "description": "PSU_5V_PHTH Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50120"
+    }
+]

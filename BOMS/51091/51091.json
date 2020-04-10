@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Small round rubber feet (bag of 56)",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "19112"
+    },
+    {
+        "description": "FTMc77-HS-MONO-EX BASE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48705"
+    },
+    {
+        "description": "FTMc77-HS-MONO-EX BASE ASSEMBLY BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51091-BM"
+    },
+    {
+        "description": "FTMc77-HS-MONO-EX BASE ASSEMBLY PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51091-PL"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "description": "Si photodiode. 2.4mm x 2.4mm. Quartz window",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09004"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "SMA bulkhead socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10179"
+    },
+    {
+        "description": "SMA cable plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10202"
+    },
+    {
+        "description": "IS6 BACK HEMI SPHERE PAINTED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13484_M1_P1"
+    },
+    {
+        "description": "IS6 FRONT HEMI-SPHERE PAINTED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13484_M2_P1"
+    },
+    {
+        "description": "Ninewells sphere detector mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43343"
+    },
+    {
+        "description": "Ninewells sphere detector insulator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43344"
+    },
+    {
+        "description": "IS6 Internal Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44512"
+    },
+    {
+        "description": "IS6 OUTPORT COVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44514"
+    },
+    {
+        "description": "IS6 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50154"
+    },
+    {
+        "description": "Sealing strip for integrating spheres",
+        "location": "DO NOT KIT",
+        "quantity": "0.05",
+        "stockcode": "99100"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Button Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99250"
+    }
+]

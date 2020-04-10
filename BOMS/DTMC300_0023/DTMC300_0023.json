@@ -1,0 +1,86 @@
+[
+    {
+        "description": "DTMC300 COMPACT COMMON PARTS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50253"
+    },
+    {
+        "description": "SA-FSP (2x2) FIXED SLIT PLATE 2mm x 2mm APERTURE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50254"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-SUB-T306R1U25"
+    },
+    {
+        "description": "Subtractive Grating Assy with 600g/mm, 1900nm Blazed Ruled",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-SUB-T306R1U9"
+    },
+    {
+        "description": "Subtractive Grating Assy with 1200g/mm, 500nm Blazed Ruled",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-SUB-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U25"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1900nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U9"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.85mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(1.85)"
+    },
+    {
+        "description": "WIRING DIAGRAM MONO A1, D1, S1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50276-BM"
+    }
+]

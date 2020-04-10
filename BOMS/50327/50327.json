@@ -1,0 +1,92 @@
+[
+    {
+        "description": "M300 microswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11001"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "UNISLIDE SHORTENED TO 60mm FOR SLAM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11271-P1"
+    },
+    {
+        "description": "Microswitch plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11349"
+    },
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "Timing belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30044"
+    },
+    {
+        "description": "Machined Timing Pulley",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30045_M2"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TEL309 motor bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43373"
+    },
+    {
+        "description": "UNISLIDE MIRROR BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45999"
+    },
+    {
+        "description": "LINEAR SLIDE MIRROR BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46869"
+    },
+    {
+        "description": "(PK 2) 3.175mm ID 5mm OD BORE REDUCER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46871"
+    },
+    {
+        "description": "Lemo, 8 way, chassis socket, green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10288"
+    },
+    {
+        "description": "SLAM (SLIDE AWAY MIRROR) 45° FRONT FACING BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50327-BM"
+    }
+]

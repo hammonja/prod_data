@@ -1,0 +1,122 @@
+[
+    {
+        "description": "51094 PAINTED PHP 90 POWDER COAT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51094-P1"
+    },
+    {
+        "description": "PAINTED 13096-P3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13096-P4"
+    },
+    {
+        "description": "FSM150Xe Iris",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19320"
+    },
+    {
+        "description": "Bosch 20mm extrusion bracket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19344"
+    },
+    {
+        "description": "Bosch 6mm groove M4 'T' nut",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "19346"
+    },
+    {
+        "description": "Bosch 20mm extrusion end cap (each)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19347"
+    },
+    {
+        "description": "M6 taptite screw",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19421"
+    },
+    {
+        "description": "ULS frame, 3842-992-888 x 275mm 20 x 20",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41611"
+    },
+    {
+        "description": "SRS12 Bosch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43114"
+    },
+    {
+        "description": "PAINTED TRIMITE 48546",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48546-P1"
+    },
+    {
+        "description": "LIGHT SOURCE TABLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48548"
+    },
+    {
+        "description": "IL1 SUPPORT PLATE",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48549"
+    },
+    {
+        "description": "DETECTOR MOUNTING FLANGE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48551"
+    },
+    {
+        "description": "SRS12 BOSCH",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48552"
+    },
+    {
+        "description": "VL-3701 HOLDER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48576"
+    },
+    {
+        "description": "M4 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99457"
+    },
+    {
+        "description": "SRS8 - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51060-BM"
+    },
+    {
+        "description": "M4 x 6 SKT BTN HD STST A2",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99957"
+    },
+    {
+        "description": "M4x6 Screw Cap Head Hex Socket Stainless Steel A2",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99332"
+    },
+    {
+        "description": "M3 x 30 SKT CAP HD STST A2",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "99958"
+    }
+]

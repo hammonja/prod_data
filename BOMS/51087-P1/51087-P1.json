@@ -1,0 +1,14 @@
+[
+    {
+        "description": "TURRET BOX",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51087"
+    },
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 51087-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51087-F1"
+    }
+]

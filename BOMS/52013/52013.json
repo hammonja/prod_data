@@ -1,0 +1,404 @@
+[
+    {
+        "description": " ",
+        "location": " ",
+        "quantity": "0.00",
+        "stockcode": " "
+    },
+    {
+        "description": "T switch in series with Pelts. on E-box",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "07055"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "BNC bulkhead connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10197"
+    },
+    {
+        "description": "25 way D plug + 3 x 20A connections",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10210"
+    },
+    {
+        "description": "20A Straight plug Power 'D'",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10212"
+    },
+    {
+        "description": "Lemo, 8 way, chassis socket, green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10288"
+    },
+    {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19002"
+    },
+    {
+        "description": "BPC300 HEAT PUMP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19223"
+    },
+    {
+        "description": "Sola system Bulkhead connector 1/8\" BSP",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19348"
+    },
+    {
+        "description": "Sola system 1/8\" BSP straight stem conector",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19350"
+    },
+    {
+        "description": "Brass hose tail 1/4\" BSP, 3/8\" ID hose",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19392"
+    },
+    {
+        "description": "Nylon hose clip",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19566"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "Edinburgh Instruments TM300 Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30194"
+    },
+    {
+        "description": "PINET TORQUE HINGE (RS NO 407-7391)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48414"
+    },
+    {
+        "description": "BPC300-C ENCLOSURE BODY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48520"
+    },
+    {
+        "description": "SPLASH GUARD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48521"
+    },
+    {
+        "description": "BPC300-C ENCLOSURE LID",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48525"
+    },
+    {
+        "description": "BPC300-C ENCLOSURE LID GASKET 2 metres",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48526"
+    },
+    {
+        "description": "MISUMI HANDLE (UHFNEA 160)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48530"
+    },
+    {
+        "description": "COLLIMATOR SEALING FLANGE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48531"
+    },
+    {
+        "description": "SPHERE SEALING FLANGE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48532"
+    },
+    {
+        "description": "IP68 RATED 8 PIN LEMO CONNECTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48534"
+    },
+    {
+        "description": "COLLIMATOR SEALING FLANGE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48536"
+    },
+    {
+        "description": "BPC300-C ENCLOSURE LID SEALING SPACER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48568"
+    },
+    {
+        "description": "LID STOPPER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48579"
+    },
+    {
+        "description": "2 PIN IP67 LEMO PANEL SOCKET (EHN.0F.302.XLM)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48580"
+    },
+    {
+        "description": "CAROUSEL STORAGE TRAY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48585"
+    },
+    {
+        "description": "CAROUSEL HOLDERS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48586"
+    },
+    {
+        "description": "COLLIMATOR SEALING FLANGE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48656"
+    },
+    {
+        "description": "BPC300-C TOP PLATE COVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48753"
+    },
+    {
+        "description": "BPC300-C_ENCLOSURE-REAR PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49050"
+    },
+    {
+        "description": "O-RING (ID 28mm x CS 1.5mm) - (DOWTY - 206-028)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49114"
+    },
+    {
+        "description": "O-RING (ID 23.52mm x CS 1.78mm) - (DOWTY - 200-021)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49115"
+    },
+    {
+        "description": "O-RING (ID 48mm x CS 1.5mm) - (DOWTY - 206-048)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49116"
+    },
+    {
+        "description": "O-RING (ID 85mm x CS 1.5mm) - (DOWTY - 206-085)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49118"
+    },
+    {
+        "description": "O-RING (ID 82.27mm x CS 1.78mm) - (DOWTY - 200-042)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49119"
+    },
+    {
+        "description": "RS PRO M20 Cable Gland With Locknut, Nylon, IP68 (PACK OF 5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49212"
+    },
+    {
+        "description": "Crimp 0.25 inch",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99039"
+    },
+    {
+        "description": "M3 x 10, socket cap, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99048"
+    },
+    {
+        "description": "M3 x 10 button head, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99122"
+    },
+    {
+        "description": "M5 x 16 socket cap, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99171"
+    },
+    {
+        "description": "M3 x 6 Black, csk, pozi",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99179"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "M3 x 35 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99187"
+    },
+    {
+        "description": "6.3mm flag receptacle Insulating sleeve",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99201"
+    },
+    {
+        "description": "M3 Plain Washer Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99232"
+    },
+    {
+        "description": "M3 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99247"
+    },
+    {
+        "description": "M3 Stainless Steel Nyloc Nut",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99262"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Socket Grub Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99276"
+    },
+    {
+        "description": "M3 x 5 Stailess Steel Button Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99277"
+    },
+    {
+        "description": "6mm Spade Terminal - Female - Crimp - Right Angle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99288"
+    },
+    {
+        "description": "M2.5 NUT HEX A2 STAINLESS STEEL",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99318"
+    },
+    {
+        "description": "FRD1-156, 22 AWG, 16 AWG, 1.25 mm², Female Bullet",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99325"
+    },
+    {
+        "description": "MPD Series, 22 AWG, 16 AWG, 1.25 mm², Male Bullet (pk 100)",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99326"
+    },
+    {
+        "description": "M4 x 16 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99365"
+    },
+    {
+        "description": "M4 x 8mm CAP HEAD SCREW - A4 - SS316",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99431"
+    },
+    {
+        "description": "M4 Stainless Steel Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99451"
+    },
+    {
+        "description": "M4 x 10 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99454"
+    },
+    {
+        "description": "M4 Oversize Washers M4x12 x1.2",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99462"
+    },
+    {
+        "description": "M2.5 x 16 cap head black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99568"
+    },
+    {
+        "description": "M2.5  Washer  S/S",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99759"
+    },
+    {
+        "description": "BPC300-C_ENCLOSURE - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52013-BM"
+    },
+    {
+        "description": "BPC300-C_ENCLOSURE - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52013-PL"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "TMc150 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC150"
+    },
+    {
+        "description": "MSH150 Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46119"
+    },
+    {
+        "description": "MSH150 Painted Housing with Purge Port",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH150_HOUSING_PPT"
+    },
+    {
+        "description": "Purge connector for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10286"
+    }
+]

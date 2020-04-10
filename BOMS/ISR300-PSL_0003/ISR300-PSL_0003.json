@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Photobiological safety of lamps measurement wizard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BENPSL-WIZARD"
+    },
+    {
+        "description": "Windows spectroradiometer control software",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BENWIN_PLUS"
+    },
+    {
+        "description": "USB cable,  2m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB-USB"
+    },
+    {
+        "description": "Luminance standard, 300mm sphere.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_SRS12"
+    },
+    {
+        "description": "Spectral Radiance Calibration 300-800nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CALIBRATION-SRS-300-800"
+    },
+    {
+        "description": "End window uncooled housing with S20 pmt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_3_S20"
+    },
+    {
+        "description": "Silicon photodiode, 10x10mm active area (200-1100nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_SI"
+    },
+    {
+        "description": "UV grade fused silica fibre bundle (200-1350nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FOP-UV-2-1000"
+    },
+    {
+        "description": "ISR300 Spectroradiometer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ISR300_0013"
+    },
+    {
+        "description": "Cable Set for ISR300 PSL Systems",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ISR300-PSL-SYSTEM-CABLE-SET"
+    },
+    {
+        "description": "Programmable Constant Current Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_610"
+    },
+    {
+        "description": "Direct view, fibre coupled telescope",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TEL310"
+    }
+]

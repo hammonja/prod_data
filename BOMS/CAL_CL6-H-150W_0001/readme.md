@@ -1,0 +1,22 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|10002|Black 4mm socket|1.00||
+|10003|Red 4mm socket|1.00||
+|10097|3 way cable socket|1.00||
+|13035|Lamp holder|1.00||
+|17288_P1|CL6 Cal Lamp Tube|1.00||
+|17290_P1|CL6 Cal Clamp Tube|1.00||
+|17291|CAL-Lamp Spacer|2.00||
+|17292|Cal-Lamp Lamp Plate|1.00||
+|17293|Cal-Lamp Clamp Plate|1.00||
+|17294|CL6 Cover|1.00||
+|17357|CL6 H End Plate|1.00||
+|17905|150W Grit Blasted Quartz-Halogen Lamp|1.00||
+|18044|80mm fan finger guard|1.00||
+|18112|12V fan for CL6 etc|1.00||
+|22007|FOOT, PUSH-IN 7.2MM  BLACK|4.00||
+|27357_P1|CL6 Cal Lamp Clamp Tube|1.00||
+|50092|CAL_CL6-H Build Manual|1.00||
+|50145|CAL_CL6-H-150W_0001 Build Manual|1.00||
+|CAB5|Lamp cable shrouded to bunch pin (1.8m long)|1.00||
+|CAB8|Fan cable for CL6 etc (1.8m long)|1.00||

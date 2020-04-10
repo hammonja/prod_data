@@ -1,0 +1,170 @@
+[
+    {
+        "description": "LSH102 - Baseplate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45484"
+    },
+    {
+        "description": "LSH102 - Side Left",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45485"
+    },
+    {
+        "description": "LSH102 - Side Right",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45490"
+    },
+    {
+        "description": "LSH102 - Rear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45491"
+    },
+    {
+        "description": "LSH102 - Front",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45492"
+    },
+    {
+        "description": "LSH102 - Corner Front",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45493"
+    },
+    {
+        "description": "LSH102 - Corner Rear Right",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45494"
+    },
+    {
+        "description": "LSH102 - Corner Rear Left",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45495"
+    },
+    {
+        "description": "LSH102 - Top Plate - Small",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45496"
+    },
+    {
+        "description": "LSH102 - Top Plate - Large",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45497"
+    },
+    {
+        "description": "LSH102 - Lamp Base - Bottom",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45498"
+    },
+    {
+        "description": "LSH102 - Lamp Base - Top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45499"
+    },
+    {
+        "description": "LHS102 - Lamp Holder - Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45500"
+    },
+    {
+        "description": "LSH102 - Spindle - Long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45503"
+    },
+    {
+        "description": "LSH102 - Spindle - Short",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45504"
+    },
+    {
+        "description": "LSH102 - Lock Pin",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45505"
+    },
+    {
+        "description": "LSH102 - Spacer - 7mm",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "45506"
+    },
+    {
+        "description": "LSH102 - Spindle Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45507"
+    },
+    {
+        "description": "LSH102 - Slide (Vertical Movement)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45508"
+    },
+    {
+        "description": "LSH102 - Foot",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45510"
+    },
+    {
+        "description": "LSH102 - Sprung Plunger",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "45534"
+    },
+    {
+        "description": "LSH102 - Spring 22mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45535"
+    },
+    {
+        "description": "LSH102 - Spring 28mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45536"
+    },
+    {
+        "description": "LSH102 - Pin 1mm Diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45537"
+    },
+    {
+        "description": "LSH102 - Knob Black/Silver",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45538"
+    },
+    {
+        "description": "LSH102 - Bush 5mmID 8mmOD 10mmLength",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45539"
+    },
+    {
+        "description": "LSH102 - M8 Dowel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45542"
+    },
+    {
+        "description": "LSH102 - M5 Dowel x 45mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45544"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "description": "IS8 Baseplate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13036"
+    },
+    {
+        "description": "Machining Operation to Produce 13036-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13036-F1"
+    }
+]

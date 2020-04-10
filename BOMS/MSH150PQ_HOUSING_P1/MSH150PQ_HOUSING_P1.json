@@ -1,0 +1,14 @@
+[
+    {
+        "description": "MSH150PQ Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH150PQ_HOUSING"
+    },
+    {
+        "description": "Painting Operation To Produce MSH150PQ_HOUSING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45603"
+    }
+]

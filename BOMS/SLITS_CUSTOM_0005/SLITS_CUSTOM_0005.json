@@ -1,0 +1,38 @@
+[
+    {
+        "description": "PAINTED 48776",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48776-P1"
+    },
+    {
+        "description": "Carrier for Fixed Slit Plates (Components)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "SLIT_FIXED-CARRIER_COMPONENTS"
+    },
+    {
+        "description": "Fixed Slit Assembly with Circular Aperture (0.50mm Diameter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FA(0.50)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Circular Aperture (1.00mm Diameter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FA(1.00)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Circular Aperture (1.50mm Diameter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FA(1.50)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Circular Aperture (2.00 Diameter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FA(2.00)"
+    }
+]

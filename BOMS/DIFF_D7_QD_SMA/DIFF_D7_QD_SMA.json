@@ -1,0 +1,26 @@
+[
+    {
+        "description": "DIFF D7 DESICCATED COMMON PARTS",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "DIFF_D7_COMMON_PARTS"
+    },
+    {
+        "description": "O RING 3mm ID 1mm SECTION SHORE 70 NITRILE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45855"
+    },
+    {
+        "description": "DIFFUSER D7 SMA ADAPTER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45853"
+    },
+    {
+        "description": "FOP DIFFUSER SMA FIBRE BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50236-BM"
+    }
+]

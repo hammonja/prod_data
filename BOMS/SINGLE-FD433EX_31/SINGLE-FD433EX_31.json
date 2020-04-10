@@ -1,0 +1,68 @@
+[
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "FC320 Pivot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "12107"
+    },
+    {
+        "description": "FC320 clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12109"
+    },
+    {
+        "description": "Shutter LH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17431-1"
+    },
+    {
+        "description": "DFH lid-1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17433"
+    },
+    {
+        "description": "DFH pivot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17438"
+    },
+    {
+        "description": "Lid gasket (Sifam)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17599"
+    },
+    {
+        "description": "Stud M3x15 Stainless steel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19099"
+    },
+    {
+        "description": "Bare fibre holder (Newport)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19106"
+    },
+    {
+        "description": "Washer crinkle M5 copper",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19157"
+    },
+    {
+        "description": "DFH Base Left Hand side for Cooled Detectors",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46415"
+    }
+]

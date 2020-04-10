@@ -1,0 +1,14 @@
+[
+    {
+        "description": "CASTING, MVSS 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P24"
+    },
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 30123-P25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-F25"
+    }
+]

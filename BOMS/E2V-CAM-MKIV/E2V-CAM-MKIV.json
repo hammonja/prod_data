@@ -1,0 +1,206 @@
+[
+    {
+        "description": "Crimp socket contact (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10025"
+    },
+    {
+        "description": "3 Way Cable Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10096"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Black Shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10125"
+    },
+    {
+        "description": "Red Shrouded Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10126"
+    },
+    {
+        "description": "Blue shrouded plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10135"
+    },
+    {
+        "description": "Green shrouded plug (pack of 5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10222"
+    },
+    {
+        "description": "Thumb screw M3 x 8 DYED BLACK",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13066"
+    },
+    {
+        "description": "Spacer nylon Hex M3X11",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15011"
+    },
+    {
+        "description": "Fan guard - 1",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18040"
+    },
+    {
+        "description": "TLS starter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18064"
+    },
+    {
+        "description": "E2V filter holder",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18083"
+    },
+    {
+        "description": "fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18086"
+    },
+    {
+        "description": "dowel pin parallel mild steel (bag of 25)",
+        "location": "",
+        "quantity": "9.00",
+        "stockcode": "19006"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "E2V fan mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27095"
+    },
+    {
+        "description": "THORLABS 1.035-40 Retainin Ring",
+        "location": "",
+        "quantity": "30.00",
+        "stockcode": "44247"
+    },
+    {
+        "description": "1\" Tube Washer",
+        "location": "",
+        "quantity": "30.00",
+        "stockcode": "44254"
+    },
+    {
+        "description": "e2v source xenon striker plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44276"
+    },
+    {
+        "description": "E2V base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46001"
+    },
+    {
+        "description": "Teardrop Porthole Cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46010"
+    },
+    {
+        "description": "E2V CAM MKIII Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46463"
+    },
+    {
+        "description": "E2V Cover with Fixing Holes",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45069_M1"
+    },
+    {
+        "description": "Connector Panel for E2V Fliter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_CONNECTOR_PANEL"
+    },
+    {
+        "description": "Double 10 Position Wheel for Filter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_DOUBLE_FILTER_WHEEL"
+    },
+    {
+        "description": "Removable QH sub assembled for Filter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_QH_SUB"
+    },
+    {
+        "description": "Single 10 Position Wheel for Filter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_SINGLE_FILTER_WHEEL"
+    },
+    {
+        "description": "SAM for E2V Filter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_SWING_MIRROR_SUB"
+    },
+    {
+        "description": "Removable XE sub assembled for Filter Based Light Sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V_XE_SUB"
+    },
+    {
+        "description": "E2V-TAOSII-75MM-SPHERE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "E2V-TAOSII-75MM-SPHERE"
+    },
+    {
+        "description": "For use with TLS starter when used with 610",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INVERTER_BOARD_610"
+    },
+    {
+        "description": "E2V JPP789980AA SHUTTER MOUNT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45975"
+    },
+    {
+        "description": "THORLABS SHB1 SHUTTER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45974"
+    },
+    {
+        "description": "E2V CAM MKIV BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50325-BM"
+    }
+]

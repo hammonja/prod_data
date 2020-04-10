@@ -1,0 +1,56 @@
+[
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,47R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02129"
+    },
+    {
+        "description": "Opto for Accent MVSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04004"
+    },
+    {
+        "description": "Slit Block 6 PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15132"
+    },
+    {
+        "description": "Nema 8 Bipolar 0.6A 4Ncm(5.7oz.in) mini stepper motor 8HS15-",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18148"
+    },
+    {
+        "description": "bore reducer 5mm to 4mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19263"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "Slit Block 6 Riser",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46857"
+    },
+    {
+        "description": "Slit Block 6 Opto Pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46858"
+    },
+    {
+        "description": "Slit Block 6 for MVSS LH / RH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_BLOCK_6"
+    }
+]

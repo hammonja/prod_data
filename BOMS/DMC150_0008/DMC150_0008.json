@@ -1,0 +1,74 @@
+[
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "Standard DMc150 casting in Bentham Colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_DMC150"
+    },
+    {
+        "description": "Filter wheel for DM150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DM150_252"
+    },
+    {
+        "description": "DM150 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DMC150_COMMON_PARTS"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-G1524H0U25"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "ND filter set for solar measurement systems",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SUND_UVF"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.37mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(0.37)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.74mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(0.74)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.48mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(1.48)"
+    },
+    {
+        "description": "Fixed Slit Box, Back & Lid, No Slit Carries.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_FSS"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "Stepper motor.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "Turret Motor Side Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47028"
+    },
+    {
+        "description": "TM300_TURRET_DSPIN_MOTOR-PLATE Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50115"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "IL6 Single. Common Denominator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL6_BASE_SINGLE"
+    },
+    {
+        "description": "Nernst for IL6 with KRS5 lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL6_SOURCE_NERNST_KRS5"
+    },
+    {
+        "description": "Lamp cable with shrouded at both ends (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB6"
+    },
+    {
+        "description": "IR-IL8-Upgrade Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50035"
+    }
+]

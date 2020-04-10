@@ -1,0 +1,134 @@
+[
+    {
+        "description": "DTM300 env-box MkII Connecting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17952"
+    },
+    {
+        "description": "Double Monochromator Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DOUBLE_MONO_COMMON_PARTS"
+    },
+    {
+        "description": "DTMC300 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTMC300_COMMON_PARTS"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T324H0U25"
+    },
+    {
+        "description": "Fixed Slit Box, Back & Lid, No Slit Carries (Components).",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_FSS_COMPONENTS"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "ND1 filter, UV, 25mm diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13006"
+    },
+    {
+        "description": "252 filter wheel for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252"
+    },
+    {
+        "description": "ND2 filter, UV, 25mm diameter",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13007"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET"
+    },
+    {
+        "description": "DTMC300 Base Inspection Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45502"
+    },
+    {
+        "description": "PSU for TMc Monochromators with IMAC Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_C_PSU_IMAC"
+    },
+    {
+        "description": "IEC mains filter (631-FN393-6-05-11)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    },
+    {
+        "description": "Lemo, 8 way, chassis socket, green",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10288"
+    },
+    {
+        "description": "Lemo, 8 way, cable plug, green",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10289"
+    },
+    {
+        "description": "Connector 9 Way 'D' Plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10086"
+    },
+    {
+        "description": "Connector 9 Way 'D' Metal Case",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10111"
+    },
+    {
+        "description": "30125 Machined",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30125_M2"
+    },
+    {
+        "description": "30123_M11 Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123_M11_P1"
+    }
+]

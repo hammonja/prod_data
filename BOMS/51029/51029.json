@@ -1,0 +1,260 @@
+[
+    {
+        "description": "STAGE X",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48183"
+    },
+    {
+        "description": "Y AXIS STAGE PART 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48184"
+    },
+    {
+        "description": "Z AXIS STAGE PART 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48185"
+    },
+    {
+        "description": "STAGE HOUSING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48186"
+    },
+    {
+        "description": "STAGE X PART 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48187"
+    },
+    {
+        "description": "Y AXIS STAGE PART 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48188"
+    },
+    {
+        "description": "Z AXIS STAGE PART 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48189"
+    },
+    {
+        "description": "Z AXIS RAIL SUPPORT",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "48190"
+    },
+    {
+        "description": "MISUMI PIN 10mmDIA x 80mm PIN (PSSFG10-56)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "48191"
+    },
+    {
+        "description": "MISUMI 10mmDIA x 95mm SHAFT (PSSFG10-83)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48192"
+    },
+    {
+        "description": "MISUMI 10mmDIA x 85mm SHAFT (PSSFG10-73)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48193"
+    },
+    {
+        "description": "LEESPRINGS COMPRESSION SPRING (LWM16 055 2344S)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "48194"
+    },
+    {
+        "description": "Y AXIS JACKING SCREW",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48195"
+    },
+    {
+        "description": "X AXIS FEMALE THREAD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48197"
+    },
+    {
+        "description": "Y AXIS FEMALE THREAD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48199"
+    },
+    {
+        "description": "LIGHT SOURCE STAGE BASE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48200"
+    },
+    {
+        "description": "SHORT HPC BEVEL GEAR GCB0.8-16",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48219-P1"
+    },
+    {
+        "description": "BEVEL GEAR FOR THRUST WASHER",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48219-P2"
+    },
+    {
+        "description": "Z AXIS JACKING SCREW",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48230"
+    },
+    {
+        "description": "Y FEMALE SCREW",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48244"
+    },
+    {
+        "description": "IGUS THRUST WASHER IGLIDUR J (JTM-0615-015)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48246"
+    },
+    {
+        "description": "LEESPRINGS COMPRESSION SPRING (LC 016DE 03M)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48247"
+    },
+    {
+        "description": "BEVEL GEAR SPRING RETAINER",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48248"
+    },
+    {
+        "description": "Z AXIS HORIZONTAL SHAFT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48249"
+    },
+    {
+        "description": "Z AXIS HORIZONTAL SHAFT SUPPORT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48250"
+    },
+    {
+        "description": "5mm RADIAL BALL BEARING 9mm OD RS NO 747-759",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "48251"
+    },
+    {
+        "description": "BEARING RETENTION RING",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48252"
+    },
+    {
+        "description": "KNURLED KNOB MISUMI (NKMSA3-8)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "48253"
+    },
+    {
+        "description": "X AXIS JACKING SCREW",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48254"
+    },
+    {
+        "description": "X AXIS STATIONARY SPINDLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48255"
+    },
+    {
+        "description": "Y AXIS HORIZONTAL SHAFT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48256"
+    },
+    {
+        "description": "Y AXIS HORIZONTAL SHAFT SUPPORT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48257"
+    },
+    {
+        "description": "IGUS SLEEVE BEARING (XSM-1012-10)",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "48310"
+    },
+    {
+        "description": "M3 x 10, socket cap, SS",
+        "location": "",
+        "quantity": "14.00",
+        "stockcode": "99048"
+    },
+    {
+        "description": "M3 x 16mm Socket Head Stainless Steel",
+        "location": "",
+        "quantity": "16.00",
+        "stockcode": "99076"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "99244"
+    },
+    {
+        "description": "Dowel Pin Parallel 2(m6)x10 A2 Stainless Steel",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99335"
+    },
+    {
+        "description": "M4 x 12 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99458"
+    },
+    {
+        "description": "M4x6 SKT HD CONE POINT GRUB SCREW : SSO-M4-6-A2",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "99387"
+    },
+    {
+        "description": "M4x12 SKT HD CONE POINT GRUB SCREW : SSO-M4-12-A2",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99388"
+    },
+    {
+        "description": "M3x3 SKT HD CONE POINT GRUB SCREW : SSO-M3-3-A2",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99389"
+    },
+    {
+        "description": "FTMC-77 LIGHT SOURCE 3 AXIS STAGE PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51029-PL"
+    },
+    {
+        "description": "FTMC-77 LIGHT SOURCE 3 AXIS STAGE BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51029-BM"
+    }
+]

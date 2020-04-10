@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Blank for 8 position filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11021"
+    },
+    {
+        "description": "8 Position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11338_P1"
+    },
+    {
+        "description": "Circlip for TM300 8 position wheel ( pack of 1000 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19786"
+    },
+    {
+        "description": "TMS_252_COMMON_PARTS MK.2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52045"
+    },
+    {
+        "description": "TMS_252_8_DSPIN - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_252_8_DSPIN-BM"
+    },
+    {
+        "description": "TMS_252_8_DSPIN - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_252_8_DSPIN-PL"
+    }
+]

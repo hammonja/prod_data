@@ -1,0 +1,260 @@
+[
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "M4 'T' nut for 10mm groove",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19377"
+    },
+    {
+        "description": "PSL ALIGN TEL310 SHELF",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45953"
+    },
+    {
+        "description": "PSL ALIGN SHELF BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45958"
+    },
+    {
+        "description": "FESTO EAHF-L2-45-P-D3, CLAMP FOR ELGC-BS-KF STAGE, (PAIRS)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "47063"
+    },
+    {
+        "description": "PSL ALIGN SHELF TO STAGE MOUNT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47068"
+    },
+    {
+        "description": "PSL ALIGN STAGE BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48103-P1"
+    },
+    {
+        "description": "MISUMI MOUNTING PLATE",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "48107"
+    },
+    {
+        "description": "MISUMI MOUNTING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48108"
+    },
+    {
+        "description": "IGUS E CHAIN 12 LINKS & 2 PIVOTING INCL STRAIN RELIEF",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "49007"
+    },
+    {
+        "description": "ENERGY CHAIN 37 LINKS & 2 PIVOT INC STRAIN RELIEF 0.74m",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49008"
+    },
+    {
+        "description": "MISUMI BRACKET FAMAS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49009"
+    },
+    {
+        "description": "MISUMI BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49010"
+    },
+    {
+        "description": "MISUMI BRACKET",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "49011"
+    },
+    {
+        "description": "PSL ALIGN Z RAIL AND STAND",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50320"
+    },
+    {
+        "description": "PSL ALIGN Z CARRIAGE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50321"
+    },
+    {
+        "description": "IDR-PSL-ALIGN-MK2 STAGES",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51012"
+    },
+    {
+        "description": "IDR-PSL-ALIGN-MK2 - Z STAGE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52006"
+    },
+    {
+        "description": "IDR-PSL-ALIGN-MK2 - EMERGENCY STOP ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52007"
+    },
+    {
+        "description": "M3 x 10, socket cap, SS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99048"
+    },
+    {
+        "description": "M3 x 16mm Socket Head Stainless Steel",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "99076"
+    },
+    {
+        "description": "P-CLIP 6.5mm ID",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99239"
+    },
+    {
+        "description": "M3 x 8 Stainless Steel Csk Pozi",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "99245"
+    },
+    {
+        "description": "M3 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99247"
+    },
+    {
+        "description": "M10 PLAIN WASHER STAINLESS STEEL A2 TO ISO 7089",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99339"
+    },
+    {
+        "description": "M5 x 8 SCREW CAP HEAD HEX SOCKET STAINLESS STEEL A2",
+        "location": "",
+        "quantity": "20.00",
+        "stockcode": "99311"
+    },
+    {
+        "description": "M10 x 25 SCREW CPHD HSKT TO ISO 4762 STAINLESS STEEL, A2",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99342"
+    },
+    {
+        "description": "M4 Stainless Steel Plain Washer",
+        "location": "",
+        "quantity": "9.00",
+        "stockcode": "99451"
+    },
+    {
+        "description": "M4 x 10 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "0.04",
+        "stockcode": "99454"
+    },
+    {
+        "description": "M4 x 12 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "11.00",
+        "stockcode": "99458"
+    },
+    {
+        "description": "RS PRO SELF ADHESIVE BLACK CABLE TIE MOUNT (RS: 811-1723)",
+        "location": "",
+        "quantity": "0.12",
+        "stockcode": "99582"
+    },
+    {
+        "description": "IDR300-PSL_ALIGN_MK2 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50322-BM"
+    },
+    {
+        "description": "IDR300-PSL_ALIGN_MK2 PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50322-PL"
+    },
+    {
+        "description": "IDR-PSL-ALIGN-MK2 ASSEMBLY INSTRUCTIONS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51039-BM"
+    },
+    {
+        "description": "IDR-PSL-ALIGN-MK2 PACKAGING INSTRUCTIONS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51040-BM"
+    },
+    {
+        "description": "PSL ALIGN MOUNTING SCREWS AND TOOLS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51046"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "02033"
+    },
+    {
+        "description": "PSL ALIGN TEL310 POWER EXTENSION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB37"
+    },
+    {
+        "description": "5m USB cable",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USB_5M"
+    },
+    {
+        "description": "DIFFUSER MOUNT FOR TEL310",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45955"
+    },
+    {
+        "description": "Plastic thumb cap for M3 socket head screw",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19604"
+    }
+]

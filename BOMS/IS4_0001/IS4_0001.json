@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Ninewells sphere detector mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43343"
+    },
+    {
+        "description": "SMA bulkhead socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10179"
+    },
+    {
+        "description": "Si photodiode. 2.4mm x 2.4mm. Quartz window",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09004"
+    },
+    {
+        "description": "Ninewells sphere detector insulator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43344"
+    },
+    {
+        "description": "DIA100mm SPHERE WITH DETECTOR AND 25mm PORTS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50317"
+    },
+    {
+        "description": "IS4_0001 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50318-BM"
+    },
+    {
+        "description": "IS4_0001 Parts List",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50318-PL"
+    }
+]

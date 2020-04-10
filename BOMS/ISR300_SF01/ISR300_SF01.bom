@@ -1,0 +1,4 @@
+ISR300_SF01,ISR300,Single with integrated electronics, 2 detector,,0,1.00,,,,,
+ISR300_SF01,TMS_252_6,TMS 6 position filter wheel,,1,1.00,,,,,
+ISR300_SF01,TMS300_SLIT,TMS300 slit assembly,,2,3.00,,,,,
+ISR300_SF01,TMS300_SAM,Sam for TMS  based monochromators,,3,1.00,,,,,

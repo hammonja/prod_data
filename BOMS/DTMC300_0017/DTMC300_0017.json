@@ -1,0 +1,320 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "ADAPTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11234"
+    },
+    {
+        "description": "'O' RING 0251-16 NITRILE 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11237"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "RS Slits Case Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25054_M1"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 sam blanking plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30127"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "WRC Exit 252-Mirror Mount Plate for Monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42397"
+    },
+    {
+        "description": "PV mono exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45197"
+    },
+    {
+        "description": "TM300 Casting for QC Turrets",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CASTING_TM300_QC"
+    },
+    {
+        "description": "Double Monchromator Purged Base common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DOUBLE_MONO_BASE_PURGED"
+    },
+    {
+        "description": "DTMC300 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTMC300_COMMON_PARTS"
+    },
+    {
+        "description": "Grating Assembly with 75g/mm, 12000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T30075R12U0"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 4000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3015R4U0"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 3000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T303R3U0"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1600nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T306R1U6"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T324H0U25"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 3600nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS3600"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 6000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS6000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 10.5um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS10500"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 17.0um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS17000"
+    },
+    {
+        "description": "Standard MVSS",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "SLIT_MVSS_STANDARD"
+    },
+    {
+        "description": "252 filter wheel for TM300",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_252"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "Internal power supply for 252 at exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_C_PSU_IMAC_252EXIT"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "Grating carrier for quick change turret",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300_QC_CARRIER"
+    },
+    {
+        "description": "Exit sam for TM300 or TMc300",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_SAM-EXIT"
+    },
+    {
+        "description": "TM300 turret for interchangeable grating carriers",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET_QC"
+    },
+    {
+        "description": "TM300 QC Grating Case",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300-QC-GRATING-CASE"
+    }
+]

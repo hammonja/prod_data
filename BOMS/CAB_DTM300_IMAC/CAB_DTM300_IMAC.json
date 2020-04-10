@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Connector 25 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10068"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "CAB_DTM300_IMAC Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50139"
+    },
+    {
+        "description": "20 core screened cable,7x0.2mm 25m",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99066"
+    },
+    {
+        "description": "Connector 15 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10113"
+    },
+    {
+        "description": "Cable cover 15 way",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10171"
+    }
+]

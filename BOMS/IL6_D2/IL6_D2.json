@@ -1,0 +1,14 @@
+[
+    {
+        "description": "IL6 Single. Common Denominator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL6_BASE_SINGLE"
+    },
+    {
+        "description": "Deuterium for IL6",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL6_SOURCE_DEUT"
+    }
+]

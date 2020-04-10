@@ -1,0 +1,158 @@
+[
+    {
+        "description": "TM300 Fixed Slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_FIXED_SLIT"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.85mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(1.85)"
+    },
+    {
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50275"
+    },
+    {
+        "description": "FLAT MIRROR ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50200"
+    },
+    {
+        "description": "FLAT MIRROR LOWER HOLE ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50199"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "TM300 252 FILTER WHEEL - 6 POSITION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50201"
+    },
+    {
+        "description": "Casting for LOT TM300 monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_TM300_LOT"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "TM300 Lid Gaskets #125",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "TM300 casting lid painted and silk screened for LOT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124_LOT"
+    },
+    {
+        "description": "ELECTRONICS MONO A1, D1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50279"
+    },
+    {
+        "description": "TMc300 USB connector panel (LOT)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44274"
+    },
+    {
+        "description": "MSH300 POWER CONNECTOR PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45734"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50198"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG11"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 380nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS380"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "MONOCHROMATOR CONFIGURATION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH300_0055-BM"
+    }
+]

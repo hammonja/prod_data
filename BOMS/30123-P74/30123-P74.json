@@ -1,0 +1,14 @@
+[
+    {
+        "description": "MACHINED CASTING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P73"
+    },
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 30123-P74",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-F74"
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "IEC mains filter (631-FN393-6-05-11)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "M3 x 8mm Spacer Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15083"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "SAM Driver Relay PCB (Assembled 1 Relay)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15130_M1"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "COG, 4mm bore with DIN 916 Grade 14.9 Black Zn Plated Grubs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30252"
+    },
+    {
+        "description": "DTMs300 Centre Baffle Aperture Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30335"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30337"
+    },
+    {
+        "description": "DTMs300 Drive Belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30338"
+    },
+    {
+        "description": "1st Half Exit Baffle (Order with 30340)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30339"
+    },
+    {
+        "description": "DTMs300 2nd Half Entrance Baffle (Order with 30339)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30340"
+    },
+    {
+        "description": "DTMs300 Lid Gasket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30341"
+    },
+    {
+        "description": "TMs300 baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41007"
+    },
+    {
+        "description": "TMs300 Entrance Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41018"
+    },
+    {
+        "description": "TMs300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41019"
+    },
+    {
+        "description": "IDR 487 support pillar",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "43060"
+    },
+    {
+        "description": "Tyco 9 way housing",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45606"
+    },
+    {
+        "description": "IDR300 USB CONNECTOR PANAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49129"
+    },
+    {
+        "description": "DTMs300 MK.2 - BASE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "49146"
+    },
+    {
+        "description": "DTMs300 MK.2 - BASE SUPPORT PILLAR",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "49147"
+    },
+    {
+        "description": "INTERNAL VSS ASSEMBLY",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "52039"
+    },
+    {
+        "description": "IDR 300 WIRED SLIT DRIVE ASSY - DSPIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52040"
+    },
+    {
+        "description": "PAINTED 52041",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52041-P1"
+    },
+    {
+        "description": "IDR MK.2 ELECTRONICS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52042"
+    },
+    {
+        "description": "IDR300 MK.2_COMMON_PARTS_2 FILTER WHEELS - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52053-BM"
+    },
+    {
+        "description": "IDR300 MK.2_COMMON_PARTS_2 FILTER WHEELS - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52053-PL"
+    },
+    {
+        "description": "LED CLIP, 3MM, PK50",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99060"
+    },
+    {
+        "description": "M3 x 4, pozi pan, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99167"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "M3 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99247"
+    },
+    {
+        "description": "M3 x 10 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99264"
+    },
+    {
+        "description": "M3 x 5 Stailess Steel Button Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99277"
+    },
+    {
+        "description": "M4 Black Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99351"
+    },
+    {
+        "description": "M4 x 12 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99359"
+    },
+    {
+        "description": "M4 x 8 Black Button Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99380"
+    },
+    {
+        "description": "M4 x 10 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99454"
+    },
+    {
+        "description": "M4 x 16 button head black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99487"
+    },
+    {
+        "description": "M3 x 12 CSK Pozi S/Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99972"
+    },
+    {
+        "description": "Linear supply for IDR300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR300_PSU"
+    },
+    {
+        "description": "IDR300_SAM_ASSEMBLY_EXIT",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "IDR300_SAM_ASSEMBLY_EXIT"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "Slit limit assembly for TMS type monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_SLIT-LIMIT-ASSY"
+    }
+]

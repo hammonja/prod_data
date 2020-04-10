@@ -1,0 +1,4 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|49178|Fixed Slit Plate (1.45mm width aperture)|1.00||
+|49178-F1|PAINTING OPERATION TO PRODUCE 49178-P1|1.00||

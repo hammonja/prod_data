@@ -1,0 +1,50 @@
+[
+    {
+        "description": "IDR300 without detection electronics",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "BENTHAM_DTMS300"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "TMS 6 position filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_252_6"
+    },
+    {
+        "description": "Sam for TMS  based monochromators",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TMS300_SAM"
+    },
+    {
+        "description": "TMS300 slit assembly",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TMS300_SLIT"
+    },
+    {
+        "description": "TMS300 Slit Common Parts",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TMS300_SLIT_COMMON_PARTS"
+    },
+    {
+        "description": "TMS300 Slit Covers Parts",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TMS300_SLIT_COVER"
+    }
+]

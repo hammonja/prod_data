@@ -1,0 +1,164 @@
+[
+    {
+        "description": "Grating Assembly with 1800g/mm, 400nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T318R0U4"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 750nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U75"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U25"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_VSS"
+    },
+    {
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50275"
+    },
+    {
+        "description": "FLAT MIRROR ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50200"
+    },
+    {
+        "description": "FLAT MIRROR LOWER HOLE ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50199"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "TM300 252 FILTER WHEEL - 6 POSITION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50201"
+    },
+    {
+        "description": "Standard TM300 casting in Bentham colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_TM300"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 Lid Gaskets #125",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "ELECTRONICS MONO A1, D1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50279"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "TMC300 POWER PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45877"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50198"
+    },
+    {
+        "description": "TMC300_0085 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_0085-BM"
+    }
+]

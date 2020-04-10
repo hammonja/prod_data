@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Big FET  STW45NM50",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "06013"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "VC-TE-30 Main Power PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15131"
+    },
+    {
+        "description": "FISCHER ELEKTRONIK SK 481 100  Heat Sink, Extruded, For Lock",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18165"
+    },
+    {
+        "description": "12V Axial Fan, 40x40x10, 8CFM",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45636"
+    },
+    {
+        "description": "VC_TE_30 Fan Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46860"
+    },
+    {
+        "description": "M3 x 12 Black Button Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99195"
+    },
+    {
+        "description": "M3 Zinc Full Nuts",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99260"
+    },
+    {
+        "description": "M3 x 6 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99271"
+    },
+    {
+        "description": "Thermal Insulator, Sil-Pad 900S, .009\", TO-220, PACK 10",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99574"
+    },
+    {
+        "description": "FISCHER ELEKTRONIK THFU 1 CLIP",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99575"
+    },
+    {
+        "description": "15131_M1 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50132"
+    }
+]

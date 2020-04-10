@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Mains cable - British plug connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23011"
+    },
+    {
+        "description": "1m standard USB cable",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB_USB_1M"
+    },
+    {
+        "description": "Calibration of PH-TH sphere, 280-1100nm, 5nm steps",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CALIBRATION-PH-TH"
+    },
+    {
+        "description": "450W xenon with ellipse including psu",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IL_450_XE"
+    },
+    {
+        "description": "ORM.  Sensitivity ranges 10 x less than 487",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ORM400_LS"
+    },
+    {
+        "description": "Launch optics inc. light guide for PHTH system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PHTH_OPTICS"
+    },
+    {
+        "description": "100mm sphere with detector for PHTH system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PHTH_SPHERE"
+    },
+    {
+        "description": "Trolley for phototherapy unit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PHTH_TROLLEY"
+    },
+    {
+        "description": "ORM 5V Power Supply PHTH Trolley",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PSU_5V_PHTH"
+    },
+    {
+        "description": "Time exposure software for PHTH system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TES"
+    },
+    {
+        "description": "TM300 monochromator for phototherapy system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_PHTH"
+    },
+    {
+        "description": "450W Irem power supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19028"
+    }
+]

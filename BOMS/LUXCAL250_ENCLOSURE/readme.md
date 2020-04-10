@@ -1,0 +1,68 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|04006|1A 1000V Rectifier silicon|1.00||
+|05047|3.3V, 800mA, linear regulator|1.00||
+|07004|Miniature toggle switch|1.00||
+|08019|Capacitor 100nF 50V Ceramic Disc Rad 5mm|1.00||
+|08051|Capacitor 330nF Polyester|1.00||
+|09182|Laser Module 2.8-5.2v, 10mm dia body, 5mW @ 650nm, 25mA draw|1.00||
+|10030|PRO POWER - PV2 GROMMET PK 100 - GROMMET, 8MM, PK100|2.00||
+|10095|3 way chassis socket|1.00||
+|10127|Black shrouded socket (pack 2)|1.00||
+|10128|Red shrouded socket|1.00||
+|11280|Gatan spring|1.00||
+|12207|Comar 100-PQ-50|1.00||
+|13035|Lamp holder|1.00||
+|13460|ND filter, 50mm sq, ND1|1.00||
+|13550|ND filter, 50mm sq, ND2|1.00||
+|13551|ND filter, 50mm sq, ND3|1.00||
+|13552|ND filter, 50mm sq, ND4|1.00||
+|13589|Hoya 52mm HMC 81B screw in filter|1.00||
+|13590|Hoya 52mm HMC 81C screw in filter|1.00||
+|16098|Bentham Logo plate (silk screened)|1.00||
+|17901|250W Grit Blasted Quartz-Halogen Lamp|1.00||
+|18060|92mm Fan 12V dc|1.00||
+|18061|92mm fan finger gaurd|2.00||
+|18083|E2V filter holder|1.00||
+|19022|Rubber feet (pack of 36)|4.00||
+|19271|plastic ball knob (16mm dia. M4)|5.00||
+|19289_M1|PHOTO_CAL_LIGHT-SOURCE filter case|1.00||
+|19309|Bosch 3 way cube connectors (30m x 30mm)|8.00||
+|19372|Bosch M4 for 8mm profile|16.00||
+|19411|Photometer calibrator curtain|1.00||
+|41100|Photometer Test Unit Exterior Lamp Cover|1.00||
+|41101_M1|Photometer Test Unit Lamp Body Extrusion (Machined)|1.00||
+|41102|Photometer Test Unit Lamp Support|4.00||
+|41104|Photometer Test Unit Filter Receptacle|1.00||
+|41105|Photometer Test Unit Filter Holder|4.00||
+|41106|Photometer Test Unit Baffle Legs|3.00||
+|41107|Photometer Test Unit Baffle|1.00||
+|41111|Photometer Test Unit Lamp Holder Support|1.00||
+|41112|Photometer Test Unit Connector Panel|1.00||
+|41113|Photometer Test Unit Filter Receptacle Pillars|3.00||
+|41114|Photometer Test Unit Lamp Back Plate|1.00||
+|41115|Photometer Test Unit Height Gauge Shouldered Screw|1.00||
+|42291|EMICS Ltd Enclosure Lid|1.00||
+|42292|EMICS Ltd Enclosure Side 1|1.00||
+|42294|EMICS Ltd Enclosure Back|1.00||
+|42295|Bosch 30mm, 4 channel, 540mm long|4.00||
+|42296|Bosch 30mm, 4 channel, 440mm long|4.00||
+|42297|Bosch 30mm, 4 channel, 450mm long|4.00||
+|42300|Labjack  (rexaloy / A J Cope & Son Ltd T 02077292405)|1.00||
+|42614|Photometer calibrator base|1.00||
+|42615|EMICS Ltd Enclosure Side 1|1.00||
+|43663|Magnet for EI sphere (box of 10)|2.00||
+|44541|LUXCAL250 SRS8 Port Cover|1.00||
+|44629|LUX CAL HEIGHT GUAGE ARM|1.00||
+|44630|LUXCAL HEIGHT GAUGE BASE|1.00||
+|45166|RS illuminance lens holder|1.00||
+|45170|RS lamp baffle support|1.00||
+|45171|RS lamp baffle support|1.00||
+|45172|RS alignment paddle|1.00||
+|45173|RS lens retainer|1.00||
+|99023|TO220 insulator|1.00||
+|CAB6|Lamp cable with shrouded at both ends (1.8m long)|1.00||
+|CAB8|Fan cable for CL6 etc (1.8m long)|1.00||
+|52069-BM|PHOTO_CAL_LIGHT - BUILD MANUAL|1.00||
+|10096|3 Way Cable Plug|1.00||
+|10097|3 way cable socket|1.00||

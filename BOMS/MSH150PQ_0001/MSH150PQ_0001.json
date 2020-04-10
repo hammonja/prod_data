@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Slit MVSS for PQ",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_MVSS_PQ"
+    },
+    {
+        "description": "TMC150 PLAIN MIRROR",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50222"
+    },
+    {
+        "description": "Compact Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM150_TURRET_DSPIN"
+    },
+    {
+        "description": "MDC150 grating stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44133"
+    },
+    {
+        "description": "Painted MSH150PQ Housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH150PQ_HOUSING_P1"
+    },
+    {
+        "description": "MDC150 Bottom Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44118"
+    },
+    {
+        "description": "Small round rubber feet (bag of 60)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19112"
+    },
+    {
+        "description": "Electronics MONO150PQ A1, D1, R1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50405"
+    },
+    {
+        "description": "MSH150PQ Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45591"
+    },
+    {
+        "description": "MDC150 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44128"
+    },
+    {
+        "description": "MDC150 exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44129"
+    },
+    {
+        "description": "TMC150 CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50221"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA1-G1512R0U5"
+    },
+    {
+        "description": "Monochromator Configuration",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH150PQ_0001-BM"
+    }
+]

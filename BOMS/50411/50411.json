@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Housing, Slit Face",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47025"
+    },
+    {
+        "description": "Housing, Blank Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47024"
+    },
+    {
+        "description": "Housing, Camera Face",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47073"
+    },
+    {
+        "description": "Housing, Connector Face",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47027"
+    },
+    {
+        "description": "Housing, Optics Deck",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47072"
+    }
+]

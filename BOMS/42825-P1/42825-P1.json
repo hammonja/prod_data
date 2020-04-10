@@ -1,0 +1,14 @@
+[
+    {
+        "description": "IDR300 floor plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42825"
+    },
+    {
+        "description": "MACHINING OPERATION TO PRODUCE 42825-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42825-F1"
+    }
+]

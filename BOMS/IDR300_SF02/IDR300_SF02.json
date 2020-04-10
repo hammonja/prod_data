@@ -1,0 +1,284 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "Fuse 2A slow blow",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "01007"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "M3 x 8mm Spacer Pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15083"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "TMs300 motor slit sprocket, 5mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30234"
+    },
+    {
+        "description": "TMs300 slit sprocket, 4mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30252"
+    },
+    {
+        "description": "DTMs300 Centre Baffle Aperture Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30335"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30337"
+    },
+    {
+        "description": "DTMs300 Drive Belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30338"
+    },
+    {
+        "description": "1st Half Exit Baffle (Order with 30340)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30339"
+    },
+    {
+        "description": "DTMs300 2nd Half Entrance Baffle (Order with 30339)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30340"
+    },
+    {
+        "description": "DTMs300 Lid Gasket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30341"
+    },
+    {
+        "description": "Alternative slit blanking plate for TMS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30472"
+    },
+    {
+        "description": "TMs300 baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41007"
+    },
+    {
+        "description": "TMs300 Entrance Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41018"
+    },
+    {
+        "description": "TMs300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41019"
+    },
+    {
+        "description": "TMs300 blank slit position cover plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41021"
+    },
+    {
+        "description": "Base plate spacers for Bentham TMS300",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42751"
+    },
+    {
+        "description": "IDR300 base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42853"
+    },
+    {
+        "description": "IDR 487 support pillar",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "43060"
+    },
+    {
+        "description": "IDR300 connector panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43070"
+    },
+    {
+        "description": "Gasket for use with blanking plate 30472",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45214"
+    },
+    {
+        "description": "DTMS_SLIT-DRIVE-ASSY MK.2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52044"
+    },
+    {
+        "description": "Painted box with lid for IDR300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR300_HOUSING"
+    },
+    {
+        "description": "Linear supply for IDR300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR300_PSU"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET"
+    },
+    {
+        "description": "Slit limit assembly for TMS type monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_SLIT-LIMIT-ASSY"
+    },
+    {
+        "description": "Sam for TMS  based monochromators",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TMS300_SAM"
+    },
+    {
+        "description": "TMS300 slit assembly",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TMS300_SLIT"
+    },
+    {
+        "description": "TMS300 Slit Common Parts",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TMS300_SLIT_COMMON_PARTS"
+    },
+    {
+        "description": "TMS300 Slit Covers Parts",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TMS300_SLIT_COVER"
+    },
+    {
+        "description": "TMS 6 position filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_252_6"
+    },
+    {
+        "description": "AC Signal processing electronics for IDR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR_AC_ELECTRONICS"
+    }
+]

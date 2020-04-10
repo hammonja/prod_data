@@ -1,0 +1,4 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|30123-P20|30123 MACHINED SLIT 1 & 2, MIRROR 1|1.00||
+|30123-F21|PAINTING OPERATION TO PRODUCE 30123-F21|1.00||

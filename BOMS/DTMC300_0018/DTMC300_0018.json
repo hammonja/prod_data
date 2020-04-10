@@ -1,0 +1,392 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Tyco 8 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10302"
+    },
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "ADAPTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11234"
+    },
+    {
+        "description": "'O' RING 0251-16 NITRILE 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11237"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "RS Slits Case Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25054_M1"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 sam blanking plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30127"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "WRC Exit 252-Mirror Mount Plate for Monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42397"
+    },
+    {
+        "description": "PV mono exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45197"
+    },
+    {
+        "description": "CASTING_PV_SAMENT_QC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_PV_SAMENT_QC"
+    },
+    {
+        "description": "Standard TM300 casting in Bentham colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_TM300"
+    },
+    {
+        "description": "Double Monchromator Purged Base common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DOUBLE_MONO_BASE_PURGED"
+    },
+    {
+        "description": "DTMC300 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTMC300_COMMON_PARTS"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 4000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T303R4U0"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1600nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T306R1U6"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 3600nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS3600"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700_REDUCED"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    },
+    {
+        "description": "Fixed Slit Assembly with Blanking Slit Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FSP(0.00)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.05mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(0.05)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.37mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(0.10)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.20mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(0.20)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.37mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(0.37)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.40mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(0.40)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.50mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(0.50)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.56mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(0.56)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.74mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(0.74)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.00mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(1.00)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.12mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(1.12)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.48mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(1.48)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.85mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(1.85)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (2.0mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(2.0)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (2.78mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(2.78)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (3.7mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(3.7)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (4.00mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(4.00)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (5.56mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(5.56)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (8.00mm width aperture)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SA-FSP(8.00)"
+    },
+    {
+        "description": "Fixed Slit Box, Back & Lid, No Slit Carries (Components).",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "SLIT_FSS_COMPONENTS"
+    },
+    {
+        "description": "252 filter wheel for TM300. 8 position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252-8"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "Internal power supply for 252 at exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_C_PSU_IMAC_252EXIT"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "Entrance sam for TM300 or TMc300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_SAM-ENTRANCE"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET"
+    }
+]

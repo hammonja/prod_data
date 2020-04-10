@@ -1,0 +1,638 @@
+[
+    {
+        "description": "Fuse 5A slow blow  sold in pack of 10",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01008"
+    },
+    {
+        "description": "2k2 MRS25",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "02024"
+    },
+    {
+        "description": "56R MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02056"
+    },
+    {
+        "description": "15K8, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02124"
+    },
+    {
+        "description": "VARISTOR WE-VD 275Vrms Type 5",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "03033"
+    },
+    {
+        "description": "LED Panel Mount Indicators Red/Green Diffused 700/565nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04061"
+    },
+    {
+        "description": "LED Panel Mount Indicators PMI Blue 470nm 40mcd",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04062"
+    },
+    {
+        "description": "large cap, black with line to fit 21.5mm knob",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07013"
+    },
+    {
+        "description": "Large knob, black with line to fit 1/4\" spindle S211 250BK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07018"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Push Button Switch, IP67, NO, Panel Mount, Momentary",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07077"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "IEC Inlet. Fused. Filtered. No Switch.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10364"
+    },
+    {
+        "description": "TE Connectivity Mini-Universal MATE-N-LOK, F, 26AWG to 22AWG",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10375"
+    },
+    {
+        "description": "TE Connectivity Mini-Universal MATE-N-LOK Series 4.2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10377"
+    },
+    {
+        "description": "TE Connectivity Mini-Universal MATE-N-LOK Series 4.14mm Pitc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10385"
+    },
+    {
+        "description": "(PK100) MATE-N-LOK SERIES 4.14mm PTICH 26-22AWG PIN",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10387"
+    },
+    {
+        "description": "Spacer NP 8.0/25/C/M3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15021"
+    },
+    {
+        "description": "PCB 225 spacer M3xM3x15",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15052"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "15124 PCB with precision resistor fitted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15124_M1"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: Encoders (Assembled)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15133_M1"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: NHD-0420CW-AB3 (Assembled)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15134_M1"
+    },
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "15150-ASSY-0002_ 12.7-13mm POSTS (female - female)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15150-ASSY-0002"
+    },
+    {
+        "description": "EXLS Cathode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17330"
+    },
+    {
+        "description": "Elliptical cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17419"
+    },
+    {
+        "description": "Igniter for Xe and Hg lamps",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18052"
+    },
+    {
+        "description": "NHD-0420CW-AB3 4 lines x 20 character Blue OLED display",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18145"
+    },
+    {
+        "description": "AC/DC PCB Mount PSU,  1 Output, 90V , 265V , 15W, 24V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18169"
+    },
+    {
+        "description": "Ferrite for TGK monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19539"
+    },
+    {
+        "description": "Threaded Insert 84HP Schroff units",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "22008"
+    },
+    {
+        "description": "TM300 worm shaft(1 off 600mm length 99907 per 9 off 30014)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30014"
+    },
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "Precision worm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30473"
+    },
+    {
+        "description": "Precision worm gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30474"
+    },
+    {
+        "description": "Bearing for SSM grating shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42579"
+    },
+    {
+        "description": "SSM grating shaft mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42580"
+    },
+    {
+        "description": "SSM grating shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42581"
+    },
+    {
+        "description": "SSM150Xe slit cover plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42584"
+    },
+    {
+        "description": "VAPO bearing axial fan,14.4cu.m/h 12Vdc",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42623"
+    },
+    {
+        "description": "Axial fan finger guard,50Hx51Wmm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "42624"
+    },
+    {
+        "description": "Paddle for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42669"
+    },
+    {
+        "description": "New baffle box for SSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42682"
+    },
+    {
+        "description": "SSM motor side plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43329"
+    },
+    {
+        "description": "SSM worm yoke",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43330"
+    },
+    {
+        "description": "SSM intensity control slit block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43332"
+    },
+    {
+        "description": "SSM Grating Plate Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43692_P1"
+    },
+    {
+        "description": "SSM grating mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43693"
+    },
+    {
+        "description": "SOMA SSM AIR FLOW BAFFLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44139"
+    },
+    {
+        "description": "320W Single Output Internal Enclosed SMPSU 28V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45219"
+    },
+    {
+        "description": "TLS150Xe Back Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45561"
+    },
+    {
+        "description": "TLS150Xe Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45562"
+    },
+    {
+        "description": "TLS150Xe - Screen Shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45563"
+    },
+    {
+        "description": "TLS150Xe - Pot Shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45565"
+    },
+    {
+        "description": "Opto Mount Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45571"
+    },
+    {
+        "description": "Tyco 9 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45606"
+    },
+    {
+        "description": "19in 4U SHROFF BIN FOR TLS120Xe",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45639-P1"
+    },
+    {
+        "description": "DELRIN STRAP BAND",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45928"
+    },
+    {
+        "description": "38.4mm PILLAR M3 MALE / FEMALE",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45929"
+    },
+    {
+        "description": "LIGHT TIGHT SEAL OVAL HOLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45931"
+    },
+    {
+        "description": "TLS120Xe BULB ENCLOSRE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45933"
+    },
+    {
+        "description": "LOGIC LEVEL CONVERTER CABLE FOR ARM TO DSPIN",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50281"
+    },
+    {
+        "description": "TLS EXIT OPTICS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50287"
+    },
+    {
+        "description": "XENON BULB REFLECTOR KINEMATIC HOUSING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50291"
+    },
+    {
+        "description": "TLS120Xe Optimiser Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50312"
+    },
+    {
+        "description": "M3 x 10, socket cap, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99048"
+    },
+    {
+        "description": "Red M4 crimp ring terminal,0.5-1.5sq.mm",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "99071"
+    },
+    {
+        "description": "M2 Plain Zinc Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99075"
+    },
+    {
+        "description": "M3 x 16mm Socket Head Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99076"
+    },
+    {
+        "description": "M2.5 x 25 csk, pozi, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99111"
+    },
+    {
+        "description": "M2.5 x 8, cap head, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99119"
+    },
+    {
+        "description": "M2.5 x 6 socket cap SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99149"
+    },
+    {
+        "description": "M2 full nuts, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99159"
+    },
+    {
+        "description": "M3 x 30 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99170"
+    },
+    {
+        "description": "6.3mm flag receptacle Insulating sleeve",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99201"
+    },
+    {
+        "description": "M3 x 18, socket cap SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99205"
+    },
+    {
+        "description": "M3 Stainless Steel Full Nut",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99230"
+    },
+    {
+        "description": "M3 Plain Washer Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99232"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99244"
+    },
+    {
+        "description": "M3 x 8 Stainless Steel Csk Pozi",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99245"
+    },
+    {
+        "description": "M3 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99247"
+    },
+    {
+        "description": "M3 x 12 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99251"
+    },
+    {
+        "description": "M3 internal shakeproof washer, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99263"
+    },
+    {
+        "description": "M2 x 10 skt cap, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99281"
+    },
+    {
+        "description": "M2 x 3 GRUB SCREW",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99284"
+    },
+    {
+        "description": "M3 UNINSULATED RING TERMINAL 22-16AWG",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99286"
+    },
+    {
+        "description": "6mm Spade Terminal - Female - Crimp - Right Angle",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99288"
+    },
+    {
+        "description": "M4 x 8 Black Button Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99380"
+    },
+    {
+        "description": "M4 internal shakeproof washer, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99404"
+    },
+    {
+        "description": "M4 Stainless Steel Plain Nut",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99450"
+    },
+    {
+        "description": "M4 Stainless Steel Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99451"
+    },
+    {
+        "description": "M4 x 10 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99454"
+    },
+    {
+        "description": "M4 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99457"
+    },
+    {
+        "description": "M4 x 12 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99458"
+    },
+    {
+        "description": "TLS120 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50280-BM"
+    },
+    {
+        "description": "TLS120-PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50280-PL"
+    }
+]

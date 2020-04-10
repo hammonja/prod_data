@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Grating Assembly with 1800g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T318R0U5"
+    },
+    {
+        "description": "Double with integrated electronics, 4 detector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR300"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "TMS 6 position filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_252_6"
+    },
+    {
+        "description": "TMS300 Slit Covers Parts",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TMS300_SLIT_COVER"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Aquila M300 Turret Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "M300_AQUILA_TURRET_COMMON"
+    },
+    {
+        "description": "68x68x6. 830/1200",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "G3083R1U2"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    }
+]

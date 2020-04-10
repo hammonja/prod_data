@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Small round rubber feet (bag of 60)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19112"
+    },
+    {
+        "description": "MDC150 Bottom Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44118"
+    },
+    {
+        "description": "16mm HOLE BLANKING PLUG (PK 25)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45783"
+    },
+    {
+        "description": "TMC150 COMMON PARTS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50218"
+    },
+    {
+        "description": "TMC150 VARIABLE SLITS 6 POS FILTER WHEEL BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50226-BM"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_VSS"
+    }
+]

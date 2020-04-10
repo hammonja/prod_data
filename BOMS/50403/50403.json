@@ -1,0 +1,92 @@
+[
+    {
+        "description": "IS100-QC Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50403-BM"
+    },
+    {
+        "description": "IS100-QC Parts List",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50403-PL"
+    },
+    {
+        "description": "IS100, Dual Monitor Port, Exit Hemi",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19520-P3"
+    },
+    {
+        "description": "IS100, Dual Monitor Port, Entrance Hemi",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19520-P2"
+    },
+    {
+        "description": "ThorLabs TR40/M, 40mm tall, 12.7mm dia, Optical Post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47102"
+    },
+    {
+        "description": "CMOSIS-100MM-IS Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44449"
+    },
+    {
+        "description": "Thor labs CF125",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45186"
+    },
+    {
+        "description": "Thorlabs PH30E/M, 30mm Adjustable Optical Post Holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47101"
+    },
+    {
+        "description": "IS100, 10mm Exit Port End Plate Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47000-P1"
+    },
+    {
+        "description": "IS100, Entrance Port, QC, End Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47001"
+    },
+    {
+        "description": "IS100, Monitor Port Plate Painted",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "47002-P1"
+    },
+    {
+        "description": "IS100, Dual Monitor Port Body",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47003"
+    },
+    {
+        "description": "ILD QC Dovetail Port Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47008"
+    },
+    {
+        "description": "ILD QC Dovetail with Port Cover Holes",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47007"
+    },
+    {
+        "description": "Slit Mounted Socket for QC ILD sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ILD_QC_SOCKET"
+    }
+]

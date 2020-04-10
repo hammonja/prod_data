@@ -1,0 +1,26 @@
+[
+    {
+        "description": "DIP Heatsink",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19018"
+    },
+    {
+        "description": "Stepper drive chip NJM#3771D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21050"
+    },
+    {
+        "description": "DAC Chip  NJU#39610D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21056"
+    },
+    {
+        "description": "IMAC_DRIVE_CHIP_SET Build Manual",
+        "location": "Issue A",
+        "quantity": "1.00",
+        "stockcode": "50082"
+    }
+]

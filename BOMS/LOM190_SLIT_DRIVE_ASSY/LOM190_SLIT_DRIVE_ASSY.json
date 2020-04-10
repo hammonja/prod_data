@@ -1,0 +1,104 @@
+[
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TMs300 motor slit sprocket, 5mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30234"
+    },
+    {
+        "description": "TMs300 slit sprocket, 4mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30252"
+    },
+    {
+        "description": "TMs300 slit drive opto bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41020"
+    },
+    {
+        "description": "Tyco 9 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45606"
+    },
+    {
+        "description": "OPTO BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45626"
+    },
+    {
+        "description": "3 LIMIT OPTO WIRING SCHEMATIC - SINGLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50116"
+    },
+    {
+        "description": "LOM190 Slit Drive Assy Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50117-BM"
+    },
+    {
+        "description": "M3 x 6 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99180"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Full nut, BLACK",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99196"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Socket Grub Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99276"
+    },
+    {
+        "description": "M4 Black Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99351"
+    },
+    {
+        "description": "M4 x 10 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99355"
+    },
+    {
+        "description": "Slit limit assembly for TMS type monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_SLIT-LIMIT-ASSY"
+    }
+]

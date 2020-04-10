@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Single with integrated electronics, 2 detector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ISR300"
+    },
+    {
+        "description": "TMS 6 position filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_252_6"
+    },
+    {
+        "description": "TMS300 slit assembly",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TMS300_SLIT"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TMS300 Slit Covers Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS300_SLIT_COVER"
+    },
+    {
+        "description": "TMS300 Dummy Slit Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS300_SLIT_DUMMY"
+    },
+    {
+        "description": "TMS300 Sam Blanking Plugs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS300_SAM_BLANKING_PLUGS"
+    }
+]

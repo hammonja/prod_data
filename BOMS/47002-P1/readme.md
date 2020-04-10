@@ -1,0 +1,4 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|47002|IS100, Monitor Port Plate|1.00||
+|47002-F1|Painting Operation to Produce 47002-P1|1.00||

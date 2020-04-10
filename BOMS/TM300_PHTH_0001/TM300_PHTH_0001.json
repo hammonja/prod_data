@@ -1,0 +1,440 @@
+[
+    {
+        "description": "Fuse 1A slow blow 20mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01004"
+    },
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Opto switch  HOA2001-001",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "04048"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "Capacitor 10nF, 2kV disc. Use 2 in par. for 215",
+        "location": "across proportional solenoid",
+        "quantity": "1.00",
+        "stockcode": "08036"
+    },
+    {
+        "description": "IEC mains filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "8 Position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11338_P1"
+    },
+    {
+        "description": "M300 curved mirror mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11123"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "O ring.( Pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11292"
+    },
+    {
+        "description": "Concave mirror, 600mm radius (300mm focal length)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11409"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "Pcb for slit limit assy",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15108"
+    },
+    {
+        "description": "Pcb for motor sensor in TMS slit drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15109"
+    },
+    {
+        "description": "Relay for xenon ignitor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18027"
+    },
+    {
+        "description": "USB cable ferrite",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18102"
+    },
+    {
+        "description": "Bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19291"
+    },
+    {
+        "description": "Gasket for TM300_PHTH (drawing 43838)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19573"
+    },
+    {
+        "description": "TM300 grating spacer",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30007"
+    },
+    {
+        "description": "TM Grating adjuster (Free issue 17254)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30008"
+    },
+    {
+        "description": "M3 x 5 Flat Ended Grub Screw Zinc Plt",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30047"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "TMs300 drive chain.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30233"
+    },
+    {
+        "description": "TMs300 motor slit sprocket, 5mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30234"
+    },
+    {
+        "description": "TMs300 filter wheel bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30236"
+    },
+    {
+        "description": "TMs300 Filter Wheel Mounting Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30237"
+    },
+    {
+        "description": "TMs300 Filter Wheel Shaft (fi 99904, 1 length per 20 items)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30238"
+    },
+    {
+        "description": "Drive Chain for filter wheel in Bentham TMS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30240"
+    },
+    {
+        "description": "26 MT SPROCKET 5mm bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30243F"
+    },
+    {
+        "description": "26 MT SPROCKET 1/4 inch bore",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30243F2"
+    },
+    {
+        "description": "TMs300 slit body cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30251"
+    },
+    {
+        "description": "TMs300 slit sprocket, 4mm bore",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "30252"
+    },
+    {
+        "description": "Tms300 limit switch/yoke mounting bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30260"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30337"
+    },
+    {
+        "description": "TMs300 slit drive opto bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41020"
+    },
+    {
+        "description": "TMs300 slit support cover plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41023"
+    },
+    {
+        "description": "Bentham TMS300 connector panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42749"
+    },
+    {
+        "description": "Base plate spacers for Bentham TMS300",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "42751"
+    },
+    {
+        "description": "90x90 mirror retaing block",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42874"
+    },
+    {
+        "description": "90x90 mounting plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42875"
+    },
+    {
+        "description": "24V proportional solenoid including spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42876"
+    },
+    {
+        "description": "Solenoid shutter bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42877"
+    },
+    {
+        "description": "90x90 grating plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42880"
+    },
+    {
+        "description": "90x90 grating upright",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42881"
+    },
+    {
+        "description": "90x90 tmc300 grating plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42882"
+    },
+    {
+        "description": "50x50 plain mirror mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42884"
+    },
+    {
+        "description": "50x50 plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42885"
+    },
+    {
+        "description": "Solenoid shutter balde",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42886"
+    },
+    {
+        "description": "50x50x3mm plain mirror (to 295nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42888"
+    },
+    {
+        "description": "Ninewells entrance snout",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43831"
+    },
+    {
+        "description": "PHTH ROTARY SHUTTER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50192"
+    },
+    {
+        "description": "Linear supply for IDR300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR300_PSU"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "IMAC card for Bentham TMS monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IMAC_CARD_BENTHAM_TMS"
+    },
+    {
+        "description": "68x84x6. 2400/250holog",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "T324H0U25"
+    },
+    {
+        "description": "90x90x16mm. 1200g/mm blazed at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "T612R0U4"
+    },
+    {
+        "description": "90x90x16mm. 1200g/mm blazed at 500nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "T612R0U5"
+    },
+    {
+        "description": "Housing for phototherapy monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_PHTH_HOUSING"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET"
+    },
+    {
+        "description": "Slit limit assembly for TMS type monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_SLIT-LIMIT-ASSY"
+    },
+    {
+        "description": "TMS300 slit assembly",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TMS300_SLIT"
+    },
+    {
+        "description": "UG11, 23mm dia. +0, -0.1mm. 1mm thick ( 8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG11_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400_REDUCED"
+    },
+    {
+        "description": "UG5, 23mm dia. +0, -0.1mm. 1mm thick ( 8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG5_REDUCED"
+    },
+    {
+        "description": "GG420 filter 23mm Diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13578_REDUCED"
+    },
+    {
+        "description": "GG475 filter 23mm Diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13579_REDUCED"
+    },
+    {
+        "description": "OG570, 23mm dia x 3mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13580_REDUCED"
+    }
+]

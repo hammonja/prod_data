@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Rear lens tube - Item 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12011"
+    },
+    {
+        "description": "Rear lens tube - Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12012"
+    },
+    {
+        "description": "Slit threaded adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13019"
+    }
+]

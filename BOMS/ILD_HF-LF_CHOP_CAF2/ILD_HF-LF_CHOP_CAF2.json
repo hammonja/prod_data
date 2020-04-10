@@ -1,0 +1,524 @@
+[
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "100W qh Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09101"
+    },
+    {
+        "description": "7 way Amphenol socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10034"
+    },
+    {
+        "description": "Connector lamp holders",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10042"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Lemo, 8 way, cable plug, green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10289"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 0.25\" bearing R4AZZ",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11044"
+    },
+    {
+        "description": "M300 Idler pulley shaft (FI 300mm 99904 per 10)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11074"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "12V Solenoid.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11249"
+    },
+    {
+        "description": "M4 Ball ended grub screw ( free issue 99022)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11250"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "M3 Ball ended grub screw (99254 free issued)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11260"
+    },
+    {
+        "description": "Rear lens tube - Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12012"
+    },
+    {
+        "description": "CaF2 lens for IL1, 25 dia, 25 f",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19640"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "Spacer NP 8.0/25/C/M3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15021"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "IL1 Lens tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17021"
+    },
+    {
+        "description": "EXLS Anode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17329"
+    },
+    {
+        "description": "EXLS Cathode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17330"
+    },
+    {
+        "description": "Fixed focus bar (make as matched pair with 17405)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17404"
+    },
+    {
+        "description": "Floating focus bar  (make as matched pair with 17404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17405"
+    },
+    {
+        "description": "Dowel 5mm x 35mm (99902, 1.5 lengths per 20)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17409"
+    },
+    {
+        "description": "EXLS Z Adjuster Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17673"
+    },
+    {
+        "description": "Motor with end cap and 150mm long leads",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18007"
+    },
+    {
+        "description": "92mm fan finger gaurd",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "TLS starter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18064"
+    },
+    {
+        "description": "Fan",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18080"
+    },
+    {
+        "description": "M3X10 Spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19011"
+    },
+    {
+        "description": "PLC-M3 self locking insert (Zygology Ltd)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19173"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "'E' clip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19266"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "FSM150Xe adjuster spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19345"
+    },
+    {
+        "description": "TEL309 Large Gear Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19486_M1"
+    },
+    {
+        "description": "8mm to 6mm reducer for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19503"
+    },
+    {
+        "description": "Ushio lamp for PV light sources",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19583"
+    },
+    {
+        "description": "SAM coupling",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30025"
+    },
+    {
+        "description": "Sam pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30026"
+    },
+    {
+        "description": "Machined Timing Pulley",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30045_M2"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "Bearing O/D 19mm, I/D 6mm, THK 6mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30153"
+    },
+    {
+        "description": "TMs300 Slit Bearing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30253"
+    },
+    {
+        "description": "TMs300 SAM support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30297"
+    },
+    {
+        "description": "TM300 turret opto spacer",
+        "location": "2 units ",
+        "quantity": "0.01",
+        "stockcode": "30303"
+    },
+    {
+        "description": "UKAEA sphere light source baffle plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "41631"
+    },
+    {
+        "description": "UKAEA sphere fan baffle plate pillars (pack of 25)",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "41674"
+    },
+    {
+        "description": "Off Axis Elliptical Reflector Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42404"
+    },
+    {
+        "description": "WRC Large Off Axis Elliptical Reflector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42405"
+    },
+    {
+        "description": "TS Space Systems Xenon Lamp Bottom Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42500"
+    },
+    {
+        "description": "Electro-magnet for Arrestable Chopper, Machined",
+        "location": "Mod in house to drw 43702",
+        "quantity": "1.00",
+        "stockcode": "42540-P1"
+    },
+    {
+        "description": "Sam mirror bracket for Dual QH Nernst",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42635"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP chopper stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43291"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP output plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43292"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP lens stand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43293"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP reflector post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43294"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP xenon side plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "43295"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP sam pillars",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "43296"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP heat shield",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43298"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43300"
+    },
+    {
+        "description": "ILD-75E-QH Connector Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43301_P1"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP lamp plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43302"
+    },
+    {
+        "description": "ILD_75E_QH_CHOP base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43303"
+    },
+    {
+        "description": "Belt for TEL309",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43392"
+    },
+    {
+        "description": "20 slot chopping disc in 1mm CR4 Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43432_P1"
+    },
+    {
+        "description": "Arrestable chopper pole piece Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43702_P1"
+    },
+    {
+        "description": "Solenoid mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43703"
+    },
+    {
+        "description": "PV DC Chopper Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44088"
+    },
+    {
+        "description": "ILD-75E-QH-Chop-DC-Chop Side Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44089"
+    },
+    {
+        "description": "PV DC Chopper Motor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44090"
+    },
+    {
+        "description": "PV DC Chopper Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44091"
+    },
+    {
+        "description": "PV DC Chopper Shaft (free issue 50mm 99903 per item)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44092"
+    },
+    {
+        "description": "PV DC Chopper Spacer Pillar",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "44093"
+    },
+    {
+        "description": "Blade for dc chopper in ILD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44094"
+    },
+    {
+        "description": "PV DC Chop Source Limit Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44104"
+    },
+    {
+        "description": "Lamp cable with shrouded at both ends (1.8m long)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CAB6"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
+    },
+    {
+        "description": "Sam cable, 3 way to 3 way, 550mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB9"
+    },
+    {
+        "description": "For use with TLS starter when used with 610",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INVERTER_BOARD_610"
+    },
+    {
+        "description": "1.8m Long 7 Way Cable for Arrestable Choppers",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB24"
+    },
+    {
+        "description": "ILD_HF-LF_CHOP BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50346-BM"
+    }
+]

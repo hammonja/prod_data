@@ -1,0 +1,32 @@
+[
+    {
+        "description": "IDR150 Fixed Slits, 6P FW, Front entrance, Back exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IDR150_SF01"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-G1512R0U5"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 750nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-G1512R0U75"
+    },
+    {
+        "description": "Three filters for NV systems",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SUND_NVF-SET"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (3.7mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(3.7)"
+    }
+]

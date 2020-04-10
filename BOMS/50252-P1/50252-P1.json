@@ -1,0 +1,14 @@
+[
+    {
+        "description": "FTMC50-HS HOUSING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50252"
+    },
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 50252-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50252-F1"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_VSS"
+    },
+    {
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50275"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "FLAT MIRROR ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50200"
+    },
+    {
+        "description": "TM300 EXIT SAM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50203"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "Internal Chopper - Arrestable - Entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50420"
+    },
+    {
+        "description": "PAINTED TMC casting machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P19"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 Lid Gaskets #125",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "Purge port option for TM300 monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PP_OPT"
+    },
+    {
+        "description": "ELECTRONICS MONO A1, D1, S1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50276"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "TMC300 POWER PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45877"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50198"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 3000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T303R3U0"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 6000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3015R6U0"
+    },
+    {
+        "description": "Grating Assembly with 75g/mm, 10000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T30075R10U0-AU"
+    },
+    {
+        "description": "TMC300 Configuraion",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_0069-BM"
+    },
+    {
+        "description": "5 slot chopping disc in 1mm CR4 Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43875_P1"
+    }
+]

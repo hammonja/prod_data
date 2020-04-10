@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Slim line bin for DTM envirobox",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "S400_417_SLIM-LINE"
+    },
+    {
+        "description": "Detection electronics for MDE150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MDE150_487"
+    },
+    {
+        "description": "High voltage supply board for MDE150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MDE150_215"
+    },
+    {
+        "description": "HV and temerature monitor board for enviroboxes",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "EBOX_MONITOR_BOARD"
+    }
+]

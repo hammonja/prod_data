@@ -1,0 +1,122 @@
+[
+    {
+        "description": "Temperature Sens AD590KH",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09056"
+    },
+    {
+        "description": "Purge port pipe connector",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "10119"
+    },
+    {
+        "description": "4 way, chassis mount plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10240"
+    },
+    {
+        "description": "Binding post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17168"
+    },
+    {
+        "description": "Nylon hose clip",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "19566"
+    },
+    {
+        "description": "Felt pad (pack of 4) (EAN 3206409 from B&Q)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19596"
+    },
+    {
+        "description": "Vacuum chuck vacuum nozzle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42704"
+    },
+    {
+        "description": "PV chuck pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43247"
+    },
+    {
+        "description": "PV Chuck Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43248_P1"
+    },
+    {
+        "description": "Peltier for vacuum chuck.  CP1-127-045L-1-RTV",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43249"
+    },
+    {
+        "description": "VC water block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43250"
+    },
+    {
+        "description": "Chuck table pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43253"
+    },
+    {
+        "description": "PV water block plug",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43286"
+    },
+    {
+        "description": "Vacuum hole covers",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "43315"
+    },
+    {
+        "description": "PV vacuum chuck, 20x20cm, temperature controlled",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46411_P1"
+    },
+    {
+        "description": "PV Chuck Detector Ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46854"
+    },
+    {
+        "description": "DH-Si Extension",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46855"
+    },
+    {
+        "description": "Modification Drawing for 43248_P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46856"
+    },
+    {
+        "description": "PV-VC20T_0001 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50081"
+    },
+    {
+        "description": "M3 Belleville Washer",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "99274"
+    }
+]

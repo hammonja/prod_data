@@ -1,0 +1,98 @@
+[
+    {
+        "description": "TM300 base cover Purged",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125_M1"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 400nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U4"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T324R0U25"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 310nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS310"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "PV Aperture Set",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV_APERTURE_SET"
+    },
+    {
+        "description": "Modified TM300 casting for PV system",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PV_CASTING"
+    },
+    {
+        "description": "Purge port option for TM300 monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PP_OPT"
+    },
+    {
+        "description": "Fixed Slit Box, Back & Lid, No Slit Carries (Components).",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_FSS_COMPONENTS"
+    },
+    {
+        "description": "Standard MVSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_MVSS_STANDARD"
+    },
+    {
+        "description": "252 filter wheel for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "TMC300 Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_COMMON_PARTS"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "description": "22uF X5R 0805 25V",
+        "location": "C1",
+        "quantity": "1.00",
+        "stockcode": "08135"
+    },
+    {
+        "description": "10uF X5R 0805 25V",
+        "location": "C2,C3",
+        "quantity": "2.00",
+        "stockcode": "08134"
+    },
+    {
+        "description": "Zener 3.3V SOD-123 5mW 2%",
+        "location": "D1",
+        "quantity": "1.00",
+        "stockcode": "04065"
+    },
+    {
+        "description": "Schottky 60V 1A SOD-123",
+        "location": "D2,D3",
+        "quantity": "2.00",
+        "stockcode": "04066"
+    },
+    {
+        "description": "10k 250mW 0805 1%",
+        "location": "R1,R2",
+        "quantity": "2.00",
+        "stockcode": "02300"
+    },
+    {
+        "description": "47k 250mW 0805 1%",
+        "location": "R3",
+        "quantity": "1.00",
+        "stockcode": "02301"
+    },
+    {
+        "description": "100 250mW 0805 1%",
+        "location": "R4",
+        "quantity": "1.00",
+        "stockcode": "02302"
+    },
+    {
+        "description": "NPN 200mW 100mA 200hFe",
+        "location": "Q1",
+        "quantity": "1.00",
+        "stockcode": "06563"
+    },
+    {
+        "description": "LM311 SOIC8",
+        "location": "U1",
+        "quantity": "1.00",
+        "stockcode": "06564"
+    },
+    {
+        "description": "16A SPDT Relay",
+        "location": "K1",
+        "quantity": "1.00",
+        "stockcode": "05052"
+    },
+    {
+        "description": "Xenon striker adapter PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15149_ISS1"
+    },
+    {
+        "description": "0805 100kohm CRGCQ Series 150V Thick Film 125 mW",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02303"
+    },
+    {
+        "description": "Tyco 2 way header with catch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10299"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "FC320 Pivot",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "12107"
+    },
+    {
+        "description": "Lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13035"
+    },
+    {
+        "description": "80mm fan finger guard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18044"
+    },
+    {
+        "description": "standard 80mm fan 12v",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18072"
+    },
+    {
+        "description": "M3X10 Spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19011"
+    },
+    {
+        "description": "Lamp 150W 24V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19056"
+    },
+    {
+        "description": "Elipsoidal reflector with AlMgF2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19124"
+    },
+    {
+        "description": "IL-Sun/Room Lamp Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42124"
+    },
+    {
+        "description": "IL-Sun/Room Lamp Top",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42125"
+    },
+    {
+        "description": "IL-Sun/Room Lamp Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42126"
+    },
+    {
+        "description": "IL-Sun/Room Lamp Back",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42128"
+    },
+    {
+        "description": "IL-Sun/Room Lamp Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42129"
+    },
+    {
+        "description": "IL-Sun Reflector Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42184"
+    },
+    {
+        "description": "IL-Sun Front Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42185"
+    },
+    {
+        "description": "IL-Sun Connector Side Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42186"
+    },
+    {
+        "description": "IL-Sun Side Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42187"
+    },
+    {
+        "description": "M3 x 20 Black Socket Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99165"
+    },
+    {
+        "description": "M3 x 12 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99265"
+    },
+    {
+        "description": "M3 x 8 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99278"
+    },
+    {
+        "description": "M4 x 10 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99454"
+    },
+    {
+        "description": "M2.5 x 12 CSK S/STEEL",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99577"
+    }
+]

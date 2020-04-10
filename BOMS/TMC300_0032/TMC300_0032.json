@@ -1,0 +1,32 @@
+[
+    {
+        "description": "TMC300 Fixed Slits 6P FW, Side entrance, Side exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_SF02"
+    },
+    {
+        "description": "Grating Assembly with 830g/mm, 1200nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3083R1U2"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.48mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(1.48)"
+    }
+]

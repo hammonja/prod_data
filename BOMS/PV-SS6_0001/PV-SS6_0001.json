@@ -1,0 +1,56 @@
+[
+    {
+        "description": "FSM150Xe adjuster spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19345"
+    },
+    {
+        "description": "PV Substrate chuck LH side",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44300"
+    },
+    {
+        "description": "PV Substrate chuck top plate for 0001 PAINTED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44436_P1"
+    },
+    {
+        "description": "PV subtrate chuck app plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44304"
+    },
+    {
+        "description": "PV Substrate chuck cross brace for 0001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44438"
+    },
+    {
+        "description": "PV Subtrate clamp pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44306"
+    },
+    {
+        "description": "PV Substrate Probe Tip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44307"
+    },
+    {
+        "description": "PV Substrate chuck thumb wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44308"
+    },
+    {
+        "description": "PV SS Chuck reference post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46154"
+    }
+]

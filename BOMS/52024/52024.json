@@ -1,0 +1,26 @@
+[
+    {
+        "description": "WRC Light Source Pillar Studding",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42411"
+    },
+    {
+        "description": "ILD TMC FOOT - BPC-C",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "49095"
+    },
+    {
+        "description": "ILD-TMC-FEET_0001 - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52024-PL"
+    },
+    {
+        "description": "ILD-TMC-FEET_0001 - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52024-BM"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "TMC Casting Machined & Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123_M10_P3"
+    },
+    {
+        "description": "TM300 sam blanking plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30127"
+    },
+    {
+        "description": "Purge port option for TM300 monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PP_OPT"
+    },
+    {
+        "description": "Slit MVSS RightHand",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_MVSS_RH"
+    },
+    {
+        "description": "252 Filter Wheel for TM300 - 8 Position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252_8_DSPIN"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "TMC300 DSPIN Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_DSPIN_COMMON_PARTS"
+    }
+]

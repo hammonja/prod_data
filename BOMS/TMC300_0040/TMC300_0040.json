@@ -1,0 +1,56 @@
+[
+    {
+        "description": "TMC300 Variable Slits 6P FW, Side entrance, Side exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_SF04"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U25"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 3000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T303R3U0"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 6000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3015R6U0-AU"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 3600nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS3600"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 6000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS6000"
+    }
+]

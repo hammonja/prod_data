@@ -1,0 +1,206 @@
+[
+    {
+        "description": "Slit MVSS RightHand",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_MVSS_RH"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50275"
+    },
+    {
+        "description": "GOLD ENTRANCE SAM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50349"
+    },
+    {
+        "description": "Flat Mirror (Exit FW) Gold",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50380"
+    },
+    {
+        "description": "TM300 Turret for QC Grating Carriers",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_QC_DSPIN"
+    },
+    {
+        "description": "Grating carrier for quick change turret",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_QC_CARRIER"
+    },
+    {
+        "description": "TM300 QC Grating Case",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300-QC-GRATING-CASE"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "TM300 252 Filter Wheel Exit - 6 Position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50307"
+    },
+    {
+        "description": "TMC Casting Machined Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P41"
+    },
+    {
+        "description": "TM300 Lid Gaskets #125",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "10mm x 25mm DIA PTFE FOOT M6 C'BORE FIXING",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "44627"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "Purge port option for TM300 monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PP_OPT"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "ELECTRONICS MONO A1, D2, S1(M2) (EXIT FW)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50379"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "TMC300 POWER PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45877"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "PV mono exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45197"
+    },
+    {
+        "description": "GOLD CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50350"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 8000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3015R8U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 90g/mm, 10000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3009R10U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 75g/mm, 12000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T30075R12U0-AU"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 6000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS6000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 10.5um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS10500"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 17.0um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS17000"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "Grating Assembly with 60g/mm, 16000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3006R16U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 50g/mm, 19500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3005R19U5-AU"
+    },
+    {
+        "description": "TMC300 CONFIGURATION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_0059-BM"
+    }
+]

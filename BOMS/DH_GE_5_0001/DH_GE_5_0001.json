@@ -1,0 +1,38 @@
+[
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "5mm dia room temperature Ge photodiode",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09029"
+    },
+    {
+        "description": "DH_SI BODY WITH MOUNTING HOLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09039-P1"
+    },
+    {
+        "description": "Front plate for TO8 detectors",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "09046"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "DH-Si Extension",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46855"
+    }
+]

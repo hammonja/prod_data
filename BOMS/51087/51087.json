@@ -1,0 +1,62 @@
+[
+    {
+        "description": "TURRET MOUNTING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48700"
+    },
+    {
+        "description": "TURRET BOX FRONT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48704"
+    },
+    {
+        "description": "TURRET BOX BACK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48701"
+    },
+    {
+        "description": "TURRET BOX SIDE 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48703"
+    },
+    {
+        "description": "TURRET BOX SIDE 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48702"
+    },
+    {
+        "description": "TURRET BOX TOP CORNER BRACE",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "48714"
+    },
+    {
+        "description": "TURRET BOX CORNER PILLARS",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "48713"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "32.00",
+        "stockcode": "99244"
+    },
+    {
+        "description": "TURRET BOX PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51087-PL"
+    },
+    {
+        "description": "TURRET BOX BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51087-BM"
+    }
+]

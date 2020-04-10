@@ -1,0 +1,68 @@
+[
+    {
+        "description": "ISR300 with 8 position filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ISR300_SF02"
+    },
+    {
+        "description": "Grating Assembly with 1800g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T318R0U5"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 3000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T303R3U0"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 4000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3015R4U0-AU"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 3600nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS3600_REDUCED"
+    },
+    {
+        "description": "Gasket for use with blanking plate 30270",
+        "location": "BACK EXIT PORT",
+        "quantity": "1.00",
+        "stockcode": "45213"
+    },
+    {
+        "description": "TMs300 slit blanking plate",
+        "location": "BACK EXIT PORT",
+        "quantity": "1.00",
+        "stockcode": "30270"
+    }
+]

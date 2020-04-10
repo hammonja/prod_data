@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Table With 5 Feet, 700 x 425 x 6mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46992"
+    },
+    {
+        "description": "Table Foot Dia 25 x 124 Tall",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "46993"
+    },
+    {
+        "description": "Table Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50397-BM"
+    },
+    {
+        "description": "Table Parts List",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50397-PL"
+    },
+    {
+        "description": "Table Interface Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46997"
+    },
+    {
+        "description": "Secondary Table Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46998"
+    },
+    {
+        "description": "Table Foot Dia 25 x 155.5 Tall",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46999"
+    }
+]

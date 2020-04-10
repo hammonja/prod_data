@@ -1,0 +1,56 @@
+[
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "Standard TM300 casting in Bentham colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_TM300"
+    },
+    {
+        "description": "Standard MVSS",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_MVSS_STANDARD"
+    },
+    {
+        "description": "252 filter wheel for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "TMC300 Common Parts",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_COMMON_PARTS"
+    },
+    {
+        "description": "Exit sam for TM300 or TMc300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_SAM-EXIT"
+    }
+]

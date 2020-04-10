@@ -1,0 +1,4 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|42078|Schrader Sphere Clad Plate 1|1.00||
+|42078-F1|Painting Operation to Produce 42078-P1|1.00||

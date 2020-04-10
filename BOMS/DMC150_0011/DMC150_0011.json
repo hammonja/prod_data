@@ -1,0 +1,32 @@
+[
+    {
+        "description": "DMC150 Motorised Slits, 6P FW, Front entrance, Side Exit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DMC150_SF04"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-G1524H0U25"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 750nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-G1512R0U75"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "description": "DH-InGaAs Body 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09039"
+    },
+    {
+        "description": "MACHINING OPERATION TO PRODUCE 09039-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09039-F1"
+    }
+]

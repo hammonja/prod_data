@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Silicon detector (10mm x 10mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09006"
+    },
+    {
+        "description": "Chassis BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10037"
+    },
+    {
+        "description": "M300 Small 'O' ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11054"
+    },
+    {
+        "description": "BNC connector plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27216"
+    },
+    {
+        "description": "Si Large Quick Change Adaptor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45669"
+    },
+    {
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB17"
+    }
+]

@@ -1,0 +1,8 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|45819|FTMc50 HOUSING OPTICAL DECK|1.00||
+|45820|FTMc50 HOUSING END PLATE|2.00||
+|45821|FTMc50 HOUSING REAR PLATE|1.00||
+|45822|FTMc50 HOUSING CENTRE BAFFLE|1.00||
+|45827|FTMc50 HOUSING FRONT PLATE|1.00||
+|50229-BM|FTMc50 Housing Build Manual|1.00||

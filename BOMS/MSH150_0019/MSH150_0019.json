@@ -1,0 +1,20 @@
+[
+    {
+        "description": "MSH150 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH150"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_VSS"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 4000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA1-G15015R4U0"
+    }
+]

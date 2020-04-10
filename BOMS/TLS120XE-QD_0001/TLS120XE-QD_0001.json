@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Fused silica (200nm), 25mm dia x 3mm (max. 25.1mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13605"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 1mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13930"
+    },
+    {
+        "description": "SMA ADAPTOR TLS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45937"
+    },
+    {
+        "description": "TLS120Xe-QD COMMON PARTS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50313"
+    },
+    {
+        "description": "Grating for FSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FSM12H0U39"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (2.78mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(2.78)"
+    },
+    {
+        "description": "Fuse 5A slow blow  sold in pack of 10",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01008"
+    },
+    {
+        "description": "TLS120 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50280-BM"
+    },
+    {
+        "description": "Rubber Damper For TM300 Turret (O/D 15, I/D3.5, Thk 5.5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30300"
+    },
+    {
+        "description": "PLC-M3 self locking insert",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19173"
+    }
+]

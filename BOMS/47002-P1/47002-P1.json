@@ -1,0 +1,14 @@
+[
+    {
+        "description": "IS100, Monitor Port Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47002"
+    },
+    {
+        "description": "Painting Operation to Produce 47002-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47002-F1"
+    }
+]

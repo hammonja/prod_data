@@ -1,0 +1,26 @@
+[
+    {
+        "description": "rotary pulse generator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07075"
+    },
+    {
+        "description": "14WAY SMD Boxed Header",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10363"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: Encoders RPG SMT 120CPR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15133"
+    },
+    {
+        "description": "15133_M1 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50136"
+    }
+]

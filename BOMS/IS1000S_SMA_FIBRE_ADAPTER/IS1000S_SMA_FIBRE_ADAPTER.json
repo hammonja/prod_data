@@ -1,0 +1,20 @@
+[
+    {
+        "description": "19403 Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19403_M3"
+    },
+    {
+        "description": "IS1000S_SPHERE_PORT_PLUG",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45488"
+    },
+    {
+        "description": "IS1000S_SMA_FIBRE_CLAMP_TUBE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45489"
+    }
+]

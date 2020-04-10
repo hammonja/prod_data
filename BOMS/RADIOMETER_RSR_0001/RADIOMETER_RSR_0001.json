@@ -1,0 +1,128 @@
+[
+    {
+        "description": "Thumbscrew knob",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19095"
+    },
+    {
+        "description": "QC Adapter Fixed Plate Sealing 'O' Ring (Bag of 50)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40042"
+    },
+    {
+        "description": "QC ADAPTOR FOR RADIOMETER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44548"
+    },
+    {
+        "description": "FRONT PLATE FOR FOR RADIOMETER 0001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44549"
+    },
+    {
+        "description": "35mm DIAMETER APERTURE PLATE 3x3mm SQR APERTURE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44550"
+    },
+    {
+        "description": "LID FOR FOR RADIOMETER 0001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44551"
+    },
+    {
+        "description": "SIDE PLATE FOR FOR RADIOMETER 0001",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44552"
+    },
+    {
+        "description": "BASE PLATE FOR RADIOMETER 0001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44553"
+    },
+    {
+        "description": "RADIOMETER RING MOUNT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44554"
+    },
+    {
+        "description": "POST 10 OD x 25mm LONG M3 HOLE BOTH ENDS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44555"
+    },
+    {
+        "description": "BAR 75mm PITCH M3 CLEARANCE HOLES",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44556"
+    },
+    {
+        "description": "BACK PLATE FOR FOR RADIOMETER 0001",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44557"
+    },
+    {
+        "description": "Holder for silica window",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45040"
+    },
+    {
+        "description": "Holder for quartz window",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45041"
+    },
+    {
+        "description": "Beam splitter in RADIOMETER_RSR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45042"
+    },
+    {
+        "description": "Block to hold lenses",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45043"
+    },
+    {
+        "description": "Tube to hold lenses",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45045"
+    },
+    {
+        "description": "Spacer to keep two lenses apart",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45046"
+    },
+    {
+        "description": "Lens, pcx, silica, 25.4 dia x 75 f",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45053"
+    },
+    {
+        "description": "RADIOMETER-RSR_0001 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50282-BM"
+    },
+    {
+        "description": "Silicon photodiode, 10x10mm active area (200-1100nm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_SI"
+    }
+]

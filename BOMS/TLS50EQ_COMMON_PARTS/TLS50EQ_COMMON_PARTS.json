@@ -1,0 +1,122 @@
+[
+    {
+        "description": "DTMS power connector 3way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10012"
+    },
+    {
+        "description": "IP68 mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10292"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
+    },
+    {
+        "description": "MSH150 FilterWheel Micro-Switch Bracket.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44371"
+    },
+    {
+        "description": "Ellipsoidal mirror (a=62.3773mm, b=47.9072mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44450"
+    },
+    {
+        "description": "TLS50EQ Housing Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44451_P1"
+    },
+    {
+        "description": "Off Axis Replicated Parabolic Mirror",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45670"
+    },
+    {
+        "description": "Off Axis Replicated Parabolic Mirror",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45671"
+    },
+    {
+        "description": "Light Source Mounting Disk",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45674"
+    },
+    {
+        "description": "Ellipsoidal Mirror Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45675"
+    },
+    {
+        "description": "50329AL Parabolic Mirror Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45676"
+    },
+    {
+        "description": "50329AL Parabolic Mirror Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45677"
+    },
+    {
+        "description": "SMA Connector Mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45678"
+    },
+    {
+        "description": "TLS50EQ Cover Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45679"
+    },
+    {
+        "description": "TLS50EQ Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45681"
+    },
+    {
+        "description": "Fibre End Cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45682"
+    },
+    {
+        "description": "Microswich Post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45683"
+    }
+]

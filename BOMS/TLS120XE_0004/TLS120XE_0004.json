@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Fused silica (200nm), 25mm dia x 3mm (max. 25.1mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13605"
+    },
+    {
+        "description": "UG11, 25mm dia. +0, -0.1mm. 1mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13930"
+    },
+    {
+        "description": "SMA ADAPTOR TLS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45937"
+    },
+    {
+        "description": "TLS120Xe COMMON PARTS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50280"
+    },
+    {
+        "description": "Grating for FSM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FSM12H0U39"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Osram XBO 100W OFR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19719"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.72mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FSP(0.72)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.45mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FSP(1.45)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (2.0mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FSP(2.0)"
+    },
+    {
+        "description": "TLS150Xe Front Panel with Label",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45559_P1"
+    }
+]

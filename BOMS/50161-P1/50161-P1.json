@@ -1,0 +1,14 @@
+[
+    {
+        "description": "TMS302_X_E HOUSING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50161"
+    },
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 50161-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50161-F1"
+    }
+]

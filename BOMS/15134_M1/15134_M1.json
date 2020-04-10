@@ -1,0 +1,26 @@
+[
+    {
+        "description": "ARM 7x2 PCB adapter: NHD-0420CW-AB3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15134"
+    },
+    {
+        "description": "14WAY SMD Boxed Header",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10363"
+    },
+    {
+        "description": "Board-To-Board Connector, Vertical, D01 Series, Through Hole",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10133"
+    },
+    {
+        "description": "Build Instructions for 15134_M1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50108"
+    }
+]

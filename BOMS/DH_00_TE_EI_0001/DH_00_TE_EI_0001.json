@@ -1,0 +1,62 @@
+[
+    {
+        "description": "Safe HV socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10040"
+    },
+    {
+        "description": "SMA bulkhead socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10179"
+    },
+    {
+        "description": "DH-00-Te housing (2 parts, matched)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40001"
+    },
+    {
+        "description": "Expanded Neoprene Gaskets",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40016"
+    },
+    {
+        "description": "Heat sink gasket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40017"
+    },
+    {
+        "description": "Small 'O' ring 1\" od, 3/32\" cross section (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40038"
+    },
+    {
+        "description": "Coupling flange for EI cooled housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "40039"
+    },
+    {
+        "description": "Cable for EI housing (2m long)(Drawing 23059_3)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_00_TE_EI_CABLE"
+    },
+    {
+        "description": "Fan assembly for DH_00_TE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_00_TE_FAN-ASSY"
+    },
+    {
+        "description": "Heatsink for cooled housing (from 40011)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_TE_HEATSINK"
+    }
+]

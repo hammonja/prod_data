@@ -1,0 +1,344 @@
+[
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "DTMS power connector 3way chassis plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10012"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "BINDER - 09 0306 00 03 - SOCKET, FREE, 3WAY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10329"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "7.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "ADAPTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11234"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "22.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "SAM Driver Relay PCB (Assembled 2 Relay)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15130_M2"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "Connector port cover (blanking plate)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17390"
+    },
+    {
+        "description": "mains port cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17391"
+    },
+    {
+        "description": "24V 9.2A External Power Supply",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18164"
+    },
+    {
+        "description": "Heyco 003 0347 black (Nylon foot)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19004"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TMC Casting Machined & Painted",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30123_M14_P1"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "DTMC300 DSPIN Baseplate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45647"
+    },
+    {
+        "description": "Power Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45648"
+    },
+    {
+        "description": "DSPIN PCB Mounting Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45650"
+    },
+    {
+        "description": "MSHD300 Purged Base Gasket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46407"
+    },
+    {
+        "description": "DTMC300 Purged Base Cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46409"
+    },
+    {
+        "description": "LED CLIP, 3MM, PK50",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99060"
+    },
+    {
+        "description": "Grating Assembly with 50g/mm, 19500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3005R19U5-AU"
+    },
+    {
+        "description": "Grating Assembly with 75g/mm, 10000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T30075R10U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 6000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3015R6U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 400g/mm, 1600nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T304R1U6"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T324H0U25"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 10.5um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS10500"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 17.0um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS17000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 3600nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS3600"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 6000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS6000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Slit MVSS RightHand",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "SLIT_MVSS_RH"
+    },
+    {
+        "description": "252 Filter Wheel for TM300 - 8 Position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252_8_DSPIN"
+    },
+    {
+        "description": "252 Filter Wheel for TM300 - 6 Position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252_DSPIN"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 mirror assembly with protective cover.",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300_MIRROR_ASSY"
+    },
+    {
+        "description": "Grating carrier for quick change turret",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300_QC_CARRIER"
+    },
+    {
+        "description": "Exit sam for TM300 or TMc300",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_SAM-EXIT"
+    },
+    {
+        "description": "TM300 Turret for QC Grating Carriers",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET_QC_DSPIN"
+    },
+    {
+        "description": "TM300 QC Grating Case",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300-QC-GRATING-CASE"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Bias Light Filter Set for 4 Junction Cells",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FILTER_SET_4J"
+    },
+    {
+        "description": "RG 630 filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13599"
+    },
+    {
+        "description": "ULS filter holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42605"
+    },
+    {
+        "description": "Filter holder knob (Note new Issue)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42607"
+    }
+]

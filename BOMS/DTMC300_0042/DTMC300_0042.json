@@ -1,0 +1,326 @@
+[
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "CUSTOM SLITS 0004",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLITS_CUSTOM_0004"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "TM300 Fixed Slit",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300_FIXED_SLIT"
+    },
+    {
+        "description": "Slit Mounted Socket for QC ILD sources",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "ILD_QC_SOCKET"
+    },
+    {
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50275"
+    },
+    {
+        "description": "ADAPTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11234"
+    },
+    {
+        "description": "FLAT MIRROR LOWER HOLE ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50199"
+    },
+    {
+        "description": "TM300 ENTRANCE SAM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50273"
+    },
+    {
+        "description": "FLAT MIRROR (EXIT FW)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50308"
+    },
+    {
+        "description": "TM300 Turret for QC Grating Carriers",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET_QC_DSPIN"
+    },
+    {
+        "description": "Grating carrier for quick change turret",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "TM300_QC_CARRIER"
+    },
+    {
+        "description": "TM300 QC Grating Case",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "TM300-QC-GRATING-CASE"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "TM300 252 FILTER WHEEL - 11 POSITION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51092"
+    },
+    {
+        "description": "TM300 Lid Gaskets #125",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM300/2 baseplate cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30111"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "CASTING PAINTED - INTERCHANGEABLE TURRET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P91"
+    },
+    {
+        "description": "CASTING - INT TURRET, 11 POS EXIT FW, PAINTED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P89"
+    },
+    {
+        "description": "ELECTRONICS MONO A1, D1, S1(M3)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50359"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "TMC300 POWER PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45877"
+    },
+    {
+        "description": "Connector port cover (blanking plate)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17390"
+    },
+    {
+        "description": "mains port cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17391"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "PV mono exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45197"
+    },
+    {
+        "description": "PV mono exit baffle FOR 11 POS FW",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48739"
+    },
+    {
+        "description": "DTMC300 DSPIN Baseplate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45647"
+    },
+    {
+        "description": "Heyco 003 0347 black (Nylon foot)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19004"
+    },
+    {
+        "description": "CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "50198"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T324R0U25"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1600nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T306R1U6"
+    },
+    {
+        "description": "Grating Assembly with 75g/mm, 10000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T30075R10U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 50g/mm, 19500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3005R19U5-AU"
+    },
+    {
+        "description": "Grating Assembly with 30g/mm, 30000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3003R30U0-AU"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 3600nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS3600_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 6000nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS6000_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 10500nm (8 Slot Filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS10500_REDUCED"
+    },
+    {
+        "description": "Order Sorting filter 17um Reduced",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS17000_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 22.0um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS22000"
+    },
+    {
+        "description": "Blank for 8 position filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11021"
+    },
+    {
+        "description": "Circlip for TM300 8 position wheel ( pack of 1000 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19786"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 4000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T303R4U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 6000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3015R6U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 100g/mm, 9000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T301R9U0-AU"
+    },
+    {
+        "description": "DTMC300 - SLIT 2,4,5,7, 6 POS EXIT FW & 8 POS EXIT FW, INT T",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTMC300_0042-BM"
+    },
+    {
+        "description": "CABLE EXTENDER FOR 9 WAY TYCOS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45998"
+    }
+]

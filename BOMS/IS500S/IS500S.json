@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Integrating Sphere 500mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS500S_SPHERE"
+    },
+    {
+        "description": "IS500S Shipping costs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS500S_SHIPPING"
+    }
+]

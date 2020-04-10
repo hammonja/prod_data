@@ -1,0 +1,14 @@
+[
+    {
+        "description": "FTMc50 HOUSING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50229"
+    },
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 50229-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50229-F1"
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "TM300 Fixed Slit",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "TM300_FIXED_SLIT"
+    },
+    {
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "50275"
+    },
+    {
+        "description": "ADAPTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11234"
+    },
+    {
+        "description": "FLAT MIRROR ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50200"
+    },
+    {
+        "description": "FLAT MIRROR LOWER HOLE ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50199"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "CABLE EXTENDER FOR 9 WAY TYCOS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45998"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "TM300 252 FILTER WHEEL - 6 POSITION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50201"
+    },
+    {
+        "description": "Standard TM300 casting in Bentham colours",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "CASTING_TM300"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM300/2 baseplate cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30111"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "ELECTRONICS MONO A1, D1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50279"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "TMC300 POWER PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45877"
+    },
+    {
+        "description": "Connector port cover (blanking plate)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17390"
+    },
+    {
+        "description": "mains port cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17391"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "50198"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "DTMC300 DSPIN Baseplate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45647"
+    },
+    {
+        "description": "Heyco 003 0347 black (Nylon foot)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19004"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    }
+]

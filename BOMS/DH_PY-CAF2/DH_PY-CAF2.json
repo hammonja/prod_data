@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Pyroelectric Detector Head",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DH_PY"
+    },
+    {
+        "description": "@DLATGS pyroelectric with CaF2 window 0.3-5µm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09171"
+    }
+]

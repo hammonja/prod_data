@@ -1,0 +1,56 @@
+[
+    {
+        "description": "MSH300_0044 CONFIGURATION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH300_0044-BM"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 250nm Blazed Holog Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312H0U25"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 300nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U3"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "MSH300 SIDE ENT, SIDE EXIT, MET 6 FW, VSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50174"
+    }
+]

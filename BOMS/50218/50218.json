@@ -1,0 +1,110 @@
+[
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "KYCON 4 PIN PANEL MOUNT CONNECTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10059"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "7mm M3 spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15065"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "MDC150 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44128"
+    },
+    {
+        "description": "MDC150 exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44129"
+    },
+    {
+        "description": "PCB STANDOFF",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45596"
+    },
+    {
+        "description": "TMC150 CONNECTOR PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45811"
+    },
+    {
+        "description": "TMC150 HOUSING PAINTED BENTHAM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50219-P1"
+    },
+    {
+        "description": "TMC150 252 6 POS FILTER WHEEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50220"
+    },
+    {
+        "description": "TMC150 CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50221"
+    },
+    {
+        "description": "TMC150 PLAIN MIRROR",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50222"
+    },
+    {
+        "description": "LED CLIP, 3MM, PK50",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99060"
+    },
+    {
+        "description": "Compact Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM150_TURRET_DSPIN"
+    },
+    {
+        "description": "TMC150 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50223-BM"
+    }
+]

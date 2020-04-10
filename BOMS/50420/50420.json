@@ -1,0 +1,92 @@
+[
+    {
+        "description": "Internal Chopper - Arrestable - Entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50420-BM"
+    },
+    {
+        "description": "Internal Chopper - Arrestable - Entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50420-PL"
+    },
+    {
+        "description": "Slotted Optoswitch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04019"
+    },
+    {
+        "description": "7 way Amphenol socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10034"
+    },
+    {
+        "description": "Socket chassis 4 way",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10234"
+    },
+    {
+        "description": "4 way cable connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10246"
+    },
+    {
+        "description": "Coupler holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17001"
+    },
+    {
+        "description": "218 Boss",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17002"
+    },
+    {
+        "description": "Motor with end cap and 150mm long leads",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18007"
+    },
+    {
+        "description": "Internal arrestable chopper magnet mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43873"
+    },
+    {
+        "description": "Internal chopper arrester magnet adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43876"
+    },
+    {
+        "description": "Internal arrestable chopper mount",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43877"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Electro-magnet for Arrestable Chopper, Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42540-P1"
+    }
+]

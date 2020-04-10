@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Cover plate VSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17659"
+    },
+    {
+        "description": "Variable slit box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17660"
+    },
+    {
+        "description": "TMs300 Jaw Running Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17661"
+    },
+    {
+        "description": "TMs300 Jaw (handed pair)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17663"
+    },
+    {
+        "description": "TMs300 Jaw plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17664"
+    },
+    {
+        "description": "Fork for VSS (Slit block 1)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42727"
+    }
+]

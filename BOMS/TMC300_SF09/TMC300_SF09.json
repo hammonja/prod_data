@@ -1,0 +1,14 @@
+[
+    {
+        "description": "TMC300 Base PV monochromator with 8 position filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_PV_BASE_FW8"
+    },
+    {
+        "description": "TM300_PV to ILD-HF-LF-CHOP Connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_PV_DC_CHOP"
+    }
+]

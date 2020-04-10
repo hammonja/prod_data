@@ -1,0 +1,290 @@
+[
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "Slit MVSS RightHand",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_MVSS_RH"
+    },
+    {
+        "description": "Slit Mounted Socket for QC ILD sources",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "ILD_QC_SOCKET"
+    },
+    {
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50275"
+    },
+    {
+        "description": "ADAPTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11234"
+    },
+    {
+        "description": "TM300 Fixed Slit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_FIXED_SLIT"
+    },
+    {
+        "description": "LOW PROFILE SLIT CLAMP RECEIVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48444"
+    },
+    {
+        "description": "Custom Slit Set",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLITS_CUSTOM_0002"
+    },
+    {
+        "description": "GOLD FLAT MIRROR LOWER HOLE ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50347"
+    },
+    {
+        "description": "GOLD ENTRANCE SAM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50349"
+    },
+    {
+        "description": "Flat Mirror (Exit FW) Gold",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50380"
+    },
+    {
+        "description": "TM300 Turret for QC Grating Carriers",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET_QC_DSPIN"
+    },
+    {
+        "description": "Grating carrier for quick change turret",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300_QC_CARRIER"
+    },
+    {
+        "description": "TM300 QC Grating Case",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300-QC-GRATING-CASE"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "IMPERIAL TM300 252 FILTER WHEEL - EXIT 6 POSITION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51064"
+    },
+    {
+        "description": "PAINTED 30123-P62",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P63"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 Lid Gaskets #125",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM300/2 baseplate cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30111"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "P clip 6.4mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19101"
+    },
+    {
+        "description": "PAINTED 30123-P64",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P65"
+    },
+    {
+        "description": "WIRING DIAGRAM DOUBLE MONO A1, D2, S3 (M3), ILD, EXIT FW",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51047"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "TMC300 POWER PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45877"
+    },
+    {
+        "description": "Connector port cover (blanking plate)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17390"
+    },
+    {
+        "description": "mains port cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17391"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "DTMC300 DSPIN Baseplate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45647"
+    },
+    {
+        "description": "Heyco 003 0347 black (Nylon foot)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19004"
+    },
+    {
+        "description": "GOLD CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "50350"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 8000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3015R8U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 90g/mm, 10000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3009R10U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 75g/mm, 12000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T30075R12U0-AU"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 6000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS6000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 10.5um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS10500"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 17.0um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS17000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 22.0um",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS22000"
+    },
+    {
+        "description": "Grating Assembly with 60g/mm, 16000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3006R16U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 50g/mm, 19500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3005R19U5-AU"
+    },
+    {
+        "description": "Grating Assembly with 30g/mm, 30000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3003R30U0-AU"
+    },
+    {
+        "description": "DTMC300_0039 BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTMC300_0039-BM"
+    },
+    {
+        "description": "PV mono exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45197"
+    }
+]

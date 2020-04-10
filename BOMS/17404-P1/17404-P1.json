@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Fixed focus bar (make as matched pair with 17405)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17404"
+    },
+    {
+        "description": "MACHINING OPERATION TO PRODUCE 17404-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17404-F1"
+    }
+]

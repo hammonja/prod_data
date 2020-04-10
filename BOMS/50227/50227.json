@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Small round rubber feet (bag of 60)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19112"
+    },
+    {
+        "description": "MDC150 Bottom Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44118"
+    },
+    {
+        "description": "TMC150 PURGED COMMON PARTS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50223"
+    },
+    {
+        "description": "TMC150 PURGED MVSS SLITS 6 POS FILTER WHEEL BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50227-BM"
+    },
+    {
+        "description": "Slit MVSS for PQ",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_MVSS_PQ"
+    }
+]

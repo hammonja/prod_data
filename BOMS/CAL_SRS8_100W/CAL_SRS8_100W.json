@@ -1,0 +1,14 @@
+[
+    {
+        "description": "100W Grit Blasted Quartz-Halogen Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17903"
+    },
+    {
+        "description": "Calibrated Spectral Radiance Source (Common Components)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_SRS8_COMMON"
+    }
+]

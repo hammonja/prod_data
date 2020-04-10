@@ -1,0 +1,44 @@
+[
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "DM150 Base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11157"
+    },
+    {
+        "description": "Standard DMc150 casting in Bentham Colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_DMC150"
+    },
+    {
+        "description": "Filter wheel for DM150",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DM150_252"
+    },
+    {
+        "description": "DM150 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DMC150_COMMON_PARTS"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_VSS"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    }
+]

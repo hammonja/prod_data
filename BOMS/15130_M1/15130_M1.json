@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Relay",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07044"
+    },
+    {
+        "description": "Tyco 2 way header with catch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10299"
+    },
+    {
+        "description": "SAM Driver Relay PCB (excluding relays and connectors)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15130"
+    },
+    {
+        "description": "15130_M1 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50128"
+    }
+]

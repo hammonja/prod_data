@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Single with integrated electronics, 2 detector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ISR300"
+    },
+    {
+        "description": "TMS 8 position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_252_8"
+    },
+    {
+        "description": "TMS300 slit assembly",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "TMS300_SLIT"
+    },
+    {
+        "description": "Sam for TMS  based monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS300_SAM"
+    }
+]

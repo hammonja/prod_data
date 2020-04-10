@@ -1,0 +1,194 @@
+[
+    {
+        "description": "Slit MVSS RightHand",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_MVSS_RH"
+    },
+    {
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50275"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "FLAT MIRROR ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50200"
+    },
+    {
+        "description": "TM300 EXIT SAM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50203"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "TM300 252 FILTER WHEEL - 8 POSITION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50286"
+    },
+    {
+        "description": "PAINTED 30123-P66 QD COLOURS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P77"
+    },
+    {
+        "description": "TM300 Lid Gaskets #125",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "TM300 casting lid painted and silk screened for QD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124_QD"
+    },
+    {
+        "description": "P clip 6.4mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19101"
+    },
+    {
+        "description": "ELECTRONICS MONO A1, D2, S1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50300"
+    },
+    {
+        "description": "TMc300 USB connector panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44274"
+    },
+    {
+        "description": "MSH300 POWER CONNECTOR PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45734"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50198"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U25"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 3000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T303R3U0"
+    },
+    {
+        "description": "Grating Assembly with 100g/mm, 9000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T301R9U0"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 3600nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS3600_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 6000nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS6000_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 10500nm (8 Slot Filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS10500_REDUCED"
+    },
+    {
+        "description": "Blank for 8 position filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11021"
+    },
+    {
+        "description": "Circlip for TM300 8 position wheel ( pack of 1000 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19786"
+    },
+    {
+        "description": "MONOCHROMATOR CONFIGURATION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH300_0063-BM"
+    }
+]

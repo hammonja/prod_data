@@ -1,0 +1,56 @@
+[
+    {
+        "description": "DTR4 Au Entrance Hemisphere",
+        "location": " ",
+        "quantity": "1.00",
+        "stockcode": "13076_M4"
+    },
+    {
+        "description": "DTR4 Au Base Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46767"
+    },
+    {
+        "description": "DTR4 Au Entrance Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46768"
+    },
+    {
+        "description": "DTR4 Au Cap",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46770"
+    },
+    {
+        "description": "DTR4 Au Through Port",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46771"
+    },
+    {
+        "description": "DTR4 Au Sample Clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46772"
+    },
+    {
+        "description": "M2.5 Screw Button Head Hex Socket A2 Stainless",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "99329"
+    },
+    {
+        "description": "UMS-DRT4-AU Entrance Hemisphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50399-PL"
+    },
+    {
+        "description": "UMS-DRT4-AU Entrance Hemisphere",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50399-BM"
+    }
+]

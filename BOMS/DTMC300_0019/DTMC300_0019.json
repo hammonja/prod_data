@@ -1,0 +1,224 @@
+[
+    {
+        "description": "Connector 9 Way 'D' Plug",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10086"
+    },
+    {
+        "description": "Connector 9 Way 'D' Metal Case",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10111"
+    },
+    {
+        "description": "IEC mains filter (631-FN393-6-05-11)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Lemo, 8 way, chassis socket, green",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10288"
+    },
+    {
+        "description": "Lemo, 8 way, cable plug, green",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10289"
+    },
+    {
+        "description": "Tyco 8 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10298"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "Spacer for VSS when used with FSS & SAM",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17023"
+    },
+    {
+        "description": "DTM300 env-box MkII Connecting plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17952"
+    },
+    {
+        "description": "30123_M11 Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123_M11_P1"
+    },
+    {
+        "description": "30125 Machined",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30125_M2"
+    },
+    {
+        "description": "DTMC300 Base Inspection Plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45502"
+    },
+    {
+        "description": "Double Monochromator Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DOUBLE_MONO_COMMON_PARTS"
+    },
+    {
+        "description": "DTMC300 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTMC300_COMMON_PARTS"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1600nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U6"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 2400g/mm, 250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T324R0U25"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700_REDUCED"
+    },
+    {
+        "description": "Triple Motor Microstepping Drive Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PMC_IMAC_CARD"
+    },
+    {
+        "description": "Fixed Slit Box, Back & Lid, No Slit Carries (Components).",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "SLIT_FSS_COMPONENTS"
+    },
+    {
+        "description": "Standard MVSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_MVSS_STANDARD"
+    },
+    {
+        "description": "Reduced ND filter set for solar measurement systems",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SUND_UVF_REDUCED"
+    },
+    {
+        "description": "252 filter wheel for TM300. 8 position",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252-8"
+    },
+    {
+        "description": "252 filter wheel for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "PSU for TMc Monochromators with IMAC Card",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_C_PSU_IMAC"
+    },
+    {
+        "description": "Entrance sam for TM300 or TMc300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_SAM-ENTRANCE"
+    },
+    {
+        "description": "Exit sam for TM300 or TMc300",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_SAM-EXIT"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (0.74mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FSP(0.74)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (3.7mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FSP(3.7)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (5.56mm width aperture)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SA-FSP(5.56)"
+    },
+    {
+        "description": "Fixed Slit Assembly with Slit Plate (1.85mm width aperture)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SA-FSP(1.85)"
+    }
+]

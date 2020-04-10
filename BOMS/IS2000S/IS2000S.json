@@ -1,0 +1,110 @@
+[
+    {
+        "description": "Integrating Sphere 2000mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS2000S_SPHERE"
+    },
+    {
+        "description": "IS2000S Shipping costs",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS2000S_SHIPPING"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "Bentham Logo plate (silk screened)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16098"
+    },
+    {
+        "description": "Schuko 6 way distribution strip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19598"
+    },
+    {
+        "description": "IS fibre diffuser  ( PTFE NOT DELRIN )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44028"
+    },
+    {
+        "description": "IS2000 Fibre Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45330"
+    },
+    {
+        "description": "IS2000 DH400 End Block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45333"
+    },
+    {
+        "description": "IS2000 Name Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45360"
+    },
+    {
+        "description": "IS2000 Support Shelf",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45372"
+    },
+    {
+        "description": "IS2000 Shelf Clamps",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45376"
+    },
+    {
+        "description": "IEC inline mains connector (pins) socket",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45378"
+    },
+    {
+        "description": "IEC inline mains connector (sockets) plug",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45379"
+    },
+    {
+        "description": "IS2000 Auxiliary Connector Box",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46749"
+    },
+    {
+        "description": "IS2000 Aux Connector Panel Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46750"
+    },
+    {
+        "description": "IS2000 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50028"
+    },
+    {
+        "description": "IS 2000 Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IS2000_CONNECTOR_PANEL"
+    }
+]

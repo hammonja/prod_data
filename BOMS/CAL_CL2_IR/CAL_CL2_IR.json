@@ -1,0 +1,68 @@
+[
+    {
+        "description": "Black 4mm socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10002"
+    },
+    {
+        "description": "Red 4mm socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10003"
+    },
+    {
+        "description": "CL2 stand (no engraving)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12028"
+    },
+    {
+        "description": "CL2 Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16026"
+    },
+    {
+        "description": "Hawk Eye Silicon Nirtride Glowbar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19076"
+    },
+    {
+        "description": "M3 thumb nuts for IL10",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19172"
+    },
+    {
+        "description": "Moulded case for diffusers and CL2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25058"
+    },
+    {
+        "description": "CAL_CL2_IR CLAMP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44524"
+    },
+    {
+        "description": "IL8 P.T.F.E. sleeve",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46754"
+    },
+    {
+        "description": "CAL_CL2_IR Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50168"
+    },
+    {
+        "description": "Lamp cable shrouded to bunch pin (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB5"
+    }
+]

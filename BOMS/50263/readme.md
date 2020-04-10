@@ -1,0 +1,9 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|44560|BACK PLATE FOR 50263|1.00||
+|44561|POST FOR 50263|3.00||
+|44563|CLAMP MOUNT BLOCK FOR 50263|1.00||
+|44564|CLAMP PLATE FOR 50263|1.00||
+|44565|RUBBER PAD FOR 50263|1.00||
+|44566|H50 Rubber Sleeve|3.00||
+|44567|GONIO MOUNT PLATE FOR 50263|1.00||

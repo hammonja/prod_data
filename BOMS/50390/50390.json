@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Demagnification Lens Carriage",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46978"
+    },
+    {
+        "description": "Demagnification Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46977"
+    },
+    {
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "O ring 35.5x3 NITRILE 70 SHORE  Pack of 50",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "Split ring for TGK filter wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "NA5155"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "TMC Fixed Slit Demagnification Optic Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50390-BM"
+    },
+    {
+        "description": "TMC Fixed Slit Demagnification Optic Parts List",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50390-PL"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "description": "5mm to 5mm flexible coupler",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30019"
+    },
+    {
+        "description": "M4 x 10 flat ended grub, black.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30048"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "TM300 turret Post",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30121"
+    },
+    {
+        "description": "TM300 worm yoke.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30133"
+    },
+    {
+        "description": "Worm yoke bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30135"
+    },
+    {
+        "description": "TMs300 turret bottom spacer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30282"
+    },
+    {
+        "description": "Rubber Damper For TM300 Turret (O/D 15, I/D3.5, Thk 5.5)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30300"
+    },
+    {
+        "description": "Precision worm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30473"
+    },
+    {
+        "description": "Precision worm gear",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30474"
+    },
+    {
+        "description": "MDC Turret Middle Support Plate ( free issue 30291)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44218"
+    },
+    {
+        "description": "MDC TM300 Turret Base Plate ( free issue 30291)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44219"
+    },
+    {
+        "description": "MDC turret shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44221"
+    },
+    {
+        "description": "MDC Turret Opto Flag",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44222"
+    },
+    {
+        "description": "Worm shaft, MDC turret (fi 1 off 600mm length 99907 per 10)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46321"
+    },
+    {
+        "description": "Spectrograph Turret Motor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50412"
+    },
+    {
+        "description": "Turret Topper",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47096"
+    }
+]

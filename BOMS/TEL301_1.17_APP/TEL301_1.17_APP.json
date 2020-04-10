@@ -1,0 +1,38 @@
+[
+    {
+        "description": "M300 fixed slit spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11068"
+    },
+    {
+        "description": "Circular aperture mirror 1.17mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12019"
+    },
+    {
+        "description": "Aperture support",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12027"
+    },
+    {
+        "description": "Spindle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12030"
+    },
+    {
+        "description": "Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12031"
+    },
+    {
+        "description": "M3 plastic thumb nut with brass thread insert",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19330"
+    }
+]

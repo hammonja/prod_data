@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Vacuum chuck vacuum nozzle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10286_M1"
+    },
+    {
+        "description": "Binding post",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17168"
+    },
+    {
+        "description": "Felt pad (pack of 4) (EAN 3206409 from B&Q)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19596"
+    },
+    {
+        "description": "PV chuck pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43247"
+    },
+    {
+        "description": "PV Chuck Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43248_P1"
+    },
+    {
+        "description": "Chuck table pillar",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "43253"
+    },
+    {
+        "description": "Vacuum hole covers",
+        "location": "",
+        "quantity": "12.00",
+        "stockcode": "43315"
+    },
+    {
+        "description": "PV DH-Si cup",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43327"
+    },
+    {
+        "description": "PV Chuck, 20x20cm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46411-P2"
+    }
+]

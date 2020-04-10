@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Sphere for ULS300 Mk2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13065-P1"
+    },
+    {
+        "description": "SMA Connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17674_M2"
+    },
+    {
+        "description": "UKAEA sphere port plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41618"
+    },
+    {
+        "description": "MkII ULS300 Fibre Block",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "42110"
+    },
+    {
+        "description": "ULS300 Detector Holder (ID 37mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46917"
+    },
+    {
+        "description": "ULS300 Sphere Assembly Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50361-BM"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "description": "OPTICS DECK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48296"
+    },
+    {
+        "description": "LEFT SIDE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48297"
+    },
+    {
+        "description": "BACK PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48298"
+    },
+    {
+        "description": "RIGHT SIDE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48299"
+    },
+    {
+        "description": "RIGHT FRONT SIDE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48300"
+    },
+    {
+        "description": "STAGE LEFT SIDE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48301"
+    },
+    {
+        "description": "FRONT PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48302"
+    },
+    {
+        "description": "FIBRE MOUNTING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48303"
+    },
+    {
+        "description": "LIGHT SOURCE MOUNTING FIXING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48304"
+    },
+    {
+        "description": "LIGHT SOURCE PANEL SEALING STRIP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48311"
+    },
+    {
+        "description": "LIGHT SOURCE CONNECTION PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48305"
+    },
+    {
+        "description": "STAGE SCREW PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48308"
+    },
+    {
+        "description": "M2 x 5, csk, pozi, black",
+        "location": "",
+        "quantity": "47.00",
+        "stockcode": "99072"
+    },
+    {
+        "description": "M2x6 CAP HEAD HEX SOCKET A2 STAINLESS STEEL",
+        "location": "",
+        "quantity": "11.00",
+        "stockcode": "99313"
+    }
+]

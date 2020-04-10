@@ -1,0 +1,146 @@
+[
+    {
+        "description": "Slit MVSS RightHand",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "SLIT_MVSS_RH"
+    },
+    {
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50275"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "FLAT MIRROR ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50200"
+    },
+    {
+        "description": "TM300 EXIT SAM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50203"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "PAINTED TMC Casting Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123_P17"
+    },
+    {
+        "description": "TM300 Lid Gaskets #125",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "TM300 casting lid painted and silk screened for LOT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124_LOT"
+    },
+    {
+        "description": "P clip 6.4mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19101"
+    },
+    {
+        "description": "ELECTRONICS MONO A1, D1, S1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50276"
+    },
+    {
+        "description": "TMc300 USB connector panel (LOT)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44274"
+    },
+    {
+        "description": "MSH300 POWER CONNECTOR PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45734"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50198"
+    },
+    {
+        "description": "Grating Assembly with 830g/mm, 1200nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T3083R1U2"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 300nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U3"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 750nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U75"
+    },
+    {
+        "description": "MONOCHROMATOR CONFIGURATION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "MSH300_0049-BM"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "description": "PAINTING OPERATION TO PRODUCE 30123-P65",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-F65"
+    },
+    {
+        "description": "CASTING  - SLIT 2 MVSS, SAM ENT, INT TURRET, EXIT FW, ILD",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P64"
+    }
+]

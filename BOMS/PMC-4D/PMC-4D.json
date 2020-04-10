@@ -1,0 +1,290 @@
+[
+    {
+        "description": "Fuse 630mA (T)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "01009"
+    },
+    {
+        "description": "4k75 MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02028"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "Green LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04053"
+    },
+    {
+        "description": "L78S12CV",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05002"
+    },
+    {
+        "description": "bridge",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05027"
+    },
+    {
+        "description": "Capacitor 4700 uF 35V",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "08098"
+    },
+    {
+        "description": "Connector 25 Way 'D' type socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10087"
+    },
+    {
+        "description": "IEC mains filter (631-FN393-6-05-11)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10167"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "Spacer NS 06-M3",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "15013"
+    },
+    {
+        "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15064"
+    },
+    {
+        "description": "M-F spacer, metal, M3 (Purchased in packs of 25)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15098"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "PMC-MAC Front panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16093"
+    },
+    {
+        "description": "PMC-3B-IMAC-USB Rear Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16127"
+    },
+    {
+        "description": "G-Stiffener short",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17013"
+    },
+    {
+        "description": "CPS2 Cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17320"
+    },
+    {
+        "description": "Transformer 60VA. 15Vac, 15Vac (was Farnell 9530436)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18058"
+    },
+    {
+        "description": "FAN, 40X40X10MM, 12VDC, 7CFM, 27DBA",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "18117"
+    },
+    {
+        "description": "22mm capacitor clip",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19142"
+    },
+    {
+        "description": "PMC-MAC base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27329"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30337"
+    },
+    {
+        "description": "15 way blanking panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43408"
+    },
+    {
+        "description": "PMC-4D POWER MOUNTING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44654"
+    },
+    {
+        "description": "FAN CAGE FOR STEPPING MOTOR DRIVE PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44655"
+    },
+    {
+        "description": "DIP HEATSINK PACK OF 10",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "44656"
+    },
+    {
+        "description": "Tyco 9 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45606"
+    },
+    {
+        "description": "Rubber feet (pack of 100)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99017"
+    },
+    {
+        "description": "LED CLIP, 3MM, PK50",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99060"
+    },
+    {
+        "description": "M3 x 6 csk pozi SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99150"
+    },
+    {
+        "description": "M3 x 4, pozi pan, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99167"
+    },
+    {
+        "description": "M3 x 30 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99170"
+    },
+    {
+        "description": "M3 x 8 Black Pozi Csk",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99189"
+    },
+    {
+        "description": "M3 Stainless Steel Full Nut",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99230"
+    },
+    {
+        "description": "M3 Plain Washer Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99232"
+    },
+    {
+        "description": "M3 x 8 socket button head stainless steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99246"
+    },
+    {
+        "description": "M3 x 8 Black Socket Button Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99252"
+    },
+    {
+        "description": "M3 x 12 Socket Button Head Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99259"
+    },
+    {
+        "description": "M3 internal shakeproof washer, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99263"
+    },
+    {
+        "description": "M3 x 6 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99271"
+    },
+    {
+        "description": "M3 x 16 Pozi pan zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99279"
+    },
+    {
+        "description": "M4 x 12 pozi pan zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99506"
+    },
+    {
+        "description": "M3 Solder Tag (box of 100)",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99750"
+    },
+    {
+        "description": "PMC-4D BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50440-BM"
+    }
+]

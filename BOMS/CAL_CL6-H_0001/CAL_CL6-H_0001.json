@@ -1,0 +1,116 @@
+[
+    {
+        "description": "Black 4mm socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10002"
+    },
+    {
+        "description": "Red 4mm socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10003"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "CAL-Lamp Spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17291"
+    },
+    {
+        "description": "Cal-Lamp Lamp Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17292"
+    },
+    {
+        "description": "Cal-Lamp Clamp Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17293"
+    },
+    {
+        "description": "80mm fan finger guard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18044"
+    },
+    {
+        "description": "12V fan for CL6 etc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18112"
+    },
+    {
+        "description": "FOOT, PUSH-IN 7.2MM  BLACK",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "22007"
+    },
+    {
+        "description": "AstarNet CL6-h outer cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41120"
+    },
+    {
+        "description": "CL6 Short Lamp Tube Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41121-P1"
+    },
+    {
+        "description": "CL6-H Front Filter Bracket Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41122-P1"
+    },
+    {
+        "description": "AstraNet CL6-H front diffuser plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41123"
+    },
+    {
+        "description": "ND0.8 Metallic Filter Dia 25mm x 2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46980"
+    },
+    {
+        "description": "Dia 25mm x 2mm Filter Holder for CL6-H",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46981"
+    },
+    {
+        "description": "Lamp cable shrouded to bunch pin (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB5"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
+    },
+    {
+        "description": "Lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13035"
+    },
+    {
+        "description": "150W Grit Blasted Quartz-Halogen Lamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17905"
+    }
+]

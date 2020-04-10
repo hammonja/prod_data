@@ -1,0 +1,224 @@
+[
+    {
+        "description": "Slit MVSS RightHand",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_MVSS_RH"
+    },
+    {
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "50275"
+    },
+    {
+        "description": "Standard MVSS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_MVSS_STANDARD"
+    },
+    {
+        "description": "FLAT MIRROR ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50200"
+    },
+    {
+        "description": "FLAT MIRROR LOWER HOLE INTERNAL CHOPPER ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50285"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "TM300 252 FILTER WHEEL - 6 POSITION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50201"
+    },
+    {
+        "description": "218 INTERNAL CHOPPER - EXIT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50284"
+    },
+    {
+        "description": "218B 10-slot blade",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17016"
+    },
+    {
+        "description": "TMC Casting Machined PAINTED",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30123-P46"
+    },
+    {
+        "description": "TM300 lid in black spatter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30124"
+    },
+    {
+        "description": "TM300 Lid Gaskets #125",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Purge port option for TM300 monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "PP_OPT"
+    },
+    {
+        "description": "P clip 6.4mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19101"
+    },
+    {
+        "description": "Rubber feet (pack of 36)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19022"
+    },
+    {
+        "description": "25-WAY / IEEE BLANKING PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16066"
+    },
+    {
+        "description": "Lemo, 8 way, chassis socket, green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10288"
+    },
+    {
+        "description": "Lemo, 8 way, cable plug, green",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10289"
+    },
+    {
+        "description": "Tyco 9 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45606"
+    },
+    {
+        "description": "ELECTRONICS MONO A1, D1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50279"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "TMC300 POWER PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45877"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "PV mono exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45197"
+    },
+    {
+        "description": "Toroidal mirror assy for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TOROID_ASSY"
+    },
+    {
+        "description": "CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50198"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1600nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U6"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 2500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T303R2U5"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 4000nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T303R4U0"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 3600nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS3600"
+    },
+    {
+        "description": "TMC300 Configuration",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMC300_0073-BM"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    }
+]

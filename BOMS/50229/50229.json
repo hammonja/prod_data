@@ -1,0 +1,38 @@
+[
+    {
+        "description": "FTMc50 HOUSING OPTICAL DECK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45819"
+    },
+    {
+        "description": "FTMc50 HOUSING END PLATE",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45820"
+    },
+    {
+        "description": "FTMc50 HOUSING REAR PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45821"
+    },
+    {
+        "description": "FTMc50 HOUSING CENTRE BAFFLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45822"
+    },
+    {
+        "description": "FTMc50 HOUSING FRONT PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45827"
+    },
+    {
+        "description": "FTMc50 Housing Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50229-BM"
+    }
+]

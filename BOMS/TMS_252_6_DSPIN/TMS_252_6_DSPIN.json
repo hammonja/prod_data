@@ -1,0 +1,38 @@
+[
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "252 6-Position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11071_P1"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "TMS_252_COMMON_PARTS MK.2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52045"
+    },
+    {
+        "description": "TMS_252_6_DSPIN - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_252_6_DSPIN-BM"
+    },
+    {
+        "description": "TMS_252_6_DSPIN - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TMS_252_6_DSPIN-PL"
+    }
+]

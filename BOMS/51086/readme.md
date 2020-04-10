@@ -1,0 +1,28 @@
+|stockcode|description|quantity|location|
+|---------|-----------|--------|--------|
+|51095|FTMC77-HS-MONO-EX Power Cable|1.00||
+|51096|FTMc77-HS-MONO-EX Motor Cable|1.00||
+|30008|TM Grating adjuster (Free issue 17254)|3.00||
+|44137|MDC150 grating spacer|3.00||
+|46973|(PK 10) Pneumatic Tee Threaded-to-Tube Adapter, 4mm, 10bar|1.00||
+|48291|GRATING CARRIER|3.00||
+|48550|GRATING HOLDER ASSEMBLY|1.00||
+|48691|TURRET SHAFT|1.00||
+|48692|TURRET MOTOT CLAMPING PLATE|1.00||
+|48712|TURRET SLIDING PLATE|1.00||
+|49000|FTMC77-HS CONNECTOR PANEL|1.00||
+|51087-P1|PAINTED TURRET BOX|1.00||
+|99048|M3 x 10, socket cap, SS|6.00||
+|99076|M3 x 16mm Socket Head Stainless Steel|20.00||
+|99232|M3 Plain Washer Stainless Steel|21.00||
+|99250|M3 x 6 Stainless Steel Button Head|4.00||
+|99305|M5 x 8 CAP HEAD HEX SOCKET GRADE 12.9 BLACK|6.00||
+|99320|M6x20 SCREW CAP HEAD HEX SOCKET A2 STAINLESS|4.00||
+|99323|M6x25 Screw Cap Heah Hex Socket A2 Stainless Steel|4.00||
+|99385|M4x30 SCREW CAP HEAD HEX SOCKET A2 STAINLESS STEEL|4.00||
+|51086-PL|FTMc77-HS-MONO-EX TURRET MODULE PARTS LIST|1.00||
+|51086-BM|FTMc77-HS-MONO-EX TURRET MODULE BUILD MANUAL|1.00||
+|48737|TURRET SLIDER RAIL|1.00||
+|99458|M4 x 12 Stainless Steel Cap Head Screw|3.00||
+|30047|M3 x 5 Flat Ended Grub Screw Zinc Plt|3.00||
+|48258|Motor Nikki Denso ND140-65-FSP Direct Drive|1.00||

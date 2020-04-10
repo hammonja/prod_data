@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Bosch 30mm Extrusion Bracket",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19281"
+    },
+    {
+        "description": "Bosch M4 for 8mm profile",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19372"
+    },
+    {
+        "description": "IS1500 table frame Bosch Profile",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "44482-1"
+    },
+    {
+        "description": "IS1500 table frame Bosch Profile",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44482-2"
+    },
+    {
+        "description": "IS1500 Table Power Outlet Clamp",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44484"
+    },
+    {
+        "description": "IS1500 Table Frame Peg",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44485"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "description": "MACHINING OPERATION TO PRODUCE 44442_M1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44442"
+    },
+    {
+        "description": "5mm ground shaft, interferance fit",
+        "location": "",
+        "quantity": "0.14",
+        "stockcode": "99907"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "ULS300 Sphere Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50361"
+    },
+    {
+        "description": "Painting Operation to Produce 50361-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50361-F1"
+    },
+    {
+        "description": "GHz barium sulphate paint",
+        "location": "",
+        "quantity": "0.50",
+        "stockcode": "19625"
+    }
+]

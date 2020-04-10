@@ -1,0 +1,140 @@
+[
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "TM300 sam blanking plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30127"
+    },
+    {
+        "description": "Standard TM300 casting in Bentham colours",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_TM300"
+    },
+    {
+        "description": "Standard TM300 casting Bentham Colours Sam At Entrance",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CASTING_TM300_SAMENT"
+    },
+    {
+        "description": "Double Monochromator Common Base components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DOUBLE_MONO_BASE"
+    },
+    {
+        "description": "Double Monochromator Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DOUBLE_MONO_COMMON_PARTS"
+    },
+    {
+        "description": "DTMC300 Common Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "DTMC300_COMMON_PARTS"
+    },
+    {
+        "description": "Subtractive Grating Assy with 600g/mm, 1600nm Blazed Ruled",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-SUB-T306R1U6"
+    },
+    {
+        "description": "Subtractive Grating Assy with 1200g/mm, 500nm Blazed Ruled",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-SUB-T312R0U5"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1600nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T306R1U6"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 400nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS400"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700"
+    },
+    {
+        "description": "Standard MVSS",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "SLIT_MVSS_STANDARD"
+    },
+    {
+        "description": "252 filter wheel for TM300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_252"
+    },
+    {
+        "description": "TM300 Slit Port Blank Cover Assembly",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "TM300_BLANK_SLIT_COVER"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "TM300_F_D_MIRROR"
+    },
+    {
+        "description": "TM300 Filter Drive Chip Components",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_FILTER_DRIVE_PARTS"
+    },
+    {
+        "description": "Entrance sam for TM300 or TMc300",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_SAM-ENTRANCE"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET"
+    },
+    {
+        "description": "TM300 Subtractive Turret",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_SUB"
+    }
+]

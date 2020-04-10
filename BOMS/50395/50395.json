@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Tyco 9 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45606"
+    },
+    {
+        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118"
+    },
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "Dpsin Turret Motor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45583"
+    },
+    {
+        "description": "M3 x 10 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99154"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "Counter Clockwise DSPIN Turret Motor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50395-PL"
+    },
+    {
+        "description": "Counter Clockwise DSPIN Turret Motor Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50395-BM"
+    }
+]

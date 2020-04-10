@@ -1,0 +1,338 @@
+[
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
+    },
+    {
+        "description": "Black shrouded socket (pack 2)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
+    },
+    {
+        "description": "M300 Index blanking plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11053"
+    },
+    {
+        "description": "M4 Ball ended grub screw ( free issue 99022)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11250"
+    },
+    {
+        "description": "M3 Ball ended grub screw (99254 free issued)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11260"
+    },
+    {
+        "description": "Spacer NP 8.0/25/C/M3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15021"
+    },
+    {
+        "description": "15150-ASSY-0001_ 12.7-13mm POSTS (male - female)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15150-ASSY-0001"
+    },
+    {
+        "description": "EXLS Elipse Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17327"
+    },
+    {
+        "description": "EXLS Anode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17329"
+    },
+    {
+        "description": "EXLS Cathode connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17330"
+    },
+    {
+        "description": "Lid - IL75E",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17348"
+    },
+    {
+        "description": "Tube  IL75E",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17349"
+    },
+    {
+        "description": "IL75E base plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17350"
+    },
+    {
+        "description": "IL75E end plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17351"
+    },
+    {
+        "description": "IL75E side plates",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17352"
+    },
+    {
+        "description": "IL75E end 2 plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17353"
+    },
+    {
+        "description": "IL75E lamp platform",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17354"
+    },
+    {
+        "description": "Side Panels MK2 EXLS",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17403"
+    },
+    {
+        "description": "Fixed focus bar (make as matched pair with 17405)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17404"
+    },
+    {
+        "description": "Floating focus bar  (make as matched pair with 17404)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17405"
+    },
+    {
+        "description": "Dowel 5mm x 35mm (99902, 1.5 lengths per 20)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "17409"
+    },
+    {
+        "description": "EXLS Z Adjuster Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17673"
+    },
+    {
+        "description": "Igniter for Xe and Hg lamps",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18052"
+    },
+    {
+        "description": "92mm Fan 12V dc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18060"
+    },
+    {
+        "description": "92mm fan finger guard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18061"
+    },
+    {
+        "description": "Heyco 003 0347 black (Nylon foot)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19004"
+    },
+    {
+        "description": "Elipsoidal reflector with AlMgF2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19124"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19305"
+    },
+    {
+        "description": "FSM150Xe adjuster spring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19345"
+    },
+    {
+        "description": "Ferrite for TGK monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19539"
+    },
+    {
+        "description": "WRC Lamp Heatsink (free issue 40020)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42359"
+    },
+    {
+        "description": "WRC Lamp Fan Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42360"
+    },
+    {
+        "description": "5mm P CLIP (1x100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45632"
+    },
+    {
+        "description": "M3 x 10, socket cap, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99048"
+    },
+    {
+        "description": "Red M4 crimp ring terminal,0.5-1.5sq.mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99071"
+    },
+    {
+        "description": "M2.5 x 8, cap head, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99119"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99244"
+    },
+    {
+        "description": "M3 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99247"
+    },
+    {
+        "description": "M3 x 12 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99251"
+    },
+    {
+        "description": "M3 internal shakeproof washer, zinc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99263"
+    },
+    {
+        "description": "M2.5 x 10 cap head, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99280"
+    },
+    {
+        "description": "M2 x 3 GRUB SCREW",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99284"
+    },
+    {
+        "description": "M3 UNINSULATED RING TERMINAL 22-16AWG",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99286"
+    },
+    {
+        "description": "M2x6 CAP HEAD HEX SOCKET A2 STAINLESS STEEL",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99313"
+    },
+    {
+        "description": "M4 internal shakeproof washer, zinc",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "99404"
+    },
+    {
+        "description": "M4 Stainless Steel Plain Nut",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99450"
+    },
+    {
+        "description": "M4 Stainless Steel Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99451"
+    },
+    {
+        "description": "M4 x 16 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99453"
+    },
+    {
+        "description": "M4 x 10 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99454"
+    },
+    {
+        "description": "M4 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99457"
+    },
+    {
+        "description": "M4 x 12 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99458"
+    },
+    {
+        "description": "M2.5  Washer  S/S",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99759"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
+    },
+    {
+        "description": "XE Lamp cable with shrouded at both ends (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB49"
+    },
+    {
+        "description": "Milling of slot in ellipse for Hamamatsu lamp seal",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19611"
+    }
+]

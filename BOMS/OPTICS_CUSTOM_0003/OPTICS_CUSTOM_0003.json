@@ -1,0 +1,56 @@
+[
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "M3 x 16 Captive Thumb Screws",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "44526"
+    },
+    {
+        "description": "OPTICS_CUSTOM_0003 ROSE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44568"
+    },
+    {
+        "description": "OPTICS_CUSTOM_0003 MAIN PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44569"
+    },
+    {
+        "description": "OPTICS_CUSTOM_0003 SIDE ENTRANCE PLATE 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44570"
+    },
+    {
+        "description": "OPTICS_CUSTOM_O003 CORNER BRACE",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44571"
+    },
+    {
+        "description": "OPTICS_CUSTOM_0003 SIDE ENTRANCE PLATE 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44572"
+    },
+    {
+        "description": "OPTICS_CUSTOM_0003 APERTURE SET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44574"
+    },
+    {
+        "description": "OPTICS_CUSTOM_0003 BRACE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44575"
+    }
+]

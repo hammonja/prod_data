@@ -1,0 +1,50 @@
+[
+    {
+        "description": "3K MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02025"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "NP 8.0/25.4/B/M3-M, M2.5-F",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15022"
+    },
+    {
+        "description": "Back Plate Modification",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45689"
+    },
+    {
+        "description": "TO-220 Insulating Bush (pack of 10)Manual adjust stock",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99024"
+    }
+]

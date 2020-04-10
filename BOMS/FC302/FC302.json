@@ -1,0 +1,20 @@
+[
+    {
+        "description": "FC302 - FC/APC Fibre Coupler Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46952"
+    },
+    {
+        "description": "SM1FCA Machined for FC302",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46951-P1"
+    },
+    {
+        "description": "FC302 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50375-BM"
+    }
+]

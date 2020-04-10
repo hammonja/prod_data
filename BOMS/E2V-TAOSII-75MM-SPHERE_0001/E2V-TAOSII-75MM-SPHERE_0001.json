@@ -1,0 +1,74 @@
+[
+    {
+        "description": "O ring.  Pack of 50",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09007"
+    },
+    {
+        "description": "Monitor detector (e2v)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09115"
+    },
+    {
+        "description": "Lens uv silica 25dia (+0, -0.1) x 50fl pcx",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "13436"
+    },
+    {
+        "description": "E2V sphere detector fixing ring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "27198"
+    },
+    {
+        "description": "THORLABS 1.035-40 Retainin Ring",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "44247"
+    },
+    {
+        "description": "E2V TAOSII SPHERE TUBE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46366"
+    },
+    {
+        "description": "E2V TAOSII Sphere Front Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "47018-P1"
+    },
+    {
+        "description": "E2V TAOSII SPHERE BACK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46368"
+    },
+    {
+        "description": "E2V TAOSII SPHERE SUPPORT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46369"
+    },
+    {
+        "description": "E2V TAOSII BAFFLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46372"
+    },
+    {
+        "description": "Thorlabs 1\" lens tube machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46464_M1"
+    },
+    {
+        "description": "E2V TAOSII Ø75mm Sphere 25mm Port",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19520-P4"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Schrader Sphere Clad Plate 1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42078"
+    },
+    {
+        "description": "Painting Operation to Produce 42078-P1",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "42078-F1"
+    }
+]

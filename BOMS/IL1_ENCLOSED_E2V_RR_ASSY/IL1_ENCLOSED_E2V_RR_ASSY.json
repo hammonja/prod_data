@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Pin",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11223"
+    },
+    {
+        "description": "Pressure plate spring",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11225"
+    },
+    {
+        "description": "M3 Ball ended grub screw (99254 free issued)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "11260"
+    },
+    {
+        "description": "IL1 ENCLOSED Reflector support block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44455"
+    },
+    {
+        "description": "Comar rear reflector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45057"
+    },
+    {
+        "description": "Small reflector holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45058"
+    },
+    {
+        "description": "Reflector holder back plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45059"
+    },
+    {
+        "description": "Reflector pivot plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45060"
+    },
+    {
+        "description": "IL1_ENCLOSED_E2V_RR_ASSY Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50149"
+    }
+]

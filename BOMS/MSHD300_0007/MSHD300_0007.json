@@ -1,0 +1,650 @@
+[
+    {
+        "description": "100R MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02013"
+    },
+    {
+        "description": "2K MRS25 MF",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02023"
+    },
+    {
+        "description": "LED Green HLMP1503",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04036"
+    },
+    {
+        "description": "Red LED with internal resistor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04052"
+    },
+    {
+        "description": "Rocker switch",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07040"
+    },
+    {
+        "description": "14 way bump skt w/strain relief,1A",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10058"
+    },
+    {
+        "description": "KYCON 4 PIN PANEL MOUNT CONNECTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10059"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "10221"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "252 Drive Cog (Berg GG33A28-32)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11020"
+    },
+    {
+        "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11025"
+    },
+    {
+        "description": "M300 Curved Mirror.  UV-AL coating",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11038"
+    },
+    {
+        "description": "252 Blank",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11055"
+    },
+    {
+        "description": "252 6-Position Filter Wheel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11071_P1"
+    },
+    {
+        "description": "M300 Plain mirror mount",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11121"
+    },
+    {
+        "description": "M300 Plain mirror cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11122"
+    },
+    {
+        "description": "M300 curved mirror mount",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11123"
+    },
+    {
+        "description": "M300 Mirror Retaining Block",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11124"
+    },
+    {
+        "description": "M300 Blanking plate - entrance",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11131"
+    },
+    {
+        "description": "M300 Cover plate - exit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11132"
+    },
+    {
+        "description": "M300 Mounting plate",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "11134"
+    },
+    {
+        "description": "252 drive belt",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11145"
+    },
+    {
+        "description": "Shaft 0.25 x 1.25 (Material 99904, 1 length per 20)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11174"
+    },
+    {
+        "description": "Slit Mounting Adaptor ( TOP HAT )",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11217"
+    },
+    {
+        "description": "ADAPTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11234"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/B/M3",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "15040"
+    },
+    {
+        "description": "M3 x 8mm Spacer Pillar",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "15083"
+    },
+    {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "SAM Driver Relay PCB (Assembled 1 Relay)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15130_M1"
+    },
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "Ferrite bead for EI cooled housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18021"
+    },
+    {
+        "description": "Heyco 003 0347 black (Nylon foot)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19004"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "Circlip (pack of 100)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19175"
+    },
+    {
+        "description": "252 bearing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30023"
+    },
+    {
+        "description": "Bore reducer, 5mm x 1/4 inch x 6.6mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30052"
+    },
+    {
+        "description": "Opto disc with paddle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30053"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "SanMotion EHR-6 AWG26 UL1430 unipolar cable harness",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118-1"
+    },
+    {
+        "description": "Stepper motor.",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118-2"
+    },
+    {
+        "description": "PAINTED TMC Casting Machined",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30123_P17"
+    },
+    {
+        "description": "TM300 casting lid painted and silk screened for LOT",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30124_LOT"
+    },
+    {
+        "description": "TM300 sam blanking plate",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30127"
+    },
+    {
+        "description": "TM300 Lid Gaskets",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "TMc300 USB connector panel (LOT)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44274"
+    },
+    {
+        "description": "Gasket for use with blanking plate 11132",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45212"
+    },
+    {
+        "description": "DTMC300 DSPIN Baseplate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45647"
+    },
+    {
+        "description": "DUAL DSPIN PCB Mounting Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45650"
+    },
+    {
+        "description": "DSPIN Filter Wheel Bracket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45651"
+    },
+    {
+        "description": "DSPIN Filter wheel Pillars",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45652"
+    },
+    {
+        "description": "OPTO MOUNTING BLOCK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45653"
+    },
+    {
+        "description": "MSH300 POWER CONNECTOR PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45734"
+    },
+    {
+        "description": "16mm HOLE BLANKING PLUG (PK 25)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "45783"
+    },
+    {
+        "description": "LOT Connector port cover (blanking plate)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46405"
+    },
+    {
+        "description": "LOT mains port cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46406"
+    },
+    {
+        "description": "DTMC300 Purged Base Cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46409"
+    },
+    {
+        "description": "CURVED MIRROR ASSY BUILD MANUAL",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "50198-BM"
+    },
+    {
+        "description": "FLAT MIRROR LOWER HOLE ASSY BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50199-BM"
+    },
+    {
+        "description": "FLAT MIRROR ASSY BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50200-BM"
+    },
+    {
+        "description": "Roll of 2500  25mm x 25mm sticky pads",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99_STICKY-PAD"
+    },
+    {
+        "description": "M4 nylon washer (pack of 50)",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99009"
+    },
+    {
+        "description": "Cable tie anchors",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99037"
+    },
+    {
+        "description": "M2.5 x 12, pozi-pan, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99049"
+    },
+    {
+        "description": "LED CLIP, 3MM, PK50",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99060"
+    },
+    {
+        "description": "M4 x 8 socket head, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99105"
+    },
+    {
+        "description": "M2.5 Zinc Full Nuts",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99115"
+    },
+    {
+        "description": "M3 x 16 cup grub, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99127"
+    },
+    {
+        "description": "M2 x 6 socket cap, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99148"
+    },
+    {
+        "description": "M3 x 10 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99154"
+    },
+    {
+        "description": "M3 x 5 plastic grub screw (pack of 1000)",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99168"
+    },
+    {
+        "description": "M3 x 5 Black Cup Grub Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99175"
+    },
+    {
+        "description": "M3 x 6 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99180"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "M3 x 8 Black Pozi Csk",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99189"
+    },
+    {
+        "description": "M3 Full nut, BLACK",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99196"
+    },
+    {
+        "description": "M3 x 8 Black Socket Button Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99252"
+    },
+    {
+        "description": "M3 x 12 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99265"
+    },
+    {
+        "description": "M3 x 6 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99271"
+    },
+    {
+        "description": "M3 x 5 SCREW SET HEX SKT FLAT ISO4029 14.9 BLACK ZINC",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99294"
+    },
+    {
+        "description": "M4 Black Full Nut",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99350"
+    },
+    {
+        "description": "M4 Black Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99351"
+    },
+    {
+        "description": "M4 Black Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99351"
+    },
+    {
+        "description": "M4 x 12 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99359"
+    },
+    {
+        "description": "M4 x 12 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99359"
+    },
+    {
+        "description": "M4 x 16 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99365"
+    },
+    {
+        "description": "M4 x 16 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99365"
+    },
+    {
+        "description": "M4 x 10 Black Pozi Csk",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99382"
+    },
+    {
+        "description": "M4 Crinkle Washer Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99467"
+    },
+    {
+        "description": "M4 x 12 pozi pan zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99506"
+    },
+    {
+        "description": "M3 Solder Tag (box of 100)",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99750"
+    },
+    {
+        "description": "Grating Assembly with 830g/mm, 1200nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3083R1U2"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 250nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T312R0U25"
+    },
+    {
+        "description": "Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T312R0U5"
+    },
+    {
+        "description": "Slit MVSS for PQ",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_MVSS_PQ"
+    },
+    {
+        "description": "Standard micrometer operated variable slit",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "SLIT_VSS"
+    },
+    {
+        "description": "Grating Turret with 8mm shaft for DSPIN drive",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET_DSPIN"
+    },
+    {
+        "description": "Tyco 9 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "45606"
+    },
+    {
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "08019"
+    },
+    {
+        "description": "3 way chassis socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10095"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "9 WAY TYCO HEADER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10383"
+    }
+]
