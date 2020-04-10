@@ -32,7 +32,6 @@
 |GA-T3015R6U0-AU|Grating Assembly with 150g/mm, 6000nm Gold Ruled Grating|2.00||
 |GA-T3015R8U0-AU|Grating Assembly with 150g/mm, 8000nm Gold Ruled Grating|2.00||
 |GA-T3009R10U0-AU|Grating Assembly with 90g/mm, 10000nm Gold Ruled Grating|2.00||
-|GA-T30075R12U0-AU|Grating Assembly with 300g/mm, 4000nm Gold Ruled Grating|2.00||
 |OS700_REDUCED|Order Sorting Filter for Insertion at 700nm (8 Slot Filter)|1.00||
 |OS1250_REDUCED|Order Sorting Filter for Insertion at 1250nm (8 Slot Filter)|1.00||
 |OS2000_REDUCED|Order Sorting Filter for Insertion at 2000nm (8 Slot Filter)|1.00||
