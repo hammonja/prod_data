@@ -28,7 +28,7 @@
 |18044|80mm fan finger guard|1.00||
 |18064|TLS starter|1.00||
 |18112|12V fan for CL6 etc|1.00||
-|19031|Spacer (painted black by APP Â£40 for 500)|4.00||
+|19031|Spacer (painted black by APP £40 for 500)|4.00||
 |19046|PEM CLS-M3-2 self clinch fastener|8.00||
 |19051|Grommet 6.4 Dia. cable hole|2.00||
 |19084|XBO 150W/CR OFR|1.00||

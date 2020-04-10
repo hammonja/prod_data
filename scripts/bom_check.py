@@ -12,10 +12,12 @@ path = 'c:/git/prod_data/BOMS'
 
 def get_git_boms():
 	boms = {}	
+	print ( 'Loading git boms :')
 	for bom in os.listdir(path):		
 		with open(path+'/'+str(bom)+'/'+str(bom)+'.json') as json_data:
-			print ('loading bom : '+bom)
+			print ('.', end=' ')
 			boms[bom] = json.load(json_data)
+	print ( 'Loaded '+str(len(boms))+ ' git boms ' )			
 	return boms
 
 def get_unequal_boms():

@@ -53,7 +53,7 @@
 |40006|Quick Change Mounting Plate Wedge|1.00||
 |40009|UV silica/ quartz window dia. 25.8/25.85mm|1.00||
 |40042|QC Adapter Fixed Plate Sealing 'O' Ring (Bag of 50)|1.00||
-|46761|Ã˜12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm|1.00||
-|46781|Ã˜12.7mm Post Holder, Hex-Locking Thbscrew, L=50 mm|1.00||
+|46761|Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm|1.00||
+|46781|Ø12.7mm Post Holder, Hex-Locking Thbscrew, L=50 mm|1.00||
 |CAB17|Thin cable BNC to BNC cable, 1200mm overall length|1.00||
 |CAB3|HV-BNC to HV-BNC 1200mm long|1.00||

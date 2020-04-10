@@ -16,7 +16,7 @@
 |27401|MkII Smoke Screen Box Bottom|1.00||
 |27405F|MkII Smoke Screen Box Lid (Machined)|1.00||
 |27405P|MkII Smoke Screen Box Lid|1.00||
-|27406|Q14444 (artwork charge Â£44.98 on first order of iss. D)|1.00||
+|27406|Q14444 (artwork charge £44.98 on first order of iss. D)|1.00||
 |99002|2mm x M2.5 plastic spacer|2.00||
 |99003|M2.5 x 6 tritap (pack of 100)|0.02|Pick 2 screws per unit|
 |SMOKESCREEN_BRD|Smokescreen electronics sub assembly|1.00||
