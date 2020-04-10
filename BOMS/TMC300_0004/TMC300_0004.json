@@ -82,5 +82,17 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "TMC300_COMMON_PARTS"
+    },
+    {
+        "description": "TM300 base cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30125"
+    },
+    {
+        "description": "ND1 filter, UV, 25mm diameter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13006"
     }
 ]

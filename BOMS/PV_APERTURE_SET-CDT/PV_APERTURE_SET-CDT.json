@@ -18,22 +18,16 @@
         "stockcode": "45429"
     },
     {
-        "description": "DH_SI Diode Top Plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "45446"
-    },
-    {
-        "description": "DH_GE Diode Top PLate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "45447"
-    },
-    {
         "description": "Aperture Plate for Diodes 2mmx0.5mm",
         "location": "",
         "quantity": "1.00",
         "stockcode": "45448"
+    },
+    {
+        "description": "4mm Diameter x 16 Dowel Pin",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "46572"
     },
     {
         "description": "Carrier for Fixed Slit Plates (Components)",

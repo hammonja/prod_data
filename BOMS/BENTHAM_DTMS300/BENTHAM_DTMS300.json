@@ -18,12 +18,6 @@
         "stockcode": "04052"
     },
     {
-        "description": "Connector  64 way 2 rows",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10085"
-    },
-    {
         "description": "IEC mains filter",
         "location": "",
         "quantity": "1.00",
@@ -32,13 +26,13 @@
     {
         "description": "Tyco 2 way housing",
         "location": "",
-        "quantity": "4.00",
+        "quantity": "2.00",
         "stockcode": "10221"
     },
     {
         "description": "Tyco 3 way housing",
         "location": "",
-        "quantity": "5.00",
+        "quantity": "2.00",
         "stockcode": "10296"
     },
     {
@@ -192,10 +186,10 @@
         "stockcode": "45214"
     },
     {
-        "description": "Slit drive assembly for DTMS monochromators",
+        "description": "DTMS_SLIT-DRIVE-ASSY MK.2",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "DTMS_SLIT_DRIVE"
+        "stockcode": "52044"
     },
     {
         "description": "Painted box with lid for IDR300",

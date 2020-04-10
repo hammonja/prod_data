@@ -12,3 +12,4 @@
 |TM300_BLANK_SLIT_COVER|TM300 Slit Port Blank Cover Assembly|4.00||
 |TM300_F_D_MIRROR|TM300 Fixed entrance/exit Divert Mirror Kit|4.00||
 |TM300_FILTER_DRIVE_PARTS|TM300 Filter Drive Chip Components|1.00||
+|TM300_TURRET|Grating Turret with 8mm Shaft|2.00||

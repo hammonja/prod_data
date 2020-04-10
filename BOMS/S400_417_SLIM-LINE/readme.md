@@ -15,9 +15,8 @@
 |10190|Mains outlet socket black|1.00||
 |10291|Filtered mains inlet without voltage change-over|1.00||
 |10296|Tyco 3 way housing|2.00||
-|15020|Spacer NP 8.0/12.7/C/M3|4.00||
+|15020|Spacer NP 8.0/12.7/C/M3|6.00||
 |15038|M3 x 12 hexagonal pillar|3.00||
-|15064|NP 8.0/12.7/B/M3-M, M2.5-F|2.00||
 |15088|20mm M3 Pillar (pack of 25)|2.00|Thermal cut-out mount|
 |16066|25-WAY / IEEE BLANKING PLATE|1.00||
 |16074|9 WAY BLANKING PLATE|1.00|Thermal cut-out mount|
@@ -27,10 +26,10 @@
 |17188|267 Mounting plate|1.00||
 |17189|267 Cover|1.00||
 |18058|Transformer 60VA. 15Vac, 15Vac (was Farnell 9530436)|1.00||
-|19005|Beckman Bush|1.00||
+|18161|BOURNS H-83P ADAPTOR, PANEL MOUNT|1.00||
 |19093|Dome Plug 9.5mm (pack of 25)|1.00||
 |19142|22mm capacitor clip|1.00||
 |22008|Threaded Insert 84HP Schroff units|2.00||
-|22032|Slimline bin with rack mount ears|1.00||
+|47011|Schroff RatiopacPRO, 2U Rack Mounted Bin|1.00||
 |30337|DTMs300 USB PCB Pillars (fi 15100)|2.00|USB interface mount|
 |INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||

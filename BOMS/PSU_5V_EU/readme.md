@@ -5,3 +5,4 @@
 |18124|Power connector for ORM psu|1.00||
 |19019|Sleeved Grommets (bag of 50)|2.00||
 |23014|European Mains Lead|1.00||
+|50121|PSU_5V_UK Build Manual|1.00||

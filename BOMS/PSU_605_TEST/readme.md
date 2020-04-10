@@ -14,7 +14,7 @@
 |10221|Tyco 2 way housing|3.00||
 |11318|605/607 Turns counter (Vishay 15-2-31)|1.00||
 |15028|Spacer NP 8.0/25/C/M4|4.00||
-|15124|PSU_610 Constant Current Power PCB|1.00||
+|15124_M1|15124 PCB with precision resistor fitted|1.00||
 |16005|605 front panel|1.00||
 |18042|DPM for 217 (Lascar DPM 2000S)|1.00||
 |19290|605 fan spacers|4.00||

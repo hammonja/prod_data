@@ -6,3 +6,4 @@
 |10111|Connector 9 Way 'D' Metal Case|3.00||
 |10113|Connector 15 Way 'D' Plug|1.00||
 |10171|Cable cover 15 way|1.00||
+|50076|CAB_MVSS_4 Build Manual|1.00||

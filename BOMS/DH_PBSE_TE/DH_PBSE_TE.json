@@ -106,5 +106,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "CAB7"
+    },
+    {
+        "description": "DH_PBSE_TE Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50388"
     }
 ]

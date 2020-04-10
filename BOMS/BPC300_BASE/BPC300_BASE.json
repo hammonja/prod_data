@@ -6,6 +6,24 @@
         "stockcode": "19346"
     },
     {
+        "description": "ON/OFF 1/4\" Tap Machined",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19349_M1"
+    },
+    {
+        "description": "Sola system 1/4\" BSP straight stem conector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19351"
+    },
+    {
+        "description": "Sola System drainage tap mounting block",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41347"
+    },
+    {
         "description": "BPC300 Base Plate Painted",
         "location": "",
         "quantity": "1.00",
@@ -22,5 +40,47 @@
         "location": "",
         "quantity": "3.00",
         "stockcode": "41398"
+    },
+    {
+        "description": "BPC300 BASE BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50210-BM"
+    },
+    {
+        "description": "BPC300 Base",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50210-PL"
+    },
+    {
+        "description": "M4 x 8 cup grub",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99210"
+    },
+    {
+        "description": "M4 x 16 button head black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99487"
+    },
+    {
+        "description": "M6 x 10 socket head black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99551"
+    },
+    {
+        "description": "M6 x 16 Sockect Button Head Black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99561"
+    },
+    {
+        "description": "M6 FULL NUT",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99580"
     }
 ]

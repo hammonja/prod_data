@@ -2,7 +2,7 @@
     {
         "description": "Connector 25 Way 'D' Plug",
         "location": "",
-        "quantity": "3.00",
+        "quantity": "4.00",
         "stockcode": "10068"
     },
     {
@@ -10,12 +10,6 @@
         "location": "",
         "quantity": "4.00",
         "stockcode": "10082"
-    },
-    {
-        "description": "Connector 25 Way 'D' type socket",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10087"
     },
     {
         "description": "UMS-MOT-GONIO-CABLES Build Manual",

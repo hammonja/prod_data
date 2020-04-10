@@ -64,5 +64,17 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "UMS_MK1_COMMON_PARTS"
+    },
+    {
+        "description": "Plain mirror mount washer",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "11251"
+    },
+    {
+        "description": "Heyco 003 0347 black (Nylon foot)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "19004"
     }
 ]

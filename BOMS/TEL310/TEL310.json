@@ -1,14 +1,32 @@
 [
     {
+        "description": "1K, MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02021"
+    },
+    {
+        "description": "3K32 MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02027"
+    },
+    {
+        "description": "10K MRS25",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "02033"
+    },
+    {
         "description": "MRS16 Resistor A/P,0.4W,1%,180R",
         "location": "",
-        "quantity": "3.00",
+        "quantity": "1.00",
         "stockcode": "02262"
     },
     {
         "description": "Slotted Optoswitch",
         "location": "",
-        "quantity": "2.00",
+        "quantity": "1.00",
         "stockcode": "04019"
     },
     {
@@ -18,22 +36,10 @@
         "stockcode": "04036"
     },
     {
-        "description": "Opto switch  HOA2001-001",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "04048"
-    },
-    {
         "description": "Red LED with internal resistor",
         "location": "",
         "quantity": "1.00",
         "stockcode": "04052"
-    },
-    {
-        "description": "dc-dc, 18-36V in,  5V @ 600mA out",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "05007"
     },
     {
         "description": "Rocker switch",
@@ -42,34 +48,40 @@
         "stockcode": "07040"
     },
     {
-        "description": "Tyco 2 way housing",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10221"
-    },
-    {
-        "description": "Tyco 3 way housing",
+        "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
         "location": "",
         "quantity": "2.00",
-        "stockcode": "10296"
+        "stockcode": "08019"
     },
     {
-        "description": "Tyco 8 way housing",
-        "location": "",
-        "quantity": "3.00",
-        "stockcode": "10298"
-    },
-    {
-        "description": "S009 telescope power connector (KPJX-4S-S)",
+        "description": "2.5mm Panel Socket",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10308"
+        "stockcode": "10004"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10221"
     },
     {
         "description": "TEL310 USB Connector",
         "location": "",
         "quantity": "1.00",
         "stockcode": "10331"
+    },
+    {
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10362"
     },
     {
         "description": "M300 microswitch",
@@ -120,6 +132,30 @@
         "stockcode": "15065"
     },
     {
+        "description": "L6470 dSPIN 4 Channel Stepping Motor Drive PCB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15126"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "Turret opto adapter, Master",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "15136"
+    },
+    {
+        "description": "TEL310 Opto Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15140"
+    },
+    {
         "description": "S009 Telescope External  Power Supply",
         "location": "",
         "quantity": "1.00",
@@ -162,12 +198,6 @@
         "stockcode": "19503"
     },
     {
-        "description": "Polishing of disc for TEL309 (99206 paper only)",
-        "location": "Use 99206 paper and polishing kit",
-        "quantity": "1.00",
-        "stockcode": "19516"
-    },
-    {
         "description": "Machined Timing Pulley",
         "location": "Drill & tap hub M3",
         "quantity": "1.00",
@@ -180,10 +210,10 @@
         "stockcode": "30052"
     },
     {
-        "description": "Opto disc with slot",
+        "description": "Opto disc with paddle",
         "location": "",
         "quantity": "2.00",
-        "stockcode": "30054"
+        "stockcode": "30053"
     },
     {
         "description": "Stepper motor.  Call-off.  Monthly drops of 70",
@@ -196,6 +226,12 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "30253"
+    },
+    {
+        "description": "TM300 turret opto spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30303"
     },
     {
         "description": "Roll over turret motor",
@@ -336,58 +372,40 @@
         "stockcode": "43397"
     },
     {
-        "description": "TEL309 app reducer",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "43398"
-    },
-    {
-        "description": "TEL309 screw on lens",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "43399"
-    },
-    {
-        "description": "Lens, pcx, silica, f=200, dia 25. Tolerance + 0.00, -0.05",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "43400"
-    },
-    {
-        "description": "Lens, pcx, silica, f=400, dia = 25. Tolerance + 0.00, -0.05",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "43401"
-    },
-    {
-        "description": "TEL309 front plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "43402"
-    },
-    {
-        "description": "TEL309 base plate",
+        "description": "TEL310 base plate",
         "location": "",
         "quantity": "1.00",
         "stockcode": "43403"
     },
     {
-        "description": "Power connector stop",
+        "description": "Tyco 9 way housing",
         "location": "",
-        "quantity": "1.00",
-        "stockcode": "43405"
+        "quantity": "3.00",
+        "stockcode": "45606"
     },
     {
-        "description": "TEL309 back plate",
+        "description": "TEL310 Close Up Lens",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "43406"
+        "stockcode": "45616"
     },
     {
-        "description": "Tel309 Long Distance Lens Tube",
+        "description": "TEL310 App Reducer",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "46808"
+        "stockcode": "45617"
+    },
+    {
+        "description": "TEL310 BACK PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45620"
+    },
+    {
+        "description": "TEL310 Distance Lens",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45622"
     },
     {
         "description": "USB Hub Bracket",
@@ -396,10 +414,10 @@
         "stockcode": "46809"
     },
     {
-        "description": "TEL310 Aperture Disc",
+        "description": "Polished 5mrad TEL310 Aperture disc",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "46811"
+        "stockcode": "46811_M1"
     },
     {
         "description": "TEL310 Microswitch Bracket",
@@ -420,10 +438,154 @@
         "stockcode": "46814"
     },
     {
+        "description": "TEL310 LENS HOLDER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46821"
+    },
+    {
+        "description": "TEL310 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50137"
+    },
+    {
         "description": "TM600 Rear Baffle",
         "location": "",
         "quantity": "1.00",
         "stockcode": "60078"
+    },
+    {
+        "description": "M2.5 x 10 socket cap, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99028"
+    },
+    {
+        "description": "M2 x 12 Black Pozi Csk",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99054"
+    },
+    {
+        "description": "LED CLIP, 3MM, PK50",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99060"
+    },
+    {
+        "description": "M2 Plain Zinc Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99075"
+    },
+    {
+        "description": "M2.5 plain washer zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99125"
+    },
+    {
+        "description": "M3 x 10 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99154"
+    },
+    {
+        "description": "M3 x 16 Black Socket Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99161"
+    },
+    {
+        "description": "M3 x 6 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99180"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "M3 x 8 socket button head stainless steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99246"
+    },
+    {
+        "description": "M3 x 8 Black Socket Button Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99252"
+    },
+    {
+        "description": "M3 x 12 Socket Button Head Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99259"
+    },
+    {
+        "description": "M3 Oversize Washer Zinc plated (O/D 9mm, Thk 0.8mm)",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99273"
+    },
+    {
+        "description": "M3 x 5 Stailess Steel Button Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99277"
+    },
+    {
+        "description": "M4 Black Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99351"
+    },
+    {
+        "description": "M4 x 10 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99355"
+    },
+    {
+        "description": "M4 x 12 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99359"
+    },
+    {
+        "description": "M4 x 10 Black Pozi Csk",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99382"
+    },
+    {
+        "description": "M4 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99457"
+    },
+    {
+        "description": "M2 nuts SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99569"
+    },
+    {
+        "description": "M2 x 8 Socket Head Cap Screw Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99929"
     },
     {
         "description": "CAB-USB-9IN-A-MINIB (www.claimthis.com)",
@@ -438,28 +600,10 @@
         "stockcode": "CAB_USBA_MICROB"
     },
     {
-        "description": "UV grade fused silica fibre bundle (200-1350nm)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "FOP-UV-2-500"
-    },
-    {
-        "description": "USB to I2C Interface Board",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "INTERFACE_USB-I2C"
-    },
-    {
         "description": "Split ring for TGK filter wheel",
         "location": "",
-        "quantity": "5.00",
+        "quantity": "2.00",
         "stockcode": "NA5155"
-    },
-    {
-        "description": "IMAC card for TEL309",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "PMC_IMAC_CARD_TEL309"
     },
     {
         "description": "ADVENT USB 2.0 4-Port Powered Hub",

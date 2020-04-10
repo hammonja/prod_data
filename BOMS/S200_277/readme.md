@@ -25,7 +25,7 @@
 |07023|bit switch|1.00|SW2|
 |07024|DIL reed relay HE422C8350|1.00|RL1|
 |07025|16 position hex rotary switch|1.00|SW1|
-|07026|Gold contact sub-miniature|1.00||
+|07006|SPNO pins for pcb|1.00||
 |07027|15mm Knob without line 1/8"|1.00||
 |07028|Cap unlined black|1.00||
 |07042|Relay  Hamlin HE3621A0510|2.00|RL2, 3|

@@ -12,7 +12,7 @@
         "stockcode": "08019"
     },
     {
-        "description": "100W qh Lamp",
+        "description": "100W QH Lamp 3300K",
         "location": "",
         "quantity": "1.00",
         "stockcode": "09101"
@@ -24,10 +24,10 @@
         "stockcode": "10034"
     },
     {
-        "description": "Connector lamp holders",
+        "description": "6.35 Lamp Holder",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10042"
+        "stockcode": "10398"
     },
     {
         "description": "3 way chassis socket",
@@ -36,7 +36,7 @@
         "stockcode": "10095"
     },
     {
-        "description": "Black shrouded socket",
+        "description": "Black shrouded socket (pack 2)",
         "location": "",
         "quantity": "2.00",
         "stockcode": "10127"
@@ -52,12 +52,6 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "10289"
-    },
-    {
-        "description": "Tyco 8 way housing",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10298"
     },
     {
         "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
@@ -122,7 +116,7 @@
     {
         "description": "Spacer NP 8.0/12.7/C/M3",
         "location": "",
-        "quantity": "4.00",
+        "quantity": "8.00",
         "stockcode": "15020"
     },
     {
@@ -192,10 +186,10 @@
         "stockcode": "18061"
     },
     {
-        "description": "TLS starter",
+        "description": "Igniter for Xe and Hg lamps",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "18064"
+        "stockcode": "18052"
     },
     {
         "description": "Fan",
@@ -210,7 +204,7 @@
         "stockcode": "19011"
     },
     {
-        "description": "PLC-M3 self locking insert (Zygology Ltd)",
+        "description": "PLC-M3 self locking insert",
         "location": "",
         "quantity": "3.00",
         "stockcode": "19173"
@@ -276,7 +270,7 @@
         "stockcode": "30045_M2"
     },
     {
-        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
+        "description": "Stepper motor.",
         "location": "",
         "quantity": "1.00",
         "stockcode": "30118"
@@ -342,10 +336,10 @@
         "stockcode": "42500"
     },
     {
-        "description": "Electro-magnet for arrestable chopper (was RS 346-069)",
+        "description": "Electro-magnet for Arrestable Chopper, Machined",
         "location": "Mod in house to drw 43702",
         "quantity": "1.00",
-        "stockcode": "42540"
+        "stockcode": "42540-P1"
     },
     {
         "description": "Sam mirror bracket for Dual QH Nernst",
@@ -492,10 +486,10 @@
         "stockcode": "44104"
     },
     {
-        "description": "Lamp cable with shrouded at both ends (1.8m long)",
+        "description": "XE Lamp cable with shrouded at both ends (1.8m long)",
         "location": "",
         "quantity": "2.00",
-        "stockcode": "CAB6"
+        "stockcode": "CAB49"
     },
     {
         "description": "Fan cable for CL6 etc (1.8m long)",
@@ -510,15 +504,27 @@
         "stockcode": "CAB9"
     },
     {
-        "description": "For use with TLS starter when used with 605",
+        "description": "For use with TLS starter when used with 610",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "INVERTER_BOARD_605"
+        "stockcode": "INVERTER_BOARD_610"
     },
     {
         "description": "1.8m Long 7 Way Cable for Arrestable Choppers",
         "location": "",
         "quantity": "1.00",
         "stockcode": "CAB24"
+    },
+    {
+        "description": "ILD_HF-LF_CHOP BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50346-BM"
+    },
+    {
+        "description": "Xenon Striker Isolater",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15149"
     }
 ]

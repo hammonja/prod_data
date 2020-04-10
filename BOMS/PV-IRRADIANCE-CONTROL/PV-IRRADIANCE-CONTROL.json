@@ -1,11 +1,5 @@
 [
     {
-        "description": "Connector 15 Way 'D' Plug",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10113"
-    },
-    {
         "description": "Cable cover 15 way",
         "location": "",
         "quantity": "1.00",
@@ -36,10 +30,10 @@
         "stockcode": "19046"
     },
     {
-        "description": "TEL309 Large Gear Machined",
+        "description": "Large Gear for ND Wheel",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "19486_M1"
+        "stockcode": "19486_M2"
     },
     {
         "description": "Stripbush, 838mm x 17.4mm",
@@ -58,6 +52,12 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "30118"
+    },
+    {
+        "description": "CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30137"
     },
     {
         "description": "TMs300 Slit Bearing",

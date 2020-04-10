@@ -6,8 +6,8 @@
 |08023|Capacitor 0.1uF, 160V, AC polyester|1.00|C1|
 |08087|Capacitor 0.47uF, 100V ceramic multi-layer|1.00|C2|
 |09007|O ring.  Pack of 50|1.00||
-|09023|DH-SiPbS-Te Body 1|1.00||
-|09024|DH-SiPbS-Te Body 2|1.00||
+|44414|DH_PBS_TE Front Plate|1.00||
+|44415|DH_PBS_TE Clamp Ring|1.00||
 |09031|DH-PbS-Te detector|1.00||
 |09070|Body DH-Pbse-Te body 2|1.00||
 |10013|BNC earth tags for 10028|1.00||

@@ -56,14 +56,14 @@
     {
         "description": "Bosch M4 for 8mm profile",
         "location": "",
-        "quantity": "36.00",
+        "quantity": "40.00",
         "stockcode": "19372"
     },
     {
-        "description": "Roof light for enclosures",
+        "description": "Roof light for enclosures (PV-XY VARIANT)",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "19439"
+        "stockcode": "46946"
     },
     {
         "description": "S8x25 self tap screw",
@@ -388,5 +388,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "PV-ACCESSORIES-CASE"
+    },
+    {
+        "description": "PVE300 ENCLOSURE FOR PV-XY BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50290-BM"
     }
 ]

@@ -2,8 +2,8 @@
 |---------|-----------|--------|--------|
 |05007|dc-dc, 18-36V in,  5V @ 600mA out|1.00||
 |10068|Connector 25 Way 'D' Plug|1.00||
-|10221|Tyco 2 way housing|1.00||
 |10087|Connector 25 Way 'D' type socket|1.00||
+|10221|Tyco 2 way housing|1.00||
 |10094|3 way chassis plug|1.00||
 |10296|Tyco 3 way housing|2.00||
 |10097|3 way cable socket|1.00||
@@ -22,7 +22,7 @@
 |21057|Opto isolator|3.00||
 |42842|Led gonio power box plate|1.00||
 |46540|Inlet Gasket|1.00||
-|99199|6.3mm flag receptacle,0.75-2.3 sq.mm|4.00||
+|99288|6mm Spade Terminal - Female - Crimp - Right Angle|4.00||
 |CAB_USB_MINI_3M|Mini usb cable 3m long|1.00||
 |IMAC_CARD_ROOT|Loaded starting point for IMAC cards|1.00||
 |INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||

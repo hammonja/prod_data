@@ -1,7 +1,7 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
 |30045_M2|Machined Timing Pulley|1.00||
-|43663|Magnet for EI sphere (box of 10)|0.40||
+|43663|Magnet for EI sphere (box of 10)|4.00||
 |46664|LPM 4 Position Filter Wheel|1.00||
 |46665|LPM Support Block|1.00||
 |46666_M1|LPM Filter Wheel Top Plate|1.00||
@@ -16,5 +16,5 @@
 |46709|Nema 14 High Torque Stepper|1.00||
 |46713|Bulgin 12-way male connector|1.00||
 |46715|Bulgin Pin Crimps|12.00||
-|50007|LPM-FW-4 Build Manual|1.00||
+|50007|LPM-FW-4 Build Manual|1.00|Issue B|
 |LPM-SENSOR-BOARD|LPM Position Sensor PCB Assembly|1.00||

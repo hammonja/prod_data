@@ -63,5 +63,5 @@
 |SLIT_VSS|Standard micrometer operated variable slit|1.00||
 |TGK_EXIT-SLIT|Exit VSS for TGK monochromator|1.00||
 |TGK_FW_BOARD|Filter wheel drive board for TGK monochromator|1.00||
-|99283|M6 x 14 BLK CSK SOC|3.00||
+|99283|M6 x 14 BLK CSK SOC|6.00|EXTRA SCREWS TO BE SENT TO CUSTOMER|
 |99567|M6x20 csk SS|3.00||

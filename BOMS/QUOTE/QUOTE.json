@@ -1,38 +1,236 @@
 [
     {
-        "description": "Dual Mode B-beta/C-gamma Goniophotometer",
+        "description": "Slit MVSS RightHand",
         "location": "",
-        "quantity": "1.00",
-        "stockcode": "BGS400"
+        "quantity": "3.00",
+        "stockcode": "SLIT_MVSS_RH"
     },
     {
-        "description": "ORM.  Sensitivity Ranges as 487",
+        "description": "TM300 SLIT COVER PLATE ASSEMBLY",
         "location": "",
-        "quantity": "1.00",
-        "stockcode": "ORM400"
+        "quantity": "4.00",
+        "stockcode": "50275"
     },
     {
-        "description": "Detector for DH400_VL",
+        "description": "ADAPTOR",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "09026"
+        "stockcode": "11234"
     },
     {
-        "description": "Zeiss Lens Holder Hubless Version main Support Plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "42100"
-    },
-    {
-        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
+        "description": "FLAT MIRROR ASSY",
         "location": "",
         "quantity": "2.00",
-        "stockcode": "13010"
+        "stockcode": "50200"
     },
     {
-        "description": "IS8/SRS8 Screen Post [SHELF: DUNCAN]",
+        "description": "FLAT MIRROR LOWER HOLE INTERNAL CHOPPER ASSY",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "13015"
+        "stockcode": "50285"
+    },
+    {
+        "description": "FLAT MIRROR LOWER HOLE ASSY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50199"
+    },
+    {
+        "description": "TM300 Turret for QC Grating Carriers",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET_QC_DSPIN"
+    },
+    {
+        "description": "Grating carrier for quick change turret",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300_QC_CARRIER"
+    },
+    {
+        "description": "TM300 QC Grating Case",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "TM300-QC-GRATING-CASE"
+    },
+    {
+        "description": "TM300 252 FILTER WHEEL - 8 POSITION",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50286"
+    },
+    {
+        "description": "218 INTERNAL CHOPPER - EXIT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50284"
+    },
+    {
+        "description": "TM252 cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30139"
+    },
+    {
+        "description": "Dome Plug 9.5mm (pack of 25)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19093"
+    },
+    {
+        "description": "PAINTED CASTING 30123-P68",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30123-P69"
+    },
+    {
+        "description": "TM300 Lid Gaskets #125",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30130"
+    },
+    {
+        "description": "TM300/2 baseplate cover",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30111"
+    },
+    {
+        "description": "Heyco cap 13mm (pack of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19024"
+    },
+    {
+        "description": "ELECTRONICS DOUBLE MONO A1, D2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50402"
+    },
+    {
+        "description": "TMc300 USB Connector Panel",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "16122"
+    },
+    {
+        "description": "TMC300 POWER PANEL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45877"
+    },
+    {
+        "description": "Connector port cover (blanking plate)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17390"
+    },
+    {
+        "description": "mains port cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17391"
+    },
+    {
+        "description": "TM300 entrance baffle",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30113"
+    },
+    {
+        "description": "PV mono exit baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45197"
+    },
+    {
+        "description": "TM300 Exit Baffle",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30112"
+    },
+    {
+        "description": "DTMC300 DSPIN Baseplate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45647"
+    },
+    {
+        "description": "CURVED MIRROR ASSY",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "50198"
+    },
+    {
+        "description": "Grating Assembly with 600g/mm, 1600nm Blazed Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T306R1U6"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 4000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T303R4U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 6000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3015R6U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 150g/mm, 8000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3015R8U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 90g/mm, 10000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T3009R10U0-AU"
+    },
+    {
+        "description": "Grating Assembly with 300g/mm, 4000nm Gold Ruled Grating",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "GA-T30075R12U0-AU"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 700nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS700_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 1250nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS1250_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 2000nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS2000_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 3600nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS3600_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 6000nm (8 Slot Filter)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS6000_REDUCED"
+    },
+    {
+        "description": "Order Sorting Filter for Insertion at 10500nm (8 Slot Filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "OS10500_REDUCED"
     }
 ]

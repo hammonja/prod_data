@@ -46,5 +46,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "43917"
+    },
+    {
+        "description": "FIBRE_POSITIONER_FC BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50428-BM"
     }
 ]

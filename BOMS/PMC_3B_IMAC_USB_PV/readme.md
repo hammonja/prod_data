@@ -2,7 +2,7 @@
 |---------|-----------|--------|--------|
 |01009|Fuse 630mA (T)|2.00||
 |02028|4k75 MRS25|2.00|R1, R2|
-|02104|910K,MRS25|2.00|replace R7,R24 ON IMAC CARD|
+|02104|910K,MRS25|2.00|replace R7,R41 ON IMAC CARD|
 |04036|LED Green HLMP1503|1.00||
 |04052|Red LED with internal resistor|1.00||
 |05002|L78S12CV|1.00||
@@ -31,3 +31,4 @@
 |43408|15 way blanking panel|1.00||
 |INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||
 |PMC_IMAC_CARD|Triple Motor Microstepping Drive Card|1.00||
+|99017|Rubber feet (pack of 100)|4.00||

@@ -1,7 +1,7 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
 |09101|100W qh Lamp|1.00||
-|10042|Connector lamp holders|1.00||
+|10398|6.35 Lamp Holder|1.00||
 |10095|3 way chassis socket|1.00||
 |10097|3 way cable socket|1.00||
 |10119|Purge port pipe connector|1.00||
@@ -11,15 +11,15 @@
 |11122|M300 Plain mirror cover|1.00||
 |11251|Plain mirror mount washer|3.00||
 |12012|Rear lens tube - Item 2|1.00||
-|13010|Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl|1.00||
 |17021|IL1 Lens tube|1.00||
 |18060|92mm Fan 12V dc|2.00||
 |18061|92mm fan finger gaurd|2.00||
 |19011|M3X10 Spacer|2.00||
-|19024|Heyco cap 13mm (pack of 100)|2.00||
+|19024|Heyco cap 13mm (pack of 100)|1.00||
 |19076|Hawk Eye Silicon Nirtride Glowbar|1.00||
 |19175|Circlip (pack of 100)|1.00||
 |19305|Hole Inserts (Rivet 4-4.1mm Dia)|8.00||
+|19640|CaF2 lens for IL1, 25 dia, 25 f|1.00||
 |30025|SAM coupling|1.00||
 |30026|Sam pin|1.00||
 |30297|TMs300 SAM support|1.00||

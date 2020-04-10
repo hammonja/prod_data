@@ -1,5 +1,17 @@
 [
     {
+        "description": "Cable mains plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10209"
+    },
+    {
+        "description": "55.3225-20 - RECEPTACLE, POAG, R/A, 6MM2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10371"
+    },
+    {
         "description": "FC320 clip",
         "location": "",
         "quantity": "1.00",
@@ -44,7 +56,7 @@
     {
         "description": "S12x30 T50 self tap",
         "location": "",
-        "quantity": "4.00",
+        "quantity": "8.00",
         "stockcode": "19435"
     },
     {
@@ -88,6 +100,12 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "19576"
+    },
+    {
+        "description": "3m Black IEC mains cable",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "23023"
     },
     {
         "description": "Ninewells trolley wheels (with brake)",
@@ -246,9 +264,27 @@
         "stockcode": "50018"
     },
     {
-        "description": "M4 x 16, button, SS",
+        "description": "M3X12 Self Tapping Screw (Bag of 100)",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99292"
+    },
+    {
+        "description": "M4 x16 SS HEX BUTTON SCREW",
         "location": "",
         "quantity": "50.00",
-        "stockcode": "99468"
+        "stockcode": "99521"
+    },
+    {
+        "description": "IREM cable cover",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43951"
+    },
+    {
+        "description": "In-line re-wireable IEC socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10330"
     }
 ]

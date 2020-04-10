@@ -118,5 +118,17 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "TM300_FILTER_DRIVE_PARTS"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET"
+    },
+    {
+        "description": "TM300 Subtractive Turret",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_TURRET_SUB"
     }
 ]

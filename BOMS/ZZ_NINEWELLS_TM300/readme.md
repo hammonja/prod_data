@@ -22,7 +22,7 @@
 |11251|Plain mirror mount washer|1.00||
 |11292|O ring. Pack of 100 (book in to make total qty delivered)|2.00||
 |11409|Concave mirror, 600mm radius (300mm focal length)|2.00||
-|13069|Scattered Light Rejection Filter, 270nm-380nm (UG11)|1.00||
+|UG11|UG11, 25mm dia. +0, -0.1mm. 3mm thick|1.00||
 |13578|GG420 filter|1.00||
 |13579|GG475 filter|1.00||
 |13580|OG570, 25mm dia x 3mm (upper tolerance on diameter 25.1mm)|1.00||

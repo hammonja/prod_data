@@ -19,5 +19,5 @@
 |18123|Base for relay in DM150 24V psu|1.00||
 |19142|22mm capacitor clip|1.00||
 |19550|Drill DM150 casting to accept 24V input sockets|1.00||
-|99199|6.3mm flag receptacle,0.75-2.3 sq.mm|5.00||
+|99288|6mm Spade Terminal - Female - Crimp - Right Angle|5.00||
 |99201|6.3mm flag receptacle Insulating sleeve|5.00||

@@ -4,7 +4,7 @@
 |08019|Capacitor 100nF 50V Ceramic Disc Rad 5mm|3.00||
 |09101|100W qh Lamp|1.00||
 |10034|7 way Amphenol socket|1.00||
-|10042|Connector lamp holders|1.00||
+|10398|6.35 Lamp Holder|1.00||
 |10095|3 way chassis socket|2.00||
 |10127|Black shrouded socket|2.00||
 |10128|Red shrouded socket|2.00||
@@ -37,7 +37,7 @@
 |42404|Off Axis Elliptical Reflector Mount|1.00||
 |42405|WRC Large Off Axis Elliptical Reflector|1.00||
 |42500|TS Space Systems Xenon Lamp Bottom Plate|1.00||
-|42540|Electro-magnet for arrestable chopper (was RS 346-069)|1.00|Mod in house to drw 43702|
+|42540-P1|Electro-magnet for Arrestable Chopper, Machined|1.00|Mod in house to drw 43702|
 |43291|ILD_75E_QH_CHOP chopper stand|1.00||
 |43293|ILD_75E_QH_CHOP lens stand|1.00||
 |43294|ILD_75E_QH_CHOP reflector post|1.00||
@@ -56,4 +56,4 @@
 |45030|Bracket to hold cold mirror|1.00||
 |45031|Cold mirror holder|1.00||
 |43301_P1|ILD-75E-QH Connector Plate|1.00||
-|INVERTER_BOARD_605|For use with TLS starter when used with 605|1.00||
+|INVERTER_BOARD_610|For use with TLS starter when used with 610|1.00||

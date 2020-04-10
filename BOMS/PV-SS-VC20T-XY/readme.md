@@ -13,7 +13,6 @@
 |10319|PLUG, 2MM, BLACK, PK5|0.40|2|
 |17168|Binding post|1.00||
 |19566|Nylon hose clip|8.00||
-|41901P|Birmingham Tech Ltd IS1000 6 Way Double Ouput Box|1.00||
 |42704|Vacuum chuck vacuum nozzle|1.00||
 |43247|PV chuck pillar|4.00||
 |43248_P1|PV Chuck Plate|1.00||

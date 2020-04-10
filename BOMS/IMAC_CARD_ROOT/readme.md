@@ -30,3 +30,4 @@
 |10302|Tyco 8 way header with catch|3.00|T1, 2, 3|
 |15002|pcb  " 15002 ISSUE 5 "|1.00||
 |19600|Assembly of IMAC root card (15 day)|1.00||
+|51068-BM|IMAC CARD (15002) BUILD MANUAL|1.00||

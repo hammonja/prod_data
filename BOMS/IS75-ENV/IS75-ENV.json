@@ -6,16 +6,10 @@
         "stockcode": "13116"
     },
     {
-        "description": "Opdima 120 x 120 x 120mm",
+        "description": "IS75-ENV Benflect Sphere parts",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "19493"
-    },
-    {
-        "description": "Lasing sealed IS75 sphere OP-DI-MA sphere",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "41697"
+        "stockcode": "19520_M2"
     },
     {
         "description": "Lasing sealed IS75 sphere body",
@@ -30,16 +24,10 @@
         "stockcode": "41699"
     },
     {
-        "description": "Lasing sealed IS75 sphere body lid",
+        "description": "IS75 Sphere Body Lid Painted",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "41700F"
-    },
-    {
-        "description": "Lasing sealed IS75 sphere body lid",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "41700P"
+        "stockcode": "41700_P1"
     },
     {
         "description": "Lasing sealed IS75 sphere fibre holder",
@@ -82,5 +70,11 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "41716"
+    },
+    {
+        "description": "IS75-ENV BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50283-BM"
     }
 ]

@@ -84,10 +84,10 @@
         "stockcode": "15028"
     },
     {
-        "description": "PSU_610 Constant Current Power PCB",
+        "description": "15124 PCB with precision resistor fitted",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "15124"
+        "stockcode": "15124_M1"
     },
     {
         "description": "605 front panel",

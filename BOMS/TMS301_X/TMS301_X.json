@@ -258,10 +258,10 @@
         "stockcode": "TM300_TURRET"
     },
     {
-        "description": "Slit drive assembly for TMS monochromators",
+        "description": "TMS_SLIT-DRIVE-ASSY MK.2",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "TMS_SLIT-DRIVE-ASSY"
+        "stockcode": "52043"
     },
     {
         "description": "Slit limit assembly for TMS type monochromators",

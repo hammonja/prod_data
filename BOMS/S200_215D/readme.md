@@ -30,7 +30,7 @@
 |15013|Spacer NS 06-M3|4.00||
 |17039|200 Series mounitng plate LG|1.00||
 |18022|PE6189 (pulse transformer)|1.00|T1|
-|19005|Beckman Bush|1.00||
+|18161|BOURNS H-83P ADAPTOR, PANEL MOUNT|1.00||
 |19020|Heat sink|2.00||
 |20009|2N3053|2.00|Q1, Q2|
 |20016|IC LM723CN|1.00|N1|

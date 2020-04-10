@@ -28,5 +28,17 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "BGS400_LAMP_SUPPORT"
+    },
+    {
+        "description": "ORM.  Sensitivity Ranges as 487",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "ORM400"
+    },
+    {
+        "description": "Detector for DH400_VL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "09026"
     }
 ]

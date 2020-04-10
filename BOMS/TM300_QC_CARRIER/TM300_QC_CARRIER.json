@@ -16,5 +16,17 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "41343"
+    },
+    {
+        "description": "TM300 QC Carrier Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50078-BM"
+    },
+    {
+        "description": "M4 Zinc Half Nuts",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99400"
     }
 ]

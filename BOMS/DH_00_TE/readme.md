@@ -29,3 +29,4 @@
 |CAB3|HV-BNC to HV-BNC 1200mm long|1.00||
 |DH_00_TE_FAN-ASSY|Fan assembly for DH_00_TE|1.00||
 |DH_TE_HEATSINK|Heatsink for cooled housing (from 40011)|1.00||
+|51042-BM|BUILD MANUAL FOR DH_30_TE|1.00||

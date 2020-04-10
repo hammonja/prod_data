@@ -6,4 +6,4 @@ TMC300_PV_0007,GA-T306R1U6,Grating Assembly with 600g/mm, 1600nm Blazed Ruled Gr
 TMC300_PV_0007,OS400_REDUCED,Order Sorting Filter for Insertion at 400nm (8 Slot Filter),,5,1.00,,,,,
 TMC300_PV_0007,OS700_REDUCED,Order Sorting Filter for Insertion at 700nm (8 Slot Filter),,6,1.00,,,,,
 TMC300_PV_0007,OS1250,Order Sorting Filter for Insertion at 1250nm,,7,1.00,,,,,
-TMC300_PV_0007,13933,UG11, 23mm dia. +0, -0.1mm. 1mm thick,,8,1.00,,,,,
+TMC300_PV_0007,UG11,UG11, 25mm dia. +0, -0.1mm. 3mm thick,,8,1.00,,,,,

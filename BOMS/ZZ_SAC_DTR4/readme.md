@@ -16,8 +16,8 @@
 |41502|SAC DTR4 sphere cladding front input plate|1.00||
 |41503|SAC DTR4 sphere cladding front output plate|1.00||
 |41504|SAC DTR4 sphere cladding top plate|1.00||
-|41505|SAC DTR4 front port plug|1.00||
-|41506|SAC DTR4 rear port plug|1.00||
+|41505-P1|SAC DTR4 front port plug|1.00||
+|41506-P1|SAC DTR4 rear port plug|1.00||
 |41507|SAC DTR4 sphere support plate|1.00||
 |41508|SAC DTR4 sphere support collar|1.00||
 |41509|SAC DTR4 sphere support pillar|1.00||

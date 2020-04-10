@@ -64,4 +64,4 @@ ILD_75E_QH_CHOP_GB,CAB6,Lamp cable with shrouded at both ends (1.8m long),,62,2.
 ILD_75E_QH_CHOP_GB,CAB7,Cable for chopper and cooled detectors (1.8m long),,63,1.00,,,,,
 ILD_75E_QH_CHOP_GB,CAB8,Fan cable for CL6 etc (1.8m long),,64,1.00,,,,,
 ILD_75E_QH_CHOP_GB,CAB9,Sam cable, 3 way to 3 way, 550mm long,,65,1.00,,,,,
-ILD_75E_QH_CHOP_GB,INVERTER_BOARD_605,For use with TLS starter when used with 605,,66,1.00,,,,,
+ILD_75E_QH_CHOP_GB,INVERTER_BOARD_610,For use with TLS starter when used with 610,,66,1.00,,,,,

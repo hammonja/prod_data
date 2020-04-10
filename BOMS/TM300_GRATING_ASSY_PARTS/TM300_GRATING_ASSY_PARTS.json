@@ -34,5 +34,35 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "30047"
+    },
+    {
+        "description": "M3 x 16 Black Socket Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99161"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "M4 WASHER BS4320 FORM C BRIGHT ZINC PLATED",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99295"
+    },
+    {
+        "description": "Roll of 2200  25mm x 25mm sticky pads",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99_STICKY-PAD"
     }
 ]

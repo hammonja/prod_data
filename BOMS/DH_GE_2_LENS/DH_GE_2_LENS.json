@@ -42,7 +42,7 @@
         "stockcode": "19024"
     },
     {
-        "description": "Modification of 42527 for 3mm, un-cooled IGA",
+        "description": "DH_IGA_3_LENS Detector Mount Ring",
         "location": "",
         "quantity": "1.00",
         "stockcode": "19420"
@@ -64,12 +64,6 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "42526"
-    },
-    {
-        "description": "DH_IGA-Ex_Te_Boot Detector Mount Ring",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "42527"
     },
     {
         "description": "Thin cable BNC to BNC cable, 1200mm overall length",

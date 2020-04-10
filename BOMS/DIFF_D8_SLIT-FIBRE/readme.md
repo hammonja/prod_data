@@ -15,3 +15,4 @@
 |43191F|7mm reducer for D8 painted|1.00||
 |43191P|7mm reducer for D8|1.00||
 |99026|FL250 porous PTFE moulded rod, OD 75mm, length 135mm|0.50||
+|50208-BM|DIFF_D8_SLIT-FIBRE BUILD MANUAL|1.00||

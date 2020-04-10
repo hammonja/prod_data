@@ -2,8 +2,8 @@
 |---------|-----------|--------|--------|
 |10062_M1|Blanking Cap 19mm Machined (in-house)|3.00||
 |11217|Slit Mounting Adaptor ( TOP HAT )|1.00||
-|15065|7mm M3 spacer|5.00||
 |10298|Tyco 8 way housing|3.00||
+|15065|7mm M3 spacer|5.00||
 |19019|Sleeved Grommets (bag of 50)|3.00||
 |30123_M8_P1|TMC Casting Machined and Painted LOT|1.00||
 |30123_M9_P1|TMC Casting Machined and Painted LOT|1.00||
@@ -22,3 +22,4 @@
 |TM300_F_D_MIRROR|TM300 Fixed entrance/exit Divert Mirror Kit|3.00||
 |TM300_FILTER_DRIVE_PARTS|TM300 Filter Drive Chip Components|1.00||
 |TM300_SAM-ENTRANCE|Entrance sam for TM300 or TMc300|1.00||
+|TM300_TURRET|Grating Turret with 8mm Shaft|2.00||

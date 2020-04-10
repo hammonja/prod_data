@@ -2,6 +2,7 @@
 |---------|-----------|--------|--------|
 |13084|IS4C 'O' RING|1.00||
 |13116|O ring for 7mm Fibre Ferrule (pack of 100)|1.00||
+|14000|Generic Silica Gel Desiccant Moisture Orange Indicating|0.25||
 |27246|Diffuser P.T.F.E insert 2mm (200-1100nm)|1.00||
 |41707|Quartz dome 1 inch diameter (Polished all over)|1.00||
 |43964|Drying cartridge window|1.00||

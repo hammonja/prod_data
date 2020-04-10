@@ -36,5 +36,5 @@
 |45212|Gasket for use with blanking plate 11132|3.00||
 |ACCENT_CONNECTOR-BOARD|Connector board for Accent monochromator|1.00||
 |CASTING_ACCENT|Painted casting for Accent & Nanometrics|1.00||
-|SLIT_MVSS_ACCENT|Accent Motorised Slit|1.00||
-|TM300_TURRET|Grating Turret with 8mm Shaft|1.00||
+|SLIT_MVSS_ACCENT_TESTED|Externally Tested Toho (accent) MVSS Free issued to Bentham|1.00||
+|TM300_TURRET_ACCENT|TM300 Turret with score less than 15|1.00||

@@ -93,13 +93,13 @@
         "description": "SAC DTR4 front port plug",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "41505"
+        "stockcode": "41505-P1"
     },
     {
         "description": "SAC DTR4 rear port plug",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "41506"
+        "stockcode": "41506-P1"
     },
     {
         "description": "SAC DTR4 sphere support plate",
@@ -126,15 +126,27 @@
         "stockcode": "41511"
     },
     {
+        "description": "UMS carrier (was 146-1365)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43157"
+    },
+    {
         "description": "DTR4 Sphere Benflect Parts-fi 19520 x 2 per",
         "location": "",
         "quantity": "1.00",
         "stockcode": "46690"
     },
     {
-        "description": "In-House Machining Operation",
+        "description": "Machined M3 Studding",
         "location": "",
         "quantity": "4.00",
         "stockcode": "99951_M1"
+    },
+    {
+        "description": "No 4 x 10mm, pozi pan, self tap, black",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "99268"
     }
 ]

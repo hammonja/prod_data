@@ -76,5 +76,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "CAB7"
+    },
+    {
+        "description": "DH_IGA-EX-3_TE_LENS Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50389-BM"
     }
 ]

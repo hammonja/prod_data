@@ -40,7 +40,7 @@
 |43309|IL sun shutter mount|1.00||
 |43310|IL sun shield|1.00||
 |43316|Multibranch fibre for bias source in PV system|1.00||
-|43663|Magnet for EI sphere (box of 10)|0.40|pick 4|
+|43663|Magnet for EI sphere (box of 10)|4.00|pick 4|
 |43929|PV bias xe mount side panels|2.00||
 |43930|PV bias xe AM1.5 plate|1.00||
 |43931|PV bias xe base plate|1.00||
@@ -49,5 +49,5 @@
 |43934|PV bias xe source pillar|2.00||
 |CAB11|Lamp cable with shrouded at both ends (3m long)|1.00||
 |CAB8|Fan cable for CL6 etc (1.8m long)|1.00||
-|INVERTER_BOARD_605|For use with TLS starter when used with 605|1.00||
+|INVERTER_BOARD_610|For use with TLS starter when used with 610|1.00||
 |SLIT_VSS|Standard micrometer operated variable slit|1.00||

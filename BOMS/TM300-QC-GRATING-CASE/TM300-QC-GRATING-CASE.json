@@ -1,38 +1,8 @@
 [
     {
-        "description": "Bentham Logo plate (silk screened)",
+        "description": "INTERCHANGEABLE TURRET TUBE",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "16098"
-    },
-    {
-        "description": "QC Carrier Shaft",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "46657"
-    },
-    {
-        "description": "QC Carrier Base",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "46658"
-    },
-    {
-        "description": "QC Carrier Box (Pack of 4)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "46659"
-    },
-    {
-        "description": "QC Case Wooden Spacer",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "46707"
-    },
-    {
-        "description": "M4  WING NUT SS",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "99925"
+        "stockcode": "52022"
     }
 ]

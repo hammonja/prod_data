@@ -2,7 +2,7 @@
     {
         "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
         "location": "",
-        "quantity": "4.00",
+        "quantity": "2.00",
         "stockcode": "11025"
     },
     {
@@ -14,44 +14,14 @@
     {
         "description": "M300 Plain mirror cover",
         "location": "",
-        "quantity": "3.00",
+        "quantity": "2.00",
         "stockcode": "11122"
-    },
-    {
-        "description": "SAM Mirror Mount",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "11248"
     },
     {
         "description": "Plain mirror mount washer",
         "location": "",
-        "quantity": "6.00",
+        "quantity": "5.00",
         "stockcode": "11251"
-    },
-    {
-        "description": "SAM coupling",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "30025"
-    },
-    {
-        "description": "Sam pin",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "30026"
-    },
-    {
-        "description": "GDAY 035 X20 B21 (24V)",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "30043"
-    },
-    {
-        "description": "TMs300 SAM support",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "30297"
     },
     {
         "description": "E2V input aperture holder",
@@ -78,21 +48,33 @@
         "stockcode": "41378"
     },
     {
-        "description": "Sola system small mirror SAM coupling",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "41380"
-    },
-    {
         "description": "Sola system mirror/fibre support pillars",
         "location": "",
         "quantity": "5.00",
         "stockcode": "41395"
     },
     {
-        "description": "Sola system SAM support pillars",
+        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
         "location": "",
-        "quantity": "6.00",
-        "stockcode": "41396"
+        "quantity": "2.00",
+        "stockcode": "13010"
+    },
+    {
+        "description": "SLAM (SLIDE AWAY MIRROR) 45° FRONT FACING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50327"
+    },
+    {
+        "description": "SLAM (SLIDE AWAY MIRROR) 45° REAR FACING",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50329"
+    },
+    {
+        "description": "BPC300_OPTICS-BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50262-BM"
     }
 ]

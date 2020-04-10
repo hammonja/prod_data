@@ -34,5 +34,11 @@
         "location": "",
         "quantity": "0.02",
         "stockcode": "99045"
+    },
+    {
+        "description": "CAB6 Wiring Instructions - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52017-BM"
     }
 ]

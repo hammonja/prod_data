@@ -18,12 +18,6 @@
         "stockcode": "13010"
     },
     {
-        "description": "Stepping motor for FW in MDC150  (8425884 used for e2v)",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "18132"
-    },
-    {
         "description": "Large Gear for ND Wheel",
         "location": "",
         "quantity": "2.00",
@@ -130,5 +124,11 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "44257"
+    },
+    {
+        "description": "MY4001 Stepper Motor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45640"
     }
 ]

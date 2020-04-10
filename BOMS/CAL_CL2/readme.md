@@ -2,8 +2,6 @@
 |---------|-----------|--------|--------|
 |10002|Black 4mm socket|1.00||
 |10003|Red 4mm socket|1.00||
-|10042|Connector lamp holders|1.00||
-|11225|Pressure plate spring|2.00||
 |12028|CL2 stand (no engraving)|1.00||
 |16026|CL2 Cover|1.00||
 |19172|M3 thumb nuts for IL10|2.00||

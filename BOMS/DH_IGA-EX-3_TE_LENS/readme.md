@@ -13,3 +13,4 @@
 |42527|DH_IGA-Ex_Te_Boot Detector Mount Ring|1.00||
 |CAB17|Thin cable BNC to BNC cable, 1200mm overall length|1.00||
 |CAB7|Cable for chopper and cooled detectors (1.8m long)|1.00||
+|50389-BM|DH_IGA-EX-3_TE_LENS Build Manual|1.00||

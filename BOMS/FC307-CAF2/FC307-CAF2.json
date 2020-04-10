@@ -6,6 +6,12 @@
         "stockcode": "12039"
     },
     {
+        "description": "FC306 FIBRE CHUCK (slotted)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12053"
+    },
+    {
         "description": "FC307 Bracket",
         "location": "",
         "quantity": "1.00",
@@ -18,15 +24,9 @@
         "stockcode": "17657"
     },
     {
-        "description": "12.7mm \u00d8 x 10.0mm F.L. BCX UV",
+        "description": "12.7mm Ø x 10.0mm F.L. BCX UV",
         "location": "",
         "quantity": "1.00",
         "stockcode": "46412"
-    },
-    {
-        "description": "FC306 FIBRE CHUCK (slotted)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "12053"
     }
 ]

@@ -1,6 +1,6 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
-|09101|100W qh Lamp|1.00||
+|46879|OSRAM HLX64640 QH LAMP 150W 6000lm|1.00||
 |10042|Connector lamp holders|1.00||
 |11223|Pin|1.00||
 |11225|Pressure plate spring|1.00||

@@ -1,11 +1,5 @@
 [
     {
-        "description": "T switch in series with Pelts. on E-box",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "07055"
-    },
-    {
         "description": "3 way cable socket",
         "location": "",
         "quantity": "1.00",
@@ -32,14 +26,8 @@
     {
         "description": "Ondrives DP4.0-8 (dowell 4mm x8mm)",
         "location": "",
-        "quantity": "3.00",
+        "quantity": "2.00",
         "stockcode": "19166"
-    },
-    {
-        "description": "BPC300 HEAT PUMP",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "19223"
     },
     {
         "description": "Propeller (Cornwallmodelboats.co.uk)",
@@ -90,28 +78,10 @@
         "stockcode": "41383"
     },
     {
-        "description": "Sola system temperature probe body",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "41384"
-    },
-    {
-        "description": "Sola system temperature probe lock ring",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "41386"
-    },
-    {
         "description": "Sola system stirrer shaft",
         "location": "",
         "quantity": "1.00",
         "stockcode": "41387"
-    },
-    {
-        "description": "Sola system stirrer bush",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "41388"
     },
     {
         "description": "Sola system overflow pipe",
@@ -148,5 +118,65 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "41910"
+    },
+    {
+        "description": "BPC300 Water Bath",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50332-BM"
+    },
+    {
+        "description": "BPC300 Water Bath",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50332-PL"
+    },
+    {
+        "description": "BPC300 Temperature Probe",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50333"
+    },
+    {
+        "description": "M2 x 10 Black socket cap head screw",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99050"
+    },
+    {
+        "description": "M2 Plain Zinc Washer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99075"
+    },
+    {
+        "description": "M3 x 25 Black Cap Head Screw",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99166"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Socket Grub Screw",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99276"
+    },
+    {
+        "description": "M4 Plain Vulcanised Fibre Sealing Washer, 0.8mm (BAG OF 250)",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99402"
+    },
+    {
+        "description": "M4 x 12 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99458"
     }
 ]

@@ -15,6 +15,12 @@
         "description": "FC300 Build Manual",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "50036"
+        "stockcode": "50410-BM"
+    },
+    {
+        "description": "FC300 Parts List",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50410-PL"
     }
 ]

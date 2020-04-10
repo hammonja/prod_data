@@ -17,3 +17,4 @@ DTMC300_0009,SA-FSP(2.78),Fixed Slit Assembly with Slit Plate (2.78mm width aper
 DTMC300_0009,SA-FSP(3.7),Fixed Slit Assembly with Slit Plate (3.7mm width aperture),,16,1.00,,,,,
 DTMC300_0009,SA-FSP(5.56),Fixed Slit Assembly with Slit Plate (5.56mm width aperture),,17,2.00,,,,,
 DTMC300_0009,SA-FSP(8.00),Fixed Slit Assembly with Slit Plate (8.00mm width aperture),,18,1.00,,,,,
+DTMC300_0009,TM300_TURRET,Grating Turret with 8mm Shaft,,19,2.00,,,,,

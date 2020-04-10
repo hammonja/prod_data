@@ -54,10 +54,10 @@
         "stockcode": "13068"
     },
     {
-        "description": "Scattered Light Rejection Filter, 270nm-380nm (UG11)",
+        "description": "UG5, 25mm dia. +0, -0.1mm. 3mm thick",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "13069"
+        "stockcode": "UG5"
     },
     {
         "description": "TMs300 SAM pillars. M4 x 20.",
@@ -66,10 +66,10 @@
         "stockcode": "30246"
     },
     {
-        "description": "BPC300 Detector Box Machined",
+        "description": "BCP300 DETECTOR BOX PAINTED BLACK",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "41419_M1"
+        "stockcode": "48198-P2"
     },
     {
         "description": "Sola system Si support post",

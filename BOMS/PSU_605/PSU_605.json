@@ -199,8 +199,8 @@
     },
     {
         "description": "Capacitor 330nF Polyester",
-        "location": "C5",
-        "quantity": "2.00",
+        "location": "C5 , REGS x 2",
+        "quantity": "3.00",
         "stockcode": "08051"
     },
     {

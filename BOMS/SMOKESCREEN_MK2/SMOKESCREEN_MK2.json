@@ -66,10 +66,16 @@
         "stockcode": "27142"
     },
     {
-        "description": "SmokeScreen CAA",
+        "description": "SmokeScreen CAA ( Free Issue 99026 x 4 per 10 )",
         "location": "",
         "quantity": "1.00",
         "stockcode": "27396"
+    },
+    {
+        "description": "FL250 porous PTFE moulded rod. OD 32mm, length 1m",
+        "location": "",
+        "quantity": "0.10",
+        "stockcode": "99005"
     },
     {
         "description": "Sdetector / source light guide. Matl. 99910",
@@ -78,25 +84,19 @@
         "stockcode": "27398"
     },
     {
-        "description": "MkII Smoke Screen Box Bottom",
+        "description": "MKII Smoke Screen Box Bottom Machined",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "27401"
+        "stockcode": "27401_M1"
     },
     {
-        "description": "MkII Smoke Screen Box Lid (Machined)",
+        "description": "MKII Smoke Screen Box Lid Machined",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "27405F"
+        "stockcode": "27405_M1"
     },
     {
-        "description": "MkII Smoke Screen Box Lid",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "27405P"
-    },
-    {
-        "description": "Q14444 (artwork charge \u00a344.98 on first order of iss. D)",
+        "description": "Q14444 (artwork charge £44.98 on first order of iss. D)",
         "location": "",
         "quantity": "1.00",
         "stockcode": "27406"

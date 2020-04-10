@@ -1,8 +1,11 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
+|10370|Height Gauge 12"/300mm  (Ref: HG1..)|1.00||
 |11025|M300 Plain mirrors 30x25x3mm.  UV-AL coating|2.00||
+|11042|M3 inserts in slider (lead screw min. 5mm from end of track)|2.00||
 |11069|Micrometer head Starrett 463ML|2.00||
 |11122|M300 Plain mirror cover|2.00||
+|11209|Unislide FF|2.00||
 |11225|Pressure plate spring|3.00||
 |45185|Thorlabs CL5 Breadboard clamp|4.00||
 |45205|Calibration mic. mount|2.00||

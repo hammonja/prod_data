@@ -144,6 +144,12 @@
         "stockcode": "19142"
     },
     {
+        "description": "Female Screw Lock Assembly 13mm Long",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19044"
+    },
+    {
         "description": "PMC-MAC base plate",
         "location": "",
         "quantity": "1.00",
@@ -178,5 +184,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "PMC_IMAC_CARD"
+    },
+    {
+        "description": "Rubber feet (pack of 100)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99017"
     }
 ]

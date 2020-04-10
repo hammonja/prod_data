@@ -1,15 +1,9 @@
 [
     {
-        "description": "Dewar cooled InSb, 1mm diameter",
+        "description": "InSb photovoltaic detector 1mm diameter",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "09149"
-    },
-    {
-        "description": "BNC barrel connector",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10099"
+        "stockcode": "09184"
     },
     {
         "description": "Lens,  31.5 dia,  60 f,  pvex,  CaF2",

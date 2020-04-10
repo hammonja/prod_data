@@ -65,7 +65,7 @@
 |OS400|Order Sorting Filter for Insertion at 400nm|1.00||
 |OS680|Order Sorting Filter for Insertion at 680nm|1.00||
 |TM300_TURRET|Grating Turret with 8mm Shaft|1.00||
-|TMS_SLIT-DRIVE-ASSY|Slit drive assembly for TMS monochromators|1.00||
+|52043|TMS_SLIT-DRIVE-ASSY MK.2|1.00||
 |TMS_SLIT-LIMIT-ASSY|Slit limit assembly for TMS type monochromators|1.00||
 |TMS300_SLIT|TMS300 slit assembly|3.00||
 |TMS302_X_HOUSING|Housing for excitation TMS302|1.00||

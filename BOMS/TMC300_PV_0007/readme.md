@@ -8,4 +8,4 @@
 |OS400_REDUCED|Order Sorting Filter for Insertion at 400nm (8 Slot Filter)|1.00||
 |OS700_REDUCED|Order Sorting Filter for Insertion at 700nm (8 Slot Filter)|1.00||
 |OS1250|Order Sorting Filter for Insertion at 1250nm|1.00||
-|13933|UG11, 23mm dia. +0, -0.1mm. 1mm thick|1.00||
+|UG11|UG11, 25mm dia. +0, -0.1mm. 3mm thick|1.00||

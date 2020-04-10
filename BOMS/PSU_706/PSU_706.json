@@ -1,9 +1,9 @@
 [
     {
-        "description": "Fuse 630mA (T)",
+        "description": "Fuse 2A slow blow",
         "location": "",
         "quantity": "2.00",
-        "stockcode": "01009"
+        "stockcode": "01007"
     },
     {
         "description": "30K, MRS25",
@@ -60,10 +60,10 @@
         "stockcode": "15115"
     },
     {
-        "description": "FAN, 40X40X10MM, 12VDC, 7CFM, 27DBA",
+        "description": "12V Axial Fan, 40x40x10, 8CFM",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "18117"
+        "stockcode": "45636"
     },
     {
         "description": "Finger guard for 40mm fan",

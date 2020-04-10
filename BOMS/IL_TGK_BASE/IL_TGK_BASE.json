@@ -25,7 +25,7 @@
     },
     {
         "description": "entexstocksprings.co.uk",
-        "location": "",
+        "location": "CUT IN HALF",
         "quantity": "1.00",
         "stockcode": "19434"
     },
@@ -108,9 +108,9 @@
         "stockcode": "NA6323"
     },
     {
-        "description": "TGK Painted Lamp Housing",
+        "description": "TGK Painted Lamp housing check o/f  (painted to 19446 dwg)",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "NB5698_P1"
+        "stockcode": "NB5698"
     }
 ]

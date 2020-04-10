@@ -50,7 +50,7 @@
     {
         "description": "Magnet for EI sphere (box of 10)",
         "location": "",
-        "quantity": "0.30",
+        "quantity": "3.00",
         "stockcode": "43663"
     },
     {
@@ -66,10 +66,10 @@
         "stockcode": "44047"
     },
     {
-        "description": "EI Benflect Sphere Shaft MK2",
+        "description": "EI benflect sphere mirror arm mk2 PAINTED",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "44335_P1"
+        "stockcode": "44335"
     },
     {
         "description": "Edinburgh Sphere Sample Post",

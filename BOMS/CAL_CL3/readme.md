@@ -10,6 +10,5 @@
 |17091|D2 Lamp PTFE sleeve|2.00||
 |17101|CL3 Gap bar|1.00||
 |19011|M3X10 Spacer|3.00||
-|19086|Fastener self clinch M4|2.00||
 |27441|Deuterium Lamp  M XD 5655-03|1.00||
 |45199|D2 bulb mount clamp|2.00||

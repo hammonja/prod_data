@@ -18,28 +18,28 @@
         "stockcode": "99008"
     },
     {
-        "description": "TO220 insulator",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "99023"
-    },
-    {
         "description": "0.2\" LED mounting bush",
         "location": "",
         "quantity": "2.00",
         "stockcode": "99012"
     },
     {
-        "description": "TO-220 Insulating Bush (pack of 10)Manual adjust stock",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "99024"
-    },
-    {
         "description": "M2.5 x 8 pozi pan, zinc",
         "location": "",
         "quantity": "24.00",
         "stockcode": "99021"
+    },
+    {
+        "description": "TO220 insulator",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99023"
+    },
+    {
+        "description": "TO-220 Insulating Bush (pack of 10)Manual adjust stock",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99024"
     },
     {
         "description": "Crimp terminal for 07040 mains switch",
@@ -132,10 +132,22 @@
         "stockcode": "99264"
     },
     {
+        "description": "M3 x 6 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "8.00",
+        "stockcode": "99271"
+    },
+    {
         "description": "M3 Oversize Washer Zinc plated (O/D 9mm, Thk 0.8mm)",
         "location": "",
         "quantity": "2.00",
         "stockcode": "99273"
+    },
+    {
+        "description": "M3 x 8 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99278"
     },
     {
         "description": "M4 Full Nut zinc",
@@ -148,6 +160,12 @@
         "location": "",
         "quantity": "9.00",
         "stockcode": "99404"
+    },
+    {
+        "description": "M4 Stainless Steel Plain Washer",
+        "location": "",
+        "quantity": "3.00",
+        "stockcode": "99451"
     },
     {
         "description": "M5 x 50 Zinc Pozi Pan Head",
@@ -172,23 +190,5 @@
         "location": "Kit 1 bag per kit of 25",
         "quantity": "0.04",
         "stockcode": "99755"
-    },
-    {
-        "description": "M4 Stainless Steel Plain Washer",
-        "location": "",
-        "quantity": "3.00",
-        "stockcode": "99451"
-    },
-    {
-        "description": "M3 x 6 Zinc Pozi Pan Head",
-        "location": "",
-        "quantity": "8.00",
-        "stockcode": "99271"
-    },
-    {
-        "description": "M3 x 8 Zinc Pozi Pan Head",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "99278"
     }
 ]

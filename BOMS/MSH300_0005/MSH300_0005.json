@@ -90,6 +90,12 @@
         "stockcode": "44274"
     },
     {
+        "description": "LOT Connector port cover (blanking plate)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "46405"
+    },
+    {
         "description": "LOT mains port cover",
         "location": "",
         "quantity": "1.00",
@@ -98,7 +104,7 @@
     {
         "description": "LED CLIP, 3MM, PK50",
         "location": "",
-        "quantity": "2.00",
+        "quantity": "1.00",
         "stockcode": "99060"
     },
     {

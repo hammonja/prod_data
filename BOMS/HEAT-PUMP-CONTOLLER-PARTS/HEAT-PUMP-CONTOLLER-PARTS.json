@@ -20,7 +20,7 @@
     {
         "description": "Electronic temperature sensor",
         "location": "",
-        "quantity": "2.00",
+        "quantity": "1.00",
         "stockcode": "18136"
     },
     {
@@ -28,5 +28,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "18137"
+    },
+    {
+        "description": "HEAT PUMP CONTROLLER PARTS BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52015-BM"
     }
 ]

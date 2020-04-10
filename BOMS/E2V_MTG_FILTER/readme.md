@@ -55,4 +55,4 @@
 |45061|Reflector support block|1.00||
 |45062|Quartz holder bracket|1.00||
 |45066|QH lamp cover|1.00||
-|FW_ND_SINGLE|Single ND Filter Unit|1.00||
+|FW_ND_SINGLE_0-3_ND|FW_ND_SNGLE fitted with 0-3_ND|1.00||

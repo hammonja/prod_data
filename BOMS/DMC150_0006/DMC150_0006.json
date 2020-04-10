@@ -76,5 +76,11 @@
         "location": "",
         "quantity": "3.00",
         "stockcode": "SA-FSP(3.7)"
+    },
+    {
+        "description": "TM300 Fixed entrance/exit Divert Mirror Kit",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "TM300_F_D_MIRROR"
     }
 ]

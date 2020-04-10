@@ -31,3 +31,4 @@
 |30337|DTMs300 USB PCB Pillars (fi 15100)|2.00||
 |INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||
 |PMC_IMAC_CARD_3|Triple Motor Microstepping Drive Card ( 3 drives )|1.00||
+|99017|Rubber feet (pack of 100)|4.00||

@@ -15,8 +15,9 @@
 |30130|TM300 Lid Gaskets|1.00||
 |30139|TM252 cover|1.00||
 |44274|TMc300 USB connector panel (LOT)|1.00||
+|46405|LOT Connector port cover (blanking plate)|2.00||
 |46406|LOT mains port cover|1.00||
-|99060|LED CLIP, 3MM, PK50|2.00||
+|99060|LED CLIP, 3MM, PK50|1.00||
 |CASTING_TM300_LOT|Casting for LOT TM300 monochromator|1.00||
 |GA-T312R0U5|Grating Assembly with 1200g/mm, 500nm Blazed Ruled Grating|1.00||
 |INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||

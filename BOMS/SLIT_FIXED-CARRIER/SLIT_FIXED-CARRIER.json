@@ -1,14 +1,8 @@
 [
     {
-        "description": "M300 Fixed Slit Support",
+        "description": "Carrier for Fixed Slit Plates (Components)",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "11051"
-    },
-    {
-        "description": "M300 fixed slit spring",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "11068"
+        "stockcode": "SLIT_FIXED-CARRIER_COMPONENTS"
     }
 ]

@@ -5,3 +5,4 @@
 |12154|TL Macro lens 1|1.00||
 |12155|TL Macro lens 2|1.00||
 |25054|Polypropylene Case 225 x 200 x 70 for CL2|1.00||
+|50151|TEL301_LENS_TL-MACRO Build Manual|1.00||

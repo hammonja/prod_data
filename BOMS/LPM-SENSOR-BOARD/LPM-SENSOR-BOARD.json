@@ -6,10 +6,10 @@
         "stockcode": "02288"
     },
     {
-        "description": "DIODE, REC, SCHOTTKY, 1A, 20V, SMA",
+        "description": "B120-13-F  DIODE, REC, SCHOTTKY, 1A, 20V, SMA",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "04059"
+        "stockcode": "04058"
     },
     {
         "description": "SS443A  SENSOR, HALL EFFECT, 140G, UNIPOLAR",
@@ -27,7 +27,7 @@
         "description": "CAP, MLCC, X5R, 2.2UF, 6.3V, 0402",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "08132"
+        "stockcode": "08130"
     },
     {
         "description": "LPM Filter Wheel PCB",
@@ -36,16 +36,16 @@
         "stockcode": "15125"
     },
     {
+        "description": "MAX4634EUB+  MULTIPLEXER, 4X1, 4OHM RON, 10MICROMAX",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "21060"
+    },
+    {
         "description": "MCP23S09-E/SO  IC, I/O EXPANDER, 8BIT, SPI, 18SOIC",
         "location": "",
         "quantity": "1.00",
         "stockcode": "21061"
-    },
-    {
-        "description": "MAX4634EUB+  MULTIPLEXER, 4X1, 4OHM RON, 10MICROMAX",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "21062"
     },
     {
         "description": "LPM-SENSOR-BOARD Build Manual",

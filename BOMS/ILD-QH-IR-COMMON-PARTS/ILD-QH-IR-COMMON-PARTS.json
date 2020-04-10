@@ -6,10 +6,10 @@
         "stockcode": "09101"
     },
     {
-        "description": "Connector lamp holders",
+        "description": "6.35 Lamp Holder",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10042"
+        "stockcode": "10398"
     },
     {
         "description": "3 way chassis socket",
@@ -66,12 +66,6 @@
         "stockcode": "12012"
     },
     {
-        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "13010"
-    },
-    {
         "description": "IL1 Lens tube",
         "location": "",
         "quantity": "1.00",
@@ -98,7 +92,7 @@
     {
         "description": "Heyco cap 13mm (pack of 100)",
         "location": "",
-        "quantity": "2.00",
+        "quantity": "1.00",
         "stockcode": "19024"
     },
     {
@@ -118,6 +112,12 @@
         "location": "",
         "quantity": "8.00",
         "stockcode": "19305"
+    },
+    {
+        "description": "CaF2 lens for IL1, 25 dia, 25 f",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19640"
     },
     {
         "description": "SAM coupling",

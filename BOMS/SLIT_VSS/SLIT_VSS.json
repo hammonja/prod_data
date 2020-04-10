@@ -6,36 +6,6 @@
         "stockcode": "11069"
     },
     {
-        "description": "Cover plate VSS",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17659"
-    },
-    {
-        "description": "Variable slit box",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17660"
-    },
-    {
-        "description": "TMs300 Jaw Running Shaft",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17661"
-    },
-    {
-        "description": "TMs300 Jaw (handed pair)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17663"
-    },
-    {
-        "description": "TMs300 Jaw plate",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "17664"
-    },
-    {
         "description": "VSS Spring",
         "location": "Free issue to metal worker",
         "quantity": "4.00",
@@ -60,12 +30,6 @@
         "stockcode": "19245"
     },
     {
-        "description": "Fork for VSS (Slit block 1)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "42727"
-    },
-    {
         "description": "M2.5 x 6 Black Socket Head. Must be good quality socket.",
         "location": "Free issue to metal worker",
         "quantity": "4.00",
@@ -82,5 +46,11 @@
         "location": "Free issue to metal worker",
         "quantity": "3.00",
         "stockcode": "99191"
+    },
+    {
+        "description": "SLIT_VSS MACHINED PARTS AND ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "SLIT_VSS_MANU"
     }
 ]

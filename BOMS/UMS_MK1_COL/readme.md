@@ -1,8 +1,10 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
-|10288|Lemo, 8 way, chassis socket, green|1.00||
+|10068|Connector 25 Way 'D' Plug|1.00||
+|10082|25 Way Metal Case|1.00||
+|10113|Connector 15 Way 'D' Plug|1.00||
+|10171|Cable cover 15 way|1.00||
 |10289|Lemo, 8 way, cable plug, green|1.00||
-|18132|Stepping motor for FW in MDC150  (8425884 used for e2v)|1.00||
 |19293|Bosch 30mm Extrusion End Cap (each)|1.00||
 |19342|BOSCH M4 T-nut|2.00||
 |19346|Bosch 6mm groove M4 'T' nut|2.00||
@@ -27,7 +29,6 @@
 |45328|UMS Collimator Wheel Mount Plate|2.00||
 |45335|UMS Collimator Side Base Plate|1.00||
 |45336|UMS Collimator Side Upright Plate|1.00||
-|45338|UMS Collimator Sheet Cover - Left|1.00||
 |45339|Spherical Mirror OD50.8 fl100|1.00||
 |45340|Parabolic Reflector Rfl=101.6 UV Enh|1.00||
 |45351|UMS COL Aperture Mounting Post|1.00||
@@ -36,6 +37,7 @@
 |45354|Bosch 20x20 See Drawing|1.00||
 |45355|Aperture 15mm for wheel|1.00||
 |45397|Handle Round 63mm Fixing Centres|1.00||
+|45640|MY4001 Stepper Motor|1.00||
 |46107_P1|Filter Wheel for TM300_252_IMPERIAL|1.00||
 |50023|UMS_MK1_COL Build Manual|1.00||
 |99701|4-40 UNC x 1/2" Stainless Steel Philips Screw|3.00||

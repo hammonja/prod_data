@@ -31,7 +31,7 @@
     },
     {
         "description": "5.1V Zener diode,1N5338B 5W",
-        "location": "In input leg of 12V reg, bar to pcb",
+        "location": "D5",
         "quantity": "1.00",
         "stockcode": "04055"
     },

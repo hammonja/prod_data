@@ -1,7 +1,7 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
 |09101|100W qh Lamp|1.00||
-|10042|Connector lamp holders|1.00||
+|10398|6.35 Lamp Holder|1.00||
 |10095|3 way chassis socket|1.00||
 |10097|3 way cable socket|1.00||
 |10119|Purge port pipe connector|1.00||
@@ -34,7 +34,7 @@
 |44370|ILD-D2-QH QH Lens Holder|1.00||
 |45199|D2 bulb mount clamp|2.00||
 |13949|25mm Dia. x 38mm FL Uncoated, UV Plano-Convex Lens|1.00||
-|46157|Ø25MM LENS CARRIER|1.00||
+|46157|Ã˜25MM LENS CARRIER|1.00||
 |46158|DEUTERIUM LAMP SUPPORT BRACKET|1.00||
 |46159|ILD-D2-QH BASE PLATE|1.00||
 |46160_P1|ILD-D2-QH CONNECTOR PLATE

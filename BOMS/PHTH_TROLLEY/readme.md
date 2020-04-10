@@ -1,5 +1,7 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
+|10209|Cable mains plug|1.00||
+|10371|55.3225-20 - RECEPTACLE, POAG, R/A, 6MM2|1.00||
 |12109|FC320 clip|1.00||
 |17438|DFH pivot|2.00||
 |19022|Rubber feet (pack of 36)|2.00||
@@ -7,7 +9,7 @@
 |19255|Smoke Screen Cog Bearing|4.00|Free issued to metal worker for 42897 & 42898|
 |19364|Bosch 10mm groove M8 'T' nut|2.00||
 |19377|M4 'T' nut for 10mm groove|32.00||
-|19435|S12x30 T50 self tap|4.00||
+|19435|S12x30 T50 self tap|8.00||
 |19567|Bosch part|24.00||
 |19568|Bosch part|2.00||
 |19569|Bosch part|10.00||
@@ -15,6 +17,7 @@
 |19571|Bosch part|4.00||
 |19575|Distribution unit 4 way (www.cef.co.uk)|1.00||
 |19576|Medical Isolation Transformer (1kVA)|1.00||
+|23023|3m Black IEC mains cable|1.00||
 |42889|Ninewells trolley wheels (with brake)|2.00||
 |42890|Ninewells trolley wheels|2.00||
 |42896|Ninewells trolley part (see drawing)|1.00||
@@ -41,4 +44,7 @@
 |46805|Acetal Grommet|1.00||
 |46806|Acetal Grommet|1.00||
 |50018|PHTH_TROLLEY Build Manual|1.00||
-|99468|M4 x 16, button, SS|50.00||
+|99292|M3X12 Self Tapping Screw (Bag of 100)|3.00||
+|99521|M4 x16 SS HEX BUTTON SCREW|50.00||
+|43951|IREM cable cover|1.00||
+|10330|In-line re-wireable IEC socket|1.00||

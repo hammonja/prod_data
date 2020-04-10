@@ -66,4 +66,4 @@
 |CAB7|Cable for chopper and cooled detectors (1.8m long)|1.00||
 |CAB8|Fan cable for CL6 etc (1.8m long)|1.00||
 |CAB9|Sam cable, 3 way to 3 way, 550mm long|1.00||
-|INVERTER_BOARD_605|For use with TLS starter when used with 605|1.00||
+|INVERTER_BOARD_610|For use with TLS starter when used with 610|1.00||

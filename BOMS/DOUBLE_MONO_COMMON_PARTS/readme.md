@@ -21,5 +21,4 @@
 |INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||
 |PMC_IMAC_CARD|Triple Motor Microstepping Drive Card|1.00||
 |TM300_C_PSU_IMAC|PSU for TMc Monochromators with IMAC Card|1.00||
-|TM300_TURRET|Grating Turret with 8mm Shaft|2.00||
 |TM300_MIRROR_ASSY|TM300 mirror assembly with protective cover.|4.00||

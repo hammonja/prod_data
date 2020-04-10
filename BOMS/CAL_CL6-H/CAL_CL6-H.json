@@ -10,5 +10,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "17357"
+    },
+    {
+        "description": "CAL_CL6-H Build Manual",
+        "location": "Issue A",
+        "quantity": "1.00",
+        "stockcode": "50092"
     }
 ]

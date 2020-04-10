@@ -4,8 +4,7 @@
 |13596-1|ND filter,   003 HN type,  12.7mm dia +0.00, -0.15|3.00||
 |13596-2|ND filter,   20 HN type,  12.7mm dia +0.00, -0.15|3.00||
 |13596-3|ND filter,   30 HN type,  12.7mm dia +0.00, -0.15|4.00||
-|17576|BIO-RAD grommet plate|1.00||
-|19001|M3 helicoil insert 1.5D|1.00||
+|46916|BIO-RAD Grommet Plate PSL Profiler|1.00||
 |19019|Sleeved Grommets (bag of 50)|1.00||
 |19150|M4 Ball ended Spring plunger (bag of 10)|1.00||
 |19266|'E' clip (pack of 100)|1.00||

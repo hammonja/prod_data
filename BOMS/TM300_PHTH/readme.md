@@ -13,8 +13,12 @@
 |11071_P1|252 6-Position Filter Wheel|1.00||
 |11123|M300 curved mirror mount|2.00||
 |11251|Plain mirror mount washer|1.00||
-|11292|O ring. Pack of 100 (book in to make total qty delivered)|2.00||
+|11292|O ring.( Pack of 100)|2.00||
 |11409|Concave mirror, 600mm radius (300mm focal length)|2.00||
+|UG5|UG5, 25mm dia. +0, -0.1mm. 3mm thick|1.00||
+|13578|GG420 filter|1.00||
+|13579|GG475 filter|1.00||
+|13580|OG570, 25mm dia x 3mm (upper tolerance on diameter 25.1mm)|1.00||
 |15064|NP 8.0/12.7/B/M3-M, M2.5-F|4.00||
 |15065|7mm M3 spacer|4.00||
 |15108|Pcb for slit limit assy|1.00||
@@ -57,10 +61,11 @@
 |42886|Solenoid shutter balde|1.00||
 |42888|50x50x3mm plain mirror (to 295nm)|1.00||
 |43831|Ninewells entrance snout|1.00||
-|DTMS300_SHUTTER|Shutter for DTMs300 (24V)|1.00||
+|50192|PHTH ROTARY SHUTTER|1.00||
 |IDR300_PSU|Linear supply for IDR300|1.00||
-|INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||
 |IMAC_CARD_BENTHAM_TMS|IMAC card for Bentham TMS monochromators|1.00||
+|INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||
+|OS400|Order Sorting Filter for Insertion at 400nm|1.00||
 |T324H0U25|68x84x6. 2400/250holog|1.00||
 |T612R0U4|90x90x16mm. 1200g/mm blazed at 400nm|1.00||
 |T612R0U5|90x90x16mm. 1200g/mm blazed at 500nm|1.00||

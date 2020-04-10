@@ -1,33 +1,9 @@
 [
     {
-        "description": "Fuse 315mA slow blow 20mm",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "01003"
-    },
-    {
-        "description": "4k75 MRS25",
-        "location": "Across capacitors",
-        "quantity": "2.00",
-        "stockcode": "02028"
-    },
-    {
         "description": "Neon indicator RED 200-250V",
         "location": "",
         "quantity": "1.00",
         "stockcode": "04040"
-    },
-    {
-        "description": "dc-dc, 10-30V in,  5V @ 600mA out",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "05024"
-    },
-    {
-        "description": "bridge",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "05027"
     },
     {
         "description": "Mains Switch",
@@ -42,12 +18,6 @@
         "stockcode": "07051"
     },
     {
-        "description": "Capacitor 4700 uF 35V",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "08098"
-    },
-    {
         "description": "Connector  64 way 2 rows",
         "location": "",
         "quantity": "1.00",
@@ -60,22 +30,16 @@
         "stockcode": "10161"
     },
     {
-        "description": "Mains filter",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10166"
-    },
-    {
-        "description": "Fuse holder panel mounting FPG2",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10186"
-    },
-    {
         "description": "Tyco 2 way housing",
         "location": "",
         "quantity": "1.00",
         "stockcode": "10221"
+    },
+    {
+        "description": "IP68 mini usb connector",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10292"
     },
     {
         "description": "Tyco 3 way housing",
@@ -90,22 +54,22 @@
         "stockcode": "10298"
     },
     {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
         "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
         "location": "",
         "quantity": "4.00",
         "stockcode": "15064"
     },
     {
-        "description": "20mm M3 Pillar (pack of 25)",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "15088"
-    },
-    {
-        "description": "Transformer 60VA. 15Vac, 15Vac (was Farnell 9530436)",
+        "description": "AC/DC Power Supply, Fixed, 2 Output, 90 V, 264 V, 42 W, 5 V",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "18058"
+        "stockcode": "18166"
     },
     {
         "description": "Rubber feet (pack of 36)",
@@ -118,12 +82,6 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "19105"
-    },
-    {
-        "description": "22mm capacitor clip",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "19142"
     },
     {
         "description": "Mains cable - British plug connector",
@@ -142,6 +100,12 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "27014P"
+    },
+    {
+        "description": "RSB_CONTROLLER_USB Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50143"
     },
     {
         "description": "USB to I2C Interface Board",

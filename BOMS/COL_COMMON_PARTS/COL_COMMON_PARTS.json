@@ -18,24 +18,6 @@
         "stockcode": "11215"
     },
     {
-        "description": "Fixed Slit Assembly with Circular Aperture (0.12mm Diameter)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "SA-FA(0.12)"
-    },
-    {
-        "description": "Fixed Slit Assembly with Circular Aperture (0.35mm Diameter)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "SA-FA(0.35)"
-    },
-    {
-        "description": "Fixed Slit Assembly with Circular Aperture (1.17mm Diameter)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "SA-FA(1.17)"
-    },
-    {
         "description": "Iris Diaphragm",
         "location": "",
         "quantity": "1.00",

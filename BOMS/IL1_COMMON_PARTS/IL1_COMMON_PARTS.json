@@ -12,10 +12,10 @@
         "stockcode": "10003"
     },
     {
-        "description": "Connector lamp holders",
+        "description": "6.35 Lamp Holder",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10042"
+        "stockcode": "10398"
     },
     {
         "description": "3 way cable socket",
@@ -28,12 +28,6 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "12012"
-    },
-    {
-        "description": "Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "13010"
     },
     {
         "description": "leadscrew Item 2",
@@ -120,10 +114,10 @@
         "stockcode": "18112"
     },
     {
-        "description": "M3X10 Spacer",
+        "description": "LAMP CONNECTOR HOLDER BRACKET",
         "location": "",
-        "quantity": "2.00",
-        "stockcode": "19011"
+        "quantity": "1.00",
+        "stockcode": "48223"
     },
     {
         "description": "Spacer Painted",

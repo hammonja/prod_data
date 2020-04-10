@@ -6,15 +6,21 @@
         "stockcode": "19024"
     },
     {
+        "description": "ILD_75E_QH_CHOP output plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43292"
+    },
+    {
         "description": "QH plus Nernst Dual Light Source Common Components",
         "location": "",
         "quantity": "1.00",
         "stockcode": "ILD-QH-IR-COMMON-PARTS"
     },
     {
-        "description": "ILD_75E_QH_CHOP output plate",
+        "description": "12V Solenoid.",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "43292"
+        "stockcode": "11249"
     }
 ]

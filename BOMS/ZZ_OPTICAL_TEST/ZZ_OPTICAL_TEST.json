@@ -1,9 +1,21 @@
 [
     {
+        "description": "Height Gauge 12\"/300mm  (Ref: HG1..)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10370"
+    },
+    {
         "description": "M300 Plain mirrors 30x25x3mm.  UV-AL coating",
         "location": "",
         "quantity": "2.00",
         "stockcode": "11025"
+    },
+    {
+        "description": "M3 inserts in slider (lead screw min. 5mm from end of track)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11042"
     },
     {
         "description": "Micrometer head Starrett 463ML",
@@ -16,6 +28,12 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "11122"
+    },
+    {
+        "description": "Unislide FF",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "11209"
     },
     {
         "description": "Pressure plate spring",

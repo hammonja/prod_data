@@ -1,5 +1,11 @@
 [
     {
+        "description": "2k2 MRS25",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02024"
+    },
+    {
         "description": "Red led",
         "location": "",
         "quantity": "1.00",
@@ -24,12 +30,6 @@
         "stockcode": "10095"
     },
     {
-        "description": "3 Way Cable Plug",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "10096"
-    },
-    {
         "description": "Black shrouded socket",
         "location": "",
         "quantity": "2.00",
@@ -42,15 +42,27 @@
         "stockcode": "10128"
     },
     {
-        "description": "55mm X 80mm X 120mm ABS IP65 box",
+        "description": "MODIFIED 41816 TO ADD HOLES",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "41816"
+        "stockcode": "41816-P2"
     },
     {
-        "description": "IS RELAY BOX (material 41816P)",
+        "description": "IS RELAY UNIT - BUILD MANUAL",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "44238"
+        "stockcode": "52067-BM"
+    },
+    {
+        "description": "IS RELAY UNIT - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52067-PL"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
     }
 ]

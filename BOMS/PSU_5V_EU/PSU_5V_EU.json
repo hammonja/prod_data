@@ -28,5 +28,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "23014"
+    },
+    {
+        "description": "PSU_5V_UK Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50121"
     }
 ]

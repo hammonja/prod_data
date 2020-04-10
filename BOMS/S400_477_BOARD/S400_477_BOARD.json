@@ -174,12 +174,6 @@
         "stockcode": "08117"
     },
     {
-        "description": "16 way bump polarised socket",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10007"
-    },
-    {
         "description": "Connector 8 way DIL socket",
         "location": "TC9,11",
         "quantity": "2.00",
@@ -190,12 +184,6 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "10031"
-    },
-    {
-        "description": "Chassis BNC",
-        "location": "",
-        "quantity": "3.00",
-        "stockcode": "10037"
     },
     {
         "description": "28-Way x 0.3\" DIL Socket",
@@ -226,12 +214,6 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "15033"
-    },
-    {
-        "description": "pcb  \" 267 FP \"",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "15056"
     },
     {
         "description": "AD549KH",

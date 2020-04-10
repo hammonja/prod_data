@@ -14,7 +14,7 @@
 |30153|Bearing O/D 19mm, I/D 6mm, THK 6mm|1.00||
 |30253|TMs300 Slit Bearing|1.00||
 |30303|TM300 turret opto spacer|2.00||
-|42540|Electro-magnet for arrestable chopper (was RS 346-069)|1.00||
+|42540-P1|Electro-magnet for Arrestable Chopper, Machined|1.00||
 |43392|Belt for TEL309|1.00||
 |43432_P1|20 slot chopping disc in 1mm CR4 Painted|1.00||
 |43702_P1|Arrestable chopper pole piece Painted|1.00||

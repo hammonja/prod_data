@@ -1,6 +1,5 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
-|19438|Painting of IDR300_HOUSING (Beige / Nextel)|1.00||
 |30322|DTMs300 Front L/H Outer Wall|1.00||
 |30323|DTMs300 Front R/H Outer Wall|1.00||
 |30326|DTMs300 Front L/H Inner Wall|1.00||
@@ -19,3 +18,4 @@
 |41015|TMs300 l/h front corner (make up to 200 off with 12,13 &14)|1.00||
 |42825|IDR300 floor plate|1.00||
 |42826|IDR300 back plate|1.00||
+|19438|Painting of IDR300_HOUSING (Oatmeal / Nextel)|1.00||

@@ -1,21 +1,33 @@
 [
     {
-        "description": "Lemo, 8 way, chassis socket, green",
+        "description": "Connector 25 Way 'D' Plug",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10288"
+        "stockcode": "10068"
+    },
+    {
+        "description": "25 Way Metal Case",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10082"
+    },
+    {
+        "description": "Connector 15 Way 'D' Plug",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10113"
+    },
+    {
+        "description": "Cable cover 15 way",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10171"
     },
     {
         "description": "Lemo, 8 way, cable plug, green",
         "location": "",
         "quantity": "1.00",
         "stockcode": "10289"
-    },
-    {
-        "description": "Stepping motor for FW in MDC150  (8425884 used for e2v)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "18132"
     },
     {
         "description": "Bosch 30mm Extrusion End Cap (each)",
@@ -162,12 +174,6 @@
         "stockcode": "45336"
     },
     {
-        "description": "UMS Collimator Sheet Cover - Left",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "45338"
-    },
-    {
         "description": "Spherical Mirror OD50.8 fl100",
         "location": "",
         "quantity": "1.00",
@@ -214,6 +220,12 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "45397"
+    },
+    {
+        "description": "MY4001 Stepper Motor",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45640"
     },
     {
         "description": "Filter Wheel for TM300_252_IMPERIAL",

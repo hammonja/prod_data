@@ -18,3 +18,4 @@
 |CAB17|Thin cable BNC to BNC cable, 1200mm overall length|1.00||
 |CAB3|HV-BNC to HV-BNC 1200mm long|1.00||
 |CAB7|Cable for chopper and cooled detectors (1.8m long)|1.00||
+|50388|DH_PBSE_TE Build Manual|1.00||

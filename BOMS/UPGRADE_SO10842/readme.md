@@ -21,4 +21,4 @@
 |43299|ILD_75E_QH_CHOP side plate|1.00||
 |43302|ILD_75E_QH_CHOP lamp plate|1.00||
 |43301_P1|ILD-75E-QH Connector Plate|1.00||
-|INVERTER_BOARD_605|For use with TLS starter when used with 605|1.00||
+|INVERTER_BOARD_610|For use with TLS starter when used with 610|1.00||

@@ -16,13 +16,12 @@
 |02235|39K, MRS25|1.00|R7|
 |02260|R47 aluminium housed wirewound HS10 series|1.00||
 |03008|1K .75W Cermet PCB mounting|1.00|R5|
-|03027|100K pot|1.00||
+|03022|100K .75 rectangular 20 turn|1.00||
 |04010|Zener diode 500MW 5.1V|1.00|D1|
 |05002|L78S12CV|1.00||
 |06014|N channel power MOSFET,VNP28N04 83W|1.00||
 |07004|Miniature toggle switch|1.00||
 |07033|ATE1D (CPS2)|1.00|SW1|
-|07034|Knob|1.00||
 |08019|Capacitor 100nF 50V Ceramic Disc Rad 5mm|1.00|Mod to 7812 regulator|
 |08044|Capacitor 100nF polyester 63/100V|5.00|C1, 2, 5, 6, 7|
 |08050|Capacitor 47uF 16V electrolytic|1.00|C8|
@@ -36,6 +35,7 @@
 |17578|CPS20M mount plate|1.00||
 |18019|Lascar DPM 125|1.00||
 |19002|screw lock female 8mm|2.00||
+|18161|BOURNS H-83P ADAPTOR, PANEL MOUNT|1.00||
 |19282|Heat Sink|1.00||
 |20034|TLC27L7CP|2.00|IC2, 3|
 |20058|REF01CP|1.00|IC1|

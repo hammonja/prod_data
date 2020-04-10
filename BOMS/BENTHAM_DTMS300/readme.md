@@ -3,10 +3,9 @@
 |01004|Fuse 1A slow blow 20mm|2.00||
 |04036|LED Green HLMP1503|1.00||
 |04052|Red LED with internal resistor|1.00||
-|10085|Connector  64 way 2 rows|1.00||
 |10167|IEC mains filter|1.00||
-|10221|Tyco 2 way housing|4.00||
-|10296|Tyco 3 way housing|5.00||
+|10221|Tyco 2 way housing|2.00||
+|10296|Tyco 3 way housing|2.00||
 |10298|Tyco 8 way housing|1.00||
 |15064|NP 8.0/12.7/B/M3-M, M2.5-F|4.00||
 |15083|M3 x 8mm Spacer Pillar|4.00||
@@ -32,7 +31,7 @@
 |42853|IDR300 base|1.00||
 |43070|IDR300 connector panel|1.00||
 |45214|Gasket for use with blanking plate 30472|2.00||
-|DTMS_SLIT_DRIVE|Slit drive assembly for DTMS monochromators|1.00||
+|52044|DTMS_SLIT-DRIVE-ASSY MK.2|1.00||
 |IDR300_HOUSING|Painted box with lid for IDR300|1.00||
 |IDR300_PSU|Linear supply for IDR300|1.00||
 |IMAC4_CARD|Four drive IMAC card|1.00||

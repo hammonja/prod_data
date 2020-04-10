@@ -22,5 +22,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "15077"
+    },
+    {
+        "description": "M3 Solder Tag (box of 100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99750"
     }
 ]

@@ -5,16 +5,16 @@
 |07050|Mains Switch|1.00||
 |07051|Actuator|1.00||
 |07055|T switch in series with Pelts. on E-box|2.00||
-|10142|Dust cap|1.00||
 |10096|3 Way Cable Plug|1.00||
-|10152|BS4343 Mains inlet|1.00||
+|10142|Dust cap|1.00||
 |10097|3 way cable socket|1.00||
+|10152|BS4343 Mains inlet|1.00||
 |10153|BS4343 Mains inlet free socket|1.00||
 |10186|Fuse holder panel mounting FPG2|1.00||
 |10292|IP68 mini usb connector|1.00||
 |10293|Sealing cap for mini usb connector|1.00||
 |10306|Right angle, re-wireable IEC socket|1.00||
-|10309|12 way through hole connector|1.00||
+|10027|Bulkhead 9 way socket (through hole)|1.00||
 |15051|PCB 225 spacer M3xM3x10|2.00||
 |15052|PCB 225 spacer M3xM3x15|2.00||
 |16098|Bentham Logo plate (silk screened)|1.00||
@@ -35,4 +35,3 @@
 |CAB_USB_1M|1m standard USB cable|1.00||
 |CAB_USB_MINI_3M|Mini usb cable 3m long|1.00||
 |CPS_E-MK4|Temperature Controller for Bentham Envirobox Systems|1.00||
-|EBOX_MONITOR_BOARD|HV and temerature monitor board for enviroboxes|1.00||

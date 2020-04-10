@@ -15,7 +15,12 @@
 |08034|Capacitor 100uF, 25V, electrolytic|1.00|C4|
 |08077|Capacitor 680N for use in DH-Py|2.00|C1, C3|
 |09005_P1|DH_PY Housing Painted|1.00||
-|09007|O ring.  Pack of 50|1.00||
+|09007|O ring 35.5x3 NITRILE 70 SHORE  Pack of 50|1.00||
 |10038|Amphenol  5-way socket|1.00||
 |15019|PCB DH-Py|1.00||
 |15051|PCB 225 spacer M3xM3x10|2.00||
+|48577|URETHANE BUMPERS OD 8mm ID 4mm LENGTH 28mm|4.00||
+|51011-BM|DY_PY BUILD MANUAL|1.00||
+|51011-PL|DY_PY PARTS LIST|1.00||
+|99232|M3 Plain Washer Stainless Steel|4.00||
+|99369|M3x40 SKT CAP HD STST A2|4.00||

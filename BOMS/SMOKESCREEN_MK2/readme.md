@@ -11,12 +11,12 @@
 |20002|PIC16F876A-I/SP|1.00||
 |27141|Smokescreen Tube Cover Bottom|1.00||
 |27142|Smokescreen Tube Cover Top|1.00||
-|27396|SmokeScreen CAA|1.00||
+|27396|SmokeScreen CAA ( Free Issue 99026 x 4 per 10 )|1.00||
+|99005|FL250 porous PTFE moulded rod. OD 32mm, length 1m|0.10||
 |27398|Sdetector / source light guide. Matl. 99910|2.00||
-|27401|MkII Smoke Screen Box Bottom|1.00||
-|27405F|MkII Smoke Screen Box Lid (Machined)|1.00||
-|27405P|MkII Smoke Screen Box Lid|1.00||
-|27406|Q14444 (artwork charge £44.98 on first order of iss. D)|1.00||
+|27401_M1|MKII Smoke Screen Box Bottom Machined|1.00||
+|27405_M1|MKII Smoke Screen Box Lid Machined|1.00||
+|27406|Q14444 (artwork charge Â£44.98 on first order of iss. D)|1.00||
 |99002|2mm x M2.5 plastic spacer|2.00||
 |99003|M2.5 x 6 tritap (pack of 100)|0.02|Pick 2 screws per unit|
 |SMOKESCREEN_BRD|Smokescreen electronics sub assembly|1.00||

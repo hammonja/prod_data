@@ -41,7 +41,7 @@
 |41113|Photometer Test Unit Filter Receptacle Pillars|3.00||
 |41114|Photometer Test Unit Lamp Back Plate|1.00||
 |41115|Photometer Test Unit Height Gauge Shouldered Screw|1.00||
-|43663|Magnet for EI sphere (box of 10)|0.20||
+|43663|Magnet for EI sphere (box of 10)|2.00||
 |45166|RS illuminance lens holder|1.00||
 |45170|RS lamp baffle support|1.00||
 |45171|RS lamp baffle support|1.00||

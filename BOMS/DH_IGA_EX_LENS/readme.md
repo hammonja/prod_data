@@ -7,7 +7,6 @@
 |12012|Rear lens tube - Item 2|1.00||
 |13291|Aspheric glass lens|1.00||
 |19024|Heyco cap 13mm (pack of 100)|1.00||
-|19420|Modification of 42527 for 3mm, un-cooled IGA|1.00||
 |19590|Mod of 09033 for 09150 detector|1.00||
 |42524|DH_IGA-Ex_Te_Boot Front Tube|1.00||
 |42525|DH_IGA-Ex_Te_Boot Back Tube|1.00||

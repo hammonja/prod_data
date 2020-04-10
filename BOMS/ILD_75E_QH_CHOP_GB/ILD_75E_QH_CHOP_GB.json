@@ -396,9 +396,9 @@
         "stockcode": "CAB9"
     },
     {
-        "description": "For use with TLS starter when used with 605",
+        "description": "For use with TLS starter when used with 610",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "INVERTER_BOARD_605"
+        "stockcode": "INVERTER_BOARD_610"
     }
 ]

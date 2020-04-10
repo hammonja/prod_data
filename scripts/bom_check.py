@@ -40,7 +40,7 @@ def update_git_bom(bom):
 		r = http.request('GET','https://raw.githubusercontent.com/hammonja/prod_data/master/BOMS/'+bom+'/'+fname )
 		with open(path+'/'+bom+'/'+fname, 'w') as out:					
 			print ('updating : '+bom)			
-			out.write(r.data.decode('utf-8'))		
+			out.write(r.data.decode())		
 	return
 	
 # get current boms from sage

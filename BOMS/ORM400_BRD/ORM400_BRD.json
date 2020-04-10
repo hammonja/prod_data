@@ -1,7 +1,7 @@
 [
     {
         "description": "220R MRS25",
-        "location": "R22, mod",
+        "location": "R22",
         "quantity": "1.00",
         "stockcode": "02015"
     },
@@ -192,13 +192,13 @@
         "stockcode": "10053"
     },
     {
-        "description": "connector 16-Way DIL socket",
+        "description": "connector 16-Way DIL socket (sold in packs of 10)",
         "location": "IC3,4,5,6,8",
         "quantity": "5.00",
         "stockcode": "10055"
     },
     {
-        "description": "connector 40-Way DIL socket",
+        "description": "Connector 40-Way DIL socket",
         "location": "",
         "quantity": "1.00",
         "stockcode": "10057"
@@ -274,5 +274,11 @@
         "location": "IC6",
         "quantity": "1.00",
         "stockcode": "21045"
+    },
+    {
+        "description": "ORM400_BRD BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51066-BM"
     }
 ]

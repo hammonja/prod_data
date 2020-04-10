@@ -12,12 +12,6 @@
         "stockcode": "13925"
     },
     {
-        "description": "PCB 225 spacer M3xM3x15",
-        "location": "Pairs screwed together",
-        "quantity": "8.00",
-        "stockcode": "15052"
-    },
-    {
         "description": "IL1 Lens tube",
         "location": "",
         "quantity": "1.00",
@@ -58,5 +52,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "46754"
+    },
+    {
+        "description": "Rear lens tube - Item 2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "12012"
     }
 ]

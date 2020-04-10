@@ -1,11 +1,5 @@
 [
     {
-        "description": "Fuse 5A slow blow",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "01008"
-    },
-    {
         "description": "820R, MRS25",
         "location": "",
         "quantity": "1.00",
@@ -60,10 +54,16 @@
         "stockcode": "07007"
     },
     {
-        "description": "Knob",
+        "description": "large cap, black with line to fit 21.5mm knob",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "07034"
+        "stockcode": "07013"
+    },
+    {
+        "description": "knob, blk without line to fit 1/4\" spindle ( pack of 10 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07057"
     },
     {
         "description": "Rocker switch",
@@ -84,16 +84,10 @@
         "stockcode": "08051"
     },
     {
-        "description": "Capacitor 22,000uF electrolytic",
+        "description": "Connector miniature tag strips",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "08100"
-    },
-    {
-        "description": "Vertical Mounting Clip for 30mm Capacitor",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "08114"
+        "stockcode": "10070"
     },
     {
         "description": "9 Way cable plug",
@@ -132,10 +126,10 @@
         "stockcode": "10355"
     },
     {
-        "description": "605 Rear panel bracket for bin",
+        "description": "Spacer NP 8.0/12.7/C/M3",
         "location": "",
         "quantity": "2.00",
-        "stockcode": "16008"
+        "stockcode": "15020"
     },
     {
         "description": "92mm Fan 12V dc",
@@ -166,12 +160,6 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "18144"
-    },
-    {
-        "description": "Rubber feet (pack of 36)",
-        "location": "",
-        "quantity": "4.00",
-        "stockcode": "19022"
     },
     {
         "description": "Laing 10W DDC-Pump 12V DDC-1T",
@@ -258,16 +246,22 @@
         "stockcode": "43349"
     },
     {
-        "description": "VC-TE-20 Cover Plate",
+        "description": "VC_TE_20 Build Manual",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "46822"
+        "stockcode": "50087"
     },
     {
         "description": "TO-220 Insulating Bush (pack of 10)Manual adjust stock",
         "location": "",
         "quantity": "8.00",
         "stockcode": "99024"
+    },
+    {
+        "description": "Crimp terminal for 07040 mains switch",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99029"
     },
     {
         "description": "6mm id, 1.5mm wall, platinum silicone (per metre)",

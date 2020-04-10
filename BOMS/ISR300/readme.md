@@ -9,7 +9,7 @@
 |10296|Tyco 3 way housing|4.00||
 |10298|Tyco 8 way housing|2.00||
 |15022|NP 8.0/25.4/B/M3-M, M2.5-F|4.00||
-|15098|M-F spacer, metal, M3 (Purchased in packs of 25)|4.00||
+|15083|M3 x 8mm Spacer Pillar|4.00||
 |19022|Rubber feet (pack of 36)|4.00||
 |19093|Dome Plug 9.5mm (pack of 25)|4.00||
 |19269|TMs300 'O' ring  (packs of 5)|3.00||
@@ -31,14 +31,12 @@
 |IDR300_PSU|Linear supply for IDR300|1.00||
 |IMAC_CARD_BENTHAM_TMS|IMAC card for Bentham TMS monochromators|1.00||
 |INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||
-|ISR_ELECTRONICS|Signal Processing Electronics for ISR|1.00||
+|ISR_ELECTRONICS_0002|ISR ELECTRONICS - 2 IMAC CARDS|1.00||
 |ISR300_HOUSING|ISR300 housing in EI powder coat|1.00||
 |TM300_F_D_MIRROR|TM300 Fixed entrance/exit Divert Mirror Kit|1.00||
 |TM300_MIRROR_ASSY|TM300 mirror assembly with protective cover.|2.00||
 |TM300_TURRET|Grating Turret with 8mm Shaft|1.00||
-|TMS_SLIT-DRIVE-ASSY|Slit drive assembly for TMS monochromators|1.00||
+|52043|TMS_SLIT-DRIVE-ASSY MK.2|1.00||
 |TMS_SLIT-LIMIT-ASSY|Slit limit assembly for TMS type monochromators|1.00||
-|TMS300_SAM|Sam for TMS  based monochromators|1.00||
-|TMS300_SLIT|TMS300 slit assembly|3.00||
 |TMS300_SLIT_COMMON_PARTS|TMS300 Slit Common Parts|3.00||
 |TMS300_SLIT_COVER|TMS300 Slit Covers Parts|1.00||

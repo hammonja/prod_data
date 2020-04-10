@@ -12,10 +12,8 @@
 |11367|MVSS2 Riser|1.00||
 |11388|MVSS PCB support (free issue 15038)|1.00| |
 |15071|Surface mount 15071 (MVSS pcb)|1.00||
-|17594|In house modification of 30118 for MVSS|1.00||
 |17666|9 way connector mounting block|1.00||
 |19002|screw lock female 8mm|2.00||
-|30118|Stepper motor.  Call-off.  Monthly drops of 70|1.00||
 |42731|Accent MVSS spindle (free issue 99903, 1 lenght per 5)|1.00||
 |42732|Accent MVSS thrust washer|1.00||
 |42734|Accent MVSS spindle sleeve|1.00||
@@ -23,3 +21,5 @@
 |MVSS_GEAR_1|Gear for use in MVSS|1.00||
 |MVSS_GEAR_2|Gear for use in MVSS|1.00||
 |MVSS_GEAR_3|Gear for use in MVSS|1.00||
+|30118-1|SanMotion EHR-6 AWG26 UL1430 unipolar cable harness|1.00||
+|30118-2-P1|MACHINED STEPPING MOTOR|1.00||

@@ -66,7 +66,7 @@
         "stockcode": "15038"
     },
     {
-        "description": "92mm fan finger gaurd",
+        "description": "92mm fan finger guard",
         "location": "",
         "quantity": "2.00",
         "stockcode": "18061"
@@ -112,18 +112,6 @@
         "location": "",
         "quantity": "3.00",
         "stockcode": "19330"
-    },
-    {
-        "description": "Drilling of 43307 for fit to ULS300 frame (drawing 43782)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "19536"
-    },
-    {
-        "description": "Cutting hole for time elapsed meter in 43311 (43783)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "19537"
     },
     {
         "description": "Reverse Jaw Plate for VSS & MVSS",
@@ -210,10 +198,10 @@
         "stockcode": "43306"
     },
     {
-        "description": "IL sun base plate",
+        "description": "ULS300 BASE",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "43307"
+        "stockcode": "43783"
     },
     {
         "description": "IL sun ellipse plate",
@@ -228,10 +216,10 @@
         "stockcode": "43310"
     },
     {
-        "description": "IL sun cover",
+        "description": "ULS300 LID",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "43311"
+        "stockcode": "43782"
     },
     {
         "description": "Standard micrometer operated variable slit",

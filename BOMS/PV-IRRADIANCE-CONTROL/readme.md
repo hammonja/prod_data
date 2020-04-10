@@ -1,15 +1,15 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
-|10113|Connector 15 Way 'D' Plug|1.00||
 |10171|Cable cover 15 way|1.00||
 |10288|Lemo, 8 way, chassis socket, green|1.00||
 |10289|Lemo, 8 way, cable plug, green|1.00||
 |11068|M300 fixed slit spring|1.00||
 |19046|PEM CLS-M3-2 self clinch fastener|2.00||
-|19486_M1|TEL309 Large Gear Machined|1.00||
+|19486_M2|Large Gear for ND Wheel|1.00||
 |19878|Stripbush, 838mm x 17.4mm|1.00||
 |30045_M2|Machined Timing Pulley|1.00||
 |30118|Stepper motor.  Call-off.  Monthly drops of 70|1.00||
+|30137|CHERRY - DB1C-A1RC - MICROSWITCH, ROLLER LEVER|1.00||
 |30253|TMs300 Slit Bearing|2.00||
 |43392|Belt for TEL309|1.00||
 |44234|Continuously variable ND filter ND 0-2|1.00||

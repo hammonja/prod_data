@@ -102,10 +102,10 @@
         "stockcode": "03008"
     },
     {
-        "description": "100k pot.  Conductive plastic.",
+        "description": "100K .75 rectangular 20 turn",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "03016"
+        "stockcode": "03022"
     },
     {
         "description": "Zener diode 500MW 5.1V",
@@ -136,12 +136,6 @@
         "location": "SW1",
         "quantity": "1.00",
         "stockcode": "07033"
-    },
-    {
-        "description": "Knob",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "07034"
     },
     {
         "description": "Rocker switch",
@@ -264,14 +258,20 @@
         "stockcode": "19002"
     },
     {
+        "description": "BOURNS H-83P ADAPTOR, PANEL MOUNT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18161"
+    },
+    {
         "description": "TLC27L7CP",
-        "location": "IC2, 3",
+        "location": "IC2, 3 (Please build in)",
         "quantity": "2.00",
         "stockcode": "20034"
     },
     {
         "description": "REF01CP",
-        "location": "IC1",
+        "location": "IC1 (Please build in)",
         "quantity": "1.00",
         "stockcode": "20058"
     }

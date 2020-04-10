@@ -18,7 +18,7 @@
 |43652|Edinburgh baffle pin|1.00||
 |43654|Edinburgh sphere handle|1.00||
 |43655|Edinburgh sphere filter plate|1.00||
-|43663|Magnet for EI sphere (box of 10)|0.70||
+|43663|Magnet for EI sphere (box of 10)|7.00||
 |43664|Edinburgh divert mirror|1.00||
 |43813|Edinburgh sphere reflectance piece (fi 20mm of 99005)|1.00||
 |EI_SPHERE_BFLECT|Benflect sphere parts for EI sphere|1.00||

@@ -12,6 +12,18 @@
         "stockcode": "10254"
     },
     {
+        "description": "White Heat Shrink Cable Marker, printed with F, Pack of  100",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10356"
+    },
+    {
+        "description": "White Heat Shrink Cable Marker,printed with M, Pack of  100",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10357"
+    },
+    {
         "description": "Spacer NP 8.0/12.7/C/M3",
         "location": "",
         "quantity": "12.00",
@@ -43,7 +55,7 @@
     },
     {
         "description": "LPM-CONTROL-BRDS Build Manual",
-        "location": "",
+        "location": "Issue B",
         "quantity": "1.00",
         "stockcode": "50008"
     },
@@ -52,5 +64,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "INTERFACE_USB-I2C"
+    },
+    {
+        "description": "BLACK HEATSHRINK TUBE 12/4mm i/d",
+        "location": "",
+        "quantity": "0.50",
+        "stockcode": "99601"
     }
 ]

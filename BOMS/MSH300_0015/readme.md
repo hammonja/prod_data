@@ -1,7 +1,6 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
 |30125|TM300 base cover|1.00||
-|11217|Slit Mounting Adaptor ( TOP HAT )|1.00||
 |CASTING_TM300_LOT|Casting for LOT TM300 monochromator|1.00||
 |GA-T306R1U25|Grating Assembly with 600g/mm, 1250nm Blazed Ruled Grating|1.00||
 |GA-T312R0U3|Grating Assembly with 1200g/mm, 300nm Blazed Ruled Grating|1.00||

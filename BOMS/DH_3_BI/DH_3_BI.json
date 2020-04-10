@@ -12,6 +12,12 @@
         "stockcode": "02048"
     },
     {
+        "description": "10M MRS25",
+        "location": "For MAGNETIC SHEILD",
+        "quantity": "1.00",
+        "stockcode": "02076"
+    },
+    {
         "description": "Capacitor 1nF, 300V, ceramic disc",
         "location": "",
         "quantity": "2.00",
@@ -72,6 +78,24 @@
         "stockcode": "10066"
     },
     {
+        "description": "socket black 2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10188"
+    },
+    {
+        "description": "Plug balck 2mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10215"
+    },
+    {
+        "description": "Pillar M4 X 16 Female - Female (pack of 25)",
+        "location": " ",
+        "quantity": "2.00",
+        "stockcode": "15069"
+    },
+    {
         "description": "DH3 Adapter plate",
         "location": "",
         "quantity": "1.00",
@@ -102,9 +126,51 @@
         "stockcode": "17155"
     },
     {
-        "description": "TMs300 SAM pillars. M4 x 20.",
-        "location": " ",
-        "quantity": "2.00",
-        "stockcode": "30246"
+        "description": "Split cylindrical magnetic shield for 52 mm dia pmt - 72 mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18175"
+    },
+    {
+        "description": "M2.5 x 8 pozi pan, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99021"
+    },
+    {
+        "description": "M4 Black Full Nut",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99350"
+    },
+    {
+        "description": "M4 x 12 Black Csk Pozi Drive",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99357"
+    },
+    {
+        "description": "M4 x 12 Black Socket Cap Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99359"
+    },
+    {
+        "description": "M4 x 25  SKT S/STEEL",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99579"
+    },
+    {
+        "description": "DH_3_BI - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52061-BM"
+    },
+    {
+        "description": "DH_3_BI - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52061-PL"
     }
 ]

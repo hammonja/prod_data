@@ -54,10 +54,10 @@
         "stockcode": "15022"
     },
     {
-        "description": "M-F spacer, metal, M3 (Purchased in packs of 25)",
+        "description": "M3 x 8mm Spacer Pillar",
         "location": "",
         "quantity": "4.00",
-        "stockcode": "15098"
+        "stockcode": "15083"
     },
     {
         "description": "Rubber feet (pack of 36)",
@@ -186,10 +186,10 @@
         "stockcode": "INTERFACE_USB-I2C"
     },
     {
-        "description": "Signal Processing Electronics for ISR",
+        "description": "ISR ELECTRONICS - 2 IMAC CARDS",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "ISR_ELECTRONICS"
+        "stockcode": "ISR_ELECTRONICS_0002"
     },
     {
         "description": "ISR300 housing in EI powder coat",
@@ -216,28 +216,16 @@
         "stockcode": "TM300_TURRET"
     },
     {
-        "description": "Slit drive assembly for TMS monochromators",
+        "description": "TMS_SLIT-DRIVE-ASSY MK.2",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "TMS_SLIT-DRIVE-ASSY"
+        "stockcode": "52043"
     },
     {
         "description": "Slit limit assembly for TMS type monochromators",
         "location": "",
         "quantity": "1.00",
         "stockcode": "TMS_SLIT-LIMIT-ASSY"
-    },
-    {
-        "description": "Sam for TMS  based monochromators",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "TMS300_SAM"
-    },
-    {
-        "description": "TMS300 slit assembly",
-        "location": "",
-        "quantity": "3.00",
-        "stockcode": "TMS300_SLIT"
     },
     {
         "description": "TMS300 Slit Common Parts",

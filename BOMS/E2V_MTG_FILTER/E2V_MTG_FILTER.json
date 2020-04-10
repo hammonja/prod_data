@@ -330,9 +330,9 @@
         "stockcode": "45066"
     },
     {
-        "description": "Single ND Filter Unit",
+        "description": "FW_ND_SNGLE fitted with 0-3_ND",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "FW_ND_SINGLE"
+        "stockcode": "FW_ND_SINGLE_0-3_ND"
     }
 ]

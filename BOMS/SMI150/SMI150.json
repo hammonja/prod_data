@@ -366,15 +366,9 @@
         "stockcode": "G303R0U5"
     },
     {
-        "description": "68x68x6. 1200/500",
+        "description": "For use with TLS starter when used with 610",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "G303R0U76"
-    },
-    {
-        "description": "For use with TLS starter when used with 605",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "INVERTER_BOARD_605"
+        "stockcode": "INVERTER_BOARD_610"
     }
 ]

@@ -11,3 +11,5 @@
 |43165_P1|KEMA UMS Connector Panel Painted|1.00||
 |43166|HV feed through|1.00||
 |UMS_MK1_COMMON_PARTS|UMS Mk1 Common Components|1.00||
+|11251|Plain mirror mount washer|1.00||
+|19004|Heyco 003 0347 black (Nylon foot)|3.00||

@@ -12,16 +12,16 @@
         "stockcode": "41359"
     },
     {
-        "description": "Sola system tank detector support bottom plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "41437"
-    },
-    {
         "description": "Sola system tank detector support front plate",
         "location": "",
         "quantity": "1.00",
         "stockcode": "41436"
+    },
+    {
+        "description": "Sola system tank detector support bottom plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "41437"
     },
     {
         "description": "Sola system tank detector support connection block",

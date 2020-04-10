@@ -14,12 +14,11 @@
 |03011|20K .5W Cermet PCB mounting|2.00|R13,R28|
 |03019|5K 25 Turn PCB mounting|1.00|R8|
 |04041|Voltage reference for 218 (LM336BZ-5.0)|1.00|D2|
-|05014|XP POWER - IL2405S - DC/DC CONVERTER, 2W 5V|1.00|DC1|
-|06005|BC 184 (was Farnell 1017657)|3.00|Q1,Q3,Q6|
+|06005|BC 184 MULTICOMP  BC237B  Bipolar (pk 5)|3.00|Q1,Q3,Q6|
 |06007|TIP110|1.00|Q2|
 |06016|LM358N|1.00|IC1|
 |07044|Relay|2.00|RL1,RL2|
-|08019|Capacitor 100nF 50V Ceramic Disc Rad 5mm|2.00|FIT TO REAR OF BOARD |
+|08019|Capacitor 100nF 50V Ceramic Disc Rad 5mm|2.00|Mods See Build Instructions|
 |08044|Capacitor 100nF polyester 63/100V|5.00|C1,C2,C4,C7,C11|
 |08047|Capacitor 22pF ceramic plate|2.00|C9,C10|
 |08050|Capacitor 47uF 16V electrolytic|1.00|C8|
@@ -33,3 +32,4 @@
 |20010|MAX541, 16 bit dac (MAX541BCPA)|1.00|IC6|
 |20015|PIC18F2550-1/SP|1.00|IC3, Do not fit - send with the board to test|
 |20029|LT1019CN8-5#PBF-ND|1.00|IC5|
+|50135|S400_418_BOARD Build Manual|1.00||

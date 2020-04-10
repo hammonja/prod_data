@@ -24,16 +24,16 @@
         "stockcode": "TMS_252_8"
     },
     {
-        "description": "UG5, 23mm dia. +0, -0.1mm. 1mm thick",
+        "description": "UG5, 25mm dia. +0, -0.1mm. 3mm thick",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "13932"
+        "stockcode": "UG5"
     },
     {
-        "description": "UG11, 23mm dia. +0, -0.1mm. 1mm thick",
+        "description": "UG11, 25mm dia. +0, -0.1mm. 3mm thick",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "13933"
+        "stockcode": "UG11"
     },
     {
         "description": "Order Sorting Filter for Insertion at 400nm (8 Slot Filter)",

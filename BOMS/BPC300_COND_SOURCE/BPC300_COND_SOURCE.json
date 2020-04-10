@@ -54,10 +54,10 @@
         "stockcode": "11266"
     },
     {
-        "description": "Iris diaphragm",
+        "description": "Iris Diaphragm",
         "location": "",
-        "quantity": "3.00",
-        "stockcode": "13070"
+        "quantity": "4.00",
+        "stockcode": "13068"
     },
     {
         "description": "218 Boss",
@@ -138,18 +138,6 @@
         "stockcode": "30164"
     },
     {
-        "description": "Sola system KG filter holder",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "41348"
-    },
-    {
-        "description": "Sola system KG filter holder retaining ring",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "41349"
-    },
-    {
         "description": "Sola system conditioning beam source iris wheel support",
         "location": "",
         "quantity": "1.00",
@@ -200,7 +188,7 @@
     {
         "description": "Sola system conditioning beam source iris lock ring",
         "location": "",
-        "quantity": "3.00",
+        "quantity": "4.00",
         "stockcode": "41423"
     },
     {
@@ -246,9 +234,21 @@
         "stockcode": "13947"
     },
     {
-        "description": "Schott WG345 25mm diameter, 2mm thick",
+        "description": "HOYA UV-34 25mm diameter, 2mm thick",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "13948"
+        "stockcode": "OS380"
+    },
+    {
+        "description": "BPC300 CONDITIONING SOURCE - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50212-BM"
+    },
+    {
+        "description": "BPC300 CONDITIONING SOURCE - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50212-PL"
     }
 ]

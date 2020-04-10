@@ -114,24 +114,6 @@
         "stockcode": "11054"
     },
     {
-        "description": "PCB PILLAR M4 16mm",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "15025"
-    },
-    {
-        "description": "Spacer NP 8.0/25/C/M4",
-        "location": "",
-        "quantity": "4.00",
-        "stockcode": "15028"
-    },
-    {
-        "description": "DH3/DH3(Bi) mu-metal shield",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17093"
-    },
-    {
         "description": "DH-50-Te fan plate",
         "location": "",
         "quantity": "1.00",
@@ -198,16 +180,10 @@
         "stockcode": "17974"
     },
     {
-        "description": "DH-50 connector plate",
+        "description": "PAINTED DH-50-Te CONNECTOR PLATE",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "17975F"
-    },
-    {
-        "description": "DH-50 connector plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17975P"
+        "stockcode": "17975-P1"
     },
     {
         "description": "DH-50-Te front insulation piece",
@@ -236,7 +212,7 @@
     {
         "description": "DH-50-Te insulation block",
         "location": "",
-        "quantity": "3.00",
+        "quantity": "2.00",
         "stockcode": "17980"
     },
     {
@@ -244,6 +220,12 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "17981"
+    },
+    {
+        "description": "INSULATION BLOCK  WITH GROVE IN THE TOP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17980-P1"
     },
     {
         "description": "DH-50-Te temperature fuse clamp",
@@ -262,6 +244,12 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "18080"
+    },
+    {
+        "description": "Split cylindrical magnetic shield for 52 mm dia pmt - 72 mm",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18175"
     },
     {
         "description": "Compression Spring",
@@ -330,16 +318,34 @@
         "stockcode": "40042"
     },
     {
-        "description": "\u00d812.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm",
+        "description": "Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm",
         "location": "",
         "quantity": "1.00",
         "stockcode": "46761"
     },
     {
-        "description": "\u00d812.7mm Post Holder, Hex-Locking Thbscrew, L=50 mm",
+        "description": "Ø12.7mm Post Holder, Hex-Locking Thbscrew, L=50 mm",
         "location": "",
         "quantity": "1.00",
         "stockcode": "46781"
+    },
+    {
+        "description": "MISUMI ROD 63mm L 8mm OD M4 TAPED B END- AETRS8-63-SC15",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "49201"
+    },
+    {
+        "description": "DH_50_BI - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52062-BM"
+    },
+    {
+        "description": "DH_50_BI - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52062-PL"
     },
     {
         "description": "Thin cable BNC to BNC cable, 1200mm overall length",

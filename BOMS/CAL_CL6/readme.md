@@ -12,6 +12,7 @@
 |17294|CL6 Cover|1.00||
 |18044|80mm fan finger guard|1.00||
 |18112|12V fan for CL6 etc|1.00||
+|22007|FOOT, PUSH-IN 7.2MM  BLACK|4.00||
 |27356|Cal lamp 8mm hole baffle (painted)|1.00||
 |27357_P1|CL6 Cal Lamp Clamp Tube|1.00||
 |CAB5|Lamp cable shrouded to bunch pin (1.8m long)|1.00||

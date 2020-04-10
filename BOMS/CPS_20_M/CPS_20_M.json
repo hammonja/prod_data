@@ -96,10 +96,10 @@
         "stockcode": "03008"
     },
     {
-        "description": "100K pot",
+        "description": "100K .75 rectangular 20 turn",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "03027"
+        "stockcode": "03022"
     },
     {
         "description": "Zener diode 500MW 5.1V",
@@ -130,12 +130,6 @@
         "location": "SW1",
         "quantity": "1.00",
         "stockcode": "07033"
-    },
-    {
-        "description": "Knob",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "07034"
     },
     {
         "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
@@ -214,6 +208,12 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "19002"
+    },
+    {
+        "description": "BOURNS H-83P ADAPTOR, PANEL MOUNT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18161"
     },
     {
         "description": "Heat Sink",

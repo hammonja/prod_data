@@ -12,3 +12,4 @@
 |43344|Ninewells sphere detector insulator|1.00||
 |50009|PHTH_SPHERE Build Manual|1.00||
 |PHTH_SPHERE_COMPONENTS|PHTH Sphere Components for Painting|1.00||
+|46731|PHTH Baffle|1.00||

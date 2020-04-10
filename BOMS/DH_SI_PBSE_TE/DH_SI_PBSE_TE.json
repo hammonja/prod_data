@@ -36,12 +36,6 @@
         "stockcode": "09007"
     },
     {
-        "description": "DH-SiPbS-Te Body 1",
-        "location": "Free issued to metal worker",
-        "quantity": "1.00",
-        "stockcode": "09023"
-    },
-    {
         "description": "DH-SiPbS-Te Body 2",
         "location": "",
         "quantity": "1.00",
@@ -96,7 +90,7 @@
         "stockcode": "19593"
     },
     {
-        "description": "Modification of 09023",
+        "description": "DH-SiPbS-Te Body 1 - 4 SLOTS",
         "location": "",
         "quantity": "1.00",
         "stockcode": "43878"

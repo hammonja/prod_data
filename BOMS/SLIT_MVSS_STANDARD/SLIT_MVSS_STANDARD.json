@@ -72,12 +72,6 @@
         "stockcode": "15071"
     },
     {
-        "description": "In house modification of 30118 for MVSS",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17594"
-    },
-    {
         "description": "9 way connector mounting block",
         "location": "",
         "quantity": "1.00",
@@ -88,12 +82,6 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "19002"
-    },
-    {
-        "description": "Stepper motor.  Call-off.  Monthly drops of 70",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "30118"
     },
     {
         "description": "Accent MVSS spindle (free issue 99903, 1 lenght per 5)",
@@ -136,5 +124,17 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "SLIT_BLOCK_5"
+    },
+    {
+        "description": "SanMotion EHR-6 AWG26 UL1430 unipolar cable harness",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118-1"
+    },
+    {
+        "description": "MACHINED STEPPING MOTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30118-2-P1"
     }
 ]

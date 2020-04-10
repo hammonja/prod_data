@@ -25,7 +25,7 @@
     },
     {
         "description": "10K MRS25",
-        "location": "R6, 18, 19 and 2 for chassis",
+        "location": "R6(check on board!), 18, 19 and 2 for chassis",
         "quantity": "5.00",
         "stockcode": "02033"
     },
@@ -102,10 +102,10 @@
         "stockcode": "03008"
     },
     {
-        "description": "100K pot",
+        "description": "100K .75 rectangular 20 turn",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "03027"
+        "stockcode": "03022"
     },
     {
         "description": "Zener diode 500MW 5.1V",
@@ -136,12 +136,6 @@
         "location": "SW1",
         "quantity": "1.00",
         "stockcode": "07033"
-    },
-    {
-        "description": "Knob",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "07034"
     },
     {
         "description": "Rocker switch",
@@ -267,13 +261,7 @@
         "description": "Heat sink for CPS50",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "17175F"
-    },
-    {
-        "description": "Heat sink for CPS50",
-        "location": "",
-        "quantity": "0.50",
-        "stockcode": "17175P"
+        "stockcode": "17175-P1"
     },
     {
         "description": "CPS2 Cover",
@@ -292,6 +280,12 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "18081"
+    },
+    {
+        "description": "BOURNS H-83P ADAPTOR, PANEL MOUNT",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18161"
     },
     {
         "description": "TLC27L7CP",

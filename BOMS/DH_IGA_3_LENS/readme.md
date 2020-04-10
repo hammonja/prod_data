@@ -11,4 +11,3 @@
 |42524|DH_IGA-Ex_Te_Boot Front Tube|1.00||
 |42525|DH_IGA-Ex_Te_Boot Back Tube|1.00||
 |42526|DH_IGA-Ex_Te_Boot Connector Plate|1.00||
-|42527|DH_IGA-Ex_Te_Boot Detector Mount Ring|1.00||

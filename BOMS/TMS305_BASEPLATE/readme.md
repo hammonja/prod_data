@@ -4,5 +4,6 @@
 |19347|Bosch 20mm extrusion end cap (each)|4.00||
 |19421|M6 taptite screw|4.00||
 |44096|TMS305 system base plate|1.00||
-|44100|TMS305 system base plate Bosch|2.00||
+|44100|TMS305 system base plate Bosch|1.00||
 |44101|Bosch 20x20, 4 channel x 380.5mm long|2.00||
+|44100-P1|MODIFIED 44100 TO HAVE A NOTCH CUT IN BOSH EXTRUSION|1.00||

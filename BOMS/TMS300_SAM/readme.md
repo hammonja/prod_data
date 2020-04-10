@@ -6,3 +6,4 @@
 |30244|TMs300 SAM mirror mount|1.00||
 |30246|TMs300 SAM pillars. M4 x 20.|3.00||
 |30297|TMs300 SAM support|1.00||
+|10221|Tyco 2 way housing|1.00||

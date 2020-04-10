@@ -12,15 +12,9 @@
         "stockcode": "05045"
     },
     {
-        "description": "Connector Isolated BNC",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10081"
-    },
-    {
         "description": "Connector thin signal BNC",
         "location": "Cable 900mm long",
-        "quantity": "2.00",
+        "quantity": "1.00",
         "stockcode": "10083"
     },
     {
@@ -90,22 +84,10 @@
         "stockcode": "19027"
     },
     {
-        "description": "450W Irem power supply",
-        "location": "Lamp power cable / leads uses FEC 4326957 &",
-        "quantity": "1.00",
-        "stockcode": "19028"
-    },
-    {
         "description": "Igniter for 450W lamp",
         "location": "FEC 4326969",
         "quantity": "1.00",
         "stockcode": "19029"
-    },
-    {
-        "description": "PEM CLS-M3-2 self clinch fastener",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "19046"
     },
     {
         "description": "Time Elapsed",
@@ -288,9 +270,15 @@
         "stockcode": "43830"
     },
     {
-        "description": "IREM cable cover",
+        "description": "Silicone wire, 32A, 1500Vac, Red",
+        "location": "1 metre per unit",
+        "quantity": "0.20",
+        "stockcode": "10050"
+    },
+    {
+        "description": "IL450Xe Traco Mounting Bar",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "43951"
+        "stockcode": "46990"
     }
 ]

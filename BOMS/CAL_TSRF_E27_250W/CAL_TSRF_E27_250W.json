@@ -1,14 +1,44 @@
 [
     {
+        "description": "Lampholder G6,35 with silicone lead 395mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13323"
+    },
+    {
         "description": "250W Grit Blasted Quartz-Halogen Lamp",
         "location": "",
         "quantity": "1.00",
         "stockcode": "17901"
     },
     {
-        "description": "Bulb Adapter E27 to GU5.3/5/MR16",
+        "description": "Polypropylene Case 225 x 200 x 70 for CL2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "25054"
+    },
+    {
+        "description": "TLF1800 lamp holder",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44024_P1"
+    },
+    {
+        "description": "E27 to GU5.3/5/MR16 Adapter",
         "location": "",
         "quantity": "1.00",
         "stockcode": "45348"
+    },
+    {
+        "description": "IS1000S CAL_TSRF_IS1000S Base Painted",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45471_P1"
+    },
+    {
+        "description": "CAL_TSRF_IS1000S Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50096"
     }
 ]

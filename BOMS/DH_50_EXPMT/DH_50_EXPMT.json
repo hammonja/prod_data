@@ -186,16 +186,10 @@
         "stockcode": "17974"
     },
     {
-        "description": "DH-50 connector plate",
+        "description": "PAINTED DH-50-Te CONNECTOR PLATE",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "17975F"
-    },
-    {
-        "description": "DH-50 connector plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17975P"
+        "stockcode": "17975-P1"
     },
     {
         "description": "DH-50-Te front insulation piece",
@@ -318,13 +312,13 @@
         "stockcode": "40042"
     },
     {
-        "description": "\u00d812.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm",
+        "description": "Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm",
         "location": "",
         "quantity": "1.00",
         "stockcode": "46761"
     },
     {
-        "description": "\u00d812.7mm Post Holder, Hex-Locking Thbscrew, L=50 mm",
+        "description": "Ø12.7mm Post Holder, Hex-Locking Thbscrew, L=50 mm",
         "location": "",
         "quantity": "1.00",
         "stockcode": "46781"

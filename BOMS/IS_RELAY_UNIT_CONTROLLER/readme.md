@@ -10,9 +10,9 @@
 |10297|Tyco 5 way housing|1.00||
 |10302|Tyco 8 way header with catch|2.00||
 |15020|Spacer NP 8.0/12.7/C/M3|4.00||
-|19112|Small round rubber feet (bag of 60)|4.00||
-|41816|55mm X 80mm X 120mm ABS IP65 box|1.00||
-|44239|IS RELAY CONTROLLER BOX (material 41816P)|1.00||
+|19112|Small round rubber feet (bag of 56)|4.00||
+|41816-P3|MODIFIED 41816 IS RELAY CONTROLLER BOX|1.00||
 |50032|IS_RELAY_UNIT_CONTROLLER Build Manual|1.00||
 |INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||
-|PSU_SMOKESCREEN_UK|Power supply for Smokscreen colorimeter UK plug|1.00||
+|18179|VEP08US05   AC/DC Power Supply 1 Output, 8 W, 5V , 1.6A|1.00||
+|18180|VEP PLUG UK|1.00||

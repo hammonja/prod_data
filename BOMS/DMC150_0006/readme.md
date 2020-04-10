@@ -13,3 +13,4 @@
 |SA-FSP(0.37)|Fixed Slit Assembly with Slit Plate (0.37mm width aperture)|3.00||
 |SA-FSP(1.85)|Fixed Slit Assembly with Slit Plate (1.85mm width aperture)|3.00||
 |SA-FSP(3.7)|Fixed Slit Assembly with Slit Plate (3.7mm width aperture)|3.00||
+|TM300_F_D_MIRROR|TM300 Fixed entrance/exit Divert Mirror Kit|1.00||

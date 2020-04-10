@@ -20,3 +20,5 @@
 |TM300_FILTER_DRIVE_PARTS|TM300 Filter Drive Chip Components|1.00||
 |TM300_SAM-ENTRANCE|Entrance sam for TM300 or TMc300|1.00||
 |TM300_SAM-EXIT|Exit sam for TM300 or TMc300|1.00||
+|TM300_TURRET_SUB|TM300 Subtractive Turret|1.00||
+|TM300_TURRET|Grating Turret with 8mm Shaft|1.00||

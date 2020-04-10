@@ -8,7 +8,7 @@
 |10135|Blue shrouded plug|1.00||
 |10222|Green shrouded plug (pack of 5)|1.00||
 |13066|Thumb screw M3 x 8 DYED BLACK|2.00||
-|15013|Spacer NS 06-M3|4.00||
+|15011|Spacer nylon Hex M3X11|4.00||
 |18040|Fan guard - 1|2.00||
 |18064|TLS starter|1.00||
 |18083|E2V filter holder|2.00||
@@ -34,4 +34,4 @@
 |E2V_SWING_MIRROR_SUB|SAM for E2V Filter Based Light Sources|1.00||
 |E2V_XE_SUB|Removable XE sub assembled for Filter Based Light Sources|1.00||
 |E2V-TAOSII-75MM-SPHERE|E2V-TAOSII-75MM-SPHERE|1.00||
-|INVERTER_BOARD_605|For use with TLS starter when used with 605|1.00||
+|INVERTER_BOARD_610|For use with TLS starter when used with 610|1.00||

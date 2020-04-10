@@ -90,7 +90,7 @@
         "stockcode": "09005_P1"
     },
     {
-        "description": "O ring.  Pack of 50",
+        "description": "O ring 35.5x3 NITRILE 70 SHORE  Pack of 50",
         "location": "",
         "quantity": "1.00",
         "stockcode": "09007"
@@ -112,5 +112,35 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "15051"
+    },
+    {
+        "description": "URETHANE BUMPERS OD 8mm ID 4mm LENGTH 28mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "48577"
+    },
+    {
+        "description": "DY_PY BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51011-BM"
+    },
+    {
+        "description": "DY_PY PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51011-PL"
+    },
+    {
+        "description": "M3 Plain Washer Stainless Steel",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99232"
+    },
+    {
+        "description": "M3x40 SKT CAP HD STST A2",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99369"
     }
 ]

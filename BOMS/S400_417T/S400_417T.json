@@ -102,28 +102,10 @@
         "stockcode": "16002"
     },
     {
-        "description": "605 Rear panel bracket for bin",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "16008"
-    },
-    {
-        "description": "Rear panel for narrow 200 series bin",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "16067"
-    },
-    {
         "description": "3HP BLANKING PLATE",
         "location": "",
         "quantity": "1.00",
         "stockcode": "16068"
-    },
-    {
-        "description": "417 Bin USB PCB support plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "16123"
     },
     {
         "description": "DPM for 217 (Lascar DPM 2000S)",
@@ -138,15 +120,9 @@
         "stockcode": "18066"
     },
     {
-        "description": "Rubber feet (pack of 36)",
-        "location": "",
-        "quantity": "4.00",
-        "stockcode": "19022"
-    },
-    {
         "description": "Threaded Insert 84HP Schroff units",
         "location": "",
-        "quantity": "2.00",
+        "quantity": "4.00",
         "stockcode": "22008"
     },
     {
@@ -156,10 +132,28 @@
         "stockcode": "22021"
     },
     {
-        "description": "Mod of end plate for 417 bin",
+        "description": "Threaded Insert for 63HP Schroff Bin",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22037"
+    },
+    {
+        "description": "Schroff Rail Type L-ST light, standard 63HP",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "22038"
+    },
+    {
+        "description": "417T Rear Panel",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "23054_2"
+        "stockcode": "45545"
+    },
+    {
+        "description": "USB Support Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46533"
     },
     {
         "description": "USB to I2C Interface Board",

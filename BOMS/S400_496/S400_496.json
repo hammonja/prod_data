@@ -24,16 +24,16 @@
         "stockcode": "10131"
     },
     {
-        "description": "Nut, 1/2\" x 28UNEF",
-        "location": "",
-        "quantity": "6.00",
-        "stockcode": "10344"
-    },
-    {
         "description": "BNC shorting Plug",
         "location": "",
         "quantity": "1.00",
         "stockcode": "10332"
+    },
+    {
+        "description": "Nut, 1/2\" x 28UNEF",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10344"
     },
     {
         "description": "2GB Micro SD Flash Memory Card (TS2GUSDC)",
@@ -82,5 +82,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "46046"
+    },
+    {
+        "description": "S400_496 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50077"
     }
 ]

@@ -30,10 +30,10 @@
         "stockcode": "08051"
     },
     {
-        "description": "Green laser pointer",
+        "description": "Red laser pointer module",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "09153"
+        "stockcode": "09176"
     },
     {
         "description": "PRO POWER - PV2 GROMMET PK 100 - GROMMET, 8MM, PK100",
@@ -42,16 +42,22 @@
         "stockcode": "10030"
     },
     {
-        "description": "12 Way Cable Plug",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "10159"
-    },
-    {
-        "description": "12 Way Chassis Socket",
+        "description": "3 way chassis socket",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10161"
+        "stockcode": "10095"
+    },
+    {
+        "description": "Black shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10127"
+    },
+    {
+        "description": "Red shrouded socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10128"
     },
     {
         "description": "Gatan spring",
@@ -102,6 +108,12 @@
         "stockcode": "13589"
     },
     {
+        "description": "Hoya 52mm HMC 81C screw in filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13590"
+    },
+    {
         "description": "Bentham Logo plate (silk screened)",
         "location": "",
         "quantity": "1.00",
@@ -138,9 +150,15 @@
         "stockcode": "19271"
     },
     {
-        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "description": "PHOTO_CAL_LIGHT-SOURCE filter case",
         "location": "",
         "quantity": "1.00",
+        "stockcode": "19289_M1"
+    },
+    {
+        "description": "Hole Inserts (Rivet 4-4.1mm Dia)",
+        "location": "",
+        "quantity": "4.00",
         "stockcode": "19305"
     },
     {
@@ -150,16 +168,10 @@
         "stockcode": "41100"
     },
     {
-        "description": "Photometer Test Unit Lamp Body Extrusion(free issue 41101P)",
+        "description": "Photometer Test Unit Lamp Body Extrusion (Machined)",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "41101F"
-    },
-    {
-        "description": "Photometer Test Unit Lamp Body Extrusion",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "41101P"
+        "stockcode": "41101_M1"
     },
     {
         "description": "Photometer Test Unit Lamp Support",
@@ -224,7 +236,7 @@
     {
         "description": "Magnet for EI sphere (box of 10)",
         "location": "",
-        "quantity": "0.20",
+        "quantity": "2.00",
         "stockcode": "43663"
     },
     {
@@ -262,5 +274,23 @@
         "location": "",
         "quantity": "0.40",
         "stockcode": "99097"
+    },
+    {
+        "description": "Lamp cable with shrouded at both ends (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB6"
+    },
+    {
+        "description": "Fan cable for CL6 etc (1.8m long)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB8"
+    },
+    {
+        "description": "Photo Cal Laser Holder Tube",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46890"
     }
 ]

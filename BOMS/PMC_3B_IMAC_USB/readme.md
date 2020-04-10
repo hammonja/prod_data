@@ -24,9 +24,11 @@
 |17320|CPS2 Cover|1.00||
 |18058|Transformer 60VA. 15Vac, 15Vac (was Farnell 9530436)|1.00||
 |19142|22mm capacitor clip|2.00||
+|19044|Female Screw Lock Assembly 13mm Long|2.00||
 |27329|PMC-MAC base plate|1.00||
 |27330|PMC-MAC power/mac card plate|1.00||
 |30337|DTMs300 USB PCB Pillars (fi 15100)|2.00||
 |43408|15 way blanking panel|1.00||
 |INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||
 |PMC_IMAC_CARD|Triple Motor Microstepping Drive Card|1.00||
+|99017|Rubber feet (pack of 100)|4.00||

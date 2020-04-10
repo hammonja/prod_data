@@ -228,10 +228,10 @@
         "stockcode": "45213"
     },
     {
-        "description": "Slit drive assembly for DTMS monochromators",
+        "description": "DTMS_SLIT-DRIVE-ASSY MK.2",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "DTMS_SLIT_DRIVE"
+        "stockcode": "52044"
     },
     {
         "description": "Housing for DTMS300 & DTMS301",

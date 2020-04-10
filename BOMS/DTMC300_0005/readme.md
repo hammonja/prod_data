@@ -21,3 +21,4 @@
 |TM300_F_D_MIRROR|TM300 Fixed entrance/exit Divert Mirror Kit|3.00||
 |TM300_FILTER_DRIVE_PARTS|TM300 Filter Drive Chip Components|1.00||
 |TM300_SAM-EXIT|Exit sam for TM300 or TMc300|1.00||
+|TM300_TURRET|Grating Turret with 8mm Shaft|2.00||

@@ -1,51 +1,9 @@
 [
     {
-        "description": "Fuse 5A slow blow",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "01008"
-    },
-    {
-        "description": "820R, MRS25",
+        "description": "LED Panel Mount Indicators PMI Blue 470nm 40mcd",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "02092"
-    },
-    {
-        "description": "Rhopoint PBV 0R1 0.5% (H1T 82QQ)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "02239"
-    },
-    {
-        "description": "100K pot",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "03027"
-    },
-    {
-        "description": "Green led",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "04001"
-    },
-    {
-        "description": "L78S12CV",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "05002"
-    },
-    {
-        "description": "TEN 5-1223 - CONVERTER, DC/DC, 5W, +/-15V 200mA",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "05033"
-    },
-    {
-        "description": "Big FET  STW45NM50",
-        "location": "",
-        "quantity": "5.00",
-        "stockcode": "06013"
+        "stockcode": "04062"
     },
     {
         "description": "Miniature toggle switch",
@@ -54,16 +12,22 @@
         "stockcode": "07004"
     },
     {
+        "description": "SPNO pins for pcb",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07006"
+    },
+    {
         "description": "Miniature toggle switch 2 pole 2 way DPDT",
         "location": "",
         "quantity": "1.00",
         "stockcode": "07007"
     },
     {
-        "description": "Knob",
+        "description": "Large cap, blk without line to fit 21.5mm knob (pack of 10)",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "07034"
+        "stockcode": "07037"
     },
     {
         "description": "Rocker switch",
@@ -72,28 +36,22 @@
         "stockcode": "07040"
     },
     {
+        "description": "knob, blk without line to fit 1/4\" spindle ( pack of 10 )",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "07057"
+    },
+    {
         "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
         "location": "",
-        "quantity": "2.00",
+        "quantity": "1.00",
         "stockcode": "08019"
     },
     {
-        "description": "Capacitor 330nF Polyester",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "08051"
-    },
-    {
-        "description": "Capacitor 22,000uF electrolytic",
+        "description": "Connector miniature tag strips",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "08100"
-    },
-    {
-        "description": "Vertical Mounting Clip for 30mm Capacitor",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "08114"
+        "stockcode": "10070"
     },
     {
         "description": "9 Way cable plug",
@@ -108,22 +66,22 @@
         "stockcode": "10141"
     },
     {
-        "description": "Screw Terminal Block (Unit of use is 0.2)",
-        "location": "Kit 2 per ",
-        "quantity": "0.40",
-        "stockcode": "10194"
-    },
-    {
-        "description": "Cable mounted socket",
+        "description": "Tyco 2 way housing",
         "location": "",
-        "quantity": "1.00",
-        "stockcode": "10241"
+        "quantity": "4.00",
+        "stockcode": "10221"
     },
     {
         "description": "Purge connector for TM300",
-        "location": " ",
+        "location": "",
         "quantity": "4.00",
         "stockcode": "10286"
+    },
+    {
+        "description": "Tyco 3 way housing",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10296"
     },
     {
         "description": "DC Power Connectors 4 PN PANEL MT POWER MINI DIN",
@@ -132,10 +90,46 @@
         "stockcode": "10355"
     },
     {
-        "description": "605 Rear panel bracket for bin",
+        "description": "14Way IDC Box Header Connector",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "10362"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "7mm M3 spacer",
         "location": "",
         "quantity": "2.00",
-        "stockcode": "16008"
+        "stockcode": "15065"
+    },
+    {
+        "description": "ARM STM32F4 Control Board Issue 3",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15127_M1"
+    },
+    {
+        "description": "VC-TE-30 Main Power PCB Assembly",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15131_M1"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: Encoders (Assembled)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15133_M1"
+    },
+    {
+        "description": "ARM 7x2 PCB adapter: NHD-0420CW-AB3 (Assembled)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15134_M1"
     },
     {
         "description": "92mm Fan 12V dc",
@@ -162,22 +156,16 @@
         "stockcode": "18109"
     },
     {
-        "description": "XP POWER  AHM180PS24  ADAPTOR, AC-DC, MEDICAL, 24V, 7.5A",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "18144"
-    },
-    {
         "description": "NHD-0420CW-AB3 4 lines x 20 character Blue OLED display",
         "location": "",
         "quantity": "1.00",
         "stockcode": "18145"
     },
     {
-        "description": "Rubber feet (pack of 36)",
+        "description": "XP POWER AHM150PS12  Plug In Adaptor Power Supply",
         "location": "",
-        "quantity": "4.00",
-        "stockcode": "19022"
+        "quantity": "1.00",
+        "stockcode": "18153"
     },
     {
         "description": "Laing 10W DDC-Pump 12V DDC-1T",
@@ -198,7 +186,7 @@
         "stockcode": "19415"
     },
     {
-        "description": "GTX M80        (dangerden.com)",
+        "description": "GTX M80",
         "location": "",
         "quantity": "1.00",
         "stockcode": "19463"
@@ -224,8 +212,14 @@
     {
         "description": "TM300 turret opto spacer",
         "location": "",
-        "quantity": "4.00",
+        "quantity": "3.00",
         "stockcode": "30303"
+    },
+    {
+        "description": "DTMs300 USB PCB Pillars (fi 15100)",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30337"
     },
     {
         "description": "MkII silencer",
@@ -246,10 +240,10 @@
         "stockcode": "43349"
     },
     {
-        "description": "610 Bezel",
+        "description": "5 Way Cable Mount Plug",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "46818"
+        "stockcode": "45638"
     },
     {
         "description": "VC-TE-30 Base Plate",
@@ -258,10 +252,10 @@
         "stockcode": "46823"
     },
     {
-        "description": "VC-TE-30 Front Panel",
+        "description": "VC_TE_30 Front Panel Assembled with Label",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "46824"
+        "stockcode": "46824_P1"
     },
     {
         "description": "VC-TE-30 Rear Panel",
@@ -270,27 +264,177 @@
         "stockcode": "46825"
     },
     {
-        "description": "TO-220 Insulating Bush (pack of 10)Manual adjust stock",
+        "description": "VC_TE_30 Build Manual",
         "location": "",
-        "quantity": "8.00",
-        "stockcode": "99024"
+        "quantity": "1.00",
+        "stockcode": "50088"
+    },
+    {
+        "description": "M2.5 x 10, pozi pan zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99069"
+    },
+    {
+        "description": "M2 Plain Zinc Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99075"
+    },
+    {
+        "description": "M3 x 16mm Socket Head Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99076"
+    },
+    {
+        "description": "M2.5 x 6 Black Socket Head. Must be good quality socket.",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99104"
+    },
+    {
+        "description": "M2.5 Zinc Full Nuts",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99115"
     },
     {
         "description": "6mm id, 1.5mm wall, platinum silicone (per metre)",
-        "location": "Kit 0.5m",
+        "location": "",
         "quantity": "0.50",
         "stockcode": "99116"
     },
     {
-        "description": "Loaded pcb for VC-TE-20",
+        "description": "M2.5 x 8, cap head, SS",
         "location": "",
-        "quantity": "1.00",
-        "stockcode": "VC_TE_30-PCB"
+        "quantity": "0.00",
+        "stockcode": "99119"
     },
     {
-        "description": "Heatsink for use in VC_TE_20",
+        "description": "M2.5 plain washer zinc",
         "location": "",
-        "quantity": "1.00",
-        "stockcode": "VC_TE_HEATSINK"
+        "quantity": "0.00",
+        "stockcode": "99125"
+    },
+    {
+        "description": "M3 x 10 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99154"
+    },
+    {
+        "description": "M3 x 4, pozi pan, zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99167"
+    },
+    {
+        "description": "M3 x 6 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99180"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "M3 Plain Zinc Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99256"
+    },
+    {
+        "description": "M3 Zinc Full Nuts",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99260"
+    },
+    {
+        "description": "M3 x 6 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99271"
+    },
+    {
+        "description": "M3 x 8 Zinc Pozi Pan Head",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99278"
+    },
+    {
+        "description": "M4 Black Full Nut",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99350"
+    },
+    {
+        "description": "M4 Black Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99351"
+    },
+    {
+        "description": "M4 Full Nut zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99401"
+    },
+    {
+        "description": "M4 Stainless Steel Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99451"
+    },
+    {
+        "description": "M4 x 16 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99453"
+    },
+    {
+        "description": "M4 x 16 button head black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99487"
+    },
+    {
+        "description": "M4 x 12 pozi pan zinc",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99506"
+    },
+    {
+        "description": "M8 full nuts, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99511"
+    },
+    {
+        "description": "M6 x 16 Sockect Button Head Black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99561"
+    },
+    {
+        "description": "M2 nuts SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99569"
+    },
+    {
+        "description": "M6 FULL NUT",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99580"
+    },
+    {
+        "description": "M2 x 8 Socket Head Cap Screw Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99929"
     }
 ]

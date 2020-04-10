@@ -5,7 +5,7 @@
 |05002|L78S12CV|1.00||
 |07004|Miniature toggle switch|1.00||
 |07014|Small Cap|1.00||
-|07026|Gold contact sub-miniature|1.00||
+|07006|SPNO pins for pcb|1.00||
 |07036|Knob small without line, 1/4"|1.00||
 |10031|Connector 12Way Molex Housing|1.00||
 |10034|7 way Amphenol socket|1.00||

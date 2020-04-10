@@ -2,8 +2,7 @@
 |---------|-----------|--------|--------|
 |02226|300R MRS25|1.00||
 |05045|IL_450_XE fan supply|1.00||
-|10081|Connector Isolated BNC|1.00||
-|10083|Connector thin signal BNC|2.00|Cable 900mm long|
+|10083|Connector thin signal BNC|1.00|Cable 900mm long|
 |10294|12 way chassis plug|1.00||
 |10295|12 way cable socket|1.00||
 |11250|M4 Ball ended grub screw ( free issue 99022)|1.00||
@@ -15,9 +14,7 @@
 |18080|Fan|2.00||
 |18128|Current transformer w/LOHET I sensor,57A|1.00||
 |19027|450W xenon lamp|1.00||
-|19028|450W Irem power supply|1.00|Lamp power cable / leads uses FEC 4326957 &|
 |19029|Igniter for 450W lamp|1.00|FEC 4326969|
-|19046|PEM CLS-M3-2 self clinch fastener|2.00||
 |19119|Time Elapsed|1.00||
 |19124_M2|Elipse for IL_450_XE|1.00||
 |19173|PLC-M3 self locking insert (Zygology Ltd)|3.00||
@@ -48,4 +45,5 @@
 |43606|IL450 baffle top|1.00||
 |43607|IL450 xe cover|1.00||
 |43830|IL450xe exit snout|1.00||
-|43951|IREM cable cover|1.00||
+|10050|Silicone wire, 32A, 1500Vac, Red|0.20|1 metre per unit|
+|46990|IL450Xe Traco Mounting Bar|1.00||

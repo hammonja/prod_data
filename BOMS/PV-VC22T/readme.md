@@ -13,8 +13,7 @@
 |43253|Chuck table pillar|4.00||
 |43286|PV water block plug|4.00||
 |43315|Vacuum hole covers|12.00||
-|43970F|All over gold plating (gold on nickel)|1.00||
-|43970P|Peltier cooled VC chuck 220x220 (un-plated)|1.00||
+|43970_P1|Gold Plated Peltier Cooled VC Chuck 220x220|1.00||
 |43971F|PV chuck plate (XL) painted|1.00||
 |43971P|PV chuck plate (XL) un-painted|1.00||
 |99274|M3 Belleville Washer|10.00||

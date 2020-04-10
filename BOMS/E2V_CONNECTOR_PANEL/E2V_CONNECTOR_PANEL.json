@@ -66,15 +66,21 @@
         "stockcode": "19046"
     },
     {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "19002"
+    },
+    {
         "description": "E2V connector plate",
         "location": "",
         "quantity": "1.00",
         "stockcode": "27115"
     },
     {
-        "description": "screw lock female 8mm",
+        "description": "4 PIN MINI-DIN BULKHEAD CONNECTOR",
         "location": "",
-        "quantity": "4.00",
-        "stockcode": "19002"
+        "quantity": "1.00",
+        "stockcode": "45976"
     }
 ]

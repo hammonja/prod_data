@@ -12,7 +12,6 @@
 |13075|SRS8 Window cover|1.00||
 |13097|SRS8 Lamp plate|1.00||
 |13105|Painted baffle for SRS8|1.00||
-|17904|50W Grit Blasted Quartz-Halogen Lamp|1.00||
 |19004|Heyco 003 0347 black (Nylon foot)|4.00||
 |46173_P1|SRS8 Sphere and End Plates|1.00||
 |CAB5|Lamp cable shrouded to bunch pin (1.8m long)|1.00||

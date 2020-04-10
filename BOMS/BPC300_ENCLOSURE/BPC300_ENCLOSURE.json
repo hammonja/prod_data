@@ -1,5 +1,17 @@
 [
     {
+        "description": "T switch in series with Pelts. on E-box",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "07055"
+    },
+    {
+        "description": "BNC earth tags for 10028",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10013"
+    },
+    {
         "description": "connector HV BNC (R316553)",
         "location": "",
         "quantity": "2.00",
@@ -12,16 +24,22 @@
         "stockcode": "10037"
     },
     {
-        "description": "25 way D socket + 3 x 20A connections",
+        "description": "3 Way Cable Plug",
         "location": "",
-        "quantity": "1.00",
-        "stockcode": "10211"
+        "quantity": "2.00",
+        "stockcode": "10096"
     },
     {
-        "description": "Socket straight Power 'D' 20A",
+        "description": "25 way D plug + 3 x 20A connections",
         "location": "",
-        "quantity": "3.00",
-        "stockcode": "10213"
+        "quantity": "1.00",
+        "stockcode": "10210"
+    },
+    {
+        "description": "20A Straight plug Power 'D'",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "10212"
     },
     {
         "description": "BPC300 Split Fibre",
@@ -30,9 +48,21 @@
         "stockcode": "12216"
     },
     {
+        "description": "screw lock female 8mm",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "19002"
+    },
+    {
+        "description": "BPC300 HEAT PUMP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19223"
+    },
+    {
         "description": "Bosch 6mm groove M4 'T' nut",
         "location": "",
-        "quantity": "13.00",
+        "quantity": "9.00",
         "stockcode": "19346"
     },
     {
@@ -42,22 +72,10 @@
         "stockcode": "19348"
     },
     {
-        "description": "ON/OFF 1/4\" Tap Machined",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "19349_M1"
-    },
-    {
         "description": "Sola system 1/8\" BSP straight stem conector",
         "location": "",
         "quantity": "4.00",
         "stockcode": "19350"
-    },
-    {
-        "description": "Sola system 1/4\" BSP straight stem conector",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "19351"
     },
     {
         "description": "Bosch 20mm profile metal hinge (pair)",
@@ -90,16 +108,16 @@
         "stockcode": "19421"
     },
     {
+        "description": "Nylon hose clip",
+        "location": "",
+        "quantity": "6.00",
+        "stockcode": "19566"
+    },
+    {
         "description": "Edinburgh Instruments TM300 Connector Panel",
         "location": "",
         "quantity": "1.00",
         "stockcode": "30194"
-    },
-    {
-        "description": "Sola System drainage tap mounting block",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "41347"
     },
     {
         "description": "Sola system sample chamber back wall",
@@ -168,13 +186,13 @@
         "stockcode": "41529"
     },
     {
-        "description": "Sola system sample chamber 2 slot side to side extrusion",
+        "description": "Sola system sample chamber 2 slot extrusion L740 20 X20",
         "location": "",
         "quantity": "1.00",
         "stockcode": "41530"
     },
     {
-        "description": "Sola system sample chamber 2 slot front to rear extrusion",
+        "description": "Sola system sample chamber 2 slot extrusion L340mm 20 x20",
         "location": "",
         "quantity": "2.00",
         "stockcode": "41531"
@@ -206,8 +224,14 @@
     {
         "description": "Bosch 20x20 2NVS (See Drawing)",
         "location": "",
-        "quantity": "2.00",
+        "quantity": "1.00",
         "stockcode": "46489"
+    },
+    {
+        "description": "BPC300 Enclosure Lid Side Bar",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46489-P1"
     },
     {
         "description": "Bosch 20x20 3N ; L = 740mm",
@@ -220,5 +244,125 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "46491"
+    },
+    {
+        "description": "BPC300 TWISTED LID STRAP",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46887"
+    },
+    {
+        "description": "BPC300 Enclosure",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50214-BM"
+    },
+    {
+        "description": "BPC300 Enclosure",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50214-PL"
+    },
+    {
+        "description": "Crimp 0.25 inch",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "99039"
+    },
+    {
+        "description": "MPD Series, 22 AWG, 16 AWG, 1.25 mm², Male Bullet",
+        "location": "",
+        "quantity": "5.00",
+        "stockcode": "99326"
+    },
+    {
+        "description": "M3 x 10, socket cap, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99048"
+    },
+    {
+        "description": "M3 x 8 Black cap head screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99183"
+    },
+    {
+        "description": "M3 Black Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99185"
+    },
+    {
+        "description": "6.3mm flag receptacle Insulating sleeve",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99201"
+    },
+    {
+        "description": "M3 Stainless Steel Full Nut",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99230"
+    },
+    {
+        "description": "M3 Plain Washer Stainless Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99232"
+    },
+    {
+        "description": "M3 x 6 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99244"
+    },
+    {
+        "description": "M3 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99247"
+    },
+    {
+        "description": "M3 x 20 cap head, SS",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99269"
+    },
+    {
+        "description": "6mm Spade Terminal - Female - Crimp - Right Angle",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99288"
+    },
+    {
+        "description": "FRD1-156, 22 AWG, 16 AWG, 1.25 mm², Female Bullet",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99325"
+    },
+    {
+        "description": "M4 Stainless Steel Plain Washer",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99451"
+    },
+    {
+        "description": "M4 x 10 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99454"
+    },
+    {
+        "description": "M4 x 12 Stainless Steel Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99458"
+    },
+    {
+        "description": "Bosch sealing profile",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19355"
     }
 ]

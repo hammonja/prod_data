@@ -84,13 +84,7 @@
         "stockcode": "04041"
     },
     {
-        "description": "XP POWER - IL2405S - DC/DC CONVERTER, 2W 5V",
-        "location": "DC1",
-        "quantity": "1.00",
-        "stockcode": "05014"
-    },
-    {
-        "description": "BC 184 (was Farnell 1017657)",
+        "description": "BC 184 MULTICOMP  BC237B  Bipolar (pk 5)",
         "location": "Q1,Q3,Q6",
         "quantity": "3.00",
         "stockcode": "06005"
@@ -115,7 +109,7 @@
     },
     {
         "description": "Capacitor 100nF 50V Ceramic Disc Rad 5mm",
-        "location": "FIT TO REAR OF BOARD ",
+        "location": "Mods See Build Instructions",
         "quantity": "2.00",
         "stockcode": "08019"
     },
@@ -196,5 +190,11 @@
         "location": "IC5",
         "quantity": "1.00",
         "stockcode": "20029"
+    },
+    {
+        "description": "S400_418_BOARD Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50135"
     }
 ]

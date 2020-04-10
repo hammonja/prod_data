@@ -246,12 +246,6 @@
         "stockcode": "22020"
     },
     {
-        "description": "USB Support Plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "46533"
-    },
-    {
         "description": "E2V-MSD-3 Build Manual",
         "location": "",
         "quantity": "1.00",
@@ -268,5 +262,17 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "PMC_IMAC_CARD_E2V"
+    },
+    {
+        "description": "MSD3 USB REAR MOUNTING BRACKET",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46877"
+    },
+    {
+        "description": "MSD3 USB PORT COVER",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46878"
     }
 ]

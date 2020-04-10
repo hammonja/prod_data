@@ -28,5 +28,17 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "46688_P1"
+    },
+    {
+        "description": "DTMC_UMS_BASE - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52030-PL"
+    },
+    {
+        "description": "DTMC_UMS_BASE - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52030-BM"
     }
 ]

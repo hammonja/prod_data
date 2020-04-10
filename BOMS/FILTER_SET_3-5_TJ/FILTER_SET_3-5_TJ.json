@@ -34,5 +34,11 @@
         "location": "",
         "quantity": "4.00",
         "stockcode": "42607"
+    },
+    {
+        "description": "FILTER_SET_3-5_TJ - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52071-BM"
     }
 ]

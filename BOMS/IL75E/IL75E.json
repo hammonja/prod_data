@@ -1,194 +1,20 @@
 [
     {
-        "description": "Black shrouded socket",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10127"
-    },
-    {
-        "description": "Red shrouded socket",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10128"
-    },
-    {
-        "description": "M300 Index blanking plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "11053"
-    },
-    {
-        "description": "Tension Spring 0.25\" Diameter x 2.5\" Long",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "11165"
-    },
-    {
-        "description": "M4 Ball ended grub screw ( free issue 99022)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "11250"
-    },
-    {
-        "description": "M3 Ball ended grub screw (99254 free issued)",
-        "location": "",
-        "quantity": "3.00",
-        "stockcode": "11260"
-    },
-    {
-        "description": "Spacer NP 8.0/25/C/M3",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "15021"
-    },
-    {
-        "description": "Spacer NP 8.0/12.7/B/M3",
-        "location": "",
-        "quantity": "4.00",
-        "stockcode": "15040"
-    },
-    {
-        "description": "EXLS Elipse Plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17327"
-    },
-    {
-        "description": "EXLS Anode connector",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17329"
-    },
-    {
-        "description": "EXLS Cathode connector",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17330"
-    },
-    {
-        "description": "Lid - IL75E",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17348"
-    },
-    {
-        "description": "Tube  IL75E",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17349"
-    },
-    {
-        "description": "IL75E base plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17350"
-    },
-    {
-        "description": "IL75E end plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17351"
-    },
-    {
-        "description": "IL75E side plates",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "17352"
-    },
-    {
-        "description": "IL75E end 2 plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17353"
-    },
-    {
-        "description": "IL75E lamp platform",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17354"
-    },
-    {
-        "description": "Side Panels MK2 EXLS",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "17403"
-    },
-    {
-        "description": "Fixed focus bar (make as matched pair with 17405)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17404"
-    },
-    {
-        "description": "Floating focus bar  (make as matched pair with 17404)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17405"
-    },
-    {
-        "description": "Dowel 5mm x 35mm (99902, 1.5 lengths per 20)",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "17409"
-    },
-    {
-        "description": "EXLS Z Adjuster Plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17673"
-    },
-    {
-        "description": "TLS starter",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "18064"
-    },
-    {
-        "description": "Heyco 003 0347 black (Nylon foot)",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "19004"
-    },
-    {
-        "description": "Elipsoidal reflector with AlMgF2",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "19124"
-    },
-    {
-        "description": "PLC-M3 self locking insert (Zygology Ltd)",
-        "location": "",
-        "quantity": "3.00",
-        "stockcode": "19173"
-    },
-    {
-        "description": "FSM150Xe adjuster spring",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "19345"
-    },
-    {
         "description": "Hamamatsu Xe lamp",
         "location": "",
         "quantity": "1.00",
         "stockcode": "19589"
     },
     {
-        "description": "Milling of slot in ellipse for Hamamatsu lamp seal",
+        "description": "IL75E Common parts",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "19611"
+        "stockcode": "IL75E_COMMON_PARTS"
     },
     {
-        "description": "Lamp cable with shrouded at both ends (1.8m long)",
+        "description": "IL75E BUILD MANUAL",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "CAB6"
-    },
-    {
-        "description": "For use with TLS starter when used with 605",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "INVERTER_BOARD_605"
+        "stockcode": "50272-BM"
     }
 ]

@@ -36,16 +36,16 @@
         "stockcode": "09007"
     },
     {
-        "description": "DH-SiPbS-Te Body 1",
+        "description": "DH_PBS_TE Front Plate",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "09023"
+        "stockcode": "44414"
     },
     {
-        "description": "DH-SiPbS-Te Body 2",
+        "description": "DH_PBS_TE Clamp Ring",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "09024"
+        "stockcode": "44415"
     },
     {
         "description": "DH-PbS-Te detector",

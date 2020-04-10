@@ -11,7 +11,7 @@
 |10296|Tyco 3 way housing|2.00||
 |15013|Spacer NS 06-M3|4.00||
 |15098|M-F spacer, metal, M3 (Purchased in packs of 25)|4.00||
-|19005|Beckman Bush|1.00||
+|18161|BOURNS H-83P ADAPTOR, PANEL MOUNT|1.00||
 |19093|Dome Plug 9.5mm (pack of 25)|1.00||
 |42828|DM150 internal electronics 487 cover|1.00||
 |42829|DM150 internal electronics bottom cover|1.00||

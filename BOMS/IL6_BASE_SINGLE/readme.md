@@ -20,3 +20,4 @@
 |19031_P1|Spacer Painted|8.00||
 |19046|PEM CLS-M3-2 self clinch fastener|8.00||
 |19086|Fastener self clinch M4|2.00||
+|52051-BM|IL6_LIGHT_SOURCES - BUILD MANUAL|1.00||

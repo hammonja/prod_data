@@ -12,16 +12,16 @@
         "stockcode": "10068"
     },
     {
-        "description": "Tyco 2 way housing",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10221"
-    },
-    {
         "description": "Connector 25 Way 'D' type socket",
         "location": "",
         "quantity": "1.00",
         "stockcode": "10087"
+    },
+    {
+        "description": "Tyco 2 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10221"
     },
     {
         "description": "3 way chassis plug",
@@ -132,10 +132,10 @@
         "stockcode": "46540"
     },
     {
-        "description": "6.3mm flag receptacle,0.75-2.3 sq.mm",
+        "description": "6mm Spade Terminal - Female - Crimp - Right Angle",
         "location": "",
         "quantity": "4.00",
-        "stockcode": "99199"
+        "stockcode": "99288"
     },
     {
         "description": "Mini usb cable 3m long",

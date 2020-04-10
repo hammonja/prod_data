@@ -12,4 +12,4 @@
 |41357|TMs300 shutter actuator cap (FI 99852, 3 lengths per 50 )|1.00||
 |41358|Shutter blade weight|1.00||
 |41932|EI Shutter PEEK Pad|1.00||
-|99006|Heat shrink for EI shutter|1.00||
+|99006|Heat shrink for EI shutter|0.50||

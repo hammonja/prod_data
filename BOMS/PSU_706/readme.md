@@ -1,6 +1,6 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
-|01009|Fuse 630mA (T)|2.00||
+|01007|Fuse 2A slow blow|2.00||
 |02066|30K, MRS25|1.00||
 |04012|6.8V Zener diode|1.00||
 |04054|12V, 1.3W zener (BZV85-C12)|1.00||
@@ -10,7 +10,7 @@
 |10128|Red shrouded socket|1.00||
 |10136|Blue shrouded socket|1.00||
 |15115|PSD185 for new deuterium lamp psu|1.00||
-|18117|FAN, 40X40X10MM, 12VDC, 7CFM, 27DBA|1.00||
+|45636|12V Axial Fan, 40x40x10, 8CFM|1.00||
 |18118|Finger guard for 40mm fan|1.00||
 |18134|XP power 100~200Vac 24Vdc 2.5A|1.00||
 |30303|TM300 turret opto spacer|4.00||

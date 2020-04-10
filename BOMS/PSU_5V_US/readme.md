@@ -5,3 +5,4 @@
 |18124|Power connector for ORM psu|1.00||
 |19019|Sleeved Grommets (bag of 50)|2.00||
 |23015|Mains Cable - American Plug Connector|1.00||
+|50419|PSU_5V_US Build Manual|1.00||

@@ -48,9 +48,15 @@
         "stockcode": "19093"
     },
     {
-        "description": "Modification of 09023",
+        "description": "DH-SiPbS-Te Body 1 - 4 SLOTS",
         "location": "",
         "quantity": "1.00",
         "stockcode": "43878"
+    },
+    {
+        "description": "DH_IGA-EX-3_TE - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50429-BM"
     }
 ]

@@ -12,40 +12,10 @@
         "stockcode": "13051"
     },
     {
-        "description": "IS4C FLANGE",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "13082"
-    },
-    {
-        "description": "IS4C TUBE",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "13083"
-    },
-    {
-        "description": "Painted DTR6 sphere with attachments",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "13086F"
-    },
-    {
-        "description": "DTR Sample Port",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "13087"
-    },
-    {
         "description": "DTR6 Sphere Reference",
         "location": "",
         "quantity": "1.00",
         "stockcode": "13089_P1"
-    },
-    {
-        "description": "Trap Port",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "13090"
     },
     {
         "description": "DTR6 White cover cap",
@@ -60,12 +30,6 @@
         "stockcode": "13095"
     },
     {
-        "description": "DTR ENTRANCE SAMPLE HOLDER",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "13112"
-    },
-    {
         "description": "SAMPLE SPRING LONG",
         "location": "",
         "quantity": "2.00",
@@ -78,15 +42,9 @@
         "stockcode": "13114"
     },
     {
-        "description": "DTR6 Reflectance Piece Blank",
+        "description": "DTR6 Sphere Painted",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "46644"
-    },
-    {
-        "description": "Machined sphere for DTR6",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "DTR6_SPHERE"
+        "stockcode": "50406-P1"
     }
 ]

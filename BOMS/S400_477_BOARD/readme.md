@@ -29,16 +29,13 @@
 |08064|Capacitor 470pF 63V film & foil 5mm|1.00|C12|
 |08095|CAPACITOR, DISC, 100V, 47PF|1.00|C9|
 |08117|20MHz crystal|1.00|XTAL|
-|10007|16 way bump polarised socket|1.00||
 |10014|Connector 8 way DIL socket|2.00|TC9,11|
 |10031|Connector 12Way Molex Housing|1.00||
-|10037|Chassis BNC|3.00||
 |10053|28-Way x 0.3" DIL Socket|1.00|IC1|
 |10055|connector 16-Way DIL socket|2.00|IC5,IC6|
 |10101|16 way boxed header|1.00|conn1|
 |10300|Tyco 3 way header with catch|2.00|I2C1 , I2C2|
 |15033|15004 issue 5 board|1.00||
-|15056|pcb  " 267 FP "|1.00||
 |20001|AD549KH|1.00|IC10|
 |20002|PIC16F876A-I/SP|1.00|IC1 (do not fit, to be programmed)|
 |20004|TLC372CP|1.00|IC9|

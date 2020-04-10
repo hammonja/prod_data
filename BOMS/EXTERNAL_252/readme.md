@@ -24,3 +24,4 @@
 |42421|Enclosed 252 Direct Monochromator Mounting Roller Switch Mnt|1.00||
 |42423|Enclosed 252 Direct Monochromator Mounting Filter Wheel Mod|1.00||
 |42523|TS Filter Wheel Motor Plate|1.00||
+|50207-BM|EXTERNAL_252 BUILD MANUAL|1.00||

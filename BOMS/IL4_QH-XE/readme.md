@@ -42,4 +42,4 @@
 |42531|Xenon 150W Reflector Bracket|1.00||
 |42718|IL4 top plate|1.00||
 |44361|IL7 starter cover box|1.00||
-|INVERTER_BOARD_605|For use with TLS starter when used with 605|1.00||
+|INVERTER_BOARD_610|For use with TLS starter when used with 610|1.00||

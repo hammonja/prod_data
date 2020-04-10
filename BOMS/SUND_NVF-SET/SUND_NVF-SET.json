@@ -1,18 +1,18 @@
 [
     {
-        "description": "Orange NV filter",
+        "description": "550 GY 25 Orange filter",
         "location": "",
         "quantity": "1.00",
         "stockcode": "13101"
     },
     {
-        "description": "Red NV filter",
+        "description": "RG645 Very deep red",
         "location": "",
         "quantity": "1.00",
         "stockcode": "13102"
     },
     {
-        "description": "Red NV filter",
+        "description": "RG715 Black passing IR to 2.7µm",
         "location": "",
         "quantity": "1.00",
         "stockcode": "13103"

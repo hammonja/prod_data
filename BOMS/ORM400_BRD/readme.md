@@ -1,6 +1,6 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
-|02015|220R MRS25|1.00|R22, mod|
+|02015|220R MRS25|1.00|R22|
 |02021|1K, MRS25|2.00|R34,R6|
 |02033|10K MRS25|9.00|R9,10,11,14,40 41,42,43,44|
 |02043|100K MRS25|1.00|R31|
@@ -32,8 +32,8 @@
 |08117|20MHz crystal|1.00|XTAL|
 |10014|Connector 8 way DIL socket|2.00|TC9,11|
 |10053|28-Way x 0.3" DIL Socket|1.00|IC1|
-|10055|connector 16-Way DIL socket|5.00|IC3,4,5,6,8|
-|10057|connector 40-Way DIL socket|1.00||
+|10055|connector 16-Way DIL socket (sold in packs of 10)|5.00|IC3,4,5,6,8|
+|10057|Connector 40-Way DIL socket|1.00||
 |10101|16 way boxed header|1.00|CONN1|
 |10300|Tyco 3 way header with catch|2.00|I2C1 , I2C2|
 |15004|15004 487 PCB issue 4|1.00||
@@ -46,3 +46,4 @@
 |21002|Texas 8 bit binary counter  SN74LS590N|2.00|IC3,IC4|
 |21033|DG409ACJ|1.00|IC5|
 |21045|IC DG413DJ|1.00|IC6|
+|51066-BM|ORM400_BRD BUILD MANUAL|1.00||

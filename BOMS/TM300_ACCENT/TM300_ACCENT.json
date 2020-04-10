@@ -216,15 +216,15 @@
         "stockcode": "CASTING_ACCENT"
     },
     {
-        "description": "Accent Motorised Slit",
+        "description": "Externally Tested Toho (accent) MVSS Free issued to Bentham",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "SLIT_MVSS_ACCENT"
+        "stockcode": "SLIT_MVSS_ACCENT_TESTED"
     },
     {
-        "description": "Grating Turret with 8mm Shaft",
+        "description": "TM300 Turret with score less than 15",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "TM300_TURRET"
+        "stockcode": "TM300_TURRET_ACCENT"
     }
 ]

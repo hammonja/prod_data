@@ -2,8 +2,14 @@
     {
         "description": "3 way chassis socket",
         "location": "",
-        "quantity": "2.00",
+        "quantity": "1.00",
         "stockcode": "10095"
+    },
+    {
+        "description": "3 way cable socket",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10097"
     },
     {
         "description": "Black shrouded socket",
@@ -30,10 +36,10 @@
         "stockcode": "11260"
     },
     {
-        "description": "Gatan spring",
+        "description": "FSM150Xe adjuster spring",
         "location": "",
         "quantity": "2.00",
-        "stockcode": "11280"
+        "stockcode": "19345"
     },
     {
         "description": "AM 1.5 filter (quote 1006402001-1)",
@@ -102,10 +108,10 @@
         "stockcode": "18061"
     },
     {
-        "description": "TLS starter",
+        "description": "Igniter for Xe and Hg lamps",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "18064"
+        "stockcode": "18052"
     },
     {
         "description": "Fan",
@@ -120,7 +126,7 @@
         "stockcode": "19124"
     },
     {
-        "description": "PLC-M3 self locking insert (Zygology Ltd)",
+        "description": "PLC-M3 self locking insert",
         "location": "",
         "quantity": "3.00",
         "stockcode": "19173"
@@ -276,9 +282,33 @@
         "stockcode": "CAB8"
     },
     {
-        "description": "For use with TLS starter when used with 605",
+        "description": "For use with TLS starter when used with 610",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "INVERTER_BOARD_605"
+        "stockcode": "INVERTER_BOARD_610"
+    },
+    {
+        "description": "Spacer NP 8.0/12.7/C/M3",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "15020"
+    },
+    {
+        "description": "Xenon Striker Isolater",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "15149"
+    },
+    {
+        "description": "M3 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99247"
+    },
+    {
+        "description": "Ferrite for TGK monochromator",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19539"
     }
 ]

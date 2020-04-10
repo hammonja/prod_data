@@ -23,6 +23,6 @@
 |22016|New shroff BIN|1.00||
 |22020|Schroff Rail Type L-ST light, standard|2.00||
 |44392|S400_417 back Panel Mk2|1.00||
-|INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||
 |46533|USB Support Plate|1.00||
+|INTERFACE_USB-I2C|USB to I2C Interface Board|1.00||
 |S200_217_CARD|Loaded pcb for 217 / 217T bin. All power requirements|1.00||

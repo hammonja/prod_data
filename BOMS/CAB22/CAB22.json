@@ -2,13 +2,7 @@
     {
         "description": "Connector thin signal BNC",
         "location": "Cable 250mm long",
-        "quantity": "1.00",
+        "quantity": "2.00",
         "stockcode": "10083"
-    },
-    {
-        "description": "SMA cable plug",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10202"
     }
 ]

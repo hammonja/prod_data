@@ -12,19 +12,37 @@
         "stockcode": "11225"
     },
     {
-        "description": "M3 Ball ended grub screw (99254 free issued)",
-        "location": "",
-        "quantity": "3.00",
-        "stockcode": "11260"
-    },
-    {
-        "description": "A8037-113 + Al/MgF2 (Off axis parabolic mirror)",
+        "description": "Parabolic Mirror Rfl=50.8 UV Enh",
         "location": "",
         "quantity": "1.00",
         "stockcode": "41225"
     },
     {
-        "description": "Ellipsoidal Mirror",
+        "description": "Collimator Aperture 0.5mm radius",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44494"
+    },
+    {
+        "description": "Collimator Aperture 1.0mm radius",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44495"
+    },
+    {
+        "description": "Collimator Aperture 2.0mm radius",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44496"
+    },
+    {
+        "description": "Collimator Aperture 3.0mm radius",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44497"
+    },
+    {
+        "description": "Ellipsoidal Mirror (mounted)",
         "location": "",
         "quantity": "1.00",
         "stockcode": "45300_M1"
@@ -34,12 +52,6 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "45303"
-    },
-    {
-        "description": "Collimator Mounting Plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "45305"
     },
     {
         "description": "Collimator Cover (no logo)",
@@ -54,10 +66,10 @@
         "stockcode": "45309"
     },
     {
-        "description": "Collimator Parabola Mount Plate",
+        "description": "Ellipsoid Mount Plate",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "45310"
+        "stockcode": "45312"
     },
     {
         "description": "Ellipsoid Kinematic Mount Plate",
@@ -66,28 +78,10 @@
         "stockcode": "45313"
     },
     {
-        "description": "Aperture Wheel",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "45314"
-    },
-    {
-        "description": "Collimator Wheel Mount Plate",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "45316"
-    },
-    {
         "description": "Collimator Aperture Block",
         "location": "",
         "quantity": "1.00",
         "stockcode": "45317"
-    },
-    {
-        "description": "Aperture Plate",
-        "location": "",
-        "quantity": "3.00",
-        "stockcode": "45318"
     },
     {
         "description": "Collimator Aperture Block Stand-off",
@@ -96,63 +90,93 @@
         "stockcode": "45319"
     },
     {
-        "description": "Collimator Aperture Wheel Cover",
+        "description": "Iris - Graduated C-Mount",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "45321"
+        "stockcode": "45347"
     },
     {
-        "description": "Oilite Bearing 5OD 3ID QM5-4",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "45322"
-    },
-    {
-        "description": "3mm Shaft 20mm",
+        "description": "Metal Cover",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "45323"
+        "stockcode": "45453"
     },
     {
-        "description": "Sprung PLunger M3",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "45324"
-    },
-    {
-        "description": "O-Ring 31.5X1.5N70",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "45325"
-    },
-    {
-        "description": "Dowel 3mm x 10mm",
-        "location": "",
-        "quantity": "4.00",
-        "stockcode": "45327"
-    },
-    {
-        "description": "O-Ring 17OD 1.5XS",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "45334"
-    },
-    {
-        "description": "Dowel M3 x 12mm",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "45387"
-    },
-    {
-        "description": "COL_3 Build Manual",
+        "description": "Collimator Aperture 0.115mm",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "50010"
+        "stockcode": "45458"
     },
     {
-        "description": "4-40 UNC x1/4\" Stainless Steel Counter Sunk Philips Screw",
+        "description": "Collimator Mount Plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45463"
+    },
+    {
+        "description": "C-mount to SM1 adapter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45467"
+    },
+    {
+        "description": "M3 BALL ENDED GRUB SCREW",
         "location": "",
         "quantity": "3.00",
-        "stockcode": "99700"
+        "stockcode": "45580"
+    },
+    {
+        "description": "M3 x 10 pozi, csk, black",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99155"
+    },
+    {
+        "description": "M3 x 16 Black Socket Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99161"
+    },
+    {
+        "description": "Yellow equipment wire,1.5sq.mm100m",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99178"
+    },
+    {
+        "description": "M3 x 6 Black Cap Head Screw",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99180"
+    },
+    {
+        "description": "4-40 UNC X 5/16 SOCKET CAP",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99708"
+    },
+    {
+        "description": "M3 x 12 CSK Pozi S/Steel",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99972"
+    },
+    {
+        "description": "Diff D7 Fovl  Bentham Logo sticker",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "46780_M1"
+    },
+    {
+        "description": "COL 3 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52001-BM"
+    },
+    {
+        "description": "COL 3 Parts List",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52001-PL"
     }
 ]

@@ -8,10 +8,10 @@
 |43650_P1|Edinburgh Sphere Baffle Post|1.00||
 |43651|Edinburgh Benflect baffle (1 off  99026 per 10)|1.00||
 |43654|Edinburgh sphere handle|1.00||
-|43663|Magnet for EI sphere (box of 10)|0.30||
+|43663|Magnet for EI sphere (box of 10)|3.00||
 |44046|Edinburgh sphere powder tray Mk 2|2.00||
 |44047|Edinburgh sphere reflectance piece (fi 150mm 99005 per 10)|1.00||
-|44335_P1|EI Benflect Sphere Shaft MK2|1.00||
+|44335|EI benflect sphere mirror arm mk2 PAINTED|1.00||
 |44336_P1|Edinburgh Sphere Sample Post|1.00||
 |44337|Edinburgh divert mirror MK2|1.00||
 |44338|EI benflect sphere MK2 (metal bottom)|1.00||

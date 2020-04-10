@@ -3,8 +3,7 @@
 |01004|Fuse 1A slow blow 20mm|2.00||
 |02262|MRS16 Resistor A/P,0.4W,1%,180R|4.00||
 |04036|LED Green HLMP1503|1.00||
-|04044|DELETED/OBSOLETED|2.00||
-|04048|Opto switch  HOA2001-001|2.00||
+|04048|Opto switch  HOA2001-001|4.00||
 |04052|Red LED with internal resistor|1.00||
 |10167|IEC mains filter|1.00||
 |10187|Crimps|3.00||
@@ -16,8 +15,8 @@
 |11251|Plain mirror mount washer|1.00||
 |11292|O ring. Pack of 100 (book in to make total qty delivered)|2.00||
 |11409|Concave mirror, 600mm radius (300mm focal length)|2.00||
-|13069|Scattered Light Rejection Filter, 270nm-380nm (UG11)|1.00||
-|13571|Scattered Light Rejection Filter, 230nm-405nm (UG5)|1.00||
+|UG11|UG11, 25mm dia. +0, -0.1mm. 3mm thick|1.00||
+|UG5|UG5, 25mm dia. +0, -0.1mm. 3mm thick|1.00||
 |13578|GG420 filter|1.00||
 |13579|GG475 filter|1.00||
 |13580|OG570, 25mm dia x 3mm (upper tolerance on diameter 25.1mm)|1.00||

@@ -61,5 +61,4 @@
 |43629|SMI slit screw|34.00||
 |FSP(1.0)|Fixed Slit Plate (1.00mm width aperture)|1.00||
 |G303R0U5|68x68x6. 300/500|1.00||
-|G303R0U76|68x68x6. 1200/500|1.00||
-|INVERTER_BOARD_605|For use with TLS starter when used with 605|1.00||
+|INVERTER_BOARD_610|For use with TLS starter when used with 610|1.00||

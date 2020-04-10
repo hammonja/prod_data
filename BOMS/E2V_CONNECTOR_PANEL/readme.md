@@ -11,5 +11,6 @@
 |10269|2.5mm panel socket (E2V)|1.00||
 |41674|UKAEA sphere fan baffle plate pillars (pack of 25)|6.00||
 |19046|PEM CLS-M3-2 self clinch fastener|2.00||
-|27115|E2V connector plate|1.00||
 |19002|screw lock female 8mm|4.00||
+|27115|E2V connector plate|1.00||
+|45976|4 PIN MINI-DIN BULKHEAD CONNECTOR|1.00||

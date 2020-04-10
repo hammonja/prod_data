@@ -242,7 +242,7 @@
     {
         "description": "Magnet for EI sphere (box of 10)",
         "location": "pick 4",
-        "quantity": "0.40",
+        "quantity": "4.00",
         "stockcode": "43663"
     },
     {
@@ -294,10 +294,10 @@
         "stockcode": "CAB8"
     },
     {
-        "description": "For use with TLS starter when used with 605",
+        "description": "For use with TLS starter when used with 610",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "INVERTER_BOARD_605"
+        "stockcode": "INVERTER_BOARD_610"
     },
     {
         "description": "Standard micrometer operated variable slit",

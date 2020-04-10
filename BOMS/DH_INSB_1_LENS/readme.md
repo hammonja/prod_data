@@ -1,7 +1,6 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
-|09149|Dewar cooled InSb, 1mm diameter|1.00||
-|10099|BNC barrel connector|1.00||
+|09184|InSb photovoltaic detector 1mm diameter|1.00||
 |42810|Lens,  31.5 dia,  60 f,  pvex,  CaF2|2.00||
 |42811|Amfax lens carrier|1.00||
 |42812|Amfax lens ring|2.00||

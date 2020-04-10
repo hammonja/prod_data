@@ -1,15 +1,15 @@
 [
     {
         "description": "7 way Amphenol plug",
-        "location": "",
+        "location": "build instructions in 218 SIFAM book",
         "quantity": "2.00",
         "stockcode": "10035"
     },
     {
-        "description": "4 core screened cable,7x0.2mm 100m",
+        "description": "8 core screened cable,7x0.2mm 100m",
         "location": "",
         "quantity": "0.02",
-        "stockcode": "99067"
+        "stockcode": "99063"
     },
     {
         "description": "H30 rubber sleeve (pack of 500)",

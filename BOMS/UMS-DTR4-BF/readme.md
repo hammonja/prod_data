@@ -15,11 +15,13 @@
 |41502|SAC DTR4 sphere cladding front input plate|1.00||
 |41503|SAC DTR4 sphere cladding front output plate|1.00||
 |41504|SAC DTR4 sphere cladding top plate|1.00||
-|41505|SAC DTR4 front port plug|1.00||
-|41506|SAC DTR4 rear port plug|1.00||
+|41505-P1|SAC DTR4 front port plug|1.00||
+|41506-P1|SAC DTR4 rear port plug|1.00||
 |41507|SAC DTR4 sphere support plate|1.00||
 |41508|SAC DTR4 sphere support collar|1.00||
 |41509|SAC DTR4 sphere support pillar|1.00||
 |41511|SAC DTR4 clamp support block|1.00||
+|43157|UMS carrier (was 146-1365)|1.00||
 |46690|DTR4 Sphere Benflect Parts-fi 19520 x 2 per|1.00||
-|99951_M1|In-House Machining Operation|4.00||
+|99951_M1|Machined M3 Studding|4.00||
+|99268|No 4 x 10mm, pozi pan, self tap, black|10.00||

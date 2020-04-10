@@ -6,3 +6,4 @@
 |27246|Diffuser P.T.F.E insert 2mm (200-1100nm)|1.00||
 |41707|Quartz dome 1 inch diameter (Polished all over)|1.00||
 |43288|Diffuser body, SMA & ENV|1.00|Seal holes for dryer tubes|
+|42022|D6-Enviro Purge Tubes|2.00||

@@ -168,16 +168,16 @@
         "stockcode": "30038_P1"
     },
     {
-        "description": "GDAY 035 X20 B21 (24V)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "30043"
-    },
-    {
         "description": "SAM2 mirror cover",
         "location": "",
         "quantity": "1.00",
         "stockcode": "30039"
+    },
+    {
+        "description": "GDAY 035 X20 B21 (24V)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "30043"
     },
     {
         "description": "Opto disc with paddle",
@@ -420,10 +420,10 @@
         "stockcode": "TM300_TURRET"
     },
     {
-        "description": "Slit drive assembly for TMS monochromators",
+        "description": "TMS_SLIT-DRIVE-ASSY MK.2",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "TMS_SLIT-DRIVE-ASSY"
+        "stockcode": "52043"
     },
     {
         "description": "Slit limit assembly for TMS type monochromators",

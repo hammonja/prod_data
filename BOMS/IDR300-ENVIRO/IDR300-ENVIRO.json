@@ -384,10 +384,10 @@
         "stockcode": "45214"
     },
     {
-        "description": "Slit drive assembly for DTMS monochromators",
+        "description": "DTMS_SLIT-DRIVE-ASSY MK.2",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "DTMS_SLIT_DRIVE"
+        "stockcode": "52044"
     },
     {
         "description": "Signal processing electronics for IDR with EBOX monitor",

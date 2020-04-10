@@ -7,4 +7,4 @@
 |18110|Single primary 30VA transformer|1.00||
 |19022|Rubber feet (pack of 36)|4.00||
 |22035|Box for 474 (painted)|1.00||
-|99132|16 swg copper wire for 474|1.00||
+|99132|16 swg copper wire for 474|0.30||

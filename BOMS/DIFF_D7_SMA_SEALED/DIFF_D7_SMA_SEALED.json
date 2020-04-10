@@ -34,5 +34,11 @@
         "location": "Seal holes for dryer tubes",
         "quantity": "1.00",
         "stockcode": "43288"
+    },
+    {
+        "description": "D6-Enviro Purge Tubes",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "42022"
     }
 ]

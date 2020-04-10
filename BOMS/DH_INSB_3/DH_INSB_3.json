@@ -1,9 +1,9 @@
 [
     {
-        "description": "Detector for DH_INSB_3",
+        "description": "InSb photovoltaic detector 3mm diameter",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "09008"
+        "stockcode": "09183"
     },
     {
         "description": "BNC barrel connector",
@@ -22,5 +22,17 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "CAB17"
+    },
+    {
+        "description": "DH_INSB_3 WIRING DIAGRAM - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52023-BM"
+    },
+    {
+        "description": "Connector thin signal BNC",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10083"
     }
 ]

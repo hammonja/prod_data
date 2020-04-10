@@ -118,5 +118,11 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "19086"
+    },
+    {
+        "description": "IL6_LIGHT_SOURCES - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52051-BM"
     }
 ]

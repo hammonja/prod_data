@@ -30,28 +30,28 @@
         "stockcode": "07055"
     },
     {
-        "description": "Dust cap",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10142"
-    },
-    {
         "description": "3 Way Cable Plug",
         "location": "",
         "quantity": "1.00",
         "stockcode": "10096"
     },
     {
-        "description": "BS4343 Mains inlet",
+        "description": "Dust cap",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10152"
+        "stockcode": "10142"
     },
     {
         "description": "3 way cable socket",
         "location": "",
         "quantity": "1.00",
         "stockcode": "10097"
+    },
+    {
+        "description": "BS4343 Mains inlet",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10152"
     },
     {
         "description": "BS4343 Mains inlet free socket",
@@ -84,10 +84,10 @@
         "stockcode": "10306"
     },
     {
-        "description": "12 way through hole connector",
+        "description": "Bulkhead 9 way socket (through hole)",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10309"
+        "stockcode": "10027"
     },
     {
         "description": "PCB 225 spacer M3xM3x10",
@@ -208,11 +208,5 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "CPS_E-MK4"
-    },
-    {
-        "description": "HV and temerature monitor board for enviroboxes",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "EBOX_MONITOR_BOARD"
     }
 ]

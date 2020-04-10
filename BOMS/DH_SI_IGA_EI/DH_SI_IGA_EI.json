@@ -34,5 +34,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "44168"
+    },
+    {
+        "description": "Build Instructions for DH_SI_IGA_EI",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50109"
     }
 ]

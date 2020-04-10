@@ -16,5 +16,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "FD43X_INGAAS_EX_TE"
+    },
+    {
+        "description": "Interface for FD43X detector cameras to USB",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "FD43X-CAM-USB"
     }
 ]

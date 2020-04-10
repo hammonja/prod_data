@@ -28,5 +28,17 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "40042"
+    },
+    {
+        "description": "ILD_QC_SOCKET - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52036-PL"
+    },
+    {
+        "description": "ILD_QC_SOCKET - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52036-BM"
     }
 ]

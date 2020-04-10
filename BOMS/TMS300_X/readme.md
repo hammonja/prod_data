@@ -49,7 +49,7 @@
 |PMC_IMAC_CARD_TMS|IMAC card for TMS300 monochromator|1.00||
 |GA-T318H0U25|Grating Assembly with 1800g/mm, 250nm Blazed Holog Grating|1.00||
 |TM300_TURRET|Grating Turret with 8mm Shaft|1.00||
-|TMS_SLIT-DRIVE-ASSY|Slit drive assembly for TMS monochromators|1.00||
+|52043|TMS_SLIT-DRIVE-ASSY MK.2|1.00||
 |TMS_SLIT-LIMIT-ASSY|Slit limit assembly for TMS type monochromators|1.00||
 |TMS300_HOUSING|Housing for TMS300 & TMS301|1.00||
 |TMS300_SLIT|TMS300 slit assembly|3.00||

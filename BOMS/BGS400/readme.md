@@ -5,3 +5,5 @@
 |BGS400_DRIVE_UNIT|Incomplete BOM / Contact R&D|1.00||
 |BGS400_LAMP_DRIVE_UNIT|BGS400 Lamp Drive Unit|1.00||
 |BGS400_LAMP_SUPPORT|BGS400 Lamp Support Assembly|1.00||
+|ORM400|ORM.  Sensitivity Ranges as 487|1.00||
+|09026|Detector for DH400_VL|1.00||

@@ -1,5 +1,17 @@
 [
     {
+        "description": "SOCKET, 4MM, SHROUDED, BLACK, PK5 , SPADE CONNECTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10366"
+    },
+    {
+        "description": "SOCKET, 4MM, SHROUDED, RED, PK5  , SPADE CONNECTOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10367"
+    },
+    {
         "description": "Hg-Cal PLATE",
         "location": "",
         "quantity": "1.00",
@@ -24,39 +36,75 @@
         "stockcode": "17283"
     },
     {
-        "description": "Hg-Cal PILLAR",
+        "description": "MODIFIED MISUMI SPLIT COLLAR 11.2 ID",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "48267-P1"
+    },
+    {
+        "description": "STST TJICK WALL TUBE 8mmOD 4mmID 40mm LONG MISUMI PSTS8-40",
         "location": "",
         "quantity": "2.00",
-        "stockcode": "17284"
+        "stockcode": "48270"
     },
     {
-        "description": "Sleeved Grommets (bag of 50)",
+        "description": "M3 x 6 Black Cap Head Screw",
         "location": "",
-        "quantity": "1.00",
-        "stockcode": "19019"
+        "quantity": "0.00",
+        "stockcode": "99180"
     },
     {
-        "description": "Low Presssure Hg Lamp",
+        "description": "M3 Black Washer",
         "location": "",
-        "quantity": "1.00",
-        "stockcode": "19100"
+        "quantity": "0.00",
+        "stockcode": "99185"
     },
     {
-        "description": "P clip 6.4mm",
+        "description": "M3 x 35 Black Socket Cap Head",
         "location": "",
-        "quantity": "1.00",
-        "stockcode": "19101"
+        "quantity": "0.00",
+        "stockcode": "99187"
     },
     {
-        "description": "E27 Lampholder",
+        "description": "M3 x 8 Black Socket Button Head",
         "location": "",
-        "quantity": "1.00",
-        "stockcode": "19102"
+        "quantity": "0.00",
+        "stockcode": "99252"
     },
     {
-        "description": "Flying lead with IEC plug",
+        "description": "LAMP ASSY,LOW NOISE,11SD-1.00-AO-13G-800",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "19103"
+        "stockcode": "AJ-90-1010-01"
+    },
+    {
+        "description": "Black plug shielded 90 degree",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10243"
+    },
+    {
+        "description": "Red shrouded plug 90 degrees",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10242"
+    },
+    {
+        "description": "UVP PenRay® Power Supply,PS-1,230V/50-60Hz",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "AJ-99-0055-02"
+    },
+    {
+        "description": "CAL_CL-HG BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51027-BM"
+    },
+    {
+        "description": "CAL_CL-HG PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "51027-PL"
     }
 ]

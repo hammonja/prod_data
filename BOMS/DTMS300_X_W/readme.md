@@ -44,7 +44,7 @@
 |41023|TMs300 slit support cover plate|4.00||
 |45213|Gasket for use with blanking plate 30270|2.00||
 |45214|Gasket for use with blanking plate 30472|2.00||
-|DTMS_SLIT_DRIVE|Slit drive assembly for DTMS monochromators|1.00||
+|52044|DTMS_SLIT-DRIVE-ASSY MK.2|1.00||
 |DTMS300_HOUSING|Housing for DTMS300 & DTMS301|1.00||
 |DTMS300_SHUTTER|Shutter for DTMs300 (24V)|1.00||
 |FARADAY_CAGE|Faraday cage for usb board|1.00||

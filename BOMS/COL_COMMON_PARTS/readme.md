@@ -3,9 +3,6 @@
 |11083|Fixed slit block MkII|1.00||
 |11085|Fixed slit lid MkII|1.00||
 |11215|Lens retaining ring|4.00||
-|SA-FA(0.12)|Fixed Slit Assembly with Circular Aperture (0.12mm Diameter)|1.00||
-|SA-FA(0.35)|Fixed Slit Assembly with Circular Aperture (0.35mm Diameter)|1.00||
-|SA-FA(1.17)|Fixed Slit Assembly with Circular Aperture (1.17mm Diameter)|1.00||
 |13068|Iris Diaphragm|1.00||
 |19175|Circlip (pack of 100)|1.00||
 |NA5155|Split ring for TGK filter wheel|1.00||

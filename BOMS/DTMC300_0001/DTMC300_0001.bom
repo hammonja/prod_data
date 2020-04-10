@@ -18,3 +18,5 @@ DTMC300_0001,TM300_F_D_MIRROR,TM300 Fixed entrance/exit Divert Mirror Kit,,16,2.
 DTMC300_0001,TM300_FILTER_DRIVE_PARTS,TM300 Filter Drive Chip Components,,17,1.00,,,,,
 DTMC300_0001,TM300_SAM-ENTRANCE,Entrance sam for TM300 or TMc300,,18,1.00,,,,,
 DTMC300_0001,TM300_SAM-EXIT,Exit sam for TM300 or TMc300,,19,1.00,,,,,
+DTMC300_0001,TM300_TURRET_SUB,TM300 Subtractive Turret,,20,1.00,,,,,
+DTMC300_0001,TM300_TURRET,Grating Turret with 8mm Shaft,,21,1.00,,,,,

@@ -8,3 +8,4 @@
 |43915|9357 fibre positioner sub plate|1.00||
 |43916|9357 FC fibre chuck plate|1.00||
 |43917|FC adaptor for 9357 fibre positioner (material Oz)|1.00||
+|50428-BM|FIBRE_POSITIONER_FC BUILD MANUAL|1.00||

@@ -31,8 +31,7 @@
 |17972|DH-50-Te cold block|1.00||
 |17973|DH-50-Te side cover|2.00||
 |17974|DH-50-Te bottom cover|1.00||
-|17975F|DH-50 connector plate|1.00||
-|17975P|DH-50 connector plate|1.00||
+|17975-P1|PAINTED DH-50-Te CONNECTOR PLATE|1.00||
 |17976|DH-50-Te front insulation piece|1.00||
 |17977|DH-50-Te rear insulation piece|1.00||
 |17978|DH-50-Te rear plate|1.00||
@@ -53,7 +52,9 @@
 |40006|Quick Change Mounting Plate Wedge|1.00||
 |40009|UV silica/ quartz window dia. 25.8/25.85mm|1.00||
 |40042|QC Adapter Fixed Plate Sealing 'O' Ring (Bag of 50)|1.00||
-|46761|Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm|1.00||
-|46781|Ø12.7mm Post Holder, Hex-Locking Thbscrew, L=50 mm|1.00||
+|47070|ThorLabs TR50/M, Ã˜12.7 x 50mm Optical Post|1.00||
+|46781|Ã˜12.7mm Post Holder, Hex-Locking Thbscrew, L=50 mm|1.00||
 |CAB17|Thin cable BNC to BNC cable, 1200mm overall length|1.00||
 |CAB3|HV-BNC to HV-BNC 1200mm long|1.00||
+|52066-BM|DH_50 - BUILD MANUAL|1.00||
+|52066-PL|DH_50 - PARTS LIST|1.00||

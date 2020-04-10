@@ -69,7 +69,7 @@
 |PMC_IMAC_CARD_TEL309|IMAC card for TEL309|1.00||
 |PMC_IMAC_CARD_TMS|IMAC card for TMS300 monochromator|1.00||
 |TM300_TURRET|Grating Turret with 8mm Shaft|1.00||
-|TMS_SLIT-DRIVE-ASSY|Slit drive assembly for TMS monochromators|1.00||
+|52043|TMS_SLIT-DRIVE-ASSY MK.2|1.00||
 |TMS_SLIT-LIMIT-ASSY|Slit limit assembly for TMS type monochromators|1.00||
 |TMS_SLIT-SHAFT-ASSY|Slit shaft assembly for TMS300 slit|1.00||
 |TMS300_SLIT|TMS300 slit assembly|2.00||

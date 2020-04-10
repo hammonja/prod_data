@@ -2,7 +2,7 @@
     {
         "description": "Fuse 5A slow blow",
         "location": "",
-        "quantity": "1.00",
+        "quantity": "2.00",
         "stockcode": "01008"
     },
     {
@@ -44,7 +44,7 @@
     {
         "description": "Connector  64 way 2 rows",
         "location": "",
-        "quantity": "1.00",
+        "quantity": "2.00",
         "stockcode": "10085"
     },
     {
@@ -56,13 +56,13 @@
     {
         "description": "26 Way IDC Socket Bump Polarised",
         "location": "",
-        "quantity": "1.00",
+        "quantity": "3.00",
         "stockcode": "10105"
     },
     {
         "description": "Connector 25 way IDC socket",
         "location": "",
-        "quantity": "1.00",
+        "quantity": "2.00",
         "stockcode": "10124"
     },
     {
@@ -72,27 +72,33 @@
         "stockcode": "10129"
     },
     {
-        "description": "25 way D plug + 3 x 20A connections",
+        "description": "25 way D socket + 3 x 20A connections",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10210"
+        "stockcode": "10211"
     },
     {
-        "description": "20A Straight plug Power 'D'",
+        "description": "Socket straight Power 'D' 20A",
         "location": "",
         "quantity": "2.00",
-        "stockcode": "10212"
+        "stockcode": "10213"
+    },
+    {
+        "description": "Tyco 4 way housing",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10220"
     },
     {
         "description": "Tyco 2 way housing",
         "location": "",
-        "quantity": "5.00",
+        "quantity": "3.00",
         "stockcode": "10221"
     },
     {
         "description": "Tyco 3 way housing",
         "location": "",
-        "quantity": "2.00",
+        "quantity": "4.00",
         "stockcode": "10296"
     },
     {
@@ -116,20 +122,20 @@
     {
         "description": "25-WAY / IEEE BLANKING PLATE",
         "location": "",
-        "quantity": "3.00",
+        "quantity": "2.00",
         "stockcode": "16066"
     },
     {
-        "description": "Mac bin rear panel",
+        "description": "SCHROFF PENTAIR 24571-738 MAC BIN REAR PANEL- NO SWITCH HOLE",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "16073"
+        "stockcode": "49052"
     },
     {
-        "description": "417 Bin USB PCB support plate",
+        "description": "USB Support Plate",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "16123"
+        "stockcode": "46533"
     },
     {
         "description": "24V fan for IDR300",
@@ -170,7 +176,7 @@
     {
         "description": "SCHROFF - 64560-074 - GUIDE RAIL, DIN, RED, 160MM",
         "location": "",
-        "quantity": "1.00",
+        "quantity": "2.00",
         "stockcode": "22011"
     },
     {
@@ -178,12 +184,6 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "22016"
-    },
-    {
-        "description": "Shroff bin card retainers",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "22018"
     },
     {
         "description": "Schroff Rail Type L-ST light, standard",
@@ -202,6 +202,12 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "46501"
+    },
+    {
+        "description": "BPC300 CONTROL UNIT BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50209-BM"
     },
     {
         "description": "TO220 insulator",
@@ -242,7 +248,7 @@
     {
         "description": "Triple Motor Microstepping Drive Card ( 3 drives )",
         "location": "",
-        "quantity": "1.00",
+        "quantity": "2.00",
         "stockcode": "PMC_IMAC_CARD_3"
     }
 ]

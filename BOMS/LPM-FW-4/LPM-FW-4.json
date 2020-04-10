@@ -8,7 +8,7 @@
     {
         "description": "Magnet for EI sphere (box of 10)",
         "location": "",
-        "quantity": "0.40",
+        "quantity": "4.00",
         "stockcode": "43663"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
         "description": "LPM-FW-4 Build Manual",
-        "location": "",
+        "location": "Issue B",
         "quantity": "1.00",
         "stockcode": "50007"
     },

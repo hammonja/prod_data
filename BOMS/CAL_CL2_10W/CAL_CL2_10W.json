@@ -1,14 +1,26 @@
 [
     {
-        "description": "Quartz Halogen Spectral Irradiance Standard",
+        "description": "Lamp Holder for 10W Lamp",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "CAL_CL2"
+        "stockcode": "13063"
+    },
+    {
+        "description": "10W/20W  adapter for CL2",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "17457"
     },
     {
         "description": "10W Grit Blasted Quartz-Halogen Lamp",
         "location": "",
         "quantity": "1.00",
         "stockcode": "17900"
+    },
+    {
+        "description": "Quartz Halogen Spectral Irradiance Standard",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAL_CL2"
     }
 ]

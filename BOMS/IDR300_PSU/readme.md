@@ -20,6 +20,6 @@
 |43338|Plate for IDR300_PSU|1.00||
 |99023|TO220 insulator|1.00||
 |99024|TO-220 Insulating Bush (pack of 10)Manual adjust stock|1.00|Trim for thickness of 05012|
-|99199|6.3mm flag receptacle,0.75-2.3 sq.mm|5.00||
+|99288|6mm Spade Terminal - Female - Crimp - Right Angle|5.00||
 |99201|6.3mm flag receptacle Insulating sleeve|5.00||
 |50071|IDR300_PSU Build Manual|1.00||

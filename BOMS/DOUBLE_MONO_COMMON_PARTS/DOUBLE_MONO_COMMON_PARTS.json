@@ -126,12 +126,6 @@
         "stockcode": "TM300_C_PSU_IMAC"
     },
     {
-        "description": "Grating Turret with 8mm Shaft",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "TM300_TURRET"
-    },
-    {
         "description": "TM300 mirror assembly with protective cover.",
         "location": "",
         "quantity": "4.00",

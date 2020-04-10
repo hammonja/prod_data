@@ -54,12 +54,6 @@
         "stockcode": "03022"
     },
     {
-        "description": "6.8V Zener diode",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "04012"
-    },
-    {
         "description": "Diode IN5401",
         "location": "D1, 2",
         "quantity": "2.00",
@@ -70,6 +64,12 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "04036"
+    },
+    {
+        "description": "dc-dc, 18-36V in,  5V @ 600mA out",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "05007"
     },
     {
         "description": "Voltage regulator LT1085CT5",
@@ -102,7 +102,7 @@
         "stockcode": "07040"
     },
     {
-        "description": "Capacitor 220uF 16V Electrolytic rad",
+        "description": "Capacitor 220uF 16V Electrolytic rad ( pack of 25)",
         "location": "C2",
         "quantity": "1.00",
         "stockcode": "08054"
@@ -121,15 +121,15 @@
     },
     {
         "description": "Capacitor 10uF, 63V",
-        "location": "C5,6",
-        "quantity": "2.00",
+        "location": "C5,6 , SCREEN",
+        "quantity": "3.00",
         "stockcode": "08081"
     },
     {
-        "description": "Capacitor 10,000uF,16V",
+        "description": "Electrolytic Capacitor, 22000 µF, +- 20%, 25 V, 35 mm",
         "location": "C3",
         "quantity": "1.00",
-        "stockcode": "08082"
+        "stockcode": "08133"
     },
     {
         "description": "Connector 8 way DIL socket",
@@ -211,15 +211,15 @@
     },
     {
         "description": "DPM for 217 (Lascar DPM 2000S)",
-        "location": "",
+        "location": "LINKS 2, 3 & 4 SHOULD BE SHORTED",
         "quantity": "1.00",
         "stockcode": "18042"
     },
     {
-        "description": "Beckman Bush",
+        "description": "BOURNS H-83P ADAPTOR, PANEL MOUNT",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "19005"
+        "stockcode": "18161"
     },
     {
         "description": "IC LM723CN",
@@ -228,9 +228,15 @@
         "stockcode": "20016"
     },
     {
-        "description": "ICL7660SCPAZ",
-        "location": "IC2",
+        "description": "Rubber feet (pack of 100)",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "99017"
+    },
+    {
+        "description": "CPS_1 BUILD MANUAL",
+        "location": "",
         "quantity": "1.00",
-        "stockcode": "21051"
+        "stockcode": "50298"
     }
 ]

@@ -16,7 +16,7 @@
 |10320|16 way cable plug|2.00||
 |10321|16 way chassis socket|1.00||
 |10333|Conduit adapter for 12 way connectors|2.00||
-|17175P|Heat sink for CPS50|1.00||
+|17175|97CN-01500-A-200 -  Heat Sink, Extruded Range - 4, Black Ano|1.00||
 |17550P|DELETED/OBSOLETED|1.00||
 |18047|Temp sensor for CPS-E-MK3|1.00||
 |18125|PWM, PID Temperature controller|1.00||

@@ -12,5 +12,6 @@
 |17508|TM300-int Power Supply plate (IMAC)|1.00||
 |18058|Transformer 60VA. 15Vac, 15Vac (was Farnell 9530436)|1.00||
 |19142|22mm capacitor clip|2.00||
-|99199|6.3mm flag receptacle,0.75-2.3 sq.mm|5.00||
+|50094|TM300_C_PSU_IMAC Build Manual|1.00||
+|99288|6mm Spade Terminal - Female - Crimp - Right Angle|5.00||
 |99201|6.3mm flag receptacle Insulating sleeve|5.00||

@@ -1,44 +1,68 @@
 [
     {
-        "description": "Connector 25 Way 'D' Plug",
+        "description": "3m USB cable",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10068"
+        "stockcode": "CAB_USB_3M"
     },
     {
-        "description": "25 Way Metal Case",
-        "location": "",
-        "quantity": "4.00",
-        "stockcode": "10082"
-    },
-    {
-        "description": "Connector 25 Way 'D' type socket",
+        "description": "Thin cable BNC to BNC cable, 120mm overall length",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10087"
+        "stockcode": "CAB12"
     },
     {
-        "description": "25 way D plug + 3 x 20A connections",
+        "description": "Thin cable BNC to BNC cable, 180mm overall length",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10210"
+        "stockcode": "CAB14"
     },
     {
-        "description": "25 way D socket + 3 x 20A connections",
+        "description": "Thin cable BNC to BNC cable, 400mm overall length",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10211"
+        "stockcode": "CAB15"
     },
     {
-        "description": "20A Straight plug Power 'D'",
+        "description": "Thin cable BNC to BNC cable, 1200mm overall length",
         "location": "",
-        "quantity": "2.00",
-        "stockcode": "10212"
+        "quantity": "1.00",
+        "stockcode": "CAB17"
     },
     {
-        "description": "Socket straight Power 'D' 20A",
+        "description": "HV-BNC to HV-BNC 320mm long",
         "location": "",
-        "quantity": "2.00",
-        "stockcode": "10213"
+        "quantity": "1.00",
+        "stockcode": "CAB20"
+    },
+    {
+        "description": "HV-BNC to HV-BNC 1200mm long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB3"
+    },
+    {
+        "description": "CAB 35 - CAB FOR BPC300 CONTROLLER TO SLAMS",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB35"
+    },
+    {
+        "description": "BPC300 ENCLOSURE-CONTROLLER CABLE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB38"
+    },
+    {
+        "description": "USB cable,  2m long",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "CAB-USB"
+    },
+    {
+        "description": "ADVENT USB 2.0 4-Port Powered Hub",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "USB_HUB"
     }
 ]

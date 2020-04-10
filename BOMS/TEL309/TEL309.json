@@ -72,10 +72,10 @@
         "stockcode": "11057"
     },
     {
-        "description": "M300 curved mirror mount",
+        "description": "Modified Mirror Mount for USB Hub in TEL309",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "11123"
+        "stockcode": "11123_M1"
     },
     {
         "description": "Unislide FF",
@@ -114,10 +114,10 @@
         "stockcode": "18111"
     },
     {
-        "description": "Rubber feet (pack of 36)",
+        "description": "Small round rubber feet (bag of 60)",
         "location": "",
         "quantity": "4.00",
-        "stockcode": "19022"
+        "stockcode": "19112"
     },
     {
         "description": "'E' clip (pack of 100)",
@@ -150,12 +150,6 @@
         "stockcode": "19503"
     },
     {
-        "description": "Polishing of disc for TEL309 (99206 paper only)",
-        "location": "Use 99206 paper and polishing kit",
-        "quantity": "1.00",
-        "stockcode": "19516"
-    },
-    {
         "description": "Machined Timing Pulley",
         "location": "Drill & tap hub M3",
         "quantity": "1.00",
@@ -186,10 +180,22 @@
         "stockcode": "30253"
     },
     {
+        "description": "TM300 turret opto spacer",
+        "location": "",
+        "quantity": "4.00",
+        "stockcode": "30303"
+    },
+    {
         "description": "Roll over turret motor",
         "location": "",
         "quantity": "1.00",
         "stockcode": "42690"
+    },
+    {
+        "description": "IDR fibre mount plate",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43366"
     },
     {
         "description": "Fibre launch lens for TEL309",
@@ -366,19 +372,13 @@
         "stockcode": "43402"
     },
     {
-        "description": "TEL309 base plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "43403"
-    },
-    {
         "description": "TEL309 app disc (please do not scrub)",
         "location": "",
         "quantity": "1.00",
         "stockcode": "43404"
     },
     {
-        "description": "Power connector stop",
+        "description": "Power Connector Stop. NO LONGER REQUIRED.",
         "location": "",
         "quantity": "1.00",
         "stockcode": "43405"
@@ -390,13 +390,19 @@
         "stockcode": "43406"
     },
     {
+        "description": "TEL309 BASE PLATE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "45688"
+    },
+    {
         "description": "TM600 Rear Baffle",
         "location": "",
         "quantity": "1.00",
         "stockcode": "60078"
     },
     {
-        "description": "CAB-USB-9IN-A-MINIB (www.claimthis.com)",
+        "description": "CAB-USB-9IN-A-MINIB",
         "location": "",
         "quantity": "2.00",
         "stockcode": "CAB_USB_MINI_9IN"
@@ -406,12 +412,6 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "CAB_USBA_MICROB"
-    },
-    {
-        "description": "UV grade fused silica fibre bundle (200-1350nm)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "FOP-UV-2-500"
     },
     {
         "description": "USB to I2C Interface Board",

@@ -24,10 +24,10 @@
         "stockcode": "10038"
     },
     {
-        "description": "Connector lamp holders",
+        "description": "6.35 Lamp Holder",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10042"
+        "stockcode": "10398"
     },
     {
         "description": "3 way chassis socket",
@@ -98,7 +98,7 @@
     {
         "description": "Spacer NP 8.0/12.7/C/M3",
         "location": "",
-        "quantity": "4.00",
+        "quantity": "8.00",
         "stockcode": "15020"
     },
     {
@@ -168,10 +168,10 @@
         "stockcode": "18061"
     },
     {
-        "description": "TLS starter",
+        "description": "Xenon Striker Isolater",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "18064"
+        "stockcode": "15149"
     },
     {
         "description": "Fan",
@@ -186,7 +186,7 @@
         "stockcode": "19011"
     },
     {
-        "description": "PLC-M3 self locking insert (Zygology Ltd)",
+        "description": "PLC-M3 self locking insert",
         "location": "",
         "quantity": "3.00",
         "stockcode": "19173"
@@ -348,10 +348,10 @@
         "stockcode": "43301_P1"
     },
     {
-        "description": "Lamp cable with shrouded at both ends (1.8m long)",
+        "description": "XE Lamp cable with shrouded at both ends (1.8m long)",
         "location": "",
         "quantity": "2.00",
-        "stockcode": "CAB6"
+        "stockcode": "CAB49"
     },
     {
         "description": "Cable for chopper and cooled detectors (1.8m long)",
@@ -372,9 +372,33 @@
         "stockcode": "CAB9"
     },
     {
-        "description": "For use with TLS starter when used with 605",
+        "description": "For use with TLS starter when used with 610",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "INVERTER_BOARD_605"
+        "stockcode": "INVERTER_BOARD_610"
+    },
+    {
+        "description": "Igniter for Xe and Hg lamps",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18052"
+    },
+    {
+        "description": "M3 x 8 Stainless Steel Socket Cap",
+        "location": "",
+        "quantity": "0.00",
+        "stockcode": "99247"
+    },
+    {
+        "description": "ILD_75E_QH COMMON PARTS  - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52064-BM"
+    },
+    {
+        "description": "ILD_75E_QH COMMON PARTS  - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52064-PL"
     }
 ]

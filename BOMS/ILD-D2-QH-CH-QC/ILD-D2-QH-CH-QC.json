@@ -24,12 +24,6 @@
         "stockcode": "11249"
     },
     {
-        "description": "Plain mirror mount washer",
-        "location": "",
-        "quantity": "3.00",
-        "stockcode": "11251"
-    },
-    {
         "description": "218 Boss",
         "location": "",
         "quantity": "1.00",
@@ -42,22 +36,10 @@
         "stockcode": "18007"
     },
     {
-        "description": "Electro-magnet for arrestable chopper (was RS 346-069)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "42540"
-    },
-    {
         "description": "ILD_75E_QH_CHOP chopper stand",
         "location": "",
         "quantity": "1.00",
         "stockcode": "43291"
-    },
-    {
-        "description": "Solenoid mount",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "43703"
     },
     {
         "description": "ILD QC Output Plate",
@@ -78,15 +60,15 @@
         "stockcode": "43875_P1"
     },
     {
-        "description": "Internal chopper arrester magnet adapter Painted",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "43876_P1"
-    },
-    {
         "description": "Dual Light Source D2 100WQH Common Parts",
         "location": "",
         "quantity": "1.00",
         "stockcode": "ILD-D2-QH_COMMON_PARTS"
+    },
+    {
+        "description": "IDR WIDE CONE MAGNET ASSEMBLY",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52014"
     }
 ]

@@ -25,3 +25,4 @@
 |SA-FSP(1.85)|Fixed Slit Assembly with Slit Plate (1.85mm width aperture)|1.00||
 |SA-FSP(3.7)|Fixed Slit Assembly with Slit Plate (3.7mm width aperture)|2.00||
 |SA-FSP(5.56)|Fixed Slit Assembly with Slit Plate (5.56mm width aperture)|1.00||
+|TM300_TURRET|Grating Turret with 8mm Shaft|2.00||

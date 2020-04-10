@@ -138,16 +138,16 @@
         "stockcode": "44392"
     },
     {
-        "description": "USB to I2C Interface Board",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "INTERFACE_USB-I2C"
-    },
-    {
         "description": "USB Support Plate",
         "location": "",
         "quantity": "1.00",
         "stockcode": "46533"
+    },
+    {
+        "description": "USB to I2C Interface Board",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "INTERFACE_USB-I2C"
     },
     {
         "description": "Loaded pcb for 217 / 217T bin. All power requirements",

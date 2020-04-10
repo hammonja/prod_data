@@ -6,4 +6,5 @@
 |09058|EOS 3mm InGaAs detector|1.00||
 |10037|Chassis BNC|1.00||
 |19613|Spacer for T05 detector in 09046|1.00||
+|50104|DH_IGA_3 Build Manual|1.00||
 |CAB17|Thin cable BNC to BNC cable, 1200mm overall length|1.00||

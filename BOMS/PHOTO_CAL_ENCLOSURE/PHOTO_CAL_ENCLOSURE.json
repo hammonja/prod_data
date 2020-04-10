@@ -1,29 +1,5 @@
 [
     {
-        "description": "Bosch 20mm x 20mm, 4 channel, 110mm long",
-        "location": "",
-        "quantity": "4.00",
-        "stockcode": "17128"
-    },
-    {
-        "description": "Bosch 20mm x 20mm, 4 channel, 160mm long",
-        "location": "",
-        "quantity": "4.00",
-        "stockcode": "17129"
-    },
-    {
-        "description": "Digital height gauge (XC258 - Chronos)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17171"
-    },
-    {
-        "description": "Ball arm for height guage in calibrator enclosure",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "17516"
-    },
-    {
         "description": "Rubber feet (pack of 36)",
         "location": "",
         "quantity": "4.00",
@@ -40,18 +16,6 @@
         "location": "",
         "quantity": "8.00",
         "stockcode": "19309"
-    },
-    {
-        "description": "Bosch 3 Way Cube Connectors (20m x 20mm)",
-        "location": "",
-        "quantity": "4.00",
-        "stockcode": "19339"
-    },
-    {
-        "description": "Bosch 20mm extrusion end cap (each)",
-        "location": "",
-        "quantity": "4.00",
-        "stockcode": "19347"
     },
     {
         "description": "Bosch M4 for 8mm profile",
@@ -78,7 +42,7 @@
         "stockcode": "42294"
     },
     {
-        "description": "Bosch 30mm, 4 channel, 540mm long",
+        "description": "Bosch 30mm, 4 channel, 540mm long, 30x30",
         "location": "",
         "quantity": "4.00",
         "stockcode": "42295"
@@ -112,5 +76,17 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "42615"
+    },
+    {
+        "description": "LUX CAL HEIGHT GUAGE ARM",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44629"
+    },
+    {
+        "description": "LUXCAL HEIGHT GAUGE BASE",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "44630"
     }
 ]

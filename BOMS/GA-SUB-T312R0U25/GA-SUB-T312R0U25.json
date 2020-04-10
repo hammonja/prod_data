@@ -1,9 +1,9 @@
 [
     {
-        "description": "Parts for Grating Assembly for TM300 and TMs300",
+        "description": "Parts for Subtractive Grating Assembly for TM300 and TMs300",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "TM300_GRATING_ASSY_PARTS"
+        "stockcode": "TM300_SUB_GRATING_ASSY_PARTS"
     },
     {
         "description": "68x84x6. 1200/250",

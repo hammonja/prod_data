@@ -16,7 +16,7 @@ EI_BENFLECT_SPHERE,43651,Edinburgh Benflect baffle (1 off  99026 per 10),,14,1.0
 EI_BENFLECT_SPHERE,43652,Edinburgh baffle pin,,15,1.00,,,,,
 EI_BENFLECT_SPHERE,43654,Edinburgh sphere handle,,16,1.00,,,,,
 EI_BENFLECT_SPHERE,43655,Edinburgh sphere filter plate,,17,1.00,,,,,
-EI_BENFLECT_SPHERE,43663,Magnet for EI sphere (box of 10),,18,0.70,,,,,
+EI_BENFLECT_SPHERE,43663,Magnet for EI sphere (box of 10),,18,7.00,,,,,
 EI_BENFLECT_SPHERE,43664,Edinburgh divert mirror,,19,1.00,,,,,
 EI_BENFLECT_SPHERE,43813,Edinburgh sphere reflectance piece (fi 20mm of 99005),,20,1.00,,,,,
 EI_BENFLECT_SPHERE,EI_SPHERE_BFLECT,Benflect sphere parts for EI sphere,,21,1.00,,,,,

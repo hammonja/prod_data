@@ -78,7 +78,7 @@
         "stockcode": "11251"
     },
     {
-        "description": "O ring. Pack of 100 (book in to make total qty delivered)",
+        "description": "O ring.( Pack of 100)",
         "location": "",
         "quantity": "2.00",
         "stockcode": "11292"
@@ -88,6 +88,30 @@
         "location": "",
         "quantity": "2.00",
         "stockcode": "11409"
+    },
+    {
+        "description": "UG5, 25mm dia. +0, -0.1mm. 3mm thick",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "UG5"
+    },
+    {
+        "description": "GG420 filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13578"
+    },
+    {
+        "description": "GG475 filter",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13579"
+    },
+    {
+        "description": "OG570, 25mm dia x 3mm (upper tolerance on diameter 25.1mm)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "13580"
     },
     {
         "description": "NP 8.0/12.7/B/M3-M, M2.5-F",
@@ -342,10 +366,10 @@
         "stockcode": "43831"
     },
     {
-        "description": "Shutter for DTMs300 (24V)",
+        "description": "PHTH ROTARY SHUTTER",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "DTMS300_SHUTTER"
+        "stockcode": "50192"
     },
     {
         "description": "Linear supply for IDR300",
@@ -354,16 +378,22 @@
         "stockcode": "IDR300_PSU"
     },
     {
+        "description": "IMAC card for Bentham TMS monochromators",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "IMAC_CARD_BENTHAM_TMS"
+    },
+    {
         "description": "USB to I2C Interface Board",
         "location": "",
         "quantity": "1.00",
         "stockcode": "INTERFACE_USB-I2C"
     },
     {
-        "description": "IMAC card for Bentham TMS monochromators",
+        "description": "Order Sorting Filter for Insertion at 400nm",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "IMAC_CARD_BENTHAM_TMS"
+        "stockcode": "OS400"
     },
     {
         "description": "68x84x6. 2400/250holog",

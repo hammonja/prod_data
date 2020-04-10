@@ -1,11 +1,5 @@
 [
     {
-        "description": "Painting of IDR300_HOUSING (Beige / Nextel)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "19438"
-    },
-    {
         "description": "DTMs300 Front L/H Outer Wall",
         "location": "",
         "quantity": "1.00",
@@ -112,5 +106,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "42826"
+    },
+    {
+        "description": "Painting of IDR300_HOUSING (Oatmeal / Nextel)",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "19438"
     }
 ]

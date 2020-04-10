@@ -46,7 +46,7 @@ TMS300_M_USB,GA-T318R0U5,Grating Assembly with 1800g/mm, 500nm Blazed Ruled Grat
 TMS300_M_USB,INTERFACE_USB-I2C,USB to I2C Interface Board,,45,1.00,,,,,
 TMS300_M_USB,PMC_IMAC_CARD_TMS,IMAC card for TMS300 monochromator,,46,1.00,,,,,
 TMS300_M_USB,TM300_TURRET,Grating Turret with 8mm Shaft,,47,1.00,,,,,
-TMS300_M_USB,TMS_SLIT-DRIVE-ASSY,Slit drive assembly for TMS monochromators,,48,1.00,,,,,
+TMS300_M_USB,52043,TMS_SLIT-DRIVE-ASSY MK.2,,48,1.00,,,,,
 TMS300_M_USB,TMS_SLIT-LIMIT-ASSY,Slit limit assembly for TMS type monochromators,,49,1.00,,,,,
 TMS300_M_USB,TMS300_HOUSING_B,TMS300 housing in Edinburgh beige / Nextel,,50,1.00,,,,,
 TMS300_M_USB,TMS300_SHUTTER,TMS300 shutter,,51,1.00,,,,,

@@ -14,3 +14,5 @@
 |TM300_MIRROR_ASSY|TM300 mirror assembly with protective cover.|2.00||
 |TM300_SAM-EXIT|Exit sam for TM300 or TMc300|1.00||
 |TMC300_COMMON_PARTS|TMC300 Common Parts|1.00||
+|30125|TM300 base cover|1.00||
+|13006|ND1 filter, UV, 25mm diameter|1.00||

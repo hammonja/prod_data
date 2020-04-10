@@ -9,8 +9,8 @@
 |19091|Dome plug 6.4mm (pack of 25)|5.00||
 |19293|Bosch 30mm Extrusion End Cap (each)|8.00||
 |19368|Bosch door handle|2.00||
-|19372|Bosch M4 for 8mm profile|36.00||
-|19439|Roof light for enclosures|1.00||
+|19372|Bosch M4 for 8mm profile|40.00||
+|46946|Roof light for enclosures (PV-XY VARIANT)|1.00||
 |19444|S8x25 self tap screw|40.00||
 |30007|TM300 grating spacer|1.00||
 |30008|TM Grating adjuster (Free issue 17254)|1.00||
@@ -65,3 +65,4 @@
 |99986|Bosch Mounting Rim Profile (2m lengths)|5.00||
 |PV_TOROID_ASSY|Toroidal mirror assembly used in PV system.|1.00||
 |PV-ACCESSORIES-CASE|Routed case for PVE300 accessories|1.00||
+|50290-BM|PVE300 ENCLOSURE FOR PV-XY BUILD MANUAL|1.00||

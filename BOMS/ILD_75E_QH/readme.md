@@ -1,7 +1,7 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
 |09101|100W qh Lamp|1.00||
-|10042|Connector lamp holders|1.00||
+|10398|6.35 Lamp Holder|1.00||
 |10095|3 way chassis socket|2.00||
 |10127|Black shrouded socket|2.00||
 |10128|Red shrouded socket|2.00||
@@ -53,7 +53,9 @@
 |43302|ILD_75E_QH_CHOP lamp plate|1.00||
 |43303|ILD_75E_QH_CHOP base plate|1.00||
 |99071|Red M4 crimp ring terminal,0.5-1.5sq.mm|4.00||
-|CAB6|Lamp cable with shrouded at both ends (1.8m long)|2.00||
+|CAB49|XE Lamp cable with shrouded at both ends (1.8m long)|2.00||
 |CAB8|Fan cable for CL6 etc (1.8m long)|1.00||
 |CAB9|Sam cable, 3 way to 3 way, 550mm long|1.00||
-|INVERTER_BOARD_605|For use with TLS starter when used with 605|1.00||
+|INVERTER_BOARD_610|For use with TLS starter when used with 610|1.00||
+|52064-BM|ILD_75E_QH COMMON PARTS  - BUILD MANUAL|1.00||
+|52064-PL|ILD_75E_QH COMMON PARTS  - PARTS LIST|1.00||

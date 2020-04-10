@@ -2,10 +2,9 @@
 |---------|-----------|--------|--------|
 |10002|Black 4mm socket|1.00||
 |10003|Red 4mm socket|1.00||
-|10042|Connector lamp holders|1.00||
+|10398|6.35 Lamp Holder|1.00||
 |10097|3 way cable socket|1.00||
 |12012|Rear lens tube - Item 2|1.00||
-|13010|Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl|1.00||
 |17004|leadscrew Item 2|1.00||
 |17005|leadscrew Item 4|2.00||
 |17019|IL1 enclosure|1.00||
@@ -20,7 +19,7 @@
 |17085|IL1 cover plate|2.00||
 |18009|IL1 fan filter|1.00||
 |18112|12V fan for CL6 etc|1.00||
-|19011|M3X10 Spacer|2.00||
+|48223|LAMP CONNECTOR HOLDER BRACKET|1.00||
 |19031_P1|Spacer Painted|8.00||
 |19046|PEM CLS-M3-2 self clinch fastener|4.00||
 |19082|8mm dome plug|1.00| |

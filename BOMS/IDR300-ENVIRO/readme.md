@@ -64,7 +64,7 @@
 |43070|IDR300 connector panel|1.00||
 |45213|Gasket for use with blanking plate 30270|2.00||
 |45214|Gasket for use with blanking plate 30472|2.00||
-|DTMS_SLIT_DRIVE|Slit drive assembly for DTMS monochromators|1.00||
+|52044|DTMS_SLIT-DRIVE-ASSY MK.2|1.00||
 |IDR_EBOX_ELECTRONICS|Signal processing electronics for IDR with EBOX monitor|1.00||
 |IDR300_HOUSING|Painted box with lid for IDR300|1.00||
 |IDR300_PSU|Linear supply for IDR300|1.00||

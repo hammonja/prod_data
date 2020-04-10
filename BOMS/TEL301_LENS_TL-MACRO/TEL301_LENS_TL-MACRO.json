@@ -28,5 +28,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "25054"
+    },
+    {
+        "description": "TEL301_LENS_TL-MACRO Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50151"
     }
 ]

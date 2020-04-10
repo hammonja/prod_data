@@ -99,5 +99,5 @@
 |46010|Teardrop Porthole Cover|2.00||
 |E2V_SPHERE_BFLECT|Benflect sphere parts for e2v|1.00||
 |E2V_SPHERE-BAFFLE|Painted baffle with legs|1.00||
-|INVERTER_BOARD_605|For use with TLS starter when used with 605|1.00||
+|INVERTER_BOARD_610|For use with TLS starter when used with 610|1.00||
 |ZZ_E2V_CAM_CABLES|Cable set for e2v light source|1.00||

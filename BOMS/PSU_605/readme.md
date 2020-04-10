@@ -33,7 +33,7 @@
 |08019|Capacitor 100nF 50V Ceramic Disc Rad 5mm|2.00||
 |08044|Capacitor 100nF polyester 63/100V|2.00|C1, C4|
 |08050|Capacitor 47uF 16V electrolytic|1.00|C6|
-|08051|Capacitor 330nF Polyester|2.00|C5|
+|08051|Capacitor 330nF Polyester|3.00|C5 , REGS x 2|
 |08052|Capacitor 10nF Polyester 10% 63/100V|2.00|C2, C3|
 |08055|Capacitor 47000uF, 40V|1.00||
 |08056|Capacitor clip|1.00||

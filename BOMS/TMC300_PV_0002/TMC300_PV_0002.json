@@ -30,9 +30,9 @@
         "stockcode": "OS700"
     },
     {
-        "description": "TMC300 Base PV monochromator",
+        "description": "PV TMC300 Standard configuration 6P FW",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "TMC300_PV_BASE"
+        "stockcode": "TMC300_PV_SF01"
     }
 ]

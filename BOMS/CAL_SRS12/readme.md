@@ -21,7 +21,7 @@
 |43116|SRS12 lamp ring|1.00||
 |43117|SRS12 lamp mount plate|1.00||
 |43118_P1|SRS12 Baffle Pillar|3.00||
-|43119|SRS12 baffle painted PHP all over|1.00||
+|43119|SRS12 baffle painted PHP all over|1.00|Pack in Bubble before  putting into kit|
 |43120|SRS12 Bosch|2.00||
 |99100|Sealing strip for integrating spheres|0.11|Do not kit|
 |CAB5|Lamp cable shrouded to bunch pin (1.8m long)|1.00||

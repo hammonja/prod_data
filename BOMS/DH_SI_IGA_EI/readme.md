@@ -6,3 +6,4 @@
 |10099|BNC barrel connector|1.00||
 |44038|Edinburgh BAM detector mount|1.00||
 |44168|BAM detector lid|1.00||
+|50109|Build Instructions for DH_SI_IGA_EI|1.00||

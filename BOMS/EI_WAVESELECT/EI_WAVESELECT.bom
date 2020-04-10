@@ -1,2 +1,2 @@
 EI_WAVESELECT,INTERFACE_USB-I2C,USB to I2C Interface Board,,0,1.00,Set to addr. 5909,,,,
-EI_WAVESELECT,PMC_IMAC_CARD,Triple Motor Microstepping Drive Card,,1,1.00,Configure as 2 turret drives,,,,
+EI_WAVESELECT,IMAC_CARD_EI_WAVESELECT,IMAC CARD FOR EI WAVESELECT,,1,1.00,Configure as 2 turret drives,,,,

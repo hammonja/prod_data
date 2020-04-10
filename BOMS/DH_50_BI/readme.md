@@ -19,9 +19,6 @@
 |10213|Socket straight Power 'D' 20A|2.00||
 |10215|Plug balck 2mm|1.00||
 |11054|M300 Small 'O' ring|2.00||
-|15025|PCB PILLAR M4 16mm|2.00||
-|15028|Spacer NP 8.0/25/C/M4|4.00||
-|17093|DH3/DH3(Bi) mu-metal shield|1.00||
 |17962|DH-50-Te fan plate|1.00||
 |17963|DH-50-Te top plate|1.00||
 |17964|DH-50-Te Fan spacer ring|1.00||
@@ -33,17 +30,18 @@
 |17972|DH-50-Te cold block|1.00||
 |17973|DH-50-Te side cover|2.00||
 |17974|DH-50-Te bottom cover|1.00||
-|17975F|DH-50 connector plate|1.00||
-|17975P|DH-50 connector plate|1.00||
+|17975-P1|PAINTED DH-50-Te CONNECTOR PLATE|1.00||
 |17976|DH-50-Te front insulation piece|1.00||
 |17977|DH-50-Te rear insulation piece|1.00||
 |17978|DH-50-Te rear plate|1.00||
 |17979|DH-50-Te insulation packing piece|1.00||
-|17980|DH-50-Te insulation block|3.00||
+|17980|DH-50-Te insulation block|2.00||
 |17981|DH-50-Te cold block insulation|2.00||
+|17980-P1|INSULATION BLOCK  WITH GROVE IN THE TOP|1.00||
 |17997|DH-50-Te temperature fuse clamp|1.00||
 |18061|92mm fan finger gaurd|1.00||
 |18080|Fan|1.00||
+|18175|Split cylindrical magnetic shield for 52 mm dia pmt - 72 mm|1.00||
 |19003|Compression Spring|1.00||
 |19006|dowel pin parallel mild steel (bag of 25)|1.00||
 |19044|Female Screw Lock Assembly 13mm Long|2.00||
@@ -55,7 +53,10 @@
 |40006|Quick Change Mounting Plate Wedge|1.00||
 |40009|UV silica/ quartz window dia. 25.8/25.85mm|1.00||
 |40042|QC Adapter Fixed Plate Sealing 'O' Ring (Bag of 50)|1.00||
-|46761|Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm|1.00||
-|46781|Ø12.7mm Post Holder, Hex-Locking Thbscrew, L=50 mm|1.00||
+|46761|Ã˜12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm|1.00||
+|46781|Ã˜12.7mm Post Holder, Hex-Locking Thbscrew, L=50 mm|1.00||
+|49201|MISUMI ROD 63mm L 8mm OD M4 TAPED B END- AETRS8-63-SC15|2.00||
+|52062-BM|DH_50_BI - BUILD MANUAL|1.00||
+|52062-PL|DH_50_BI - PARTS LIST|1.00||
 |CAB17|Thin cable BNC to BNC cable, 1200mm overall length|1.00||
 |CAB3|HV-BNC to HV-BNC 1200mm long|1.00||

@@ -78,16 +78,10 @@
         "stockcode": "43315"
     },
     {
-        "description": "All over gold plating (gold on nickel)",
+        "description": "Gold Plated Peltier Cooled VC Chuck 220x220",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "43970F"
-    },
-    {
-        "description": "Peltier cooled VC chuck 220x220 (un-plated)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "43970P"
+        "stockcode": "43970_P1"
     },
     {
         "description": "PV chuck plate (XL) painted",

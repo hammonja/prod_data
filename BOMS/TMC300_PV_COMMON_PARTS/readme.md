@@ -16,7 +16,7 @@
 |15040|Spacer NP 8.0/12.7/B/M3|2.00||
 |15065|7mm M3 spacer|4.00||
 |16122|TMc300 USB Connector Panel|1.00||
-|19024|Heyco cap 13mm (pack of 100)|1.00||
+|19024|Heyco cap 13mm (pack of 100)|1.00|IF KIT CONTAINS LEMO CONNECTOR- RESTOCK THIS ITEM. |
 |19093|Dome Plug 9.5mm (pack of 25)|1.00||
 |19236|16mm hole plug|1.00||
 |20002|PIC16F876A-I/SP|1.00||

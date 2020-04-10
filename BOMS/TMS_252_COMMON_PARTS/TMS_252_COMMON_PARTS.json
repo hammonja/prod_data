@@ -1,17 +1,5 @@
 [
     {
-        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "02262"
-    },
-    {
-        "description": "Opto switch  HOA2001-001",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "04048"
-    },
-    {
         "description": "Bearing",
         "location": "",
         "quantity": "2.00",
@@ -54,15 +42,27 @@
         "stockcode": "30240"
     },
     {
-        "description": "26 MT SPROCKET 5mm bore",
+        "description": "26 MT COG 5mm bore DIN 916 Grade 14.9 Black Zn Plated Grubs",
         "location": "",
         "quantity": "1.00",
         "stockcode": "30243F"
     },
     {
-        "description": "26 MT SPROCKET 1/4 inch bore",
+        "description": "26 MT COG 1/4  bore DIN 916 Grade 14.9 Black Zn Plated Grubs",
         "location": "",
         "quantity": "1.00",
         "stockcode": "30243F2"
+    },
+    {
+        "description": "MRS16 Resistor A/P,0.4W,1%,180R",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "02262"
+    },
+    {
+        "description": "Opto switch  OPB960T51",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "04048"
     }
 ]

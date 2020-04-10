@@ -9,3 +9,4 @@
 |46417|Dual FD43x Detector Ring|1.00||
 |CAB17|Thin cable BNC to BNC cable, 1200mm overall length|1.00||
 |CAB7|Cable for chopper and cooled detectors (1.8m long)|1.00||
+|19093|Dome Plug 9.5mm (pack of 25)|1.00||

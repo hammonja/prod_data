@@ -60,22 +60,16 @@
         "stockcode": "15020"
     },
     {
-        "description": "Small round rubber feet (bag of 60)",
+        "description": "Small round rubber feet (bag of 56)",
         "location": "",
         "quantity": "4.00",
         "stockcode": "19112"
     },
     {
-        "description": "55mm X 80mm X 120mm ABS IP65 box",
+        "description": "MODIFIED 41816 IS RELAY CONTROLLER BOX",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "41816"
-    },
-    {
-        "description": "IS RELAY CONTROLLER BOX (material 41816P)",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "44239"
+        "stockcode": "41816-P3"
     },
     {
         "description": "IS_RELAY_UNIT_CONTROLLER Build Manual",
@@ -90,9 +84,15 @@
         "stockcode": "INTERFACE_USB-I2C"
     },
     {
-        "description": "Power supply for Smokscreen colorimeter UK plug",
+        "description": "VEP08US05   AC/DC Power Supply 1 Output, 8 W, 5V , 1.6A",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "PSU_SMOKESCREEN_UK"
+        "stockcode": "18179"
+    },
+    {
+        "description": "VEP PLUG UK",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "18180"
     }
 ]

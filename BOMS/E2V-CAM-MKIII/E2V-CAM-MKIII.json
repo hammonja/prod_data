@@ -48,10 +48,10 @@
         "stockcode": "13066"
     },
     {
-        "description": "Spacer NS 06-M3",
+        "description": "Spacer nylon Hex M3X11",
         "location": "",
         "quantity": "4.00",
-        "stockcode": "15013"
+        "stockcode": "15011"
     },
     {
         "description": "Fan guard - 1",
@@ -204,9 +204,9 @@
         "stockcode": "E2V-TAOSII-75MM-SPHERE"
     },
     {
-        "description": "For use with TLS starter when used with 605",
+        "description": "For use with TLS starter when used with 610",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "INVERTER_BOARD_605"
+        "stockcode": "INVERTER_BOARD_610"
     }
 ]

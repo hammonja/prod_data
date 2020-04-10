@@ -4,7 +4,7 @@
 |08019|Capacitor 100nF 50V Ceramic Disc Rad 5mm|3.00||
 |09101|100W qh Lamp|1.00||
 |10038|Amphenol  5-way socket|1.00||
-|10042|Connector lamp holders|1.00||
+|10398|6.35 Lamp Holder|1.00||
 |10095|3 way chassis socket|2.00||
 |10127|Black shrouded socket|2.00||
 |10128|Red shrouded socket|2.00||
@@ -16,7 +16,7 @@
 |11260|M3 Ball ended grub screw (99254 free issued)|3.00||
 |12012|Rear lens tube - Item 2|1.00||
 |13010|Lens bcx quartz 25mm dia (+0, -0.1) x 25mm fl|1.00||
-|15020|Spacer NP 8.0/12.7/C/M3|4.00||
+|15020|Spacer NP 8.0/12.7/C/M3|8.00||
 |15021|Spacer NP 8.0/25/C/M3|1.00||
 |17002|218 Boss|1.00||
 |17021|IL1 Lens tube|1.00||
@@ -28,10 +28,10 @@
 |17673|EXLS Z Adjuster Plate|1.00||
 |18007|Motor with end cap and 150mm long leads|1.00||
 |18061|92mm fan finger gaurd|2.00||
-|18064|TLS starter|1.00||
+|15149|Xenon Striker Isolater|1.00||
 |18080|Fan|1.00||
 |19011|M3X10 Spacer|2.00||
-|19173|PLC-M3 self locking insert (Zygology Ltd)|3.00||
+|19173|PLC-M3 self locking insert|3.00||
 |19175|Circlip (pack of 100)|1.00||
 |19305|Hole Inserts (Rivet 4-4.1mm Dia)|4.00||
 |19345|FSM150Xe adjuster spring|2.00||
@@ -58,8 +58,12 @@
 |43303|ILD_75E_QH_CHOP base plate|1.00||
 |43432_P1|20 slot chopping disc in 1mm CR4 Painted|1.00||
 |43301_P1|ILD-75E-QH Connector Plate|1.00||
-|CAB6|Lamp cable with shrouded at both ends (1.8m long)|2.00||
+|CAB49|XE Lamp cable with shrouded at both ends (1.8m long)|2.00||
 |CAB7|Cable for chopper and cooled detectors (1.8m long)|1.00||
 |CAB8|Fan cable for CL6 etc (1.8m long)|1.00||
 |CAB9|Sam cable, 3 way to 3 way, 550mm long|1.00||
-|INVERTER_BOARD_605|For use with TLS starter when used with 605|1.00||
+|INVERTER_BOARD_610|For use with TLS starter when used with 610|1.00||
+|18052|Igniter for Xe and Hg lamps|1.00||
+|99247|M3 x 8 Stainless Steel Socket Cap|0.00||
+|52064-BM|ILD_75E_QH COMMON PARTS  - BUILD MANUAL|1.00||
+|52064-PL|ILD_75E_QH COMMON PARTS  - PARTS LIST|1.00||

@@ -6,9 +6,9 @@
         "stockcode": "PR300_COMMON_PARTS"
     },
     {
-        "description": "Accent Motorised Slit",
+        "description": "Externally Tested Toho ( accent ) MVSS",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "SLIT_MVSS_ACCENT"
+        "stockcode": "SLIT_MVSS_ACCENT_TESTED"
     }
 ]

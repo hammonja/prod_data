@@ -30,6 +30,12 @@
         "stockcode": "30283"
     },
     {
+        "description": "TM300 turret opto spacer",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "30303"
+    },
+    {
         "description": "TM300_TURRET_MOTOR-PLATE Build Manual",
         "location": "",
         "quantity": "1.00",

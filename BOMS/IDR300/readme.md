@@ -32,8 +32,8 @@
 |43060|IDR 487 support pillar|6.00||
 |43070|IDR300 connector panel|1.00||
 |45214|Gasket for use with blanking plate 30472|2.00||
-|DTMS_SLIT_DRIVE|Slit drive assembly for DTMS monochromators|1.00||
-|IDR_ELECTRONICS|Signal processing electronics for IDR|1.00||
+|52044|DTMS_SLIT-DRIVE-ASSY MK.2|1.00||
+|IDR_ELECTRONICS_0003|IDR ELECTRONICS ASSEMBLY 3 BOARD DESIGN|1.00||
 |IDR300_HOUSING|Painted box with lid for IDR300|1.00||
 |IDR300_PSU|Linear supply for IDR300|1.00||
 |IMAC4_CARD|Four drive IMAC card|1.00||

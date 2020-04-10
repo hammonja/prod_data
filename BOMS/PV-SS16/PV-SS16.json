@@ -12,12 +12,6 @@
         "stockcode": "19345"
     },
     {
-        "description": "Painting of 44318, semi gloss black",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "19695"
-    },
-    {
         "description": "PV Subtrate clamp pin",
         "location": "",
         "quantity": "1.00",
@@ -36,10 +30,10 @@
         "stockcode": "44308"
     },
     {
-        "description": "165 x 165 PV Substrate chuck top plate",
+        "description": "PAINTING OPPERATION TO PRODUCE 44318",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "44318"
+        "stockcode": "44318-P1"
     },
     {
         "description": "165x165 PV Substrate chuck side",

@@ -112,5 +112,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "SA-FSP(8.00)"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET"
     }
 ]

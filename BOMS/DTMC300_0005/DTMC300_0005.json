@@ -124,5 +124,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "TM300_SAM-EXIT"
+    },
+    {
+        "description": "Grating Turret with 8mm Shaft",
+        "location": "",
+        "quantity": "2.00",
+        "stockcode": "TM300_TURRET"
     }
 ]

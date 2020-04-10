@@ -6,10 +6,10 @@
         "stockcode": "09101"
     },
     {
-        "description": "Connector lamp holders",
+        "description": "6.35 Lamp Holder",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10042"
+        "stockcode": "10398"
     },
     {
         "description": "3 way chassis socket",
@@ -318,10 +318,10 @@
         "stockcode": "99071"
     },
     {
-        "description": "Lamp cable with shrouded at both ends (1.8m long)",
+        "description": "XE Lamp cable with shrouded at both ends (1.8m long)",
         "location": "",
         "quantity": "2.00",
-        "stockcode": "CAB6"
+        "stockcode": "CAB49"
     },
     {
         "description": "Fan cable for CL6 etc (1.8m long)",
@@ -336,9 +336,21 @@
         "stockcode": "CAB9"
     },
     {
-        "description": "For use with TLS starter when used with 605",
+        "description": "For use with TLS starter when used with 610",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "INVERTER_BOARD_605"
+        "stockcode": "INVERTER_BOARD_610"
+    },
+    {
+        "description": "ILD_75E_QH COMMON PARTS  - BUILD MANUAL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52064-BM"
+    },
+    {
+        "description": "ILD_75E_QH COMMON PARTS  - PARTS LIST",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "52064-PL"
     }
 ]

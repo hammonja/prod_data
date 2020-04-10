@@ -1,21 +1,15 @@
 [
     {
-        "description": "Temperature Sens AD590KH",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "09056"
-    },
-    {
         "description": "Purge port pipe connector",
         "location": " ",
         "quantity": "2.00",
         "stockcode": "10119"
     },
     {
-        "description": "4 way, chassis mount plug",
+        "description": "Vacuum chuck vacuum nozzle",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "10240"
+        "stockcode": "10286_M1"
     },
     {
         "description": "Binding post",
@@ -30,10 +24,10 @@
         "stockcode": "19566"
     },
     {
-        "description": "Vacuum chuck vacuum nozzle",
+        "description": "O ring for vacuum chuck connector (pack of 200)",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "42704"
+        "stockcode": "19690"
     },
     {
         "description": "PV chuck pillar",
@@ -72,10 +66,10 @@
         "stockcode": "43315"
     },
     {
-        "description": "PV DH-Si cup",
+        "description": "5 Way Panel Mount Receptacle",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "43327"
+        "stockcode": "45637"
     },
     {
         "description": "PV XY Stage Chuck Pillar",
@@ -84,15 +78,33 @@
         "stockcode": "46111"
     },
     {
-        "description": "M3 Belleville Washer",
-        "location": "",
-        "quantity": "10.00",
-        "stockcode": "99274"
-    },
-    {
         "description": "PV vacuum chuck, 20x20cm, temperature controlled",
         "location": "",
         "quantity": "1.00",
         "stockcode": "46411_P1"
+    },
+    {
+        "description": "PV DH-Si cup",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "43327"
+    },
+    {
+        "description": "PV-VC20T_MK2 Build Manual",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50123"
+    },
+    {
+        "description": "PV-VC20T TEMPERATURE SENSOR",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "50182"
+    },
+    {
+        "description": "M3 Belleville Washer",
+        "location": "",
+        "quantity": "10.00",
+        "stockcode": "99274"
     }
 ]

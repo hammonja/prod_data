@@ -1,11 +1,12 @@
 |stockcode|description|quantity|location|
 |---------|-----------|--------|--------|
-|10095|3 way chassis socket|2.00||
+|10095|3 way chassis socket|1.00||
+|10097|3 way cable socket|1.00||
 |10127|Black shrouded socket|1.00||
 |10128|Red shrouded socket|1.00||
 |11250|M4 Ball ended grub screw ( free issue 99022)|1.00||
 |11260|M3 Ball ended grub screw (99254 free issued)|3.00||
-|11280|Gatan spring|2.00||
+|19345|FSM150Xe adjuster spring|2.00||
 |13936|AM 1.5 filter (quote 1006402001-1)|1.00||
 |15021|Spacer NP 8.0/25/C/M3|1.00||
 |15065|7mm M3 spacer|4.00||
@@ -17,10 +18,10 @@
 |17409|Dowel 5mm x 35mm (99902, 1.5 lengths per 20)|2.00||
 |17673|EXLS Z Adjuster Plate|1.00||
 |18061|92mm fan finger gaurd|2.00||
-|18064|TLS starter|1.00||
+|18052|Igniter for Xe and Hg lamps|1.00||
 |18080|Fan|1.00||
 |19124|Elipsoidal reflector with AlMgF2|1.00||
-|19173|PLC-M3 self locking insert (Zygology Ltd)|3.00||
+|19173|PLC-M3 self locking insert|3.00||
 |19305|Hole Inserts (Rivet 4-4.1mm Dia)|4.00||
 |19482|Mill flat on solenoid shaft|1.00||
 |19589|Hamamatsu Xe lamp|1.00||
@@ -46,4 +47,8 @@
 |43934|PV bias xe source pillar|2.00||
 |CAB11|Lamp cable with shrouded at both ends (3m long)|1.00||
 |CAB8|Fan cable for CL6 etc (1.8m long)|1.00||
-|INVERTER_BOARD_605|For use with TLS starter when used with 605|1.00||
+|INVERTER_BOARD_610|For use with TLS starter when used with 610|1.00||
+|15020|Spacer NP 8.0/12.7/C/M3|4.00||
+|15149|Xenon Striker Isolater|1.00||
+|99247|M3 x 8 Stainless Steel Socket Cap|0.00||
+|19539|Ferrite for TGK monochromator|1.00||

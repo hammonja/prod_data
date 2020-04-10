@@ -1,11 +1,5 @@
 [
     {
-        "description": "Fuse 630mA (T)",
-        "location": "",
-        "quantity": "2.00",
-        "stockcode": "01009"
-    },
-    {
         "description": "Pot 20K 2W .25",
         "location": "",
         "quantity": "1.00",
@@ -22,6 +16,12 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "05002"
+    },
+    {
+        "description": "XP POWER - IL2405S - DC/DC CONVERTER, 2W 5V",
+        "location": "DC1 FIT TO PCB",
+        "quantity": "1.00",
+        "stockcode": "05014"
     },
     {
         "description": "Button for push switch",
@@ -48,10 +48,10 @@
         "stockcode": "07018"
     },
     {
-        "description": "Gold contact sub-miniature",
+        "description": "SPNO pins for pcb",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "07026"
+        "stockcode": "07006"
     },
     {
         "description": "Rocker switch",
@@ -84,12 +84,6 @@
         "stockcode": "10037"
     },
     {
-        "description": "IEC fused mains inlet",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "10043"
-    },
-    {
         "description": "Tyco 2 way housing",
         "location": "",
         "quantity": "1.00",
@@ -108,22 +102,10 @@
         "stockcode": "15065"
     },
     {
-        "description": "LCD Screen Modified to Fit",
+        "description": "2X16 WHITE ON BLUE LCD (was Farnell 9449051)",
         "location": "",
         "quantity": "1.00",
-        "stockcode": "18020_M1"
-    },
-    {
-        "description": "XP power 100~200Vac 24Vdc 2.5A",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "18134"
-    },
-    {
-        "description": "TM300 turret opto spacer",
-        "location": "",
-        "quantity": "4.00",
-        "stockcode": "30303"
+        "stockcode": "18020"
     },
     {
         "description": "DTMs300 USB PCB Pillars (fi 15100)",
@@ -138,12 +120,6 @@
         "stockcode": "44348"
     },
     {
-        "description": "418F Front Panel",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "44349"
-    },
-    {
         "description": "418 Base Plate",
         "location": "",
         "quantity": "1.00",
@@ -154,12 +130,6 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "44351"
-    },
-    {
-        "description": "418F PSU Plate",
-        "location": "",
-        "quantity": "1.00",
-        "stockcode": "44352"
     },
     {
         "description": "S400_418_F Build Manual",
@@ -184,5 +154,11 @@
         "location": "",
         "quantity": "1.00",
         "stockcode": "S400_418_BOARD"
+    },
+    {
+        "description": "CONN JACK 2.5X5.5MM VERT PWR PNL",
+        "location": "",
+        "quantity": "1.00",
+        "stockcode": "10312"
     }
 ]

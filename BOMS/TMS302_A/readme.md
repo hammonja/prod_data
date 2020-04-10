@@ -28,8 +28,8 @@
 |19699|M300 Curved Mirror.  AL coating (350-600nm)|2.00||
 |30033|Plain mirror 29 x 44 x 3mm thk.  UV-AL (send ULO a drawing)|1.00||
 |30038_P1|Accent Sam Mirror Mount|1.00||
-|30043|GDAY 035 X20 B21 (24V)|1.00||
 |30039|SAM2 mirror cover|1.00||
+|30043|GDAY 035 X20 B21 (24V)|1.00||
 |30053|Opto disc with paddle|1.00||
 |30118|Stepper motor.  Call-off.  Monthly drops of 70|1.00||
 |30232|TMs300 dummy slit bracket|1.00||
@@ -70,7 +70,7 @@
 |OS400|Order Sorting Filter for Insertion at 400nm|1.00||
 |OS680|Order Sorting Filter for Insertion at 680nm|1.00||
 |TM300_TURRET|Grating Turret with 8mm Shaft|1.00||
-|TMS_SLIT-DRIVE-ASSY|Slit drive assembly for TMS monochromators|1.00||
+|52043|TMS_SLIT-DRIVE-ASSY MK.2|1.00||
 |TMS_SLIT-LIMIT-ASSY|Slit limit assembly for TMS type monochromators|1.00||
 |TMS_SLIT-SHAFT-ASSY|Slit shaft assembly for TMS300 slit|1.00||
 |TMS300_SHUTTER|TMS300 shutter|1.00||
