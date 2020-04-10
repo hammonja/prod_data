@@ -20,7 +20,6 @@
 |50402|ELECTRONICS DOUBLE MONO A1, D2|1.00||
 |16122|TMc300 USB Connector Panel|1.00||
 |45877|TMC300 POWER PANEL|1.00||
-|17390|Connector port cover (blanking plate)|1.00||
 |30113|TM300 entrance baffle|2.00||
 |45197|PV mono exit baffle|1.00||
 |30112|TM300 Exit Baffle|1.00||
