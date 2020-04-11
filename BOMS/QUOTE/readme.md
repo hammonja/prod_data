@@ -14,8 +14,6 @@
 |30139|TM252 cover|1.00||
 |19093|Dome Plug 9.5mm (pack of 25)|1.00||
 |30123-P69|PAINTED CASTING 30123-P68|2.00||
-|30130|TM300 Lid Gaskets #125|2.00||
-|30111|TM300/2 baseplate cover|2.00||
 |19024|Heyco cap 13mm (pack of 100)|2.00||
 |50402|ELECTRONICS DOUBLE MONO A1, D2|1.00||
 |16122|TMc300 USB Connector Panel|1.00||
